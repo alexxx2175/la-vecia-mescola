@@ -1,0 +1,74 @@
+{
+  "antipasti": [
+    { "name_it": "Il Tris", "name_en": "Tris", "price": 12.50, "desc_it": "Polenta con soppressa, gorgonzola e funghi", "desc_en": "Polenta with salame, gorgonzola and mushrooms", "allergens": [7, 12] },
+    { "name_it": "Millefoglie", "name_en": "Millefeuille", "price": 13.50, "desc_it": "Melanzane, basilico, scamorza affumicata", "desc_en": "Aubergine, basil, smoked scamorza", "allergens": [6, 7, 9] },
+    { "name_it": "Crudo", "name_en": "Raw", "price": 14.50, "desc_it": "Morgante di Montagnana con bufala", "desc_en": "Morgante di Montagnana with buffalo mozzarella", "allergens": [7] },
+    { "name_it": "Carpaccio", "name_en": "Carpaccio", "price": 14.50, "desc_it": "Manzo Cipriani Angus", "desc_en": "Cipriani beef Angus", "allergens": [3, 6, 7, 10] },
+    { "name_it": "Tartare", "name_en": "Tartare", "price": 15.50, "desc_it": "Manzo Angus", "desc_en": "Angus beef", "allergens": [3, 7, 10] },
+    { "name_it": "Burrata", "name_en": "Burrata", "price": 15.50, "desc_it": "Cipolla rossa Tropea caramellata, petto d'oca affumicato", "desc_en": "Caramelized Tropea red onion, smoked goose breast", "allergens": [1, 7, 12] },
+    { "name_it": "Sformatino", "name_en": "Flan", "price": 15.50, "desc_it": "Formaggio, radicchio, fonduta Monte Veronese, culatello di Zibello", "desc_en": "Cheese, radicchio, Monte Veronese fondue, culatello di Zibello", "allergens": [1, 3, 7] },
+    { "name_it": "Gnocchi di ricotta", "name_en": "Ricotta gnocchi", "price": 16.00, "desc_it": "Al tartufo", "desc_en": "With truffles", "allergens": [1, 7, 12] },
+    { "name_it": "Vitello", "name_en": "Veal", "price": 15.00, "desc_it": "Tonnato, sedano, pistacchio croccante", "desc_en": "Tuna sauce, celery, crunchy pistachio", "allergens": [3, 4, 6, 8, 9] },
+    { "name_it": "Polipo", "name_en": "Octopus", "price": 15.50, "desc_it": "Insalata su letto di patate con verdurine", "desc_en": "Salad on potato bed with vegetables", "allergens": [1, 4, 6, 9, 10] },
+    { "name_it": "Il Mare", "name_en": "Sea", "price": 16.00, "desc_it": "Cocktail di mare su crema di burrata, erbe e lime", "desc_en": "Sea cocktail on burrata cream with herbs and lime", "allergens": [2, 4, 7, 14] }
+  ],
+  "primi": [
+    { "name_it": "Gnocchi", "name_en": "Gnocchi", "price": 15.50, "desc_it": "Pomodoro, burrata, ricotta affumicata", "desc_en": "Tomato, burrata, smoked ricotta", "allergens": [1, 3, 6, 7, 9] },
+    { "name_it": "Lasagne", "name_en": "Lasagna", "price": 15.00, "desc_it": "Ragù", "desc_en": "Meat sauce", "allergens": [1, 3, 6, 7, 9] },
+    { "name_it": "Bigoli", "name_en": "Bigoli", "price": 16.00, "desc_it": "Ragù d'asino", "desc_en": "Donkey ragù", "allergens": [1, 3, 6, 7, 9] },
+    { "name_it": "Pappardelle", "name_en": "Pappardelle", "price": 16.00, "desc_it": "Pastissada di cavallo", "desc_en": "Horse pastissada", "allergens": [1, 3, 6, 7, 9] },
+    { "name_it": "Cacio e Pepe", "name_en": "Cheese & Pepper", "price": 16.00, "desc_it": "Bigoli con sfilacci di cavallo", "desc_en": "Bigoli with horse shreds", "allergens": [1, 3, 7, 12] },
+    { "name_it": "Caramelle di pasta fresca", "name_en": "Stuffed pasta", "price": 16.00, "desc_it": "Ricotta, radicchio, gorgonzola, miele, noci", "desc_en": "Ricotta, radicchio, gorgonzola, honey, nuts", "allergens": [1, 3, 7, 8] },
+    { "name_it": "Fettuccine al Tartufo", "name_en": "Fettuccine with truffle", "price": 18.00, "desc_it": "Cialda di parmigiano, scaglie di Bastardo", "desc_en": "Parmesan wafer, Bastardo cheese flakes", "allergens": [1, 3, 7, 12] },
+    { "name_it": "Risotto all'Amarone", "name_en": "Amarone risotto", "price": 18.00, "desc_it": "Radicchio, fonduta veneta", "desc_en": "Radicchio, Venetian fondue", "allergens": [6, 7, 12], "note": "min. 2 persone" },
+    { "name_it": "Fusilli al Salmone", "name_en": "Fusilli with salmon", "price": 16.50, "desc_it": "Salmone affumicato, porcini, pistacchio tostato", "desc_en": "Smoked salmon, porcini, toasted pistachio", "allergens": [1, 3, 4, 7, 8] },
+    { "name_it": "Tagliolini al Nero di Seppia", "name_en": "Squid ink tagliolini", "price": 18.50, "desc_it": "Vongole, pomodorini cirietto", "desc_en": "Clams, cirietto cherry tomatoes", "allergens": [1, 3, 7, 14] },
+    { "name_it": "Tagliolini ai Gamberi", "name_en": "Prawn tagliolini", "price": 17.50, "desc_it": "Code di gamberi, porri, broccoli, lime", "desc_en": "Prawn tails, leeks, broccoli, lime", "allergens": [1, 2, 3, 7] }
+  ],
+  "secondi": [
+    { "name_it": "Brasato", "name_en": "Beef braised", "price": 24.00, "desc_it": "Manzo all'Amarone con purè e polenta", "desc_en": "Beef in Amarone with mash and polenta", "allergens": [1, 6, 7, 12] },
+    { "name_it": "Fegato", "name_en": "Venetian liver", "price": 24.00, "desc_it": "Vitello alla veneziana con polenta", "desc_en": "Calf liver Venetian style with polenta", "allergens": [6, 7, 12] },
+    { "name_it": "Pastissada", "name_en": "Pastissada", "price": 24.00, "desc_it": "Cavallo con polenta e purè", "desc_en": "Horse with polenta and mash", "allergens": [6, 7, 9, 12] },
+    { "name_it": "Guancialino", "name_en": "Pork cheek", "price": 25.00, "desc_it": "Maialino brasato nel Soave, funghi, olive taggiasche", "desc_en": "Pork cheek braised in Soave, mushrooms, Taggiasca olives", "allergens": [1, 6, 7, 9, 12] },
+    { "name_it": "Filetto", "name_en": "Medallions", "price": 25.50, "desc_it": "Maialino avvolto nel bacon, pepe verde", "desc_en": "Piglet wrapped in bacon, green pepper", "allergens": [6, 7, 10] },
+    { "name_it": "Tagliata", "name_en": "Beef slices", "price": 28.00, "desc_it": "Filetto Nuova Zelanda con rucola, grana, aceto balsamico", "desc_en": "New Zealand fillet with rocket, parmesan, balsamic", "allergens": [1, 7, 12] },
+    { "name_it": "Chateaubriand", "name_en": "Chateaubriand", "price": 75.00, "desc_it": "Al pepe rosa 500g", "desc_en": "With pink pepper 500g", "allergens": [6, 7, 10], "note": "per 2 persone" },
+    { "name_it": "Frittura", "name_en": "Fried", "price": 29.00, "desc_it": "Code di gambero e gamberoni", "desc_en": "Shrimp and prawn tails", "allergens": [1, 2] },
+    { "name_it": "Baccalà", "name_en": "Baccalà", "price": 27.50, "desc_it": "Mantecato alla vicentina con polenta", "desc_en": "Vicentina-style creamed with polenta", "allergens": [4, 7] },
+    { "name_it": "Seppie", "name_en": "Cuttlefish", "price": 27.50, "desc_it": "Gratinate con erbe e code di gambero", "desc_en": "Au gratin with herbs and prawn tails", "allergens": [1, 2, 4] }
+  ],
+  "contorni": [
+    { "name_it": "Patate al forno", "name_en": "Baked potatoes", "price": 8.50, "desc_it": "Patate al forno", "desc_en": "Baked potatoes", "allergens": [] },
+    { "name_it": "Verdure miste cotte", "name_en": "Mixed cooked vegetables", "price": 8.50, "desc_it": "Verdure miste cotte", "desc_en": "Mixed cooked vegetables", "allergens": [] },
+    { "name_it": "Insalata mista", "name_en": "Mixed salad", "price": 8.00, "desc_it": "Verde, pomodori, rucola, carote", "desc_en": "Green, tomatoes, rocket, carrots", "allergens": [] },
+    { "name_it": "Formaggi", "name_en": "Cheese", "price": 18.50, "desc_it": "Misto con mostarda veneta", "desc_en": "Selection with Venetian mustard", "allergens": [7, 10] }
+  ],
+  "dolci": [
+    { "name_it": "Tiramisù classico", "name_en": "Classic tiramisù", "price": 8.50, "desc_it": "Tiramisù classico della casa", "desc_en": "Classic house tiramisù", "allergens": [1, 3, 7] },
+    { "name_it": "Tiramisù all'amaretto", "name_en": "Amaretto tiramisù", "price": 8.50, "desc_it": "Tiramisù all'amaretto", "desc_en": "Amaretto tiramisù", "allergens": [1, 3, 7] },
+    { "name_it": "Crema catalana", "name_en": "Crème catalan", "price": 8.50, "desc_it": "Crema catalana", "desc_en": "Crème catalan", "allergens": [1, 3, 7] },
+    { "name_it": "Cheesecake", "name_en": "Cheesecake", "price": 8.50, "desc_it": "Frutti di bosco o cioccolato fondente", "desc_en": "Berries or dark chocolate", "allergens": [1, 7] },
+    { "name_it": "Torta della casa", "name_en": "House cake", "price": 8.50, "desc_it": "Torta della casa", "desc_en": "House cake", "allergens": [1, 3, 7], "ask_waiter": true },
+    { "name_it": "Semifreddo della settimana", "name_en": "Semifreddo of the week", "price": 8.50, "desc_it": "Semifreddo della settimana", "desc_en": "Semifreddo of the week", "allergens": [7, 8], "ask_waiter": true },
+    { "name_it": "Tortino di cioccolato", "name_en": "Chocolate lava cake", "price": 8.50, "desc_it": "Tortino di cioccolato fondente", "desc_en": "Dark chocolate lava cake", "allergens": [1, 3, 7] },
+    { "name_it": "Sbrisolona con crema", "name_en": "Sbrisolona with cream", "price": 8.50, "desc_it": "Sbrisolona con crema", "desc_en": "Sbrisolona with cream", "allergens": [1, 3, 5, 7] },
+    { "name_it": "Salame al cioccolato", "name_en": "Chocolate salami", "price": 8.50, "desc_it": "Salame al cioccolato con crema", "desc_en": "Chocolate salami with cream", "allergens": [1, 3, 7, 8] },
+    { "name_it": "Pera cotta nel Recioto", "name_en": "Pear in Recioto", "price": 8.50, "desc_it": "Pera cotta nel vino Recioto con crema", "desc_en": "Pear cooked in Recioto wine with cream", "allergens": [3, 7, 12] },
+    { "name_it": "Ananas", "name_en": "Pineapple", "price": 7.50, "desc_it": "Ananas fresco", "desc_en": "Fresh pineapple", "allergens": [] },
+    { "name_it": "Sorbetto", "name_en": "Sorbet", "price": 6.50, "desc_it": "Sorbetto della casa", "desc_en": "House sorbet", "allergens": [3], "ask_waiter": true }
+  ],
+  "bevande": [
+    { "name_it": "Bibite", "name_en": "Drinks", "price": 5.00, "desc_it": "Bibite in lattina o bottiglia", "desc_en": "Canned or bottled drinks", "allergens": [] },
+    { "name_it": "Acqua naturale", "name_en": "Still water", "price": 3.00, "desc_it": "Acqua minerale naturale", "desc_en": "Still mineral water", "allergens": [] },
+    { "name_it": "Acqua frizzante", "name_en": "Sparkling water", "price": 3.00, "desc_it": "Acqua minerale frizzante", "desc_en": "Sparkling mineral water", "allergens": [] },
+    { "name_it": "Tè freddo", "name_en": "Iced tea", "price": 3.00, "desc_it": "Tè freddo", "desc_en": "Iced tea", "allergens": [] },
+    { "name_it": "Birra Messina", "name_en": "Messina beer", "price": 7.00, "desc_it": "Birra Messina cristalli di sale", "desc_en": "Messina beer with salt crystals", "allergens": [] },
+    { "name_it": "Amari", "name_en": "Digestives", "price": 5.00, "desc_it": "Selezione di amari italiani", "desc_en": "Selection of Italian digestives", "allergens": [] },
+    { "name_it": "Caffè", "name_en": "Coffee", "price": 2.50, "desc_it": "Caffè espresso", "desc_en": "Espresso coffee", "allergens": [] },
+    { "name_it": "Caffè corretto", "name_en": "Caffè corretto", "price": 3.00, "desc_it": "Caffè corretto con grappa o sambuca", "desc_en": "Coffee with grappa or sambuca", "allergens": [] },
+    { "name_it": "Caffè d'orzo", "name_en": "Barley coffee", "price": 3.50, "desc_it": "Caffè d'orzo", "desc_en": "Barley coffee", "allergens": [] },
+    { "name_it": "Ginseng", "name_en": "Ginseng", "price": 3.50, "desc_it": "Caffè al ginseng", "desc_en": "Ginseng coffee", "allergens": [] },
+    { "name_it": "Cappuccino", "name_en": "Cappuccino", "price": 3.50, "desc_it": "Cappuccino", "desc_en": "Cappuccino", "allergens": [] },
+    { "name_it": "Coperto", "name_en": "Service", "price": 5.00, "desc_it": "Coperto per persona", "desc_en": "Cover charge per person", "allergens": [] }
+  ]
+}
