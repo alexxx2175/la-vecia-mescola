@@ -191,16 +191,6 @@ export function ArenaEventsClient() {
             className="object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-[#EBD9D4]" />
-          <div className="absolute inset-0 flex items-end">
-            <div className="mx-auto w-full max-w-7xl px-6 pb-10 lg:px-8">
-              <p className="text-xs font-semibold uppercase tracking-[0.3em] text-[#EBD9D4]/85">
-                Eventi • Opera • Concerti
-              </p>
-              <h1 className="mt-3 font-viva text-5xl font-semibold leading-tight text-[#EBD9D4] sm:text-6xl">
-                EVENTI A VERONA
-              </h1>
-            </div>
-          </div>
         </div>
       </section>
 
