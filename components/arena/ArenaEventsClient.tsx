@@ -188,7 +188,9 @@ export function ArenaEventsClient() {
             alt="Arena di Verona di notte"
             fill
             priority
-            className="object-cover"
+            quality={100}
+            sizes="100vw"
+            className="object-cover contrast-110 saturate-110"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-[#EBD9D4]" />
         </div>
