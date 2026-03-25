@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { Menu, X, Phone } from "lucide-react";
 import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
@@ -20,6 +21,8 @@ const NAV_LINKS = [
 export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
+  const pathname = usePathname();
+  const forceScrolled = pathname === "/arena";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -45,14 +48,14 @@ export function Navbar() {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-          scrolled
+          scrolled || forceScrolled
             ? "bg-[#EBD9D4]/95 backdrop-blur-md shadow-lg border-b border-[#2C2420]/5"
             : "bg-transparent"
         }`}
       >
         <nav className="mx-auto flex max-w-screen-2xl items-center justify-between px-4 py-3 lg:px-6">
           <Logo
-            variant={scrolled ? "dark" : "light"}
+            variant={scrolled || forceScrolled ? "dark" : "light"}
             className="text-xl leading-tight sm:text-2xl lg:text-[1.5rem]"
             asLink
           />
@@ -64,12 +67,12 @@ export function Navbar() {
                 key={link.href}
                 href={link.href}
                 className={`group relative px-2 py-2 text-[11px] font-medium uppercase tracking-[0.25em] transition-all duration-300 lg:text-xs lg:tracking-[0.3em] ${
-                  scrolled
+                  scrolled || forceScrolled
                     ? "text-[#2C2420]/90 hover:text-[#B8962E]"
                     : "text-white/90 hover:text-white"
                 }`}
               >
-                <span className={scrolled ? "text-[#B8962E]" : "text-[#B8962E]/90"}>{link.num}</span>
+                <span className={scrolled || forceScrolled ? "text-[#B8962E]" : "text-[#B8962E]/90"}>{link.num}</span>
                 <span className="transition-transform duration-300 group-hover:translate-x-0.5">
                   {link.label}
                 </span>
@@ -86,7 +89,7 @@ export function Navbar() {
               }}
               transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
               className={`ml-2 inline-flex min-h-[40px] items-center gap-2 rounded px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.2em] transition-colors lg:min-h-[44px] lg:px-5 ${
-                scrolled
+                scrolled || forceScrolled
                   ? "bg-[#2C2420] text-[#EBD9D4] hover:bg-[#3d3630]"
                   : "bg-white/20 text-white hover:bg-white/30 backdrop-blur-sm"
               }`}
@@ -100,7 +103,7 @@ export function Navbar() {
             type="button"
             onClick={() => setMobileOpen(true)}
             className={`min-h-[44px] min-w-[44px] flex items-center justify-center transition-opacity hover:opacity-80 md:hidden ${
-              scrolled ? "text-[#2C2420]" : "text-white"
+              scrolled || forceScrolled ? "text-[#2C2420]" : "text-white"
             }`}
             aria-label="Apri menu di navigazione"
           >
