@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import Image from "next/image";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { EventCard } from "@/components/arena/EventCard";
 
@@ -28,6 +29,33 @@ function asString(value: unknown): string {
 function decodeHtmlEntities(input: string): string {
   // Ingested data sometimes contains HTML entities (e.g. "&amp;") inside URLs.
   return input.replaceAll("&amp;", "&");
+}
+
+function parseDate(value: string): Date | null {
+  if (!value) return null;
+  // Prefer ISO dates like "2026-03-25"
+  if (/^\d{4}-\d{2}-\d{2}/.test(value)) {
+    const d = new Date(`${value}T00:00:00`);
+    return Number.isNaN(d.getTime()) ? null : d;
+  }
+  const d = new Date(value);
+  return Number.isNaN(d.getTime()) ? null : d;
+}
+
+function monthKeyFromDate(value: string): string | null {
+  if (/^\d{4}-\d{2}-\d{2}/.test(value)) return value.slice(0, 7);
+  const d = parseDate(value);
+  if (!d) return null;
+  const y = d.getFullYear();
+  const m = String(d.getMonth() + 1).padStart(2, "0");
+  return `${y}-${m}`;
+}
+
+function formatMonthLabel(monthKey: string): string {
+  // monthKey: YYYY-MM
+  const [y, m] = monthKey.split("-").map((v) => Number(v));
+  const d = new Date(y, Math.max(0, (m || 1) - 1), 1);
+  return new Intl.DateTimeFormat("it-IT", { month: "long", year: "numeric" }).format(d);
 }
 
 function normalizeEvent(raw: RawEvent): ArenaEvent | null {
@@ -66,6 +94,7 @@ export function ArenaEventsClient() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [filter, setFilter] = useState<EventTypeFilter>("Tutti");
+  const [monthFilter, setMonthFilter] = useState<string>("Tutti i mesi");
 
   useEffect(() => {
     let active = true;
@@ -119,56 +148,151 @@ export function ArenaEventsClient() {
     };
   }, []);
 
+  const monthOptions = useMemo(() => {
+    const keys = new Set<string>();
+    for (const e of events) {
+      const k = monthKeyFromDate(e.date);
+      if (k) keys.add(k);
+    }
+    return Array.from(keys).sort();
+  }, [events]);
+
   const filtered = useMemo(() => {
-    if (filter === "Tutti") return events;
-    return events.filter((e) => e.type.toLowerCase() === filter.toLowerCase());
-  }, [events, filter]);
+    const typeFiltered =
+      filter === "Tutti" ? events : events.filter((e) => e.type.toLowerCase() === filter.toLowerCase());
+    if (monthFilter === "Tutti i mesi") return typeFiltered;
+    return typeFiltered.filter((e) => monthKeyFromDate(e.date) === monthFilter);
+  }, [events, filter, monthFilter]);
 
   const filters: EventTypeFilter[] = ["Tutti", "Opera", "Concerto", "Balletto", "Musica da camera"];
 
+  const featured = useMemo(() => {
+    const now = new Date();
+    const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    return [...events]
+      .map((e) => ({ e, d: parseDate(e.date) }))
+      .filter((x): x is { e: ArenaEvent; d: Date } => Boolean(x.d))
+      .filter((x) => x.d.getTime() >= today.getTime())
+      .sort((a, b) => a.d.getTime() - b.d.getTime())
+      .slice(0, 6)
+      .map((x) => x.e);
+  }, [events]);
+
   return (
-    <section className="bg-[#EBD9D4] py-20 sm:py-28">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+    <div className="bg-[#EBD9D4]">
+      {/* Hero image */}
+      <section className="relative">
+        <div className="relative h-[46svh] min-h-[360px] w-full overflow-hidden">
+          <Image
+            src="/images/arena-notturna.png"
+            alt="Arena di Verona di notte"
+            fill
+            priority
+            className="object-cover"
+          />
+          <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-[#EBD9D4]" />
+          <div className="absolute inset-0 flex items-end">
+            <div className="mx-auto w-full max-w-7xl px-6 pb-10 lg:px-8">
+              <p className="text-xs font-semibold uppercase tracking-[0.3em] text-[#EBD9D4]/85">
+                Eventi • Opera • Concerti
+              </p>
+              <h1 className="mt-3 font-viva text-5xl font-semibold leading-tight text-[#EBD9D4] sm:text-6xl">
+                EVENTI A VERONA
+              </h1>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Featured */}
+      <section className="mx-auto max-w-7xl px-6 pt-12 lg:px-8">
         <ScrollReveal>
-          <div className="mx-auto max-w-2xl text-center">
-            <h2 className="font-viva text-5xl font-semibold text-[#2C2420] sm:text-6xl">
-              EVENTI A VERONA
-            </h2>
-            <div className="mx-auto mt-4 h-px w-16 bg-gold/60" />
-            <p className="mt-6 text-[#2C2420]/70">
-              Scopri opera, concerti e spettacoli in città.
-            </p>
+          <div className="flex items-end justify-between gap-6">
+            <div>
+              <h2 className="font-viva text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+                Eventi in evidenza
+              </h2>
+              <p className="mt-3 text-sm text-[#2C2420]/70">
+                I prossimi appuntamenti in arrivo.
+              </p>
+            </div>
           </div>
         </ScrollReveal>
 
-        <div className="mx-auto mt-10 flex max-w-3xl flex-wrap items-center justify-center gap-2">
-          {filters.map((f) => {
-            const active = f === filter;
-            return (
-              <button
-                key={f}
-                type="button"
-                onClick={() => setFilter(f)}
-                className={`min-h-[40px] rounded-full border px-4 text-xs font-semibold uppercase tracking-wider transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#EBD9D4] ${
-                  active
-                    ? "border-gold/60 bg-gold/10 text-[#2C2420]"
-                    : "border-[#2C2420]/15 bg-transparent text-[#2C2420]/70 hover:border-gold/40 hover:text-[#2C2420]"
-                }`}
-              >
-                {f}
-              </button>
-            );
-          })}
+        {loading ? (
+          <div className="mt-10 text-sm text-[#2C2420]/70">Caricamento…</div>
+        ) : featured.length === 0 ? (
+          <div className="mt-10 text-sm text-[#2C2420]/70">Nessun evento in evidenza.</div>
+        ) : (
+          <div className="mt-10 grid items-stretch gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            {featured.map((event, i) => (
+              <EventCard
+                key={`featured-${event.title}-${event.date}-${i}`}
+                title={event.title}
+                date={event.date}
+                time={event.time}
+                genre={event.type}
+                location={event.location}
+                url={event.url}
+                buyUrl={event.buyUrl}
+                index={i}
+              />
+            ))}
+          </div>
+        )}
+      </section>
+
+      {/* All events + filters */}
+      <section className="mx-auto max-w-7xl px-6 pb-20 pt-14 lg:px-8 sm:pb-28">
+        <div className="mx-auto flex max-w-5xl flex-col items-center gap-4">
+          <div className="flex flex-wrap items-center justify-center gap-2">
+            {filters.map((f) => {
+              const active = f === filter;
+              return (
+                <button
+                  key={f}
+                  type="button"
+                  onClick={() => setFilter(f)}
+                  className={`min-h-[40px] rounded-full border px-4 text-xs font-semibold uppercase tracking-wider transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#EBD9D4] ${
+                    active
+                      ? "border-gold/60 bg-gold/10 text-[#2C2420]"
+                      : "border-[#2C2420]/15 bg-transparent text-[#2C2420]/70 hover:border-gold/40 hover:text-[#2C2420]"
+                  }`}
+                >
+                  {f}
+                </button>
+              );
+            })}
+          </div>
+
+          <div className="w-full max-w-xs">
+            <label className="sr-only" htmlFor="month-filter">
+              Filtra per mese
+            </label>
+            <select
+              id="month-filter"
+              value={monthFilter}
+              onChange={(e) => setMonthFilter(e.target.value)}
+              className="min-h-[44px] w-full rounded-md border border-[#2C2420]/20 bg-transparent px-3 text-sm text-[#2C2420] outline-none focus-visible:ring-2 focus-visible:ring-gold/70"
+            >
+              <option value="Tutti i mesi">Tutti i mesi</option>
+              {monthOptions.map((m) => (
+                <option key={m} value={m}>
+                  {formatMonthLabel(m)}
+                </option>
+              ))}
+            </select>
+          </div>
         </div>
 
         {loading && (
-          <div className="mx-auto mt-16 max-w-xl text-center text-sm text-[#2C2420]/70">
+          <div className="mx-auto mt-12 max-w-xl text-center text-sm text-[#2C2420]/70">
             Caricamento eventi…
           </div>
         )}
 
         {!loading && error && (
-          <div className="mx-auto mt-16 max-w-xl text-center">
+          <div className="mx-auto mt-12 max-w-xl text-center">
             <p className="text-sm text-[#2C2420]/70">
               Non riesco a caricare gli eventi. ({error})
             </p>
@@ -185,11 +309,11 @@ export function ArenaEventsClient() {
         {!loading && !error && (
           <>
             {filtered.length === 0 ? (
-              <div className="mx-auto mt-16 max-w-xl text-center text-sm text-[#2C2420]/70">
+              <div className="mx-auto mt-12 max-w-xl text-center text-sm text-[#2C2420]/70">
                 Nessun evento trovato per questo filtro.
               </div>
             ) : (
-              <div className="mt-16 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="mt-12 grid items-stretch gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {filtered.map((event, i) => (
                   <EventCard
                     key={`${event.title}-${event.date}-${i}`}
@@ -207,8 +331,8 @@ export function ArenaEventsClient() {
             )}
           </>
         )}
-      </div>
-    </section>
+      </section>
+    </div>
   );
 }
 

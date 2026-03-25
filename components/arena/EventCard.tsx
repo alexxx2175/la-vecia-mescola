@@ -26,7 +26,7 @@ export function EventCard({ title, date, genre, time, location, url, buyUrl, ind
           y: -4,
           transition: { duration: 0.2 },
         }}
-        className="group relative rounded-lg border border-foreground/10 bg-foreground/[0.03] p-6 pl-5 transition-shadow duration-300 hover:border-gold/30 hover:shadow-lg hover:shadow-gold/5"
+        className="group relative flex h-full flex-col rounded-lg border border-foreground/10 bg-foreground/[0.03] p-6 pl-5 transition-shadow duration-300 hover:border-gold/30 hover:shadow-lg hover:shadow-gold/5"
       >
         {/* Left terracotta border on hover */}
         <span className="absolute left-0 top-0 h-0 w-0.5 rounded-full bg-accent transition-all duration-200 group-hover:h-full" />
@@ -68,7 +68,7 @@ export function EventCard({ title, date, genre, time, location, url, buyUrl, ind
           target="_blank"
           rel="noopener noreferrer"
           aria-disabled={!primaryLink}
-          className={`mt-5 inline-flex min-h-[48px] items-center gap-2 text-sm font-semibold transition-colors ${
+          className={`mt-auto inline-flex min-h-[48px] items-center gap-2 pt-5 text-sm font-semibold transition-colors ${
             primaryLink
               ? "text-gold hover:text-gold-hover"
               : "cursor-not-allowed text-foreground/35"

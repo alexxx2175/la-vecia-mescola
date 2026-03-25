@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { ArenaHero } from "@/components/arena/ArenaHero";
 import { ArenaEventsClient } from "@/components/arena/ArenaEventsClient";
 
 export const metadata: Metadata = {
@@ -16,7 +15,6 @@ export const metadata: Metadata = {
 export default function ArenaPage() {
   return (
     <>
-      <ArenaHero />
       <ArenaEventsClient />
     </>
   );
