@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx next:*)",
+      "Bash(npm run:*)",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/hero.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/1-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/cucina.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/3-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/atmosfera.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/462A9770_0008_Correzione-colore-selettiva-15-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/dessert.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/desser-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/logo.png \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/logo-new-1024x383.png\")",
+      "Bash(file:*)",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/cucina.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/1-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/secondi.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/3-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/cantina.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/462A9770_0008_Correzione-colore-selettiva-15-1024x683.jpg\")",
+      "Bash(curl -sL -o /Users/alessandro/Desktop/la-vecia-mescola/public/images/dolci.jpg \"https://xn--menlaveciamescola-l1b.com/wp-content/uploads/2022/09/desser-1024x683.jpg\")"
+    ]
+  }
+}

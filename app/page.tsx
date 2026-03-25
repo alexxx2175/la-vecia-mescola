@@ -6,7 +6,6 @@ import { CucinaSection } from "@/components/home/CucinaSection";
 import { CantinaSection } from "@/components/home/CantinaSection";
 import { ReservationsSection } from "@/components/home/ReservationsSection";
 import { GallerySection } from "@/components/home/GallerySection";
-import { ContactSection } from "@/components/home/ContactSection";
 
 export default function HomePage() {
   return (
@@ -19,7 +18,6 @@ export default function HomePage() {
       <CantinaSection />
       <ReservationsSection />
       <GallerySection />
-      <ContactSection />
     </>
   );
 }

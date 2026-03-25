@@ -1,5 +1,13 @@
 @import "tailwindcss";
 
+@font-face {
+  font-family: "Viva";
+  src: url("/fonts/E111Viva.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 :root {
   --background: #EBD9D4;
   --background-dark: #E5D3CE;
@@ -18,6 +26,7 @@
   --color-gold-hover: #C8A63E;
   --font-sans: var(--font-lato);
   --font-serif: var(--font-playfair);
+  --font-viva: "Viva", cursive;
 }
 
 html {

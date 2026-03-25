@@ -30,7 +30,8 @@ export function LuxuryHero() {
       {/* Contenuto centrale */}
       <div className="relative z-10 mx-auto max-w-4xl px-6 text-center">
         <motion.h1
-          className="font-serif text-5xl font-semibold leading-[1.1] tracking-tight text-white sm:text-6xl lg:text-7xl"
+          className="text-5xl font-semibold leading-[1.1] tracking-tight text-white italic sm:text-6xl lg:text-7xl"
+          style={{ fontFamily: "var(--font-viva)" }}
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2, ease: [0.25, 0.1, 0.25, 1] }}

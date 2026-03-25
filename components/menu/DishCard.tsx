@@ -41,7 +41,7 @@ export function DishCard({ item, lang }: DishCardProps) {
       </div>
 
       {description && (
-        <p className="mt-1 text-sm italic text-[#F5F0E8]/70">{description}</p>
+        <p className="mt-1 text-sm italic text-neutral-600">{description}</p>
       )}
 
       <div className="mt-2 flex flex-wrap items-center gap-2">

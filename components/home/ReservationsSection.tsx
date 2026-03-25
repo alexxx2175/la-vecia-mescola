@@ -13,7 +13,7 @@ export function ReservationsSection() {
       id="prenotazioni"
       className="relative z-10 bg-[#EBD9D4] py-20 sm:py-28"
     >
-      <div className="mx-auto max-w-7xl px-6 text-center lg:px-8">
+      <div className="mx-auto max-w-screen-2xl px-6 text-center lg:px-8">
         <ScrollReveal duration={0.9}>
           <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">
             05

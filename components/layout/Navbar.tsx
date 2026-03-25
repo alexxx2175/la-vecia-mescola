@@ -1,9 +1,9 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import Image from "next/image";
 import Link from "next/link";
 import { Menu, X, Phone } from "lucide-react";
+import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
 
 const NAV_LINKS = [
@@ -49,21 +49,12 @@ export function Navbar() {
             : "bg-transparent"
         }`}
       >
-        <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 lg:px-6">
-          <Link
-            href="/"
-            className="flex items-center transition-opacity hover:opacity-90"
-          >
-            <Image
-              src="/images/cropped-logo-Low.png"
-              alt="La Vecia Mescola Dell'Oste — Logo"
-              width={140}
-              height={52}
-              className="h-9 w-auto lg:h-10"
-              priority
-              unoptimized
-            />
-          </Link>
+        <nav className="mx-auto flex max-w-screen-2xl items-center justify-between px-4 py-3 lg:px-6">
+          <Logo
+            variant={scrolled ? "dark" : "light"}
+            className="text-xl leading-tight sm:text-2xl lg:text-[1.5rem]"
+            asLink
+          />
 
           {/* Desktop nav — testo bianco in hero, scuro su rosa quando scroll */}
           <div className="hidden items-center gap-1 md:flex lg:gap-2">

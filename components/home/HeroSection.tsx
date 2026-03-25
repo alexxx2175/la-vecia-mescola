@@ -2,19 +2,29 @@
 
 import Image from "next/image";
 import Link from "next/link";
-import { motion } from "framer-motion";
+import { motion, useScroll, useTransform } from "framer-motion";
+import { useRef } from "react";
 
 const QUAY_EASE = [0.22, 1, 0.36, 1] as const;
 
 export function HeroSection() {
+  const ref = useRef<HTMLElement>(null);
+  const { scrollYProgress } = useScroll({
+    target: ref,
+    offset: ["start start", "end start"],
+  });
+  const scale = useTransform(scrollYProgress, [0, 0.4], [1, 1.08]);
+  const y = useTransform(scrollYProgress, [0, 0.5], [0, 60]);
+
   return (
-    <section className="relative z-10 flex min-h-svh items-center justify-center overflow-hidden">
-      {/* Hero image */}
+    <section ref={ref} className="relative z-10 flex min-h-svh items-center justify-center overflow-hidden">
+      {/* Hero image — parallax: scala e si sposta leggermente con lo scroll */}
       <div className="absolute inset-0 z-0">
         <motion.div
-          initial={{ scale: 1.05 }}
-          animate={{ scale: 1 }}
+          initial={{ opacity: 0.9 }}
+          animate={{ opacity: 1 }}
           transition={{ duration: 1.2, ease: QUAY_EASE }}
+          style={{ scale, y }}
           className="absolute inset-0"
         >
           <Image
@@ -39,7 +49,8 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2, ease: QUAY_EASE }}
-          className="font-serif text-5xl font-semibold leading-[1.1] tracking-tight text-white sm:text-6xl lg:text-7xl"
+          className="text-5xl font-semibold leading-[1.1] tracking-tight text-white italic sm:text-6xl lg:text-7xl"
+          style={{ fontFamily: "var(--font-viva)" }}
         >
           La Vecia Mescola
         </motion.h1>

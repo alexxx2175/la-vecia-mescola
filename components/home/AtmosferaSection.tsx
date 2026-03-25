@@ -25,7 +25,7 @@ const highlights = [
 export function AtmosferaSection() {
   return (
     <section className="relative z-10 py-24 sm:py-32">
-      <div className="mx-auto max-w-7xl px-6 lg:px-8">
+      <div className="mx-auto max-w-screen-2xl px-6 lg:px-8">
         {/* Section enters with zoom */}
         <ScrollReveal variant="zoomIn">
           <p className="text-center text-sm font-medium uppercase tracking-[0.3em] text-gold">
@@ -41,7 +41,7 @@ export function AtmosferaSection() {
 
         {/* Full-width image */}
         <ScrollReveal variant="slideFromBottom" duration={1} delay={0.05}>
-          <div className="relative mx-auto mt-12 aspect-[21/9] max-w-5xl overflow-hidden rounded-lg shadow-xl">
+          <div className="relative mx-auto mt-12 aspect-[21/9] max-w-5xl overflow-hidden shadow-xl">
             <Image
               src="/images/19.jpeg"
               alt="Ambiente intimo del ristorante La Vecia Mescola — intimate restaurant setting"

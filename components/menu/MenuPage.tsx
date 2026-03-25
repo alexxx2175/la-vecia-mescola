@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useLayoutEffect, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronDown, ChevronUp } from "lucide-react";
 import { LanguageToggle } from "./LanguageToggle";
@@ -12,32 +12,6 @@ import { CATEGORY_ORDER, ALLERGENS_IT, ALLERGENS_EN } from "@/data/types";
 interface MenuPageProps {
   menuData: MenuData;
   logoFontClassName?: string;
-}
-
-function InstagramIcon({ className }: { className?: string }) {
-  return (
-    <svg
-      className={className}
-      fill="currentColor"
-      viewBox="0 0 24 24"
-      aria-hidden
-    >
-      <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
-    </svg>
-  );
-}
-
-function FacebookIcon({ className }: { className?: string }) {
-  return (
-    <svg
-      className={className}
-      fill="currentColor"
-      viewBox="0 0 24 24"
-      aria-hidden
-    >
-      <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
-    </svg>
-  );
 }
 
 function AllergenLegend({
@@ -121,7 +95,31 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
   const handleCategoryChange = (category: MenuCategoryKey) => {
     prevCategoryRef.current = CATEGORY_ORDER.indexOf(activeCategory);
     setActiveCategory(category);
+    if (typeof window !== "undefined") {
+      window.history.replaceState(null, "", `#${category}`);
+    }
   };
+
+  useLayoutEffect(() => {
+    const fromHash = (): MenuCategoryKey | null => {
+      const h = window.location.hash.slice(1);
+      if (!h || !CATEGORY_ORDER.includes(h as MenuCategoryKey)) return null;
+      return h as MenuCategoryKey;
+    };
+    const cat = fromHash();
+    if (cat) setActiveCategory(cat);
+  }, []);
+
+  useEffect(() => {
+    const onHashChange = () => {
+      const h = window.location.hash.slice(1);
+      if (h && CATEGORY_ORDER.includes(h as MenuCategoryKey)) {
+        setActiveCategory(h as MenuCategoryKey);
+      }
+    };
+    window.addEventListener("hashchange", onHashChange);
+    return () => window.removeEventListener("hashchange", onHashChange);
+  }, []);
 
   const slideVariants = {
     enter: (d: number) => ({
@@ -154,17 +152,9 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
         variants={headerVariants}
         initial="hidden"
         animate="visible"
-        className="sticky top-0 z-10 flex items-center justify-between border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 px-4 py-3 backdrop-blur-sm"
+        className="sticky top-0 z-10 flex items-center justify-end border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 px-4 py-3 backdrop-blur-sm"
       >
-        <div className="flex-1" aria-hidden />
-        <h1
-          className={`text-xl font-semibold text-[#2C2420] sm:text-2xl ${logoFontClassName ?? ""}`}
-        >
-          La Vecia Mescola
-        </h1>
-        <div className="flex flex-1 justify-end">
-          <LanguageToggle lang={lang} onLangChange={setLang} />
-        </div>
+        <LanguageToggle lang={lang} onLangChange={setLang} />
       </motion.header>
 
       <main className="flex-1 px-4 pb-8 pt-4">
@@ -210,50 +200,6 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
           onToggle={() => setAllergenLegendOpen(!allergenLegendOpen)}
         />
       </main>
-
-      <motion.footer
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 0.6, delay: 0.3 }}
-        className="mt-auto border-t border-[#2C2420]/10 px-4 py-6"
-      >
-        <div className="mx-auto max-w-2xl space-y-2 text-center text-sm text-[#2C2420]/80">
-          <p>Vicolo Chiodo 4, Verona</p>
-          <p>
-            <a
-              href="tel:+390458036608"
-              className="hover:text-[#B8962E] focus:text-[#B8962E] focus:outline-none"
-            >
-              +39 045 8036608
-            </a>
-          </p>
-          <p className="text-xs">
-            Lun–Gio: 12:00–14:30 / 19:00–22:30<br />
-            Ven–Sab: 12:00–14:30 / 19:00–23:00<br />
-            Dom: 12:00–14:30 / 19:00–22:00
-          </p>
-          <div className="flex justify-center gap-4 pt-2">
-            <a
-              href="https://www.instagram.com/laveciamescola"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#2C2420]/70 transition-colors hover:text-[#B8962E] focus:text-[#B8962E] focus:outline-none"
-              aria-label="Instagram"
-            >
-              <InstagramIcon className="size-5" />
-            </a>
-            <a
-              href="https://www.facebook.com/laveciamescola"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-[#2C2420]/70 transition-colors hover:text-[#B8962E] focus:text-[#B8962E] focus:outline-none"
-              aria-label="Facebook"
-            >
-              <FacebookIcon className="size-5" />
-            </a>
-          </div>
-        </div>
-      </motion.footer>
     </div>
   );
 }
