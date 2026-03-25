@@ -181,18 +181,20 @@ export function ArenaEventsClient() {
   return (
     <div className="bg-[#EBD9D4]">
       {/* Hero image */}
-      <section className="relative">
-        <div className="relative h-[46svh] min-h-[360px] w-full overflow-hidden">
+      <section className="relative px-6 pt-24 lg:px-8">
+        <div className="relative mx-auto w-full max-w-[1024px] overflow-hidden rounded-sm">
+          <div className="relative aspect-[1024/370] w-full">
           <Image
             src="/images/arena-notturna.png"
             alt="Arena di Verona di notte"
             fill
             priority
             quality={100}
-            sizes="100vw"
+            sizes="(max-width: 1024px) 100vw, 1024px"
             className="object-cover contrast-110 saturate-110"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/55 via-black/35 to-[#EBD9D4]" />
+            <div className="absolute inset-0 bg-gradient-to-b from-black/35 via-black/15 to-transparent" />
+          </div>
         </div>
       </section>
 
