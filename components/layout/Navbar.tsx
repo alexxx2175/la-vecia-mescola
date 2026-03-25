@@ -14,6 +14,7 @@ const NAV_LINKS = [
   { href: "/#prenotazioni", num: "05", label: "PRENOTAZIONI" },
   { href: "/#gallery", num: "06", label: "GALLERY" },
   { href: "/contatti", num: "07", label: "CONTATTI" },
+  { href: "/arena", num: "08", label: "ARENA" },
 ] as const;
 
 export function Navbar() {

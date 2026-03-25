@@ -69,6 +69,7 @@ export function Footer() {
               <Link href="/#prenotazioni" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">05 Prenotazioni</Link>
               <Link href="/#gallery" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">06 Gallery</Link>
               <Link href="/contatti" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">07 Contatti</Link>
+              <Link href="/arena" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">08 Arena</Link>
             </nav>
           </div>
         </div>

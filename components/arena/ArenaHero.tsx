@@ -3,9 +3,17 @@
 import { motion } from "framer-motion";
 import { Phone } from "lucide-react";
 
-const title = "A Due Passi dall'Arena di Verona";
+const defaultTitle = "EVENTI A VERONA";
 
-export function ArenaHero() {
+export function ArenaHero({
+  title = defaultTitle,
+  kicker = "Stagione, concerti e spettacoli",
+  subtitle = "Scopri cosa vedere a Verona e acquista i biglietti.",
+}: {
+  title?: string;
+  kicker?: string;
+  subtitle?: string;
+}) {
   return (
     <section className="relative flex min-h-[70svh] items-center justify-center overflow-hidden bg-[#1A1A18]">
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-[#1A1A18]" />
@@ -15,13 +23,13 @@ export function ArenaHero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.6, delay: 0.2 }}
-          className="text-sm uppercase tracking-[0.3em] text-accent"
+          className="text-sm uppercase tracking-[0.3em] text-gold/90"
         >
-          A soli 200 metri
+          {kicker}
         </motion.p>
 
         {/* Title — character-by-character stagger */}
-        <h1 className="mt-6 font-serif text-4xl font-semibold leading-tight text-foreground sm:text-5xl lg:text-6xl">
+        <h1 className="mt-6 font-viva text-5xl font-semibold leading-tight text-[#EBD9D4] sm:text-6xl lg:text-7xl">
           <span className="sr-only">{title}</span>
           <span aria-hidden="true" className="inline-block">
             {title.split("").map((char, i) => (
@@ -34,11 +42,7 @@ export function ArenaHero() {
                   delay: 0.4 + i * 0.03,
                   ease: [0.25, 0.1, 0.25, 1],
                 }}
-                className={`inline-block ${
-                  i >= title.indexOf("Arena")
-                    ? "text-gold"
-                    : ""
-                }`}
+                className="inline-block"
                 style={char === " " ? { width: "0.3em" } : undefined}
               >
                 {char === " " ? "\u00A0" : char}
@@ -82,10 +86,9 @@ export function ArenaHero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.8, delay: 1.5 }}
-          className="mx-auto mt-4 max-w-xl text-lg text-foreground/70"
+          className="mx-auto mt-4 max-w-xl text-lg text-[#EBD9D4]/70"
         >
-          Cena da noi prima dello spettacolo — Vicolo Chiodo 4, a 200 metri
-          dall&apos;Arena
+          {subtitle}
         </motion.p>
 
         <motion.div
@@ -96,7 +99,7 @@ export function ArenaHero() {
         >
           <a
             href="tel:+390458036608"
-            className="inline-flex min-h-[48px] items-center gap-2 rounded-sm bg-accent px-8 py-3 text-sm font-semibold uppercase tracking-wider text-foreground transition-colors hover:bg-accent-hover"
+            className="inline-flex min-h-[48px] items-center gap-2 rounded-sm bg-accent px-8 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-accent-hover"
           >
             <Phone size={16} />
             Prenota il Tavolo

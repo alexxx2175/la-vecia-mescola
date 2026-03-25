@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Phone, ArrowRight } from "lucide-react";
+import { ArrowUpRight, MapPin, Clock } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 
 interface EventCardProps {
@@ -9,10 +9,12 @@ interface EventCardProps {
   date: string;
   genre: string;
   time: string;
+  location: string;
+  buyUrl?: string;
   index: number;
 }
 
-export function EventCard({ title, date, genre, time, index }: EventCardProps) {
+export function EventCard({ title, date, genre, time, location, buyUrl, index }: EventCardProps) {
   return (
     <ScrollReveal delay={index * 0.1}>
       <motion.div
@@ -31,18 +33,38 @@ export function EventCard({ title, date, genre, time, index }: EventCardProps) {
         <h3 className="mt-3 font-serif text-xl font-semibold text-foreground">
           {title}
         </h3>
-        <p className="mt-2 text-sm text-foreground/60">
-          {date} — ore {time}
-        </p>
+        <div className="mt-3 space-y-1.5 text-sm text-foreground/60">
+          <p className="flex items-center gap-2">
+            <Clock size={16} className="text-gold/80" aria-hidden />
+            <span>
+              {date}
+              {time ? ` — ore ${time}` : ""}
+            </span>
+          </p>
+          <p className="flex items-center gap-2">
+            <MapPin size={16} className="text-gold/80" aria-hidden />
+            <span>{location}</span>
+          </p>
+        </div>
+
         <a
-          href="tel:+390458036608"
-          className="mt-4 inline-flex min-h-[48px] items-center gap-2 text-sm font-semibold text-gold transition-colors hover:text-gold-hover"
+          href={buyUrl || "#"}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-disabled={!buyUrl}
+          className={`mt-5 inline-flex min-h-[48px] items-center gap-2 text-sm font-semibold transition-colors ${
+            buyUrl
+              ? "text-gold hover:text-gold-hover"
+              : "cursor-not-allowed text-foreground/35"
+          }`}
+          onClick={(e) => {
+            if (!buyUrl) e.preventDefault();
+          }}
         >
-          <Phone size={16} />
-          Prenota il Tavolo
-          <ArrowRight
-            size={14}
-            className="transition-transform duration-200 group-hover:translate-x-1"
+          Acquista biglietti
+          <ArrowUpRight
+            size={16}
+            className="transition-transform duration-200 group-hover:-translate-y-0.5 group-hover:translate-x-0.5"
           />
         </a>
       </motion.div>
