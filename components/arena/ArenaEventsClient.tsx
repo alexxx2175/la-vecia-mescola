@@ -192,7 +192,8 @@ export function ArenaEventsClient() {
             sizes="100vw"
             className="object-cover contrast-110 saturate-110"
           />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/35 via-black/15 to-transparent" />
+          <div className="absolute inset-0 bg-black/40" />
+          <div className="absolute inset-x-0 bottom-0 h-48 bg-gradient-to-t from-[#EBD9D4] via-[#EBD9D4]/80 to-transparent" />
         </div>
       </section>
 
