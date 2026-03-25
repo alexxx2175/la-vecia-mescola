@@ -5,7 +5,7 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { EventCard } from "@/components/arena/EventCard";
 
 const EVENTS_URL =
-  "https://raw.githubusercontent.com/alexxx2175/la-vecia-mescola/main/public/data/events.json";
+  "/api/events";
 
 type EventTypeFilter = "Tutti" | "Opera" | "Concerto" | "Balletto" | "Musica da camera";
 
