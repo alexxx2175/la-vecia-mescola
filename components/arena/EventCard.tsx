@@ -10,11 +10,15 @@ interface EventCardProps {
   genre: string;
   time: string;
   location: string;
+  url?: string;
   buyUrl?: string;
   index: number;
 }
 
-export function EventCard({ title, date, genre, time, location, buyUrl, index }: EventCardProps) {
+export function EventCard({ title, date, genre, time, location, url, buyUrl, index }: EventCardProps) {
+  const primaryLink = buyUrl || url;
+  const detailsLink = url;
+
   return (
     <ScrollReveal delay={index * 0.1}>
       <motion.div
@@ -31,7 +35,19 @@ export function EventCard({ title, date, genre, time, location, buyUrl, index }:
           {genre}
         </span>
         <h3 className="mt-3 font-serif text-xl font-semibold text-foreground">
-          {title}
+          {detailsLink ? (
+            <a
+              href={detailsLink}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="outline-none transition-colors hover:text-gold focus-visible:ring-2 focus-visible:ring-gold/70 focus-visible:ring-offset-2"
+              aria-label={`Apri dettagli evento: ${title}`}
+            >
+              {title}
+            </a>
+          ) : (
+            title
+          )}
         </h3>
         <div className="mt-3 space-y-1.5 text-sm text-foreground/60">
           <p className="flex items-center gap-2">
@@ -48,17 +64,17 @@ export function EventCard({ title, date, genre, time, location, buyUrl, index }:
         </div>
 
         <a
-          href={buyUrl || "#"}
+          href={primaryLink || "#"}
           target="_blank"
           rel="noopener noreferrer"
-          aria-disabled={!buyUrl}
+          aria-disabled={!primaryLink}
           className={`mt-5 inline-flex min-h-[48px] items-center gap-2 text-sm font-semibold transition-colors ${
-            buyUrl
+            primaryLink
               ? "text-gold hover:text-gold-hover"
               : "cursor-not-allowed text-foreground/35"
           }`}
           onClick={(e) => {
-            if (!buyUrl) e.preventDefault();
+            if (!primaryLink) e.preventDefault();
           }}
         >
           Acquista biglietti

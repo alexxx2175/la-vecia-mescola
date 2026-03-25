@@ -17,11 +17,17 @@ export type ArenaEvent = {
   time: string;
   location: string;
   type: string;
+  url?: string;
   buyUrl?: string;
 };
 
 function asString(value: unknown): string {
   return typeof value === "string" ? value : "";
+}
+
+function decodeHtmlEntities(input: string): string {
+  // Ingested data sometimes contains HTML entities (e.g. "&amp;") inside URLs.
+  return input.replaceAll("&amp;", "&");
 }
 
 function normalizeEvent(raw: RawEvent): ArenaEvent | null {
@@ -39,7 +45,8 @@ function normalizeEvent(raw: RawEvent): ArenaEvent | null {
     asString(raw.luogo) ||
     "Verona";
   const type = asString(raw.type) || asString(raw.genre) || asString(raw.category) || asString(raw.tipo);
-  const buyUrl = asString(raw.buy_url) || asString(raw.buyUrl) || asString(raw.url) || asString(raw.link);
+  const url = asString(raw.url) || asString(raw.website) || asString(raw.page_url) || asString(raw.pageUrl);
+  const buyUrl = asString(raw.buy_url) || asString(raw.buyUrl) || asString(raw.ticket_url) || asString(raw.ticketsUrl);
 
   if (!title || !date) return null;
 
@@ -49,7 +56,8 @@ function normalizeEvent(raw: RawEvent): ArenaEvent | null {
     time,
     location,
     type: type || "Evento",
-    buyUrl: buyUrl || undefined,
+    url: url ? decodeHtmlEntities(url) : undefined,
+    buyUrl: buyUrl ? decodeHtmlEntities(buyUrl) : undefined,
   };
 }
 
@@ -190,6 +198,7 @@ export function ArenaEventsClient() {
                     time={event.time}
                     genre={event.type}
                     location={event.location}
+                    url={event.url}
                     buyUrl={event.buyUrl}
                     index={i}
                   />
