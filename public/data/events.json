@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-03-25_falstaff",
-    "title": "Falstaff",
-    "date": "2026-03-25",
-    "time": "19:00",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/falstaff/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134431&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-03-27_falstaff",
     "title": "Falstaff",
     "date": "2026-03-27",
