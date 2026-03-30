@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-03-29_falstaff",
-    "title": "Falstaff",
-    "date": "2026-03-29",
-    "time": "15:30",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/falstaff/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134430&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-03_rossini_petite_messe_solennell",
     "title": "Rossini Petite Messe Solennelle",
     "date": "2026-04-03",
