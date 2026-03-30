@@ -1,8 +1,7 @@
 "use client";
 
-import Link from "next/link";
-import { Phone } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
+import { openChatbot } from "@/components/ui/ChatbotWidget";
 
 /**
  * Sezione Prenotazioni — stile Quay House "CONTACT US TO RESERVE"
@@ -21,13 +20,13 @@ export function ReservationsSection() {
           <h2 className="mt-2 font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl">
             PRENOTAZIONI
           </h2>
-          <Link
-            href="tel:+393928699275"
-            className="mt-10 inline-flex items-center gap-2 rounded-sm bg-[#2C2420] px-8 py-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#EBD9D4] transition-colors hover:bg-[#3d3630]"
+          <button
+            type="button"
+            onClick={openChatbot}
+            className="mt-10 inline-flex items-center gap-2 rounded-sm bg-[#2C2420] px-8 py-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
           >
-            <Phone size={18} />
             CONTATTACI PER PRENOTARE
-          </Link>
+          </button>
         </ScrollReveal>
       </div>
     </section>

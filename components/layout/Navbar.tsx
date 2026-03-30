@@ -3,7 +3,8 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X, Phone } from "lucide-react";
+import { Menu, X } from "lucide-react";
+import { openChatbot } from "@/components/ui/ChatbotWidget";
 import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
 
@@ -78,8 +79,9 @@ export function Navbar() {
                 </span>
               </Link>
             ))}
-            <motion.a
-              href="tel:+393928699275"
+            <motion.button
+              type="button"
+              onClick={openChatbot}
               animate={{
                 boxShadow: [
                   "0 0 0 0 rgba(184,150,46,0)",
@@ -88,15 +90,14 @@ export function Navbar() {
                 ],
               }}
               transition={{ duration: 3, repeat: Infinity, ease: "easeInOut" }}
-              className={`ml-2 inline-flex min-h-[40px] items-center gap-2 rounded px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.2em] transition-colors lg:min-h-[44px] lg:px-5 ${
+              className={`ml-2 inline-flex min-h-[40px] items-center gap-2 rounded px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.2em] transition-colors cursor-pointer lg:min-h-[44px] lg:px-5 ${
                 scrolled || forceScrolled
                   ? "bg-[#2C2420] text-[#EBD9D4] hover:bg-[#3d3630]"
                   : "bg-white/20 text-white hover:bg-white/30 backdrop-blur-sm"
               }`}
             >
-              <Phone size={14} />
               Prenota
-            </motion.a>
+            </motion.button>
           </div>
 
           <button
@@ -168,13 +169,13 @@ export function Navbar() {
                   transition={{ delay: 0.35, duration: 0.3 }}
                   className="mt-4 px-6"
                 >
-                  <a
-                    href="tel:+393928699275"
-                    className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630]"
+                  <button
+                    type="button"
+                    onClick={() => { setMobileOpen(false); openChatbot(); }}
+                    className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
                   >
-                    <Phone size={16} />
                     Prenota
-                  </a>
+                  </button>
                 </motion.div>
               </div>
             </motion.div>
