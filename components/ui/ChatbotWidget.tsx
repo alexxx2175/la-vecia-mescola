@@ -7,14 +7,14 @@ const WIDGET_SRC = `https://jzgtzkfxkrgnibbjusip.supabase.co/functions/v1/chatbo
 
 declare global {
   interface Window {
-    vsupport?: (...args: unknown[]) => void;
+    chatWidget?: (...args: unknown[]) => void;
     openChatbot?: () => void;
   }
 }
 
 export function openChatbot() {
   if (typeof window !== "undefined") {
-    window.vsupport?.("open");
+    window.chatWidget?.("open");
   }
 }
 
@@ -25,7 +25,6 @@ export function ChatbotWidget() {
       src={WIDGET_SRC}
       strategy="lazyOnload"
       onLoad={() => {
-        window.vsupport?.("init", CHATBOT_ID);
         window.openChatbot = openChatbot;
       }}
     />
