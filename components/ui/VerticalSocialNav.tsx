@@ -5,10 +5,16 @@
  */
 export function VerticalSocialNav() {
   const links = [
-    { href: "https://wa.me/390458036608", label: "WhatsApp" },
+    { href: "https://wa.me/393928699275", label: "WhatsApp" },
     { href: "https://www.instagram.com/laveciamescola", label: "Instagram" },
-    { href: "https://www.facebook.com/laveciamescola", label: "Facebook" },
-    { href: "https://www.tripadvisor.it/Restaurant_Review-g187873-d25051492", label: "Tripadvisor" },
+    {
+      href: "https://www.facebook.com/people/La-Vecia-Mescola/100046353020148/?sk=about&locale=it_IT",
+      label: "Facebook",
+    },
+    {
+      href: "https://www.tripadvisor.it/Restaurant_Review-g187871-d3746880-Reviews-La_Vecia_Mescola_Dell_Oste-Verona_Province_of_Verona_Veneto.html",
+      label: "Tripadvisor",
+    },
   ];
 
   return (

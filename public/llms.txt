@@ -7,20 +7,20 @@
 - Nome: La Vecia Mescola Dell'Oste
 - Tipo: Ristorante tradizionale veneto
 - Indirizzo: Vicolo Chiodo 4, 37121 Verona (VR), Italia
-- Telefono: +39 045 8036608
+- Telefono: +39 392 869 9275
 - Coordinate: 45.4399, 10.9924
 - Fascia di prezzo: €€ (medio)
 - Cucina: Veneta, Italiana
 
 ## Orari di Apertura
 
-- Lunedì: 12:00–14:30 / 19:00–22:30
-- Martedì: 12:00–14:30 / 19:00–22:30
-- Mercoledì: 12:00–14:30 / 19:00–22:30
-- Giovedì: 12:00–14:30 / 19:00–22:30
-- Venerdì: 12:00–14:30 / 19:00–23:00
-- Sabato: 12:00–14:30 / 19:00–23:00
-- Domenica: 12:00–14:30 / 19:00–22:00
+- Lunedì: 12:00–23:30
+- Martedì: 12:00–22:30
+- Mercoledì: 12:00–22:30
+- Giovedì: 12:00–22:30
+- Venerdì: 12:00–23:00
+- Sabato: 12:00–23:00
+- Domenica: 12:00–22:00
 
 ## Posizione
 
@@ -65,10 +65,10 @@ Il ristorante si trova in Vicolo Chiodo 4, nel centro storico di Verona, a soli 
 
 ## Prenotazioni
 
-Chiamare al +39 045 8036608 o scrivere su WhatsApp.
+Chiamare al +39 392 869 9275 o scrivere su WhatsApp.
 
 ## Social
 
-- Facebook: facebook.com/laveciamescola
+- Facebook: facebook.com/people/La-Vecia-Mescola/100046353020148
 - Instagram: instagram.com/laveciamescola
 - Sito web: www.laveciamescola.it

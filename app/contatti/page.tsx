@@ -12,17 +12,17 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal";
 export const metadata: Metadata = {
   title: "Contatti — La Vecia Mescola | Ristorante Verona",
   description:
-    "Contattaci o prenota un tavolo. La Vecia Mescola, Vicolo Chiodo 4, 37121 Verona. Telefono: +39 045 8036608.",
+    "Contattaci o prenota un tavolo. La Vecia Mescola, Vicolo Chiodo 4, 37121 Verona. Telefono: +39 392 869 9275.",
 };
 
 const hours = [
-  { day: "Lunedì", lunch: "12:00 – 14:30", dinner: "19:00 – 22:30" },
-  { day: "Martedì", lunch: "12:00 – 14:30", dinner: "19:00 – 22:30" },
-  { day: "Mercoledì", lunch: "12:00 – 14:30", dinner: "19:00 – 22:30" },
-  { day: "Giovedì", lunch: "12:00 – 14:30", dinner: "19:00 – 22:30" },
-  { day: "Venerdì", lunch: "12:00 – 14:30", dinner: "19:00 – 23:00" },
-  { day: "Sabato", lunch: "12:00 – 14:30", dinner: "19:00 – 23:00" },
-  { day: "Domenica", lunch: "12:00 – 14:30", dinner: "19:00 – 22:00" },
+  { day: "Lunedì", lunch: "12:00 – 23:30", dinner: "—" },
+  { day: "Martedì", lunch: "12:00 – 22:30", dinner: "—" },
+  { day: "Mercoledì", lunch: "12:00 – 22:30", dinner: "—" },
+  { day: "Giovedì", lunch: "12:00 – 22:30", dinner: "—" },
+  { day: "Venerdì", lunch: "12:00 – 23:00", dinner: "—" },
+  { day: "Sabato", lunch: "12:00 – 23:00", dinner: "—" },
+  { day: "Domenica", lunch: "12:00 – 22:00", dinner: "—" },
 ] as const;
 
 export default function ContattiPage() {
@@ -90,10 +90,10 @@ export default function ContattiPage() {
                   Telefono
                 </h2>
                 <a
-                  href="tel:+390458036608"
+                  href="tel:+393928699275"
                   className="inline-flex min-h-[48px] items-center text-lg text-[#B8962E] transition-colors hover:text-[#8B4513]"
                 >
-                  +39 045 8036608
+                  +39 392 869 9275
                 </a>
               </div>
             </ScrollReveal>
@@ -168,7 +168,7 @@ export default function ContattiPage() {
                 Seguici
               </span>
               <a
-                href="https://www.facebook.com/laveciamescola"
+                href="https://www.facebook.com/people/La-Vecia-Mescola/100046353020148/?sk=about&locale=it_IT"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Facebook"

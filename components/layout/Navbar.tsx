@@ -79,7 +79,7 @@ export function Navbar() {
               </Link>
             ))}
             <motion.a
-              href="tel:+390458036608"
+              href="tel:+393928699275"
               animate={{
                 boxShadow: [
                   "0 0 0 0 rgba(184,150,46,0)",
@@ -169,7 +169,7 @@ export function Navbar() {
                   className="mt-4 px-6"
                 >
                   <a
-                    href="tel:+390458036608"
+                    href="tel:+393928699275"
                     className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630]"
                   >
                     <Phone size={16} />

@@ -27,7 +27,7 @@ export function CucinaSection() {
         <ScrollReveal variant="slideFromBottomOvershoot" delay={0} className="relative z-20 order-2 shrink-0 lg:order-1 lg:w-[42%] lg:-translate-y-16">
           <ParallaxImage speed={0.2} className="relative aspect-[3/4] w-full overflow-hidden lg:min-h-[75vh]">
             <Image
-              src="/images/cucina.jpg"
+              src="/images/bigoli-ragu-pasta-fatta-in-casa-la-vecia-mescola-verona.jpg"
               alt="Cucina veneta tradizionale"
               fill
               className="object-cover object-center transition-transform duration-500 hover:scale-105"

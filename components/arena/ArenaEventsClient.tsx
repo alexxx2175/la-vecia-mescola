@@ -184,7 +184,7 @@ export function ArenaEventsClient() {
       <section className="relative pt-24">
         <div className="relative h-[48svh] min-h-[360px] w-full overflow-hidden">
           <Image
-            src="/images/arena-notturna.png"
+            src="/images/arena-di-verona-panoramica-notturna-la-vecia-mescola.png"
             alt="Arena di Verona di notte"
             fill
             priority

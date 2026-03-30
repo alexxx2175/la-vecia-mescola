@@ -22,7 +22,7 @@ export function ReservationsSection() {
             PRENOTAZIONI
           </h2>
           <Link
-            href="tel:+390458036608"
+            href="tel:+393928699275"
             className="mt-10 inline-flex items-center gap-2 rounded-sm bg-[#2C2420] px-8 py-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#EBD9D4] transition-colors hover:bg-[#3d3630]"
           >
             <Phone size={18} />

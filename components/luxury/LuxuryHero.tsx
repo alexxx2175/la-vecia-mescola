@@ -15,7 +15,7 @@ export function LuxuryHero() {
         transition={{ duration: 1.2, ease: [0.25, 0.1, 0.25, 1] }}
       >
         <Image
-          src="/images/19.jpeg"
+          src="/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg"
           alt="La Vecia Mescola — Cucina veneta nel cuore di Verona"
           fill
           className="object-cover"

@@ -14,10 +14,10 @@ type MenuPreviewItem = {
 };
 
 const menuPreview: MenuPreviewItem[] = [
-  { key: "antipasti", label: "ANTIPASTI", src: "/images/secondi.jpg", alt: "Antipasti" },
-  { key: "primi", label: "PRIMI", src: "/images/cucina.jpg", alt: "Primi" },
-  { key: "secondi", label: "SECONDI", src: "/images/19.jpeg", alt: "Secondi" },
-  { key: "dolci", label: "DOLCI", src: "/images/dolci.jpg", alt: "Dolci" },
+  { key: "antipasti", label: "ANTIPASTI", src: "/images/antipasto-crudo-prosciutto-polenta-lampada-tiffany-la-vecia-mescola.jpg", alt: "Antipasti" },
+  { key: "primi", label: "PRIMI", src: "/images/bigoli-ragu-pasta-fatta-in-casa-la-vecia-mescola-verona.jpg", alt: "Primi" },
+  { key: "secondi", label: "SECONDI", src: "/images/brasato-manzo-polenta-tradizionale-la-vecia-mescola-verona.jpg", alt: "Secondi" },
+  { key: "dolci", label: "DOLCI", src: "/images/tiramisu-artigianale-dolce-ristorante-la-vecia-mescola-verona.jpg", alt: "Dolci" },
 ];
 
 /** Meno ripetizioni su parole lunghe = archi più larghi, testo meno compresso */

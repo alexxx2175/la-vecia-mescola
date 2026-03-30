@@ -8,7 +8,7 @@ import { motion } from "framer-motion";
 export function RotatingReserveBadge() {
   return (
     <a
-      href="tel:+390458036608"
+      href="tel:+393928699275"
       className="fixed right-6 top-24 z-50 hidden lg:block"
       aria-label="Prenota un tavolo"
     >

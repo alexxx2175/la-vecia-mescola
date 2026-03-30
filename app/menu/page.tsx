@@ -60,7 +60,7 @@ function buildJsonLd(menu: MenuData) {
     description:
       "Ristorante storico nel centro di Verona. Cucina veneta tradizionale, pasta fresca fatta in casa, risotto all'Amarone.",
     url: "https://www.laveciamescola.it",
-    telephone: "+390458036608",
+    telephone: "+393928699275",
     address: {
       "@type": "PostalAddress" as const,
       streetAddress: "Vicolo Chiodo 4",
@@ -76,26 +76,26 @@ function buildJsonLd(menu: MenuData) {
     openingHoursSpecification: [
       {
         "@type": "OpeningHoursSpecification" as const,
-        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+        dayOfWeek: ["Monday"],
         opens: "12:00",
-        closes: "14:30",
+        closes: "23:30",
       },
       {
         "@type": "OpeningHoursSpecification" as const,
-        dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday"],
-        opens: "19:00",
+        dayOfWeek: ["Tuesday", "Wednesday", "Thursday"],
+        opens: "12:00",
         closes: "22:30",
       },
       {
         "@type": "OpeningHoursSpecification" as const,
         dayOfWeek: ["Friday", "Saturday"],
-        opens: "19:00",
+        opens: "12:00",
         closes: "23:00",
       },
       {
         "@type": "OpeningHoursSpecification" as const,
         dayOfWeek: ["Sunday"],
-        opens: "19:00",
+        opens: "12:00",
         closes: "22:00",
       },
     ],
@@ -122,8 +122,8 @@ function buildJsonLd(menu: MenuData) {
       latitude: 45.4399,
       longitude: 10.9924,
     },
-    telephone: "+390458036608",
-    openingHours: "Mo-Th 12:00-14:30, 19:00-22:30; Fr-Sa 12:00-14:30, 19:00-23:00; Su 12:00-14:30, 19:00-22:00",
+    telephone: "+393928699275",
+    openingHours: "Mo 12:00-23:30; Tu-Th 12:00-22:30; Fr-Sa 12:00-23:00; Su 12:00-22:00",
   };
 
   return { restaurant, localBusiness };

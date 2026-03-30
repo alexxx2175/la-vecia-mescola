@@ -81,7 +81,7 @@ const jsonLd = {
   name: "La Vecia Mescola Dell'Oste",
   image: "https://www.laveciamescola.it/og-image.jpg",
   url: "https://www.laveciamescola.it",
-  telephone: "+390458036608",
+  telephone: "+393928699275",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Vicolo Chiodo 4",
@@ -98,26 +98,26 @@ const jsonLd = {
   openingHoursSpecification: [
     {
       "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+      dayOfWeek: ["Monday"],
       opens: "12:00",
-      closes: "14:30",
+      closes: "23:30",
     },
     {
       "@type": "OpeningHoursSpecification",
-      dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday"],
-      opens: "19:00",
+      dayOfWeek: ["Tuesday", "Wednesday", "Thursday"],
+      opens: "12:00",
       closes: "22:30",
     },
     {
       "@type": "OpeningHoursSpecification",
       dayOfWeek: ["Friday", "Saturday"],
-      opens: "19:00",
+      opens: "12:00",
       closes: "23:00",
     },
     {
       "@type": "OpeningHoursSpecification",
       dayOfWeek: ["Sunday"],
-      opens: "19:00",
+      opens: "12:00",
       closes: "22:00",
     },
   ],

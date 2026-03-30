@@ -68,7 +68,7 @@ export function CantinaSection() {
               className="relative h-full min-h-[280px] w-full lg:min-h-[75vh]"
             >
               <Image
-                src="/images/cantina.jpg"
+                src="/images/cantina-vini-pregiati-tignanello-la-vecia-mescola-verona.jpeg"
                 alt="Cantina e vini"
                 fill
                 className="object-cover object-center transition-transform duration-500 hover:scale-105"

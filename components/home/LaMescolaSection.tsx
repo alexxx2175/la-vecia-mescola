@@ -59,7 +59,7 @@ export function LaMescolaSection() {
         <ScrollReveal variant="slideFromBottomOvershoot" delay={0.15} className="relative z-20 order-2 mt-12 shrink-0 lg:order-2 lg:mt-0 lg:w-[40%] lg:translate-y-24">
           <ParallaxImage speed={0.25} className="relative aspect-[3/4] w-full overflow-hidden lg:min-h-[80vh]">
             <Image
-              src="/images/secondi.jpg"
+              src="/images/brasato-manzo-polenta-tradizionale-la-vecia-mescola-verona.jpg"
               alt="Cucina veneta — La Vecia Mescola"
               fill
               className="object-cover object-center transition-transform duration-500 hover:scale-105"

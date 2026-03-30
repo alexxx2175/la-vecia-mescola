@@ -43,7 +43,7 @@ export function AtmosferaSection() {
         <ScrollReveal variant="slideFromBottom" duration={1} delay={0.05}>
           <div className="relative mx-auto mt-12 aspect-[21/9] max-w-5xl overflow-hidden shadow-xl">
             <Image
-              src="/images/19.jpeg"
+              src="/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg"
               alt="Ambiente intimo del ristorante La Vecia Mescola — intimate restaurant setting"
               fill
               className="object-cover"

@@ -28,7 +28,7 @@ export function HeroSection() {
           className="absolute inset-0"
         >
           <Image
-            src="/images/19.jpeg"
+            src="/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg"
             alt="La Vecia Mescola — Cucina veneta nel cuore di Verona"
             fill
             priority

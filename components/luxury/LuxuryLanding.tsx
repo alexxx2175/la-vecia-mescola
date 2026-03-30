@@ -16,7 +16,7 @@ const sections = [
     title: "Concept",
     description:
       "Esplorando l'eredità della cucina veneta. Un viaggio di (ri)scoperta nel cuore di Verona, a pochi passi dall'Arena.",
-    imageSrc: "/images/27.jpeg",
+    imageSrc: "/images/sala-ristorante-panoramica-affreschi-la-vecia-mescola-verona.jpg",
     imageAlt: "Interno — La Vecia Mescola",
     reverse: false,
     bgVariant: "default" as const,
@@ -27,7 +27,7 @@ const sections = [
     title: "La Cucina",
     description:
       "Pasta fresca fatta in casa, risotto all'Amarone, ingredienti del territorio. La tradizione veneta nel piatto, con tecniche tradizionali e contemporanee.",
-    imageSrc: "/images/cucina.jpg",
+    imageSrc: "/images/bigoli-ragu-pasta-fatta-in-casa-la-vecia-mescola-verona.jpg",
     imageAlt: "Cucina veneta tradizionale",
     reverse: true,
     bgVariant: "alt" as const,
@@ -38,7 +38,7 @@ const sections = [
     title: "La Cantina",
     description:
       "Una selezione di vini della Valpolicella e del territorio veronese: Amarone, Soave Classico, Ripasso. Scelti per accompagnare ogni piatto.",
-    imageSrc: "/images/cantina.jpg",
+    imageSrc: "/images/cantina-vini-pregiati-tignanello-la-vecia-mescola-verona.jpeg",
     imageAlt: "Cantina e vini",
     reverse: false,
     bgVariant: "default" as const,
@@ -49,7 +49,7 @@ const sections = [
     title: "Pasto & Presente",
     description:
       "La Vecia Mescola è radicata nel cuore di Verona. Un invito a celebrare il convivio — come si faceva nella Verona di un tempo.",
-    imageSrc: "/images/secondi.jpg",
+    imageSrc: "/images/brasato-manzo-polenta-tradizionale-la-vecia-mescola-verona.jpg",
     imageAlt: "Cucina veneta",
     reverse: true,
     bgVariant: "alt" as const,

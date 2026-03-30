@@ -48,7 +48,7 @@ export function TestimonialsSection() {
       {/* Background decorative image */}
       <div className="absolute inset-0">
         <Image
-          src="/images/dolci.jpg"
+          src="/images/tiramisu-artigianale-dolce-ristorante-la-vecia-mescola-verona.jpg"
           alt="Dolci della casa — house desserts"
           fill
           className="object-cover opacity-10"

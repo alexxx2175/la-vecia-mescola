@@ -38,11 +38,11 @@ export function Footer() {
               <span>Vicolo Chiodo 4, 37121 Verona (VR)</span>
             </div>
             <a
-              href="tel:+390458036608"
+              href="tel:+393928699275"
               className="flex items-center gap-3 text-sm text-[#2C2420]/90 transition-colors hover:text-[#2C2420]"
             >
               <Phone size={18} className="shrink-0" />
-              +39 045 8036608
+              +39 392 869 9275
             </a>
           </div>
 
@@ -51,9 +51,10 @@ export function Footer() {
               Orari
             </h4>
             <div className="space-y-1 text-sm text-[#2C2420]/90">
-              <p>Lun–Gio: 12:00–14:30 / 19:00–22:30</p>
-              <p>Ven–Sab: 12:00–14:30 / 19:00–23:00</p>
-              <p>Dom: 12:00–14:30 / 19:00–22:00</p>
+              <p>Lun: 12:00–23:30</p>
+              <p>Mar–Gio: 12:00–22:30</p>
+              <p>Ven–Sab: 12:00–23:00</p>
+              <p>Dom: 12:00–22:00</p>
             </div>
           </div>
 
@@ -78,7 +79,7 @@ export function Footer() {
           <div className="flex flex-wrap items-center justify-center gap-x-2 gap-y-2 text-center text-xs font-medium uppercase tracking-wider text-[#2C2420]/60">
             <span>Seguici su</span>
             <a
-              href="https://wa.me/390458036608"
+              href="https://wa.me/393928699275"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
@@ -96,7 +97,7 @@ export function Footer() {
             </a>
             <span className="text-[#B8962E]/50">⬧</span>
             <a
-              href="https://www.facebook.com/laveciamescola"
+              href="https://www.facebook.com/people/La-Vecia-Mescola/100046353020148/?sk=about&locale=it_IT"
               target="_blank"
               rel="noopener noreferrer"
               className="transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"

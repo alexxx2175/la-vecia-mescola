@@ -29,7 +29,7 @@ export function ConceptSection() {
         <ScrollReveal variant="slideFromBottomOvershoot" delay={0} className="relative z-20 order-2 mt-8 shrink-0 lg:order-1 lg:mt-0 lg:w-[38%] lg:-translate-x-4">
           <ParallaxImage speed={0.2} className="relative aspect-[3/4] w-full overflow-hidden lg:min-h-[85vh]">
             <Image
-              src="/images/27.jpeg"
+              src="/images/sala-ristorante-panoramica-affreschi-la-vecia-mescola-verona.jpg"
               alt="Interno — La Vecia Mescola"
               fill
               className="object-cover object-center transition-transform duration-500 hover:scale-105"

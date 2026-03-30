@@ -6,7 +6,7 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal";
 
 /**
  * Sezione Contatti — stile Quay House
- * Orari dal sito: Lun–Dom 12:00–14:30 / 19:00–22:30 (Ven/Sab 23:00, Dom 22:00)
+ * Orari continuato: Lun 12–23:30, Mar–Gio 12–22:30, Ven–Sab 12–23, Dom 12–22
  */
 export function ContactSection() {
   return (
@@ -30,11 +30,11 @@ export function ContactSection() {
         <div className="mt-12 grid gap-12 sm:grid-cols-2 lg:grid-cols-3">
           <ScrollReveal variant="fadeUp" delay={0.1}>
             <a
-              href="tel:+390458036608"
+              href="tel:+393928699275"
               className="flex items-center gap-4 transition-colors hover:text-[#8B4513]"
             >
               <Phone size={24} className="text-[#B8962E]" />
-              <span className="text-lg text-[#2C2420]">+39 045 8036608</span>
+              <span className="text-lg text-[#2C2420]">+39 392 869 9275</span>
             </a>
           </ScrollReveal>
           <ScrollReveal variant="fadeUp" delay={0.2}>
@@ -56,9 +56,10 @@ export function ContactSection() {
               <p className="text-sm font-semibold uppercase tracking-wider text-[#2C2420]/70">
                 Orari
               </p>
-              <p className="mt-2">Lun–Gio: 12:00–14:30 / 19:00–22:30</p>
-              <p>Ven–Sab: 12:00–14:30 / 19:00–23:00</p>
-              <p>Dom: 12:00–14:30 / 19:00–22:00</p>
+              <p className="mt-2">Lun: 12:00–23:30</p>
+              <p>Mar–Gio: 12:00–22:30</p>
+              <p>Ven–Sab: 12:00–23:00</p>
+              <p>Dom: 12:00–22:00</p>
             </div>
           </ScrollReveal>
         </div>

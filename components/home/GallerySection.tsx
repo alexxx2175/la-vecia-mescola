@@ -5,17 +5,89 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { ParallaxImage } from "@/components/ui/ParallaxImage";
 import { ScrollingDecoText } from "@/components/ui/ScrollingDecoText";
 
-const galleryImages = [
-  { src: "/images/19.jpeg", alt: "Atmosfera del ristorante" },
-  { src: "/images/cucina.jpg", alt: "Cucina veneta" },
-  { src: "/images/27.jpeg", alt: "Interno La Vecia Mescola" },
-  { src: "/images/secondi.jpg", alt: "Secondi piatti" },
-  { src: "/images/dolci.jpg", alt: "Dolci della casa" },
-  { src: "/images/cantina.jpg", alt: "Cantina" },
-  { src: "/images/hero.jpg", alt: "Sala e ambiente" },
-  { src: "/images/19.jpeg", alt: "Vista interno ristorante" },
-  { src: "/images/27.jpeg", alt: "Ambiente La Vecia Mescola" },
+const galleryCards = [
+  {
+    front: { src: "/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg", alt: "Atmosfera del ristorante" },
+    back: { src: "/images/affresco-vite-uva-parete-bottiglie-vino-la-vecia-mescola.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/bigoli-ragu-pasta-fatta-in-casa-la-vecia-mescola-verona.jpg", alt: "Cucina veneta" },
+    back: { src: "/images/amarone-della-valpolicella-quintarelli-ristorante-la-vecia-mescola-verona.jpeg", alt: "" },
+  },
+  {
+    front: { src: "/images/sala-ristorante-panoramica-affreschi-la-vecia-mescola-verona.jpg", alt: "Interno La Vecia Mescola" },
+    back: { src: "/images/angolo-bar-liquori-distillati-la-vecia-mescola-verona.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/brasato-manzo-polenta-tradizionale-la-vecia-mescola-verona.jpg", alt: "Secondi piatti" },
+    back: { src: "/images/antipasto-crudo-prosciutto-polenta-lampada-tiffany-la-vecia-mescola.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/tiramisu-artigianale-dolce-ristorante-la-vecia-mescola-verona.jpg", alt: "Dolci della casa" },
+    back: { src: "/images/gamberi-frutti-di-mare-piatto-gourmet-la-vecia-mescola-verona.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/cantina-vini-pregiati-tignanello-la-vecia-mescola-verona.jpeg", alt: "Cantina" },
+    back: { src: "/images/ravioli-tartufo-crema-pasta-fresca-la-vecia-mescola.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/clienti-cena-atmosfera-conviviale-la-vecia-mescola-verona.jpg", alt: "Sala e ambiente" },
+    back: { src: "/images/semifreddo-cioccolato-frutti-rossi-arancia-dolce-la-vecia-mescola.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/sala-ristorante-piena-clienti-cena-la-vecia-mescola-verona.jpg", alt: "Vista interno ristorante" },
+    back: { src: "/images/spaghetti-nero-seppia-vongole-la-vecia-mescola-verona.jpg", alt: "" },
+  },
+  {
+    front: { src: "/images/specchio-riflesso-sala-ristorante-la-vecia-mescola-verona.jpg", alt: "Ambiente La Vecia Mescola" },
+    back: { src: "/images/tartare-cruda-gourmet-la-vecia-mescola-verona.jpg", alt: "" },
+  },
 ];
+
+function FlipCard({
+  front,
+  back,
+  i,
+}: {
+  front: { src: string; alt: string };
+  back: { src: string; alt: string };
+  i: number;
+}) {
+  return (
+    <ParallaxImage speed={0.1} className="group relative aspect-[3/4] overflow-hidden">
+      <div className="relative h-full w-full [perspective:1000px]">
+        <div className="relative h-full w-full [transform-style:preserve-3d] transition-transform duration-700 group-hover:[transform:rotateY(180deg)]">
+          {/* Front */}
+          <div className="absolute inset-0 [backface-visibility:hidden]">
+            <Image
+              src={front.src}
+              alt={front.alt}
+              fill
+              className="object-cover transition-transform duration-500 group-hover:scale-105"
+              sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
+              unoptimized
+              priority={i < 3}
+            />
+            <div className="absolute inset-0 bg-black/0 transition-colors duration-500 group-hover:bg-black/10" />
+          </div>
+
+          {/* Back */}
+          <div className="absolute inset-0 [transform:rotateY(180deg)] [backface-visibility:hidden]" aria-hidden="true">
+            <Image
+              src={back.src}
+              alt=""
+              fill
+              className="object-cover transition-transform duration-500 group-hover:scale-105"
+              sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
+              unoptimized
+            />
+            <div className="absolute inset-0 bg-black/0 transition-colors duration-500 group-hover:bg-black/10" />
+          </div>
+        </div>
+      </div>
+    </ParallaxImage>
+  );
+}
 
 export function GallerySection() {
   return (
@@ -37,23 +109,14 @@ export function GallerySection() {
         </ScrollReveal>
 
         <div className="mt-12 grid grid-cols-2 gap-4 md:grid-cols-3 md:gap-6">
-          {galleryImages.map((img, i) => (
-            <div key={`${img.src}-${i}`}>
+          {galleryCards.map((card, i) => (
+            <div key={`${card.front.src}-${i}`}>
               <ScrollReveal
                 variant="slideFromBottomOvershoot"
                 delay={i * 0.05}
                 duration={0.85}
               >
-                <ParallaxImage speed={0.1} className="group relative aspect-[3/4] overflow-hidden">
-                <Image
-                  src={img.src}
-                  alt={img.alt}
-                  fill
-                  className="object-cover transition-transform duration-500 group-hover:scale-105"
-                  sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
-                  unoptimized
-                />
-                </ParallaxImage>
+                <FlipCard front={card.front} back={card.back} i={i} />
               </ScrollReveal>
             </div>
           ))}
