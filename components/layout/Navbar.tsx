@@ -4,9 +4,10 @@ import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { Menu, X } from "lucide-react";
-import { openChatbot } from "@/components/ui/ChatbotWidget";
 import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
+
+const WHATSAPP_URL = "https://wa.me/393928699275";
 
 const NAV_LINKS = [
   { href: "/#concept", num: "01", label: "CONCEPT" },
@@ -61,7 +62,7 @@ export function Navbar() {
             asLink
           />
 
-          {/* Desktop nav — testo bianco in hero, scuro su rosa quando scroll */}
+          {/* Desktop nav */}
           <div className="hidden items-center gap-1 md:flex lg:gap-2">
             {NAV_LINKS.map((link) => (
               <Link
@@ -79,9 +80,10 @@ export function Navbar() {
                 </span>
               </Link>
             ))}
-            <motion.button
-              type="button"
-              onClick={openChatbot}
+            <motion.a
+              href={WHATSAPP_URL}
+              target="_blank"
+              rel="noopener noreferrer"
               animate={{
                 boxShadow: [
                   "0 0 0 0 rgba(184,150,46,0)",
@@ -97,7 +99,7 @@ export function Navbar() {
               }`}
             >
               Prenota
-            </motion.button>
+            </motion.a>
           </div>
 
           <button
@@ -169,13 +171,15 @@ export function Navbar() {
                   transition={{ delay: 0.35, duration: 0.3 }}
                   className="mt-4 px-6"
                 >
-                  <button
-                    type="button"
-                    onClick={() => { setMobileOpen(false); openChatbot(); }}
+                  <a
+                    href={WHATSAPP_URL}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    onClick={() => setMobileOpen(false)}
                     className="flex w-full min-h-[48px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
                   >
                     Prenota
-                  </button>
+                  </a>
                 </motion.div>
               </div>
             </motion.div>
