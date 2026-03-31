@@ -64,6 +64,11 @@ export const metadata: Metadata = {
       "en-US": "https://www.laveciamescola.com/en",
     },
   },
+  icons: {
+    icon: "/favicon.png",
+    apple: "/favicon.png",
+    shortcut: "/favicon.png",
+  },
   robots: {
     index: true,
     follow: true,
