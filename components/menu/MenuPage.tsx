@@ -144,11 +144,11 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
   return (
     <div className="flex min-h-screen flex-col bg-[#EBD9D4]">
       {/* Floating language toggle — bottom-right, above all overlays */}
-      <div className="fixed bottom-6 right-6 z-[100]">
+      <div className="fixed bottom-24 right-6 z-[100]">
         <LanguageToggle lang={lang} onLangChange={setLang} />
       </div>
 
-      <main className="flex-1 px-4 pb-8 pt-4">
+      <main className="flex-1 px-4 pb-8 pt-20">
         <CategoryTabs
           activeCategory={activeCategory}
           onCategoryChange={handleCategoryChange}
