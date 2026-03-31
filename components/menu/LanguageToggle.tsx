@@ -57,7 +57,7 @@ export function LanguageToggle({ lang, onLangChange }: LanguageToggleProps) {
             animate={{ opacity: 1, height: "auto" }}
             exit={{ opacity: 0, height: 0 }}
             transition={{ duration: 0.2, ease: [0.25, 0.1, 0.25, 1] }}
-            className="absolute bottom-full right-0 mb-2 w-48 overflow-hidden rounded-lg border border-[#B8962E]/30 bg-[#F5F0E8] shadow-lg"
+            className="absolute top-full right-0 mt-2 w-48 overflow-hidden rounded-lg border border-[#B8962E]/30 bg-[#F5F0E8] shadow-lg z-[100]"
           >
             {LANGUAGES.map((l) => (
               <li key={l} role="option" aria-selected={lang === l}>

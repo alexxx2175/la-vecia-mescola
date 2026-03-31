@@ -148,19 +148,24 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
 
   return (
     <div className="flex min-h-screen flex-col bg-[#EBD9D4]">
-      {/* Floating language toggle — bottom-right, above all overlays */}
-      <div className="fixed bottom-24 right-6 z-[100]">
-        <LanguageToggle lang={lang} onLangChange={setLang} />
-      </div>
+      <main className="flex-1 pb-8 pt-20">
+        {/* Sticky header bar: category tabs (scrollable) + language toggle */}
+        <div className="sticky top-[56px] z-50 border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 backdrop-blur-md">
+          <div className="flex items-center gap-2 px-4">
+            <div className="min-w-0 flex-1">
+              <CategoryTabs
+                activeCategory={activeCategory}
+                onCategoryChange={handleCategoryChange}
+                lang={lang}
+              />
+            </div>
+            <div className="shrink-0">
+              <LanguageToggle lang={lang} onLangChange={setLang} />
+            </div>
+          </div>
+        </div>
 
-      <main className="flex-1 px-4 pb-8 pt-20">
-        <CategoryTabs
-          activeCategory={activeCategory}
-          onCategoryChange={handleCategoryChange}
-          lang={lang}
-        />
-
-        <div className="mx-auto max-w-2xl pt-6">
+        <div className="mx-auto max-w-2xl px-4 pt-6">
           <AnimatePresence mode="wait" custom={direction}>
             <motion.div
               id={`panel-${activeCategory}`}
@@ -190,11 +195,13 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
           </AnimatePresence>
         </div>
 
-        <AllergenLegend
-          lang={lang}
-          isOpen={allergenLegendOpen}
-          onToggle={() => setAllergenLegendOpen(!allergenLegendOpen)}
-        />
+        <div className="px-4">
+          <AllergenLegend
+            lang={lang}
+            isOpen={allergenLegendOpen}
+            onToggle={() => setAllergenLegendOpen(!allergenLegendOpen)}
+          />
+        </div>
       </main>
     </div>
   );
