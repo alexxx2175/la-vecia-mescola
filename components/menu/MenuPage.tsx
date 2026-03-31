@@ -148,21 +148,18 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
 
   return (
     <div className="flex min-h-screen flex-col bg-[#EBD9D4]">
+      {/* Language toggle — fixed bottom-left */}
+      <div className="fixed bottom-6 left-6 z-[100]">
+        <LanguageToggle lang={lang} onLangChange={setLang} />
+      </div>
+
       <main className="flex-1 pb-8 pt-20">
-        {/* Sticky header bar: category tabs (scrollable) + language toggle */}
-        <div className="sticky top-[56px] z-50 border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 backdrop-blur-md">
-          <div className="flex items-center gap-2 overflow-x-clip px-4">
-            <div className="min-w-0 flex-1 overflow-x-auto scrollbar-hide">
-              <CategoryTabs
-                activeCategory={activeCategory}
-                onCategoryChange={handleCategoryChange}
-                lang={lang}
-              />
-            </div>
-            <div className="shrink-0">
-              <LanguageToggle lang={lang} onLangChange={setLang} />
-            </div>
-          </div>
+        <div className="sticky top-[56px] z-50 border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 backdrop-blur-md px-4">
+          <CategoryTabs
+            activeCategory={activeCategory}
+            onCategoryChange={handleCategoryChange}
+            lang={lang}
+          />
         </div>
 
         <div className="mx-auto max-w-2xl px-4 pt-6">
