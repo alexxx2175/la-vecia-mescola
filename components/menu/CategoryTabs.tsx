@@ -18,7 +18,7 @@ export function CategoryTabs({
 }: CategoryTabsProps) {
   return (
     <nav
-      className="scrollbar-hide flex overflow-x-auto py-3"
+      className="scrollbar-hide flex justify-center overflow-x-auto py-3"
       role="tablist"
       aria-label="Menu categories"
     >
