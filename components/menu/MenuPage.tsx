@@ -7,12 +7,19 @@ import { LanguageToggle } from "./LanguageToggle";
 import { CategoryTabs } from "./CategoryTabs";
 import { DishCard } from "./DishCard";
 import type { MenuData, MenuCategoryKey, Language } from "@/data/types";
-import { CATEGORY_ORDER, ALLERGENS_IT, ALLERGENS_EN } from "@/data/types";
+import { CATEGORY_ORDER, ALLERGENS } from "@/data/types";
 
 interface MenuPageProps {
   menuData: MenuData;
   logoFontClassName?: string;
 }
+
+const UI_TEXT = {
+  allergen_legend: {
+    it: "Legenda allergeni", en: "Allergen legend", es: "Leyenda de alérgenos", de: "Allergenlegende",
+    ru: "Обозначения аллергенов", ro: "Legenda alergenilor", zh: "过敏原说明", ja: "アレルゲン一覧",
+  },
+} satisfies Record<string, Record<Language, string>>;
 
 function AllergenLegend({
   lang,
@@ -23,6 +30,8 @@ function AllergenLegend({
   isOpen: boolean;
   onToggle: () => void;
 }) {
+  const allergens = ALLERGENS[lang] ?? ALLERGENS.it;
+
   return (
     <div className="mt-8 border-t border-[#2C2420]/10 pt-6">
       <button
@@ -33,7 +42,7 @@ function AllergenLegend({
         aria-controls="allergen-legend"
         id="allergen-legend-button"
       >
-        {lang === "it" ? "Legenda allergeni" : "Allergen legend"}
+        {UI_TEXT.allergen_legend[lang]}
         {isOpen ? (
           <ChevronUp className="size-4" aria-hidden />
         ) : (
@@ -50,19 +59,14 @@ function AllergenLegend({
         className="overflow-hidden"
       >
         <div className="mt-4 grid grid-cols-1 gap-x-4 gap-y-2 text-xs text-[#2C2420]/80 sm:grid-cols-2">
-          {Object.entries(ALLERGENS_IT).map(([num, nameIt]) => {
-            const nameEn = (ALLERGENS_EN as Record<number, string>)[Number(num)];
-            return (
-              <div key={num} className="flex items-center gap-2">
-                <span className="shrink-0 rounded px-1.5 py-0.5 font-medium text-[#2C2420]/70 ring-1 ring-[#2C2420]/20">
-                  {num}
-                </span>
-                <span>
-                  {nameIt} / {nameEn}
-                </span>
-              </div>
-            );
-          })}
+          {Object.entries(allergens).map(([num, name]) => (
+            <div key={num} className="flex items-center gap-2">
+              <span className="shrink-0 rounded px-1.5 py-0.5 font-medium text-[#2C2420]/70 ring-1 ring-[#2C2420]/20">
+                {num}
+              </span>
+              <span>{name}</span>
+            </div>
+          ))}
         </div>
       </motion.div>
     </div>
@@ -181,7 +185,7 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
             >
               {items.map((item, index) => (
                 <motion.div
-                  key={`${activeCategory}-${index}-${lang === "it" ? item.name_it : item.name_en}`}
+                  key={`${activeCategory}-${index}-${item.name_it}`}
                   variants={itemVariants}
                   initial="hidden"
                   animate="visible"

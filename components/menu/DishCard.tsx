@@ -1,8 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import type { MenuItem } from "@/data/types";
-import type { Language } from "@/data/types";
+import type { MenuItem, Language } from "@/data/types";
 
 interface DishCardProps {
   item: MenuItem;
@@ -13,9 +12,25 @@ function formatPrice(price: number): string {
   return `€ ${price.toFixed(2).replace(".", ",")}`;
 }
 
+function getLocalized(item: MenuItem, field: "name" | "desc", lang: Language): string {
+  const key = `${field}_${lang}` as keyof MenuItem;
+  return (item[key] as string | undefined) || item[`${field}_it` as keyof MenuItem] as string;
+}
+
+const UI_TEXT: Record<string, Record<Language, string>> = {
+  frozen: {
+    it: "può essere surgelato", en: "may be frozen", es: "puede estar congelado", de: "kann tiefgekühlt sein",
+    ru: "может быть заморожено", ro: "poate fi congelat", zh: "可能为冷冻食材", ja: "冷凍の場合あり",
+  },
+  ask_waiter: {
+    it: "chiedi al cameriere", en: "ask waiter", es: "pregunte al camarero", de: "bitte fragen Sie",
+    ru: "спросите официанта", ro: "întrebați chelnerul", zh: "请咨询服务员", ja: "スタッフにお尋ねください",
+  },
+};
+
 export function DishCard({ item, lang }: DishCardProps) {
-  const name = lang === "it" ? item.name_it : item.name_en;
-  const description = lang === "it" ? item.desc_it : item.desc_en;
+  const name = getLocalized(item, "name", lang);
+  const description = getLocalized(item, "desc", lang);
 
   return (
     <motion.article
@@ -56,12 +71,12 @@ export function DishCard({ item, lang }: DishCardProps) {
           ))}
         {item.frozen && (
           <span className="text-xs italic text-[#2C2420]/60">
-            ** {lang === "it" ? "può essere surgelato" : "may be frozen"}
+            ** {UI_TEXT.frozen[lang]}
           </span>
         )}
         {item.ask_waiter && (
           <span className="text-xs italic text-[#2C2420]/60">
-            * {lang === "it" ? "chiedi al cameriere" : "ask waiter"}
+            * {UI_TEXT.ask_waiter[lang]}
           </span>
         )}
         {item.note && (
