@@ -24,7 +24,6 @@ export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
   const forceScrolled = pathname === "/arena";
-  const isMenuPage = pathname === "/menu";
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -50,8 +49,6 @@ export function Navbar() {
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
-          isMenuPage ? "pointer-events-none" : ""
-        } ${
           scrolled || forceScrolled
             ? "bg-[#EBD9D4]/95 backdrop-blur-md shadow-lg border-b border-[#2C2420]/5"
             : "bg-transparent"

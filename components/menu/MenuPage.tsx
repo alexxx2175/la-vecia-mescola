@@ -79,6 +79,11 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
     useState<MenuCategoryKey>("antipasti");
   const [allergenLegendOpen, setAllergenLegendOpen] = useState(false);
   const prevCategoryRef = useRef<number>(0);
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
 
   const items = (menuData[activeCategory] ?? []).filter(
     (item) => typeof item.price === "number" && item.price > 0
@@ -164,7 +169,7 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
               aria-labelledby={`tab-${activeCategory}`}
               custom={direction}
               variants={slideVariants}
-              initial="enter"
+              initial={mounted ? "enter" : "center"}
               animate="center"
               exit="exit"
               transition={{ duration: 0.25, ease: [0.25, 0.1, 0.25, 1] }}
@@ -174,9 +179,9 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
                 <motion.div
                   key={`${activeCategory}-${index}-${item.name_it}`}
                   variants={itemVariants}
-                  initial="hidden"
+                  initial={mounted ? "hidden" : "visible"}
                   animate="visible"
-                  transition={{ delay: index * 0.04 }}
+                  transition={{ delay: mounted ? index * 0.04 : 0 }}
                 >
                   <DishCard item={item} lang={lang} />
                 </motion.div>
