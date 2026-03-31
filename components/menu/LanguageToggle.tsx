@@ -30,11 +30,11 @@ export function LanguageToggle({ lang, onLangChange }: LanguageToggleProps) {
   }, []);
 
   return (
-    <div ref={ref} className="relative z-[100]">
+    <div ref={ref} className="relative">
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
-        className="flex min-h-[48px] items-center gap-2 rounded-lg border border-[#B8962E]/30 bg-[#F5F0E8] px-3 py-2 text-sm font-medium text-[#2C2420] shadow-sm transition-colors hover:border-[#B8962E]/60 focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
+        className="flex min-h-[48px] items-center gap-2 rounded-full border border-[#B8962E]/30 bg-[#F5F0E8] px-4 py-2.5 text-sm font-medium text-[#2C2420] shadow-lg transition-colors hover:border-[#B8962E]/60 focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
         aria-haspopup="listbox"
         aria-expanded={open}
         aria-label={`Language: ${LANGUAGE_LABELS[lang]}`}
@@ -57,7 +57,7 @@ export function LanguageToggle({ lang, onLangChange }: LanguageToggleProps) {
             animate={{ opacity: 1, height: "auto" }}
             exit={{ opacity: 0, height: 0 }}
             transition={{ duration: 0.2, ease: [0.25, 0.1, 0.25, 1] }}
-            className="absolute right-0 top-full mt-2 w-48 overflow-hidden rounded-lg border border-[#B8962E]/30 bg-[#F5F0E8] shadow-lg"
+            className="absolute bottom-full right-0 mb-2 w-48 overflow-hidden rounded-lg border border-[#B8962E]/30 bg-[#F5F0E8] shadow-lg"
           >
             {LANGUAGES.map((l) => (
               <li key={l} role="option" aria-selected={lang === l}>

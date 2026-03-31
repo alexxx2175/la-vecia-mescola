@@ -73,15 +73,6 @@ function AllergenLegend({
   );
 }
 
-const headerVariants = {
-  hidden: { opacity: 0, y: -10 },
-  visible: {
-    opacity: 1,
-    y: 0,
-    transition: { duration: 0.5, ease: "easeOut" as const },
-  },
-};
-
 export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
   const [lang, setLang] = useState<Language>("it");
   const [activeCategory, setActiveCategory] =
@@ -152,14 +143,10 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
 
   return (
     <div className="flex min-h-screen flex-col bg-[#EBD9D4]">
-      <motion.header
-        variants={headerVariants}
-        initial="hidden"
-        animate="visible"
-        className="sticky top-0 z-50 flex items-center justify-end border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 px-4 py-3 backdrop-blur-sm"
-      >
+      {/* Floating language toggle — bottom-right, above all overlays */}
+      <div className="fixed bottom-6 right-6 z-[100]">
         <LanguageToggle lang={lang} onLangChange={setLang} />
-      </motion.header>
+      </div>
 
       <main className="flex-1 px-4 pb-8 pt-4">
         <CategoryTabs
