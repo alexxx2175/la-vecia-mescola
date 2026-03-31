@@ -156,7 +156,7 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
         variants={headerVariants}
         initial="hidden"
         animate="visible"
-        className="sticky top-0 z-10 flex items-center justify-end border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 px-4 py-3 backdrop-blur-sm"
+        className="sticky top-0 z-50 flex items-center justify-end border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 px-4 py-3 backdrop-blur-sm"
       >
         <LanguageToggle lang={lang} onLangChange={setLang} />
       </motion.header>
