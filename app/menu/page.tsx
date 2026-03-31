@@ -59,7 +59,7 @@ function buildJsonLd(menu: MenuData) {
     name: "La Vecia Mescola",
     description:
       "Ristorante storico nel centro di Verona. Cucina veneta tradizionale, pasta fresca fatta in casa, risotto all'Amarone.",
-    url: "https://www.laveciamescola.it",
+    url: "https://www.laveciamescola.com",
     telephone: "+393928699275",
     address: {
       "@type": "PostalAddress" as const,
@@ -109,7 +109,7 @@ function buildJsonLd(menu: MenuData) {
     "@context": "https://schema.org" as const,
     "@type": "LocalBusiness" as const,
     name: "La Vecia Mescola",
-    image: "https://www.laveciamescola.it/og-image.jpg",
+    image: "https://www.laveciamescola.com/og-image.jpg",
     address: {
       "@type": "PostalAddress" as const,
       streetAddress: "Vicolo Chiodo 4",

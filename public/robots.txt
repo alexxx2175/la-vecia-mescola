@@ -13,4 +13,4 @@ Allow: /
 User-agent: Googlebot
 Allow: /
 
-Sitemap: https://www.laveciamescola.it/sitemap.xml
+Sitemap: https://www.laveciamescola.com/sitemap.xml

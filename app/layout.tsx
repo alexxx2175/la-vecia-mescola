@@ -18,7 +18,7 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.laveciamescola.it"),
+  metadataBase: new URL("https://www.laveciamescola.com"),
   title: {
     default: "La Vecia Mescola Dell'Oste — Ristorante Verona",
     template: "%s — La Vecia Mescola",
@@ -37,7 +37,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "it_IT",
-    url: "https://www.laveciamescola.it",
+    url: "https://www.laveciamescola.com",
     siteName: "La Vecia Mescola Dell'Oste",
     title: "La Vecia Mescola Dell'Oste — Ristorante Verona",
     description:
@@ -60,8 +60,8 @@ export const metadata: Metadata = {
   },
   alternates: {
     languages: {
-      "it-IT": "https://www.laveciamescola.it",
-      "en-US": "https://www.laveciamescola.it/en",
+      "it-IT": "https://www.laveciamescola.com",
+      "en-US": "https://www.laveciamescola.com/en",
     },
   },
   robots: {
@@ -77,10 +77,10 @@ export const metadata: Metadata = {
 const jsonLd = {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "@id": "https://www.laveciamescola.it",
+  "@id": "https://www.laveciamescola.com",
   name: "La Vecia Mescola Dell'Oste",
-  image: "https://www.laveciamescola.it/og-image.jpg",
-  url: "https://www.laveciamescola.it",
+  image: "https://www.laveciamescola.com/og-image.jpg",
+  url: "https://www.laveciamescola.com",
   telephone: "+393928699275",
   address: {
     "@type": "PostalAddress",
