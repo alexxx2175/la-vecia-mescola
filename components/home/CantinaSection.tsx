@@ -28,7 +28,7 @@ export function CantinaSection() {
   return (
     <section
       id="cantina"
-      className="relative min-h-[120vh] overflow-hidden bg-[#EBD9D4] pt-14 pb-20 sm:pt-20 sm:pb-28"
+      className="relative min-h-[120vh] overflow-hidden bg-[#EBD9D4] pt-7 pb-20 sm:pt-10 sm:pb-28"
     >
       <div className="relative mx-auto flex min-h-[100vh] max-w-screen-2xl flex-col items-stretch px-4 lg:flex-row lg:items-end lg:gap-16 lg:px-8">
         {/* Testo a sinistra */}
