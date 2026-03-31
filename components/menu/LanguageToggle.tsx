@@ -34,7 +34,7 @@ export function LanguageToggle({ lang, onLangChange }: LanguageToggleProps) {
       <button
         type="button"
         onClick={() => setOpen((o) => !o)}
-        className="flex min-h-[48px] items-center gap-2 rounded-full border border-[#B8962E]/30 bg-[#F5F0E8] px-4 py-2.5 text-sm font-medium text-[#2C2420] shadow-lg transition-colors hover:border-[#B8962E]/60 focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
+        className="flex items-center gap-1.5 rounded-md border border-[#B8962E]/30 bg-[#F5F0E8] px-2.5 py-1.5 text-xs font-medium text-[#2C2420] transition-colors hover:border-[#B8962E]/60 focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
         aria-haspopup="listbox"
         aria-expanded={open}
         aria-label={`Language: ${LANGUAGE_LABELS[lang]}`}

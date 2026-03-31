@@ -151,8 +151,8 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
       <main className="flex-1 pb-8 pt-20">
         {/* Sticky header bar: category tabs (scrollable) + language toggle */}
         <div className="sticky top-[56px] z-50 border-b border-[#2C2420]/10 bg-[#EBD9D4]/95 backdrop-blur-md">
-          <div className="flex items-center gap-2 px-4">
-            <div className="min-w-0 flex-1">
+          <div className="flex items-center gap-2 overflow-x-clip px-4">
+            <div className="min-w-0 flex-1 overflow-x-auto scrollbar-hide">
               <CategoryTabs
                 activeCategory={activeCategory}
                 onCategoryChange={handleCategoryChange}
