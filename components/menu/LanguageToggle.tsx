@@ -16,7 +16,7 @@ export function LanguageToggle({ lang, onLangChange }: LanguageToggleProps) {
           key={l}
           type="button"
           onClick={() => onLangChange(l)}
-          className="relative px-2 py-1 text-sm font-medium uppercase tracking-wider transition-colors duration-200 hover:text-[#2C2420] focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
+          className="relative min-h-[44px] min-w-[44px] flex items-center justify-center text-sm font-medium uppercase tracking-wider transition-colors duration-200 hover:text-[#2C2420] focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
           aria-pressed={lang === l}
           aria-label={l === "it" ? "Italiano" : "English"}
           style={{

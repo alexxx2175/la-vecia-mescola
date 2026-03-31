@@ -70,8 +70,8 @@ export function HeroSection() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2, ease: QUAY_EASE }}
-          className="text-5xl font-semibold leading-[1.1] tracking-tight text-white italic sm:text-6xl lg:text-7xl"
-          style={{ fontFamily: "var(--font-viva)" }}
+          className="font-semibold leading-[1.1] tracking-tight text-white italic"
+          style={{ fontFamily: "var(--font-viva)", fontSize: "clamp(2.5rem, 8vw, 4.5rem)" }}
         >
           La Vecia Mescola
         </motion.h1>
@@ -79,7 +79,7 @@ export function HeroSection() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 0.6, ease: QUAY_EASE }}
-          className="mt-4 text-lg text-white/90 sm:text-xl"
+          className="mt-4 text-base text-white/90 sm:text-xl"
         >
           Cucina veneta autentica nel cuore di Verona.
         </motion.p>
@@ -94,7 +94,7 @@ export function HeroSection() {
           <span className="h-px w-12 bg-white/50" />
           <Link
             href="/menu"
-            className="text-sm font-medium uppercase tracking-[0.35em] text-white transition-colors duration-300 hover:text-white/90"
+            className="inline-flex min-h-[48px] items-center text-sm font-medium uppercase tracking-[0.35em] text-white transition-colors duration-300 hover:text-white/90"
           >
             Menu
           </Link>

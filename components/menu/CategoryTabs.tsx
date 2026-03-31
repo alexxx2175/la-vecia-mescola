@@ -35,7 +35,7 @@ export function CategoryTabs({
             aria-controls={`panel-${category}`}
             id={`tab-${category}`}
             onClick={() => onCategoryChange(category)}
-            className={`relative shrink-0 px-4 py-2 text-sm font-medium uppercase tracking-[0.15em] transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4] sm:rounded ${
+            className={`relative shrink-0 whitespace-nowrap px-4 py-3 min-h-[48px] text-sm font-medium uppercase tracking-[0.15em] transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4] sm:rounded ${
               isActive
                 ? "text-[#B8962E]"
                 : "text-[#2C2420]/70 hover:text-[#2C2420]"

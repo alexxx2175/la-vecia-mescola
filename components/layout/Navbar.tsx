@@ -172,7 +172,7 @@ export function Navbar() {
                   <button
                     type="button"
                     onClick={() => { setMobileOpen(false); openChatbot(); }}
-                    className="inline-flex min-h-[44px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
+                    className="flex w-full min-h-[48px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
                   >
                     Prenota
                   </button>

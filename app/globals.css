@@ -124,3 +124,29 @@ body {
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }
+
+/* ── Mobile-first typography with clamp() ── */
+.heading-1 {
+  font-size: clamp(2rem, 6vw, 4.5rem);
+}
+.heading-2 {
+  font-size: clamp(1.75rem, 4vw, 3rem);
+}
+.heading-3 {
+  font-size: clamp(1.25rem, 3vw, 2rem);
+}
+
+/* ── Reduced motion: disable parallax, heavy animations ── */
+@media (prefers-reduced-motion: reduce) {
+  .bg-rosa-glitter::after,
+  .glitter-particles::after {
+    animation: none !important;
+  }
+}
+
+/* ── Disable parallax on touch/mobile (causes iOS jank) ── */
+@media (pointer: coarse) {
+  .parallax-disable-touch {
+    transform: none !important;
+  }
+}

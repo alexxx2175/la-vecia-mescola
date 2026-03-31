@@ -1,7 +1,7 @@
 "use client";
 
-import { motion, useScroll, useTransform } from "framer-motion";
-import { useRef, type ReactNode } from "react";
+import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
+import { useRef, useState, useEffect, type ReactNode } from "react";
 
 interface ParallaxImageProps {
   children: ReactNode;
@@ -21,12 +21,21 @@ export function ParallaxImage({
   opacityOutput = [0.1, 0.55, 1],
 }: ParallaxImageProps) {
   const ref = useRef<HTMLDivElement>(null);
+  const prefersReduced = useReducedMotion();
+  const [isTouchDevice, setIsTouchDevice] = useState(false);
+
+  useEffect(() => {
+    setIsTouchDevice(window.matchMedia("(pointer: coarse)").matches);
+  }, []);
+
   const { scrollYProgress } = useScroll({
     target: ref,
     offset: ["start end", "end start"],
   });
-  const y = useTransform(scrollYProgress, [0, 0.5, 1], [80 * speed, 0, -80 * speed]);
-  const opacity = useTransform(scrollYProgress, opacityInput, opacityOutput);
+
+  const disabled = prefersReduced || isTouchDevice;
+  const y = useTransform(scrollYProgress, [0, 0.5, 1], disabled ? [0, 0, 0] : [80 * speed, 0, -80 * speed]);
+  const opacity = useTransform(scrollYProgress, opacityInput, disabled ? [1, 1, 1] : opacityOutput);
 
   return (
     <motion.div ref={ref} style={{ y, opacity }} className={className}>

@@ -198,7 +198,7 @@ export function MenuSection() {
       <div className="mx-auto max-w-screen-2xl px-4 lg:px-8">
         <ScrollReveal duration={0.9}>
           <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">02</p>
-          <h2 className="mt-2 font-serif text-5xl font-semibold text-[#2C2420] sm:text-6xl">MENU</h2>
+          <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>MENU</h2>
         </ScrollReveal>
 
         <div className="mt-8 grid grid-cols-2 gap-3 md:grid-cols-4 md:gap-4">

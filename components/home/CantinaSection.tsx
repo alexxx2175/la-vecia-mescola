@@ -37,7 +37,7 @@ export function CantinaSection() {
             <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">04</p>
             <div className="mt-2 flex items-center gap-3">
               <Wine size={28} className="text-[#B8962E]" />
-              <h2 className="font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+              <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
                 LA CANTINA
               </h2>
             </div>
@@ -71,6 +71,7 @@ export function CantinaSection() {
                 src="/images/cantina-vini-pregiati-tignanello-la-vecia-mescola-verona.jpeg"
                 alt="Cantina e vini"
                 fill
+                loading="lazy"
                 className="object-cover object-center transition-transform duration-500 hover:scale-105"
                 sizes="(max-width: 1024px) 100vw, 45vw"
                 unoptimized

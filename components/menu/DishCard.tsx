@@ -31,11 +31,11 @@ export function DishCard({ item, lang }: DishCardProps) {
       {/* Left border grows on hover */}
       <span className="absolute left-0 top-0 h-0 w-0.5 rounded-full bg-[#B8962E] transition-all duration-200 group-hover:h-full" />
 
-      <div className="flex items-start justify-between gap-4">
-        <h3 className="flex-1 text-lg font-semibold leading-tight text-[#2C2420]">
+      <div className="flex items-baseline justify-between gap-3">
+        <h3 className="min-w-0 flex-1 text-base font-semibold leading-tight text-[#2C2420] sm:text-lg">
           {name}
         </h3>
-        <span className="shrink-0 text-base font-medium text-[#B8962E] transition-colors duration-200 group-hover:text-[#8B4513]">
+        <span className="shrink-0 whitespace-nowrap text-base font-medium text-[#B8962E] transition-colors duration-200 group-hover:text-[#8B4513]">
           {formatPrice(item.price)}
         </span>
       </div>

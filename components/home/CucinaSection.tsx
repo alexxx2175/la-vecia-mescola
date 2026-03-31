@@ -30,6 +30,7 @@ export function CucinaSection() {
               src="/images/bigoli-ragu-pasta-fatta-in-casa-la-vecia-mescola-verona.jpg"
               alt="Cucina veneta tradizionale"
               fill
+              loading="lazy"
               className="object-cover object-center transition-transform duration-500 hover:scale-105"
               sizes="(max-width: 1024px) 100vw, 45vw"
               unoptimized
@@ -43,28 +44,28 @@ export function CucinaSection() {
             <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">03</p>
             <div className="mt-2 flex items-center gap-3">
               <UtensilsCrossed size={28} className="text-[#B8962E]" />
-              <h2 className="font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+              <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
                 LA CUCINA
               </h2>
             </div>
           </ScrollReveal>
           <div className="mt-10 space-y-6">
             <ScrollReveal variant="fadeLeft" delay={0.2}>
-              <h3 className="font-serif text-2xl font-semibold text-[#2C2420]">Pasta Fresca</h3>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>Pasta Fresca</h3>
               <p className="mt-2 text-[#2C2420]/90">
                 Fatta in casa ogni giorno con farine selezionate e uova fresche. Bigoli, pappardelle,
                 tagliolini — la tradizione veneta nel piatto.
               </p>
             </ScrollReveal>
             <ScrollReveal variant="fadeLeft" delay={0.3}>
-              <h3 className="font-serif text-2xl font-semibold text-[#2C2420]">Risotto all&apos;Amarone</h3>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>Risotto all&apos;Amarone</h3>
               <p className="mt-2 text-[#2C2420]/90">
                 Il nostro piatto simbolo: riso Vialone Nano mantecato con Amarone della Valpolicella,
                 radicchio e fonduta veneta.
               </p>
             </ScrollReveal>
             <ScrollReveal variant="fadeLeft" delay={0.4}>
-              <h3 className="font-serif text-2xl font-semibold text-[#2C2420]">Ingredienti Freschi</h3>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>Ingredienti Freschi</h3>
               <p className="mt-2 text-[#2C2420]/90">
                 Materie prime locali e di stagione dal territorio veronese.
               </p>

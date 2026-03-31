@@ -202,7 +202,7 @@ export function ArenaEventsClient() {
         <ScrollReveal>
           <div className="flex items-end justify-between gap-6">
             <div>
-              <h2 className="font-viva text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+              <h2 className="font-viva font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
                 Eventi in evidenza
               </h2>
               <p className="mt-3 text-sm text-[#2C2420]/70">
@@ -217,7 +217,7 @@ export function ArenaEventsClient() {
         ) : featured.length === 0 ? (
           <div className="mt-10 text-sm text-[#2C2420]/70">Nessun evento in evidenza.</div>
         ) : (
-          <div className="mt-10 grid items-stretch gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="mt-10 grid items-stretch gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             {featured.map((event, i) => (
               <EventCard
                 key={`featured-${event.title}-${event.date}-${i}`}
@@ -246,7 +246,7 @@ export function ArenaEventsClient() {
                   key={f}
                   type="button"
                   onClick={() => setFilter(f)}
-                  className={`min-h-[40px] rounded-full border px-4 text-xs font-semibold uppercase tracking-wider transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#EBD9D4] ${
+                  className={`min-h-[44px] rounded-full border px-4 text-xs font-semibold uppercase tracking-wider transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#EBD9D4] ${
                     active
                       ? "border-gold/60 bg-gold/10 text-[#2C2420]"
                       : "border-[#2C2420]/15 bg-transparent text-[#2C2420]/70 hover:border-gold/40 hover:text-[#2C2420]"
@@ -306,7 +306,7 @@ export function ArenaEventsClient() {
                 Nessun evento trovato per questo filtro.
               </div>
             ) : (
-              <div className="mt-12 grid items-stretch gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="mt-12 grid items-stretch gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
                 {filtered.map((event, i) => (
                   <EventCard
                     key={`${event.title}-${event.date}-${i}`}

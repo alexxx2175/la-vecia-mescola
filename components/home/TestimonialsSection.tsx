@@ -51,6 +51,7 @@ export function TestimonialsSection() {
           src="/images/tiramisu-artigianale-dolce-ristorante-la-vecia-mescola-verona.jpg"
           alt="Dolci della casa — house desserts"
           fill
+          loading="lazy"
           className="object-cover opacity-10"
           sizes="100vw"
           unoptimized
@@ -63,7 +64,7 @@ export function TestimonialsSection() {
             Recensioni
           </p>
           <div className="mx-auto mt-2 max-w-2xl text-center">
-            <h2 className="font-serif text-4xl font-semibold text-foreground sm:text-5xl">
+            <h2 className="font-serif font-semibold text-foreground" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
               I Nostri Ospiti
             </h2>
             <div className="mx-auto mt-4 h-px w-16 bg-gold/60" />

@@ -32,12 +32,12 @@ export function LaMescolaSection() {
         {/* Testo a sinistra — colonna stretta */}
         <div className="relative z-10 order-1 flex flex-col justify-center lg:order-1 lg:max-w-lg lg:pb-32">
           <ScrollReveal variant="fadeLeft" delay={0.1} duration={0.9}>
-            <h2 className="font-serif text-4xl font-semibold tracking-tight text-[#2C2420]/90 sm:text-5xl lg:text-6xl xl:text-7xl">
+            <h2 className="font-serif font-semibold tracking-tight text-[#2C2420]/90" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
               PASSATO E PRESENTE
             </h2>
           </ScrollReveal>
           <ScrollReveal variant="fadeRight" delay={0.2} duration={0.9}>
-            <h2 className="mt-1 font-serif text-4xl font-semibold tracking-tight text-[#2C2420]/90 sm:text-5xl lg:text-6xl xl:text-7xl">
+            <h2 className="mt-1 font-serif font-semibold tracking-tight text-[#2C2420]/90" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
               SAPORI & TERRITORIO
             </h2>
           </ScrollReveal>
@@ -62,10 +62,10 @@ export function LaMescolaSection() {
               src="/images/brasato-manzo-polenta-tradizionale-la-vecia-mescola-verona.jpg"
               alt="Cucina veneta — La Vecia Mescola"
               fill
+              loading="lazy"
               className="object-cover object-center transition-transform duration-500 hover:scale-105"
               sizes="(max-width: 1024px) 100vw, 42vw"
               unoptimized
-              priority={false}
             />
           </ParallaxImage>
         </ScrollReveal>

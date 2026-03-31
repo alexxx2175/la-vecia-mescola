@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { MapPin, Phone, Facebook, Instagram } from "lucide-react";
+import { MapPin, Phone } from "lucide-react";
 import { Logo } from "@/components/ui/Logo";
 import { motion } from "framer-motion";
 
@@ -39,7 +39,7 @@ export function Footer() {
             </div>
             <a
               href="tel:+393928699275"
-              className="flex items-center gap-3 text-sm text-[#2C2420]/90 transition-colors hover:text-[#2C2420]"
+              className="flex min-h-[44px] items-center gap-3 text-sm text-[#2C2420]/90 transition-colors hover:text-[#2C2420]"
             >
               <Phone size={18} className="shrink-0" />
               +39 392 869 9275
@@ -62,7 +62,7 @@ export function Footer() {
             <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
               Naviga
             </h4>
-            <nav className="flex flex-col gap-2 text-sm">
+            <nav className="flex flex-col gap-1 text-sm">
               <Link href="/#concept" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">01 Concept</Link>
               <Link href="/menu" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">02 Menu</Link>
               <Link href="/#cucina" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">03 La Cucina</Link>
@@ -76,13 +76,24 @@ export function Footer() {
         </div>
 
         <div className="mt-12 border-t border-[#2C2420]/10 pt-6">
-          <div className="flex flex-wrap items-center justify-center gap-x-2 gap-y-2 text-center text-xs font-medium uppercase tracking-wider text-[#2C2420]/60">
-            <span>Seguici su</span>
+          {/* Instagram prominent link */}
+          <div className="mb-4 text-center">
+            <a
+              href="https://www.instagram.com/laveciamescola"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex min-h-[44px] items-center gap-2 text-sm font-semibold text-[#B8962E] transition-colors hover:text-[#8B4513] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
+            >
+              Seguici su Instagram @laveciamescola
+            </a>
+          </div>
+
+          <div className="flex flex-wrap items-center justify-center gap-x-3 gap-y-2 text-center text-xs font-medium uppercase tracking-wider text-[#2C2420]/60">
             <a
               href="https://wa.me/393928699275"
               target="_blank"
               rel="noopener noreferrer"
-              className="transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
+              className="inline-flex min-h-[44px] min-w-[44px] items-center justify-center transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
             >
               WhatsApp
             </a>
@@ -91,7 +102,7 @@ export function Footer() {
               href="https://www.instagram.com/laveciamescola"
               target="_blank"
               rel="noopener noreferrer"
-              className="transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
+              className="inline-flex min-h-[44px] min-w-[44px] items-center justify-center transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
             >
               Instagram
             </a>
@@ -100,7 +111,7 @@ export function Footer() {
               href="https://www.facebook.com/people/La-Vecia-Mescola/100046353020148/?sk=about&locale=it_IT"
               target="_blank"
               rel="noopener noreferrer"
-              className="transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
+              className="inline-flex min-h-[44px] min-w-[44px] items-center justify-center transition-colors hover:text-[#B8962E] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
             >
               Facebook
             </a>

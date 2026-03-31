@@ -32,7 +32,7 @@ export function AtmosferaSection() {
             Dove Siamo
           </p>
           <div className="mx-auto mt-2 max-w-2xl text-center">
-            <h2 className="font-serif text-4xl font-semibold text-foreground sm:text-5xl">
+            <h2 className="font-serif font-semibold text-foreground" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
               L&apos;Atmosfera
             </h2>
             <div className="mx-auto mt-4 h-px w-16 bg-gold/60" />
@@ -46,6 +46,7 @@ export function AtmosferaSection() {
               src="/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg"
               alt="Ambiente intimo del ristorante La Vecia Mescola — intimate restaurant setting"
               fill
+              loading="lazy"
               className="object-cover"
               sizes="(max-width: 1024px) 100vw, 1024px"
               unoptimized
@@ -53,14 +54,14 @@ export function AtmosferaSection() {
           </div>
         </ScrollReveal>
 
-        <div className="mt-16 grid gap-8 sm:grid-cols-3">
+        <div className="mt-16 grid gap-8 grid-cols-1 sm:grid-cols-3">
           {highlights.map((item, i) => (
             <ScrollReveal key={item.title} delay={i * 0.15}>
               <div className="text-center">
                 <div className="mx-auto flex h-16 w-16 items-center justify-center rounded-full bg-accent/10">
                   <item.icon size={28} className="text-accent" />
                 </div>
-                <h3 className="mt-5 font-serif text-2xl font-semibold text-foreground">
+                <h3 className="mt-5 font-serif font-semibold text-foreground" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>
                   {item.title}
                 </h3>
                 <p className="mt-3 text-sm leading-relaxed text-foreground/70">

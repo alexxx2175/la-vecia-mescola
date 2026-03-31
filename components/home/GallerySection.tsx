@@ -77,6 +77,7 @@ function FlipCard({
               src={back.src}
               alt=""
               fill
+              loading="lazy"
               className="object-cover transition-transform duration-500 group-hover:scale-105"
               sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
               unoptimized
@@ -103,7 +104,7 @@ export function GallerySection() {
         <div className="relative z-10">
         <ScrollReveal duration={0.9}>
           <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">06</p>
-          <h2 className="mt-2 font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+          <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
             GALLERY
           </h2>
         </ScrollReveal>

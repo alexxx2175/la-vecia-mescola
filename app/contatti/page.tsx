@@ -31,7 +31,7 @@ export default function ContattiPage() {
       {/* Hero */}
       <section className="bg-[#EBD9D4] pt-32 pb-16">
         <div className="mx-auto max-w-4xl px-6 text-center lg:px-8">
-          <h1 className="font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+          <h1 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(2rem, 6vw, 4.5rem)" }}>
             Contatti
           </h1>
           <div className="mx-auto mt-4 h-px w-16 bg-[#B8962E]/60" />
@@ -69,7 +69,7 @@ export default function ContattiPage() {
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#B8962E]/20">
                   <MapPin size={22} className="text-[#B8962E]" />
                 </div>
-                <h2 className="font-serif text-2xl font-semibold text-[#2C2420]">
+                <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 1.5rem)" }}>
                   Dove Siamo
                 </h2>
                 <p className="text-[#2C2420]/80">
@@ -86,12 +86,12 @@ export default function ContattiPage() {
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#B8962E]/20">
                   <Phone size={22} className="text-[#B8962E]" />
                 </div>
-                <h2 className="font-serif text-2xl font-semibold text-[#2C2420]">
+                <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 1.5rem)" }}>
                   Telefono
                 </h2>
                 <a
                   href="tel:+393928699275"
-                  className="inline-flex min-h-[48px] items-center text-lg text-[#B8962E] transition-colors hover:text-[#8B4513]"
+                  className="inline-flex min-h-[48px] items-center text-xl font-semibold text-[#B8962E] transition-colors hover:text-[#8B4513] sm:text-2xl"
                 >
                   +39 392 869 9275
                 </a>
@@ -104,7 +104,7 @@ export default function ContattiPage() {
                 <div className="flex h-12 w-12 items-center justify-center rounded-full bg-[#B8962E]/20">
                   <MessageCircle size={22} className="text-[#B8962E]" />
                 </div>
-                <h2 className="font-serif text-2xl font-semibold text-[#2C2420]">
+                <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 1.5rem)" }}>
                   Prenotazioni
                 </h2>
                 <p className="text-[#2C2420]/80">
@@ -119,12 +119,12 @@ export default function ContattiPage() {
             <div className="mt-20">
               <div className="flex items-center gap-3">
                 <Clock size={22} className="text-[#B8962E]" />
-                <h2 className="font-serif text-2xl font-semibold text-[#2C2420]">
+                <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 1.5rem)" }}>
                   Orari di Apertura
                 </h2>
               </div>
-              <div className="mt-6 overflow-x-auto">
-                <table className="w-full text-sm">
+              <div className="mt-6 overflow-x-auto -mx-2 px-2">
+                <table className="w-full min-w-0 text-sm">
                   <thead>
                     <tr className="border-b border-[#2C2420]/10">
                       <th className="py-3 pr-6 text-left font-semibold uppercase tracking-wider text-[#B8962E] text-xs">

@@ -68,7 +68,7 @@ export function EventCard({ title, date, genre, time, location, url, buyUrl, ind
           target="_blank"
           rel="noopener noreferrer"
           aria-disabled={!primaryLink}
-          className={`mt-auto inline-flex min-h-[48px] items-center gap-2 pt-5 text-sm font-semibold transition-colors ${
+          className={`mt-auto inline-flex min-h-[48px] w-full items-center justify-center gap-2 rounded-sm pt-5 text-sm font-semibold transition-colors sm:w-auto sm:justify-start ${
             primaryLink
               ? "text-gold hover:text-gold-hover"
               : "cursor-not-allowed text-foreground/35"

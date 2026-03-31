@@ -19,7 +19,7 @@ export function ContactSection() {
           <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">
             07
           </p>
-          <h2 className="mt-2 font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl">
+          <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
             CONTATTI
           </h2>
           <p className="mt-6 text-sm font-semibold uppercase tracking-wider text-[#2C2420]/70">
@@ -31,10 +31,10 @@ export function ContactSection() {
           <ScrollReveal variant="fadeUp" delay={0.1}>
             <a
               href="tel:+393928699275"
-              className="flex items-center gap-4 transition-colors hover:text-[#8B4513]"
+              className="flex min-h-[48px] items-center gap-4 transition-colors hover:text-[#8B4513]"
             >
               <Phone size={24} className="text-[#B8962E]" />
-              <span className="text-lg text-[#2C2420]">+39 392 869 9275</span>
+              <span className="text-lg font-medium text-[#2C2420]">+39 392 869 9275</span>
             </a>
           </ScrollReveal>
           <ScrollReveal variant="fadeUp" delay={0.2}>

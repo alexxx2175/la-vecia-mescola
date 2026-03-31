@@ -28,7 +28,7 @@ function AllergenLegend({
       <button
         type="button"
         onClick={onToggle}
-        className="flex w-full items-center justify-between text-left text-sm font-medium uppercase tracking-wider text-[#2C2420]/80 transition-colors hover:text-[#2C2420] focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
+        className="flex min-h-[48px] w-full items-center justify-between text-left text-sm font-medium uppercase tracking-wider text-[#2C2420]/80 transition-colors hover:text-[#2C2420] focus:outline-none focus:ring-2 focus:ring-[#B8962E] focus:ring-offset-2 focus:ring-offset-[#EBD9D4]"
         aria-expanded={isOpen}
         aria-controls="allergen-legend"
         id="allergen-legend-button"

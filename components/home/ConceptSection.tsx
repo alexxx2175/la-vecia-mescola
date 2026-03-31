@@ -32,6 +32,7 @@ export function ConceptSection() {
               src="/images/sala-ristorante-panoramica-affreschi-la-vecia-mescola-verona.jpg"
               alt="Interno — La Vecia Mescola"
               fill
+              loading="lazy"
               className="object-cover object-center transition-transform duration-500 hover:scale-105"
               sizes="(max-width: 1024px) 100vw, 40vw"
               unoptimized
@@ -43,7 +44,7 @@ export function ConceptSection() {
         <div className="relative z-10 order-1 flex flex-col justify-center lg:order-2 lg:max-w-md lg:pl-12">
           <ScrollReveal variant="fadeLeft" delay={0.1} duration={0.9}>
             <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">01</p>
-            <h2 className="mt-2 font-serif text-4xl font-semibold text-[#2C2420] sm:text-5xl lg:text-6xl">
+            <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
               CONCEPT
             </h2>
           </ScrollReveal>
