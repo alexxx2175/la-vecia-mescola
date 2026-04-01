@@ -4,11 +4,26 @@ import Link from "next/link";
 import { MapPin, Phone } from "lucide-react";
 import { Logo } from "@/components/ui/Logo";
 import { motion } from "framer-motion";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
+
+const NAV_LINKS = [
+  { href: "/#concept", num: "01", labelKey: "concept" as const },
+  { href: "/menu", num: "02", labelKey: "menu" as const },
+  { href: "/#cucina", num: "03", labelKey: "cucina" as const },
+  { href: "/#cantina", num: "04", labelKey: "cantina" as const },
+  { href: "/#prenotazioni", num: "05", labelKey: "prenotazioni" as const },
+  { href: "/#gallery", num: "06", labelKey: "gallery" as const },
+  { href: "/contatti", num: "07", labelKey: "contatti" as const },
+  { href: "/arena", num: "08", labelKey: "arena" as const },
+] as const;
 
 /**
  * Footer — stile Quay House
  */
 export function Footer() {
+  const { lang } = useSiteLanguage();
+
   return (
     <footer className="relative z-10 border-t border-[#2C2420]/10 bg-[#E5D3CE]">
       <motion.div
@@ -24,14 +39,13 @@ export function Footer() {
           <div>
             <Logo variant="dark" className="text-2xl lg:text-[1.75rem]" asLink />
             <p className="mt-3 text-sm text-[#2C2420]/80">
-              Cucina veneta autentica nel cuore di Verona, a due passi
-              dall&apos;Arena.
+              {t(translations.footer.tagline, lang)}
             </p>
           </div>
 
           <div className="space-y-4">
             <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
-              Contatti
+              {t(translations.footer.contatti, lang)}
             </h4>
             <div className="flex items-start gap-3 text-sm text-[#2C2420]/90">
               <MapPin size={18} className="mt-0.5 shrink-0" />
@@ -48,29 +62,26 @@ export function Footer() {
 
           <div className="space-y-4">
             <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
-              Orari
+              {t(translations.footer.orari, lang)}
             </h4>
             <div className="space-y-1 text-sm text-[#2C2420]/90">
-              <p>Lun: 12:00–23:30</p>
-              <p>Mar–Gio: 12:00–22:30</p>
-              <p>Ven–Sab: 12:00–23:00</p>
-              <p>Dom: 12:00–22:00</p>
+              <p>{t(translations.footer.lun, lang)}: 12:00–23:30</p>
+              <p>{t(translations.footer.mar_gio, lang)}: 12:00–22:30</p>
+              <p>{t(translations.footer.ven_sab, lang)}: 12:00–23:00</p>
+              <p>{t(translations.footer.dom, lang)}: 12:00–22:00</p>
             </div>
           </div>
 
           <div className="space-y-4">
             <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
-              Naviga
+              {t(translations.footer.naviga, lang)}
             </h4>
             <nav className="flex flex-col gap-1 text-sm">
-              <Link href="/#concept" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">01 Concept</Link>
-              <Link href="/menu" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">02 Menu</Link>
-              <Link href="/#cucina" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">03 La Cucina</Link>
-              <Link href="/#cantina" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">04 La Cantina</Link>
-              <Link href="/#prenotazioni" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">05 Prenotazioni</Link>
-              <Link href="/#gallery" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">06 Gallery</Link>
-              <Link href="/contatti" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">07 Contatti</Link>
-              <Link href="/arena" className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">08 Arena</Link>
+              {NAV_LINKS.map((link) => (
+                <Link key={link.href} href={link.href} className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">
+                  {link.num} {t(translations.nav[link.labelKey], lang)}
+                </Link>
+              ))}
             </nav>
           </div>
         </div>
@@ -84,7 +95,7 @@ export function Footer() {
               rel="noopener noreferrer"
               className="inline-flex min-h-[44px] items-center gap-2 text-sm font-semibold text-[#B8962E] transition-colors hover:text-[#8B4513] focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#E5D3CE]"
             >
-              Seguici su Instagram @laveciamescola
+              {t(translations.footer.seguici, lang)} @laveciamescola
             </a>
           </div>
 

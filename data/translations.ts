@@ -137,4 +137,17 @@ export const translations = {
     domenica: { it: "Domenica", en: "Sunday", es: "Domingo", de: "Sonntag", ru: "Воскресенье", ro: "Duminică", zh: "周日", ja: "日曜日" },
     seguici: { it: "Seguici", en: "Follow Us", es: "Síguenos", de: "Folgen Sie uns", ru: "Подписывайтесь", ro: "Urmărește-ne", zh: "关注我们", ja: "フォローする" },
   },
+
+  // FOOTER
+  footer: {
+    tagline: { it: "Cucina veneta autentica nel cuore di Verona, a due passi dall'Arena.", en: "Authentic Venetian cuisine in the heart of Verona, steps from the Arena.", es: "Cocina véneta auténtica en el corazón de Verona, a pasos de la Arena.", de: "Authentische venezianische Küche im Herzen Veronas, wenige Schritte von der Arena.", ru: "Аутентичная венетская кухня в сердце Вероны, в нескольких шагах от Арены.", ro: "Bucătărie venețiană autentică în inima Veronei, la câțiva pași de Arenă.", zh: "维罗纳心脏地带的正宗威尼托美食，距竞技场咫尺之遥。", ja: "アレーナからほど近い、ヴェローナの中心で楽しむ本格ヴェネト料理。" },
+    contatti: { it: "Contatti", en: "Contacts", es: "Contacto", de: "Kontakt", ru: "Контакты", ro: "Contact", zh: "联系方式", ja: "お問い合わせ" },
+    orari: { it: "Orari", en: "Hours", es: "Horarios", de: "Öffnungszeiten", ru: "Часы работы", ro: "Program", zh: "营业时间", ja: "営業時間" },
+    naviga: { it: "Naviga", en: "Navigate", es: "Navegar", de: "Navigation", ru: "Навигация", ro: "Navigare", zh: "导航", ja: "ナビゲーション" },
+    seguici: { it: "Seguici su Instagram", en: "Follow us on Instagram", es: "Síguenos en Instagram", de: "Folgen Sie uns auf Instagram", ru: "Подписывайтесь в Instagram", ro: "Urmărește-ne pe Instagram", zh: "在Instagram上关注我们", ja: "Instagramでフォロー" },
+    lun: { it: "Lun", en: "Mon", es: "Lun", de: "Mo", ru: "Пн", ro: "Lun", zh: "周一", ja: "月" },
+    mar_gio: { it: "Mar–Gio", en: "Tue–Thu", es: "Mar–Jue", de: "Di–Do", ru: "Вт–Чт", ro: "Mar–Joi", zh: "周二至周四", ja: "火〜木" },
+    ven_sab: { it: "Ven–Sab", en: "Fri–Sat", es: "Vie–Sáb", de: "Fr–Sa", ru: "Пт–Сб", ro: "Vin–Sâm", zh: "周五至周六", ja: "金〜土" },
+    dom: { it: "Dom", en: "Sun", es: "Dom", de: "So", ru: "Вс", ro: "Dum", zh: "周日", ja: "日" },
+  },
 } as const;
