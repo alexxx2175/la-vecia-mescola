@@ -4,6 +4,8 @@ import Image from "next/image";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { ParallaxImage } from "@/components/ui/ParallaxImage";
 import { ScrollingDecoText } from "@/components/ui/ScrollingDecoText";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 const galleryCards = [
   {
@@ -89,6 +91,7 @@ function FlipCard({
 }
 
 export function GallerySection() {
+  const { lang } = useSiteLanguage();
   return (
     <section id="gallery" className="relative z-10 overflow-hidden bg-[#EBD9D4] py-20 sm:py-28">
       <div className="relative mx-auto min-h-[100vh] max-w-screen-2xl px-4 lg:px-8">
@@ -101,9 +104,9 @@ export function GallerySection() {
 
         <div className="relative z-10">
         <ScrollReveal duration={0.9}>
-          <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">06</p>
+          <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">{t(translations.gallery.number, lang)}</p>
           <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
-            GALLERY
+            {t(translations.gallery.title, lang)}
           </h2>
         </ScrollReveal>
 

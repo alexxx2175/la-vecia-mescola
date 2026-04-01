@@ -5,6 +5,8 @@ import Link from "next/link";
 import { motion, useScroll, useTransform, type MotionValue } from "framer-motion";
 import { useRef } from "react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 type MenuPreviewItem = {
   key: string;
@@ -182,6 +184,7 @@ function FallingMenuCard({
 }
 
 export function MenuSection() {
+  const { lang } = useSiteLanguage();
   const sectionRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
     target: sectionRef,
@@ -196,8 +199,8 @@ export function MenuSection() {
     >
       <div className="mx-auto max-w-screen-2xl px-4 lg:px-8">
         <ScrollReveal duration={0.9}>
-          <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">02</p>
-          <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>MENU</h2>
+          <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">{t(translations.menuSection.number, lang)}</p>
+          <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>{t(translations.menuSection.title, lang)}</h2>
         </ScrollReveal>
 
         <div className="mt-8 grid grid-cols-2 gap-3 md:grid-cols-4 md:gap-4">
@@ -214,7 +217,7 @@ export function MenuSection() {
               href="/menu"
               className="inline-block text-sm font-semibold uppercase tracking-[0.22em] text-[#2C2420] transition-colors hover:text-[#B8962E]"
             >
-              ⬧ SCOPRI IL MENU ⬧
+              {t(translations.menuSection.cta, lang)}
             </Link>
           </div>
         </ScrollReveal>

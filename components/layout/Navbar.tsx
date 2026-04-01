@@ -6,18 +6,20 @@ import { usePathname } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 const WHATSAPP_URL = "https://wa.me/393928699275";
 
 const NAV_LINKS = [
-  { href: "/#concept", num: "01", label: "CONCEPT" },
-  { href: "/menu", num: "02", label: "MENU" },
-  { href: "/#cucina", num: "03", label: "LA CUCINA" },
-  { href: "/#cantina", num: "04", label: "LA CANTINA" },
-  { href: "/#prenotazioni", num: "05", label: "PRENOTAZIONI" },
-  { href: "/#gallery", num: "06", label: "GALLERY" },
-  { href: "/contatti", num: "07", label: "CONTATTI" },
-  { href: "/arena", num: "08", label: "ARENA" },
+  { href: "/#concept", num: "01", labelKey: "concept" as const },
+  { href: "/menu", num: "02", labelKey: "menu" as const },
+  { href: "/#cucina", num: "03", labelKey: "cucina" as const },
+  { href: "/#cantina", num: "04", labelKey: "cantina" as const },
+  { href: "/#prenotazioni", num: "05", labelKey: "prenotazioni" as const },
+  { href: "/#gallery", num: "06", labelKey: "gallery" as const },
+  { href: "/contatti", num: "07", labelKey: "contatti" as const },
+  { href: "/arena", num: "08", labelKey: "arena" as const },
 ] as const;
 
 export function Navbar() {
@@ -25,6 +27,7 @@ export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
   const forceScrolled = pathname === "/arena";
+  const { lang } = useSiteLanguage();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -76,7 +79,7 @@ export function Navbar() {
               >
                 <span className={scrolled || forceScrolled ? "text-[#B8962E]" : "text-[#B8962E]/90"}>{link.num}</span>
                 <span className="transition-transform duration-300 group-hover:translate-x-0.5">
-                  {link.label}
+                  {t(translations.nav[link.labelKey], lang)}
                 </span>
               </Link>
             ))}
@@ -98,7 +101,7 @@ export function Navbar() {
                   : "bg-white/20 text-white hover:bg-white/30 backdrop-blur-sm"
               }`}
             >
-              Prenota
+              {t(translations.nav.prenota, lang)}
             </motion.a>
           </div>
 
@@ -161,7 +164,7 @@ export function Navbar() {
                       className="flex min-h-[48px] items-center gap-2 border-l-2 border-transparent px-6 py-3 text-sm uppercase tracking-widest text-[#2C2420]/80 transition-all hover:border-[#B8962E] hover:text-[#B8962E]"
                     >
                       <span className="text-xs text-[#B8962E]">{link.num}</span>
-                      {link.label}
+                      {t(translations.nav[link.labelKey], lang)}
                     </Link>
                   </motion.div>
                 ))}
@@ -178,7 +181,7 @@ export function Navbar() {
                     onClick={() => setMobileOpen(false)}
                     className="flex w-full min-h-[48px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
                   >
-                    Prenota
+                    {t(translations.nav.prenota, lang)}
                   </a>
                 </motion.div>
               </div>

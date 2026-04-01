@@ -3,37 +3,39 @@
 import Image from "next/image";
 import { Landmark, MapPin, Heart } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
-
-const highlights = [
-  {
-    icon: Heart,
-    title: "Locale Intimo",
-    text: "Un ambiente caldo e accogliente dove sentirsi a casa. Mattoni a vista, luci soffuse e un servizio attento che fa la differenza.",
-  },
-  {
-    icon: MapPin,
-    title: "Centro Storico",
-    text: "In Vicolo Chiodo 4, nel cuore pulsante di Verona. A pochi passi da Piazza Bra, Piazza delle Erbe e i monumenti più amati della città.",
-  },
-  {
-    icon: Landmark,
-    title: "Vicino all'Arena",
-    text: "A soli 200 metri dall'Arena di Verona. La scelta ideale per una cena prima dello spettacolo o dopo una passeggiata serale.",
-  },
-] as const;
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 export function AtmosferaSection() {
+  const { lang } = useSiteLanguage();
+  const highlights = [
+    {
+      icon: Heart,
+      title: t(translations.atmosfera.card1_title, lang),
+      text: t(translations.atmosfera.card1_desc, lang),
+    },
+    {
+      icon: MapPin,
+      title: t(translations.atmosfera.card2_title, lang),
+      text: t(translations.atmosfera.card2_desc, lang),
+    },
+    {
+      icon: Landmark,
+      title: t(translations.atmosfera.card3_title, lang),
+      text: t(translations.atmosfera.card3_desc, lang),
+    },
+  ];
   return (
     <section className="relative z-10 py-24 sm:py-32">
       <div className="mx-auto max-w-screen-2xl px-6 lg:px-8">
         {/* Section enters with zoom */}
         <ScrollReveal variant="zoomIn">
           <p className="text-center text-sm font-medium uppercase tracking-[0.3em] text-gold">
-            Dove Siamo
+            {t(translations.atmosfera.where, lang)}
           </p>
           <div className="mx-auto mt-2 max-w-2xl text-center">
             <h2 className="font-serif font-semibold text-foreground" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
-              L&apos;Atmosfera
+              {t(translations.atmosfera.title, lang)}
             </h2>
             <div className="mx-auto mt-4 h-px w-16 bg-gold/60" />
           </div>

@@ -4,6 +4,8 @@ import Image from "next/image";
 import Link from "next/link";
 import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
 import { useRef, useState, useEffect } from "react";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 const QUAY_EASE = [0.22, 1, 0.36, 1] as const;
 
@@ -13,6 +15,7 @@ const HERO_IMAGES = [
 ];
 
 export function HeroSection() {
+  const { lang } = useSiteLanguage();
   const ref = useRef<HTMLElement>(null);
   const [current, setCurrent] = useState(0);
   const { scrollYProgress } = useScroll({
@@ -73,7 +76,7 @@ export function HeroSection() {
           className="font-semibold leading-[1.1] tracking-tight text-white italic"
           style={{ fontFamily: "var(--font-viva)", fontSize: "clamp(2.5rem, 8vw, 4.5rem)" }}
         >
-          La Vecia Mescola
+          {t(translations.hero.title, lang)}
         </motion.h1>
         <motion.p
           initial={{ opacity: 0 }}
@@ -81,7 +84,7 @@ export function HeroSection() {
           transition={{ duration: 1, delay: 0.6, ease: QUAY_EASE }}
           className="mt-4 text-base text-white/90 sm:text-xl"
         >
-          Cucina veneta autentica nel cuore di Verona.
+          {t(translations.hero.subtitle, lang)}
         </motion.p>
 
         {/* Separatore Quay House: ⬧ MENU ⬧ */}
@@ -96,7 +99,7 @@ export function HeroSection() {
             href="/menu"
             className="inline-flex min-h-[48px] items-center text-sm font-medium uppercase tracking-[0.35em] text-white transition-colors duration-300 hover:text-white/90"
           >
-            Menu
+            {t(translations.hero.cta, lang)}
           </Link>
           <span className="h-px w-12 bg-white/50" />
         </motion.div>
@@ -115,7 +118,7 @@ export function HeroSection() {
           className="flex flex-col items-center gap-2"
         >
           <span className="text-[10px] uppercase tracking-[0.3em] text-white/60">
-            Scorri
+            {t(translations.hero.scroll, lang)}
           </span>
           <div className="h-8 w-5 rounded-full border-2 border-white/40 p-1">
             <div className="mx-auto h-1.5 w-1 rounded-full bg-white/70" />

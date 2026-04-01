@@ -4,21 +4,8 @@ import Image from "next/image";
 import { motion } from "framer-motion";
 import { Star, Quote } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
-
-const testimonials = [
-  {
-    name: "Rossella",
-    text: "Cura dei dettagli estetici e soprattutto della qualità. Assolutamente consigliato, specialmente per il famoso risotto all'Amarone.",
-  },
-  {
-    name: "Giuseppe",
-    text: "Il locale è a pochi passi da Piazza Bra, ci hanno fatto sentire in famiglia e gustare delle ottime pietanze.",
-  },
-  {
-    name: "Marco",
-    text: "Ottima scelta per una cena romantica nella città dell'amore.",
-  },
-] as const;
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 function AnimatedStars() {
   return (
@@ -43,6 +30,12 @@ function AnimatedStars() {
 }
 
 export function TestimonialsSection() {
+  const { lang } = useSiteLanguage();
+  const testimonials = [
+    { name: "Rossella", text: t(translations.testimonials.t1, lang) },
+    { name: "Giuseppe", text: t(translations.testimonials.t2, lang) },
+    { name: "Marco", text: t(translations.testimonials.t3, lang) },
+  ];
   return (
     <section className="relative z-10 overflow-hidden py-24 sm:py-32">
       {/* Background decorative image */}
@@ -60,11 +53,11 @@ export function TestimonialsSection() {
       <div className="relative z-10 mx-auto max-w-7xl px-6 lg:px-8">
         <ScrollReveal>
           <p className="text-center text-sm font-medium uppercase tracking-[0.3em] text-gold">
-            Recensioni
+            {t(translations.testimonials.label, lang)}
           </p>
           <div className="mx-auto mt-2 max-w-2xl text-center">
             <h2 className="font-serif font-semibold text-foreground" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
-              I Nostri Ospiti
+              {t(translations.testimonials.title, lang)}
             </h2>
             <div className="mx-auto mt-4 h-px w-16 bg-gold/60" />
           </div>
@@ -73,9 +66,9 @@ export function TestimonialsSection() {
         {/* Mobile: horizontal scroll snap / Desktop: grid */}
         <div className="mt-16 -mx-6 px-6 sm:mx-0 sm:px-0">
           <div className="flex gap-6 overflow-x-auto snap-x snap-mandatory pb-4 scrollbar-hide sm:grid sm:grid-cols-3 sm:overflow-visible sm:pb-0">
-            {testimonials.map((t, i) => (
+            {testimonials.map((item, i) => (
               <ScrollReveal
-                key={t.name}
+                key={item.name}
                 delay={i * 0.15}
                 className="w-[85vw] shrink-0 snap-center sm:w-auto"
               >
@@ -88,12 +81,12 @@ export function TestimonialsSection() {
                 >
                   <Quote size={24} className="text-gold/40" />
                   <p className="mt-4 text-sm italic leading-relaxed text-foreground/80">
-                    &ldquo;{t.text}&rdquo;
+                    &ldquo;{item.text}&rdquo;
                   </p>
                   <div className="mt-6 flex items-center gap-2">
                     <AnimatedStars />
                     <span className="text-sm font-semibold text-foreground">
-                      — {t.name}
+                      — {item.name}
                     </span>
                   </div>
                 </motion.div>

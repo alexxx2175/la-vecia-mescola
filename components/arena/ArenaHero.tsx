@@ -1,20 +1,24 @@
 "use client";
 
 import { motion } from "framer-motion";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 const WHATSAPP_URL = "https://wa.me/393928699275";
 
-const defaultTitle = "EVENTI A VERONA";
-
 export function ArenaHero({
-  title = defaultTitle,
-  kicker = "Stagione, concerti e spettacoli",
-  subtitle = "Scopri cosa vedere a Verona e acquista i biglietti.",
+  title: titleProp,
+  kicker: kickerProp,
+  subtitle: subtitleProp,
 }: {
   title?: string;
   kicker?: string;
   subtitle?: string;
 }) {
+  const { lang } = useSiteLanguage();
+  const title = titleProp ?? t(translations.arena.title, lang);
+  const kicker = kickerProp ?? t(translations.arena.kicker, lang);
+  const subtitle = subtitleProp ?? t(translations.arena.subtitle, lang);
   return (
     <section className="relative flex min-h-[70svh] items-center justify-center overflow-hidden bg-[#EBD9D4]">
       <div className="absolute inset-0 bg-gradient-to-b from-[#EBD9D4] via-[#EBD9D4]/70 to-transparent" />
@@ -104,7 +108,7 @@ export function ArenaHero({
             rel="noopener noreferrer"
             className="inline-flex min-h-[48px] items-center gap-2 rounded-sm bg-[#2C2420] px-8 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
           >
-            Prenota il Tavolo
+            {t(translations.arena.cta, lang)}
           </a>
         </motion.div>
       </div>

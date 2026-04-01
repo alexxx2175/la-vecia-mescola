@@ -5,11 +5,14 @@ import { UtensilsCrossed } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { ParallaxImage } from "@/components/ui/ParallaxImage";
 import { ScrollingDecoText } from "@/components/ui/ScrollingDecoText";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 /**
  * Layout Quay House: immagine verticale a sx, testo a dx — staggered
  */
 export function CucinaSection() {
+  const { lang } = useSiteLanguage();
   return (
     <section
       id="cucina"
@@ -40,33 +43,31 @@ export function CucinaSection() {
         {/* Testo a destra */}
         <div className="relative z-10 order-1 flex flex-col justify-center lg:order-2 lg:max-w-lg lg:pb-20">
           <ScrollReveal variant="fadeLeft" delay={0.1}>
-            <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">03</p>
+            <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">{t(translations.cucina.number, lang)}</p>
             <div className="mt-2 flex items-center gap-3">
               <UtensilsCrossed size={28} className="text-[#B8962E]" />
               <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
-                LA CUCINA
+                {t(translations.cucina.title, lang)}
               </h2>
             </div>
           </ScrollReveal>
           <div className="mt-10 space-y-6">
             <ScrollReveal variant="fadeLeft" delay={0.2}>
-              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>Pasta Fresca</h3>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>{t(translations.cucina.pasta_title, lang)}</h3>
               <p className="mt-2 text-[#2C2420]/90">
-                Fatta in casa ogni giorno con farine selezionate e uova fresche. Bigoli, pappardelle,
-                tagliolini — la tradizione veneta nel piatto.
+                {t(translations.cucina.pasta_desc, lang)}
               </p>
             </ScrollReveal>
             <ScrollReveal variant="fadeLeft" delay={0.3}>
-              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>Risotto all&apos;Amarone</h3>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>{t(translations.cucina.risotto_title, lang)}</h3>
               <p className="mt-2 text-[#2C2420]/90">
-                Il nostro piatto simbolo: riso Vialone Nano mantecato con Amarone della Valpolicella,
-                radicchio e fonduta veneta.
+                {t(translations.cucina.risotto_desc, lang)}
               </p>
             </ScrollReveal>
             <ScrollReveal variant="fadeLeft" delay={0.4}>
-              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>Ingredienti Freschi</h3>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>{t(translations.cucina.freschi_title, lang)}</h3>
               <p className="mt-2 text-[#2C2420]/90">
-                Materie prime locali e di stagione dal territorio veronese.
+                {t(translations.cucina.freschi_desc, lang)}
               </p>
             </ScrollReveal>
           </div>

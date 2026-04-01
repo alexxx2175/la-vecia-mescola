@@ -5,26 +5,28 @@ import { Wine } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { ParallaxImage } from "@/components/ui/ParallaxImage";
 import { ScrollingDecoText } from "@/components/ui/ScrollingDecoText";
-
-const wines = [
-  {
-    name: "Amarone della Valpolicella",
-    description: "Il re dei vini veronesi. Rosso intenso, corposo e avvolgente.",
-  },
-  {
-    name: "Soave Classico",
-    description: "Bianco elegante dai Colli Scaligeri. Fresco e minerale.",
-  },
-  {
-    name: "Valpolicella Ripasso",
-    description: "Strutturato e morbido, eccellente con secondi di carne.",
-  },
-] as const;
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { translations, t } from "@/data/translations";
 
 /**
  * Layout Quay House: testo a sx, immagine verticale a dx — staggered (immagine più in basso)
  */
 export function CantinaSection() {
+  const { lang } = useSiteLanguage();
+  const wines = [
+    {
+      name: t(translations.cantina.amarone_title, lang),
+      description: t(translations.cantina.amarone_desc, lang),
+    },
+    {
+      name: t(translations.cantina.soave_title, lang),
+      description: t(translations.cantina.soave_desc, lang),
+    },
+    {
+      name: t(translations.cantina.ripasso_title, lang),
+      description: t(translations.cantina.ripasso_desc, lang),
+    },
+  ];
   return (
     <section
       id="cantina"
@@ -34,16 +36,15 @@ export function CantinaSection() {
         {/* Testo a sinistra */}
         <div className="relative z-10 order-1 flex flex-col justify-center lg:order-1 lg:max-w-lg lg:pb-32">
           <ScrollReveal variant="fadeRight" delay={0.1}>
-            <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">04</p>
+            <p className="text-sm font-medium uppercase tracking-[0.3em] text-[#2C2420]/60">{t(translations.cantina.number, lang)}</p>
             <div className="mt-2 flex items-center gap-3">
               <Wine size={28} className="text-[#B8962E]" />
               <h2 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
-                LA CANTINA
+                {t(translations.cantina.title, lang)}
               </h2>
             </div>
             <p className="mt-6 text-[#2C2420]/90">
-              Una selezione di vini della Valpolicella e del territorio veronese, scelti per
-              accompagnare ogni piatto.
+              {t(translations.cantina.intro, lang)}
             </p>
           </ScrollReveal>
           <div className="mt-10 space-y-4">
