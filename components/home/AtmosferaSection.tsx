@@ -49,7 +49,6 @@ export function AtmosferaSection() {
               loading="lazy"
               className="object-cover"
               sizes="(max-width: 1024px) 100vw, 1024px"
-              unoptimized
             />
           </div>
         </ScrollReveal>

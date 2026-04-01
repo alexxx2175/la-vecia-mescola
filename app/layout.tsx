@@ -141,6 +141,11 @@ export default function RootLayout({
       className={`${playfair.variable} ${lato.variable} h-full antialiased`}
     >
       <head>
+        <link
+          rel="preload"
+          as="image"
+          href="/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg"
+        />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}

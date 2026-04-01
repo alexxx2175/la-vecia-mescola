@@ -74,7 +74,6 @@ export function CantinaSection() {
                 loading="lazy"
                 className="object-cover object-center transition-transform duration-500 hover:scale-105"
                 sizes="(max-width: 1024px) 100vw, 45vw"
-                unoptimized
               />
             </ParallaxImage>
             <div className="pointer-events-none absolute inset-0 z-[2] flex items-center justify-center overflow-visible">

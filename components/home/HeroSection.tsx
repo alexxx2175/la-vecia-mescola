@@ -51,7 +51,7 @@ export function HeroSection() {
                 alt="La Vecia Mescola — Cucina veneta nel cuore di Verona"
                 fill
                 priority={current === 0}
-                unoptimized
+                quality={75}
                 className="object-cover"
                 sizes="100vw"
               />

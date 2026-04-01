@@ -65,7 +65,6 @@ function FlipCard({
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-105"
               sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
-              unoptimized
               priority={i < 3}
             />
             <div className="absolute inset-0 bg-black/0 transition-colors duration-500 group-hover:bg-black/10" />
@@ -80,7 +79,6 @@ function FlipCard({
               loading="lazy"
               className="object-cover transition-transform duration-500 group-hover:scale-105"
               sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
-              unoptimized
             />
             <div className="absolute inset-0 bg-black/0 transition-colors duration-500 group-hover:bg-black/10" />
           </div>

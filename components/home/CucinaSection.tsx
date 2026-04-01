@@ -33,7 +33,6 @@ export function CucinaSection() {
               loading="lazy"
               className="object-cover object-center transition-transform duration-500 hover:scale-105"
               sizes="(max-width: 1024px) 100vw, 45vw"
-              unoptimized
             />
           </ParallaxImage>
         </ScrollReveal>

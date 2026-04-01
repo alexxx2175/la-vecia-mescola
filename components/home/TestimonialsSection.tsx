@@ -54,7 +54,6 @@ export function TestimonialsSection() {
           loading="lazy"
           className="object-cover opacity-10"
           sizes="100vw"
-          unoptimized
         />
       </div>
 

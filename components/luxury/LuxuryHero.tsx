@@ -20,7 +20,6 @@ export function LuxuryHero() {
           fill
           className="object-cover"
           sizes="100vw"
-          unoptimized
           priority
         />
         <div className="absolute inset-0 bg-black/40" />
