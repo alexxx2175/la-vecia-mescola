@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     template: "%s — La Vecia Mescola",
   },
   description:
-    "Cucina veneta autentica a due passi dall'Arena di Verona. Pasta fresca fatta in casa, risotto all'Amarone, vini della Valpolicella. Vicolo Chiodo 4, Verona.",
+    "La Vecia Mescola — trattoria storica nel cuore di Verona dal centro storico. Pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand. A 2 minuti dall'Arena di Verona. Prenota su WhatsApp.",
   keywords: [
     "ristorante Verona",
     "cucina veneta",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     siteName: "La Vecia Mescola Dell'Oste",
     title: "La Vecia Mescola Dell'Oste — Ristorante Verona",
     description:
-      "Cucina veneta autentica a due passi dall'Arena di Verona. Pasta fresca, risotto all'Amarone, vini della Valpolicella.",
+      "La Vecia Mescola — trattoria storica nel cuore di Verona. Pasta fresca, risotto all'Amarone, bistecca Chateaubriand. A 2 minuti dall'Arena. Prenota su WhatsApp.",
     images: [
       {
         url: "/og-image.jpg",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "La Vecia Mescola Dell'Oste — Ristorante Verona",
     description:
-      "Cucina veneta autentica a due passi dall'Arena di Verona. Pasta fresca, risotto all'Amarone.",
+      "La Vecia Mescola — trattoria storica nel cuore di Verona. Pasta fresca, risotto all'Amarone, bistecca Chateaubriand. A 2 minuti dall'Arena. Prenota su WhatsApp.",
     images: ["/og-image.jpg"],
   },
   alternates: {
