@@ -1335,7 +1335,7 @@
     "location": "Teatro Filarmonico",
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/il-lago-dei-cigni/",
-    "buy_url": "https://shop.fondazionearena.it/?filter_show=Il%20Lago%20Dei%20Cigni",
+    "buy_url": "https://shop.arena.it/it/event/il-lago-dei-cigni/283410",
     "image": null
   },
   {
@@ -1355,13 +1355,13 @@
     "id": "arena_2026-12-31_il_lago_dei_cigni",
     "title": "Il Lago dei Cigni",
     "date": "2026-12-31",
-    "time": "19:00",
+    "time": "19:30",
     "type": "Balletto",
     "venue_type": "Teatro Filarmonico",
     "location": "Teatro Filarmonico",
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/il-lago-dei-cigni/",
-    "buy_url": "https://shop.fondazionearena.it/?filter_show=Il%20Lago%20Dei%20Cigni",
+    "buy_url": "https://shop.arena.it/it/event/il-lago-dei-cigni/299154",
     "image": null
   }
 ]
