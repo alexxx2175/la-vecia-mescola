@@ -1,31 +1,5 @@
 [
   {
-    "id": "arena_2026-04-04_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-04-04",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540410&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-04-04_rossini_petite_messe_solennell",
-    "title": "Rossini Petite Messe Solennelle",
-    "date": "2026-04-04",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/rossini-petite-messe-solennelle/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134400&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-10_berlioz_fantastique",
     "title": "Berlioz Fantastique",
     "date": "2026-04-10",
@@ -65,19 +39,6 @@
     "image": null
   },
   {
-    "id": "arena_2026-04-18_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-04-18",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540411&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-18_musorgskij_quadri",
     "title": "Musorgskij Quadri",
     "date": "2026-04-18",
@@ -88,6 +49,19 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/musorgskij-quadri/",
     "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134404&amp;tcode=vt0020008",
+    "image": null
+  },
+  {
+    "id": "arena_2026-04-18_visita_guidata_a_teatro_|_le_s",
+    "title": "Visita guidata a teatro | Le Sale della Musica",
+    "date": "2026-04-18",
+    "time": "10:30",
+    "type": "Visita guidata",
+    "venue_type": "Teatro Filarmonico",
+    "location": "Teatro Filarmonico",
+    "source": "arena.it",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
+    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540411&amp;tcode=vt0020008",
     "image": null
   },
   {
