@@ -150,4 +150,10 @@ export const translations = {
     ven_sab: { it: "Ven–Sab", en: "Fri–Sat", es: "Vie–Sáb", de: "Fr–Sa", ru: "Пт–Сб", ro: "Vin–Sâm", zh: "周五至周六", ja: "金〜土" },
     dom: { it: "Dom", en: "Sun", es: "Dom", de: "So", ru: "Вс", ro: "Dum", zh: "周日", ja: "日" },
   },
+  // CULTURA EVENTS
+  cultura_section: {
+    title: { it: "Eventi Culturali a Verona", en: "Cultural Events in Verona", es: "Eventos Culturales en Verona", de: "Kulturveranstaltungen in Verona", ru: "Культурные события в Вероне", ro: "Evenimente Culturale în Verona", zh: "维罗纳文化活动", ja: "ヴェローナの文化イベント" },
+    subtitle: { it: "Mostre, fiere, concerti e molto altro in città", en: "Exhibitions, fairs, concerts and more in the city", es: "Exposiciones, ferias, conciertos y más en la ciudad", de: "Ausstellungen, Messen, Konzerte und mehr in der Stadt", ru: "Выставки, ярмарки, концерты и многое другое", ro: "Expoziții, târguri, concerte și multe altele", zh: "展览、博览会、音乐会及更多", ja: "展覧会、見本市、コンサートなど" },
+    more: { it: "Scopri di più", en: "Learn more", es: "Descubrir más", de: "Mehr erfahren", ru: "Узнать больше", ro: "Află mai multe", zh: "了解更多", ja: "詳細を見る" },
+  },
 } as const;

@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
+import fs from "node:fs";
+import path from "node:path";
 import { ArenaEventsClient } from "@/components/arena/ArenaEventsClient";
 import { GermanArenaSection } from "@/components/arena/GermanArenaSection";
+import { CulturaEventsSection, type CulturaEvent } from "@/components/arena/CulturaEventsSection";
 
 export const metadata: Metadata = {
   title: "Eventi a Verona — La Vecia Mescola",
@@ -27,11 +30,26 @@ export const metadata: Metadata = {
   },
 };
 
+function loadCulturaEvents(): CulturaEvent[] {
+  try {
+    const filePath = path.join(process.cwd(), "public", "data", "events-cultura.json");
+    if (!fs.existsSync(filePath)) return [];
+    const raw = fs.readFileSync(filePath, "utf-8");
+    const parsed: unknown = JSON.parse(raw);
+    return Array.isArray(parsed) ? (parsed as CulturaEvent[]) : [];
+  } catch {
+    return [];
+  }
+}
+
 export default function ArenaPage() {
+  const culturaEvents = loadCulturaEvents();
+
   return (
     <>
       <ArenaEventsClient />
       <GermanArenaSection />
+      <CulturaEventsSection events={culturaEvents} />
     </>
   );
 }
