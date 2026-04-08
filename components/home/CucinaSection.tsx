@@ -16,7 +16,7 @@ export function CucinaSection() {
   return (
     <section
       id="cucina"
-      className="relative min-h-[120vh] overflow-hidden bg-[#EBD9D4] pt-14 pb-7 sm:pt-20 sm:pb-10"
+      className="relative min-h-[120vh] overflow-hidden bg-[#EBD9D4] pt-14 pb-4 sm:pt-20 sm:pb-5"
     >
       <div className="relative mx-auto flex min-h-[100vh] max-w-screen-2xl flex-col items-stretch px-4 lg:flex-row lg:items-end lg:gap-16 lg:px-8">
         {/* Testo decorativo — scorre sotto l'immagine */}

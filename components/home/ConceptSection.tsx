@@ -15,7 +15,7 @@ import { translations, t } from "@/data/translations";
 export function ConceptSection() {
   const { lang } = useSiteLanguage();
   return (
-    <section id="concept" className="relative min-h-[110vh] overflow-hidden bg-[#EBD9D4] py-16 lg:py-24">
+    <section id="concept" className="relative min-h-[110vh] overflow-hidden bg-[#EBD9D4] py-8 lg:py-12">
       <div className="relative mx-auto flex min-h-[90vh] max-w-screen-2xl flex-col items-stretch px-4 lg:flex-row lg:items-start lg:gap-8 lg:px-8">
         {/* Testo decorativo — z-0, scorre sotto l'immagine (z-20) */}
         <div className="absolute inset-0 z-0 flex min-h-full items-center justify-center overflow-visible">

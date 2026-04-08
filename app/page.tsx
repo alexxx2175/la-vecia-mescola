@@ -5,6 +5,7 @@ import { MenuSection } from "@/components/home/MenuSection";
 import { CucinaSection } from "@/components/home/CucinaSection";
 import { CantinaSection } from "@/components/home/CantinaSection";
 import { ReservationsSection } from "@/components/home/ReservationsSection";
+import { EventsTeaserSection } from "@/components/home/EventsTeaserSection";
 import { GallerySection } from "@/components/home/GallerySection";
 
 const faqJsonLd = {
@@ -68,6 +69,7 @@ export default function HomePage() {
       <CucinaSection />
       <CantinaSection />
       <ReservationsSection />
+      <EventsTeaserSection />
       <GallerySection />
     </>
   );

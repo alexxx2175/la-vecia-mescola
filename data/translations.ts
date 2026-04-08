@@ -160,6 +160,13 @@ export const translations = {
     ven_sab: { it: "Ven–Sab", en: "Fri–Sat", es: "Vie–Sáb", de: "Fr–Sa", ru: "Пт–Сб", ro: "Vin–Sâm", zh: "周五至周六", ja: "金〜土" },
     dom: { it: "Dom", en: "Sun", es: "Dom", de: "So", ru: "Вс", ro: "Dum", zh: "周日", ja: "日" },
   },
+  // EVENTS TEASER (homepage)
+  events_teaser: {
+    title: { it: "Prossimi Spettacoli all'Arena", en: "Upcoming Arena Shows", es: "Próximos Espectáculos en la Arena", de: "Kommende Arena-Aufführungen", ru: "Ближайшие спектакли в Арене", ro: "Spectacole Viitoare la Arenă", zh: "竞技场近期演出", ja: "アレーナ近日公演" },
+    cta: { it: "Vedi tutti gli eventi →", en: "See all events →", es: "Ver todos los eventos →", de: "Alle Events ansehen →", ru: "Все события →", ro: "Vezi toate evenimentele →", zh: "查看所有活动 →", ja: "すべてのイベントを見る →" },
+    book: { it: "Prenota il tavolo", en: "Book a table", es: "Reservar mesa", de: "Tisch reservieren", ru: "Забронировать столик", ro: "Rezervă o masă", zh: "预订餐桌", ja: "テーブルを予約" },
+  },
+
   // CULTURA EVENTS
   cultura_section: {
     title: { it: "Eventi Culturali a Verona", en: "Cultural Events in Verona", es: "Eventos Culturales en Verona", de: "Kulturveranstaltungen in Verona", ru: "Культурные события в Вероне", ro: "Evenimente Culturale în Verona", zh: "维罗纳文化活动", ja: "ヴェローナの文化イベント" },

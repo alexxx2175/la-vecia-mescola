@@ -13,7 +13,7 @@ import { translations, t } from "@/data/translations";
 export function LaMescolaSection() {
   const { lang } = useSiteLanguage();
   return (
-    <section className="relative min-h-[110vh] overflow-hidden bg-[#EBD9D4] py-16 lg:py-24">
+    <section className="relative min-h-[110vh] overflow-hidden bg-[#EBD9D4] py-8 lg:py-12">
       <div className="relative mx-auto flex min-h-[90vh] max-w-screen-2xl flex-col items-stretch px-4 lg:flex-row lg:items-end lg:gap-12 lg:px-8">
         {/* Testo decorativo — Passato da sx→dx, Sapori da dx→sx */}
         <div className="absolute inset-0 z-0 flex min-h-full flex-col items-center justify-center gap-2 overflow-visible">
