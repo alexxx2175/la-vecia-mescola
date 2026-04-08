@@ -172,5 +172,12 @@ export const translations = {
     title: { it: "Eventi Culturali a Verona", en: "Cultural Events in Verona", es: "Eventos Culturales en Verona", de: "Kulturveranstaltungen in Verona", ru: "Культурные события в Вероне", ro: "Evenimente Culturale în Verona", zh: "维罗纳文化活动", ja: "ヴェローナの文化イベント" },
     subtitle: { it: "Mostre, fiere, concerti e molto altro in città", en: "Exhibitions, fairs, concerts and more in the city", es: "Exposiciones, ferias, conciertos y más en la ciudad", de: "Ausstellungen, Messen, Konzerte und mehr in der Stadt", ru: "Выставки, ярмарки, концерты и многое другое", ro: "Expoziții, târguri, concerte și multe altele", zh: "展览、博览会、音乐会及更多", ja: "展覧会、見本市、コンサートなど" },
     more: { it: "Scopri di più", en: "Learn more", es: "Descubrir más", de: "Mehr erfahren", ru: "Узнать больше", ro: "Află mai multe", zh: "了解更多", ja: "詳細を見る" },
+    this_week: { it: "Questa settimana", en: "This week", es: "Esta semana", de: "Diese Woche", ru: "На этой неделе", ro: "Săptămâna aceasta", zh: "本周", ja: "今週" },
+    next_week: { it: "Prossima settimana", en: "Next week", es: "Próxima semana", de: "Nächste Woche", ru: "На следующей неделе", ro: "Săptămâna viitoare", zh: "下周", ja: "来週" },
+    two_weeks: { it: "Prossime 2 settimane", en: "Next 2 weeks", es: "Próximas 2 semanas", de: "Nächste 2 Wochen", ru: "Следующие 2 недели", ro: "Următoarele 2 săptămâni", zh: "未来2周", ja: "今後2週間" },
+    this_month: { it: "Questo mese", en: "This month", es: "Este mes", de: "Diesen Monat", ru: "В этом месяце", ro: "Luna aceasta", zh: "本月", ja: "今月" },
+    all_upcoming: { it: "Tutti i prossimi", en: "All upcoming", es: "Todos los próximos", de: "Alle kommenden", ru: "Все предстоящие", ro: "Toate viitoare", zh: "所有即将到来的", ja: "今後すべて" },
+    no_events: { it: "Nessun evento in questo periodo", en: "No events in this period", es: "No hay eventos en este período", de: "Keine Veranstaltungen in diesem Zeitraum", ru: "Нет событий в этот период", ro: "Niciun eveniment în această perioadă", zh: "此期间没有活动", ja: "この期間のイベントはありません" },
+    source_filter: { it: "Tutte le fonti", en: "All sources", es: "Todas las fuentes", de: "Alle Quellen", ru: "Все источники", ro: "Toate sursele", zh: "所有来源", ja: "すべてのソース" },
   },
 } as const;
