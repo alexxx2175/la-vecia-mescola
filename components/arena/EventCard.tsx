@@ -20,11 +20,11 @@ export function EventCard({ title, date, genre, time, location, url, buyUrl, ind
   const detailsLink = url;
 
   return (
-    <ScrollReveal delay={index * 0.1}>
+    <ScrollReveal delay={index * 0.01}>
       <motion.div
         whileHover={{
           y: -4,
-          transition: { duration: 0.2 },
+          transition: { duration: 0.02 },
         }}
         className="group relative flex h-full flex-col rounded-lg border border-foreground/10 bg-foreground/[0.03] p-6 pl-5 transition-shadow duration-300 hover:border-gold/30 hover:shadow-lg hover:shadow-gold/5"
       >

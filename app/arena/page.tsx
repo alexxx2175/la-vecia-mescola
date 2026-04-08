@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import fs from "node:fs";
 import path from "node:path";
 import { ArenaEventsClient } from "@/components/arena/ArenaEventsClient";
+import { ArenaQuickNav } from "@/components/arena/ArenaQuickNav";
 import { GermanArenaSection } from "@/components/arena/GermanArenaSection";
 import { CulturaEventsSection, type CulturaEvent } from "@/components/arena/CulturaEventsSection";
 
@@ -47,8 +48,10 @@ export default function ArenaPage() {
 
   return (
     <>
+      <ArenaQuickNav />
       <ArenaEventsClient />
       <GermanArenaSection />
+      <div id="prossimi-eventi" />
       <CulturaEventsSection events={culturaEvents} />
     </>
   );

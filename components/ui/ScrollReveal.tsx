@@ -57,7 +57,7 @@ export function ScrollReveal({
   className,
   delay = 0,
   variant = "fadeUp",
-  duration = 0.7,
+  duration = 0.07,
 }: ScrollRevealProps) {
   const prefersReduced = useReducedMotion();
   const ref = useRef<HTMLDivElement>(null);
@@ -77,7 +77,7 @@ export function ScrollReveal({
       ([entry]) => {
         if (entry.isIntersecting) setInView(true);
       },
-      { rootMargin: "100px 0px", threshold: 0.1 }
+      { rootMargin: "200px 0px", threshold: 0 }
     );
     observer.observe(el);
     return () => observer.disconnect();

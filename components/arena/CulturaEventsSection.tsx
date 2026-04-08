@@ -63,7 +63,7 @@ export function CulturaEventsSection({ events }: { events: CulturaEvent[] }) {
   const more = t(translations.cultura_section.more, lang);
 
   return (
-    <section className="bg-[#EBD9D4] py-20 sm:py-28">
+    <section id="eventi-culturali" className="bg-[#EBD9D4] py-20 sm:py-28">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
         <ScrollReveal>
           <div className="text-center">
@@ -85,9 +85,9 @@ export function CulturaEventsSection({ events }: { events: CulturaEvent[] }) {
             const colors = CATEGORY_COLORS[cat] || DEFAULT_COLOR;
 
             return (
-              <ScrollReveal key={`cultura-${event.title}-${event.date}-${i}`} delay={i * 0.08}>
+              <ScrollReveal key={`cultura-${event.title}-${event.date}-${i}`} delay={i * 0.008}>
                 <motion.div
-                  whileHover={{ y: -4, transition: { duration: 0.2 } }}
+                  whileHover={{ y: -4, transition: { duration: 0.02 } }}
                   className="group relative flex h-full flex-col rounded-lg border border-foreground/10 bg-foreground/[0.03] p-6 pl-5 transition-shadow duration-300 hover:border-gold/30 hover:shadow-lg hover:shadow-gold/5"
                 >
                   <span className="absolute left-0 top-0 h-0 w-0.5 rounded-full bg-accent transition-all duration-200 group-hover:h-full" />

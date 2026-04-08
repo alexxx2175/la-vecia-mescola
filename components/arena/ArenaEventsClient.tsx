@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import Image from "next/image";
+import { motion, AnimatePresence } from "framer-motion";
+import { ChevronDown, ChevronUp } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { EventCard } from "@/components/arena/EventCard";
 
@@ -89,12 +91,15 @@ function normalizeEvent(raw: RawEvent): ArenaEvent | null {
   };
 }
 
+const INITIAL_VISIBLE = 6;
+
 export function ArenaEventsClient() {
   const [events, setEvents] = useState<ArenaEvent[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [filter, setFilter] = useState<EventTypeFilter>("Tutti");
   const [monthFilter, setMonthFilter] = useState<string>("Tutti i mesi");
+  const [expanded, setExpanded] = useState(false);
 
   useEffect(() => {
     let active = true;
@@ -178,8 +183,11 @@ export function ArenaEventsClient() {
       .map((x) => x.e);
   }, [events]);
 
+  const visibleFiltered = expanded ? filtered : filtered.slice(0, INITIAL_VISIBLE);
+  const hasMore = filtered.length > INITIAL_VISIBLE;
+
   return (
-    <div className="bg-[#EBD9D4]">
+    <div id="arena-events" className="bg-[#EBD9D4]">
       {/* Hero image */}
       <section className="relative pt-24">
         <div className="relative h-[48svh] min-h-[360px] w-full overflow-hidden">
@@ -245,7 +253,7 @@ export function ArenaEventsClient() {
                 <button
                   key={f}
                   type="button"
-                  onClick={() => setFilter(f)}
+                  onClick={() => { setFilter(f); setExpanded(false); }}
                   className={`min-h-[44px] rounded-full border px-4 text-xs font-semibold uppercase tracking-wider transition-colors focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/70 focus-visible:ring-offset-2 focus-visible:ring-offset-[#EBD9D4] ${
                     active
                       ? "border-gold/60 bg-gold/10 text-[#2C2420]"
@@ -265,7 +273,7 @@ export function ArenaEventsClient() {
             <select
               id="month-filter"
               value={monthFilter}
-              onChange={(e) => setMonthFilter(e.target.value)}
+              onChange={(e) => { setMonthFilter(e.target.value); setExpanded(false); }}
               className="min-h-[44px] w-full rounded-md border border-[#2C2420]/20 bg-transparent px-3 text-sm text-[#2C2420] outline-none focus-visible:ring-2 focus-visible:ring-gold/70"
             >
               <option value="Tutti i mesi">Tutti i mesi</option>
@@ -306,21 +314,53 @@ export function ArenaEventsClient() {
                 Nessun evento trovato per questo filtro.
               </div>
             ) : (
-              <div className="mt-12 grid items-stretch gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-                {filtered.map((event, i) => (
-                  <EventCard
-                    key={`${event.title}-${event.date}-${i}`}
-                    title={event.title}
-                    date={event.date}
-                    time={event.time}
-                    genre={event.type}
-                    location={event.location}
-                    url={event.url}
-                    buyUrl={event.buyUrl}
-                    index={i}
-                  />
-                ))}
-              </div>
+              <>
+                <AnimatePresence initial={false}>
+                  <motion.div
+                    key={expanded ? "expanded" : "collapsed"}
+                    initial={{ opacity: 0.8 }}
+                    animate={{ opacity: 1 }}
+                    transition={{ duration: 0.06 }}
+                    className="mt-12 grid items-stretch gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3"
+                  >
+                    {visibleFiltered.map((event, i) => (
+                      <EventCard
+                        key={`${event.title}-${event.date}-${i}`}
+                        title={event.title}
+                        date={event.date}
+                        time={event.time}
+                        genre={event.type}
+                        location={event.location}
+                        url={event.url}
+                        buyUrl={event.buyUrl}
+                        index={i}
+                      />
+                    ))}
+                  </motion.div>
+                </AnimatePresence>
+
+                {hasMore && (
+                  <div className="mt-8 flex justify-center">
+                    <button
+                      type="button"
+                      onClick={() => setExpanded((prev) => !prev)}
+                      className="inline-flex min-h-[48px] items-center gap-2 rounded-full border border-[#2C2420]/20 px-6 py-3 text-sm font-semibold text-[#2C2420] transition-colors hover:border-gold/40 hover:bg-gold/5"
+                    >
+                      {expanded ? (
+                        <>
+                          Mostra meno
+                          <ChevronUp size={16} />
+                        </>
+                      ) : (
+                        <>
+                          {`Vedi tutti gli eventi Arena (${filtered.length} totali)`}
+                          <ChevronDown size={16} />
+                        </>
+                      )}
+                    </button>
+                  </div>
+                )}
+              </>
             )}
           </>
         )}
@@ -328,4 +368,3 @@ export function ArenaEventsClient() {
     </div>
   );
 }
-
