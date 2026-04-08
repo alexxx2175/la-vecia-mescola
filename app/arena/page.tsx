@@ -37,7 +37,12 @@ function loadCulturaEvents(): CulturaEvent[] {
     if (!fs.existsSync(filePath)) return [];
     const raw = fs.readFileSync(filePath, "utf-8");
     const parsed: unknown = JSON.parse(raw);
-    return Array.isArray(parsed) ? (parsed as CulturaEvent[]) : [];
+    // Supporta sia array diretto sia oggetto { events: [...] } (formato N8N)
+    if (Array.isArray(parsed)) return parsed as CulturaEvent[];
+    if (parsed && typeof parsed === "object" && "events" in parsed && Array.isArray((parsed as { events: unknown }).events)) {
+      return (parsed as { events: CulturaEvent[] }).events;
+    }
+    return [];
   } catch {
     return [];
   }
