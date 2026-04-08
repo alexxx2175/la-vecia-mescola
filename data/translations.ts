@@ -14,7 +14,7 @@ export const translations = {
     prenotazioni: { it: "PRENOTAZIONI", en: "RESERVATIONS", es: "RESERVAS", de: "RESERVIERUNGEN", ru: "БРОНИРОВАНИЕ", ro: "REZERVĂRI", zh: "预订", ja: "予約" },
     gallery: { it: "GALLERY", en: "GALLERY", es: "GALERÍA", de: "GALERIE", ru: "ГАЛЕРЕЯ", ro: "GALERIE", zh: "图库", ja: "ギャラリー" },
     contatti: { it: "CONTATTI", en: "CONTACTS", es: "CONTACTO", de: "KONTAKT", ru: "КОНТАКТЫ", ro: "CONTACT", zh: "联系", ja: "お問い合わせ" },
-    arena: { it: "ARENA", en: "ARENA", es: "ARENA", de: "ARENA", ru: "АРЕНА", ro: "ARENA", zh: "竞技场", ja: "アレーナ" },
+    arena: { it: "EVENTI A VERONA", en: "EVENTS IN VERONA", es: "EVENTOS EN VERONA", de: "EVENTS IN VERONA", ru: "СОБЫТИЯ В ВЕРОНЕ", ro: "EVENIMENTE ÎN VERONA", zh: "维罗纳活动", ja: "ヴェローナイベント" },
     prenota: { it: "Prenota", en: "Book", es: "Reservar", de: "Reservieren", ru: "Забронировать", ro: "Rezervă", zh: "预订", ja: "予約する" },
   },
 
