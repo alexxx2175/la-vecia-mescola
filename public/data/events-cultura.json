@@ -322,20 +322,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-08_open_day_canoa_club_verona",
-    "title": "Open Day Canoa Club Verona",
-    "date": "2026-04-08",
-    "time": "",
-    "type": "Eventi Sportivi",
-    "venue_type": "Eventi Sportivi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/open-day-canoa-club-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/open-day-canoa-club-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-09__da_quarant_anni_fra_la_via_emilia_e_il_",
     "title": "“Da quarant’anni… Fra la Via Emilia e il West”, I Musici di Guccini con Lodo Guenzi in concerto a Verona",
     "date": "2026-04-09",
@@ -361,20 +347,6 @@
     "url": "https://www.veronasera.it/eventi/anie-confindustria-we-light-the-sport-illuminazione-9-aprile-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/11887748545922/locandina-il-progetto-we-light-the-sport.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-09_arte_a_verona_alla_sala_birolli_la_mostr",
-    "title": "Arte a Verona, alla Sala Birolli la mostra “Visioni trasognate”",
-    "date": "2026-04-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sala-birolli-mostra-visioni-trasognate-17-marzo-9-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -644,20 +616,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-11_mostra_ti_invito_al_viaggio_in_quel_paes",
-    "title": "Mostra “Ti invito al viaggio, in quel paese che ti somiglia tanto”",
-    "date": "2026-04-11",
-    "time": "",
-    "type": "Mostre",
-    "venue_type": "Mostre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-invito-viaggio-quel-paese-che-somiglia-tanto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Ti-invito-al-viaggio-in-quel-paese-che-ti-somiglia-tanto-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-11_festa_dell_olio_a_torri_del_benaco",
     "title": "Festa dell’olio a Torri del Benaco",
     "date": "2026-04-11",
@@ -669,6 +627,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-dell-olio-torri-del-benaco/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/la-festa-olio-Torri-del-Benaco-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-11_mostra_ti_invito_al_viaggio_in_quel_paes",
+    "title": "Mostra “Ti invito al viaggio, in quel paese che ti somiglia tanto”",
+    "date": "2026-04-11",
+    "time": "",
+    "type": "Mostre",
+    "venue_type": "Mostre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mostra-invito-viaggio-quel-paese-che-somiglia-tanto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Ti-invito-al-viaggio-in-quel-paese-che-ti-somiglia-tanto-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -882,20 +854,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-12_al_museo_di_storia_naturale_la_mostra_gh",
-    "title": "Al Museo di Storia Naturale la mostra “Ghiacciai nascosti”",
-    "date": "2026-04-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ghiacciai-nascosti-fotografia-museo-storia-naturale-29-gennaio-12-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-12_spettacolo_per_bambini_il_cuoco_dalla_ga",
     "title": "Spettacolo per bambini “Il cuoco dalla gamba di legno”",
     "date": "2026-04-12",
@@ -1050,6 +1008,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-16__cestini_di_carta_borgo_trento",
+    "title": "\"Cestini di carta\" - Borgo Trento",
+    "date": "2026-04-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cestini-di-carta-borgo-trento-16-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-16__cestini_di_carta_",
     "title": "\"Cestini di carta\"",
     "date": "2026-04-16",
@@ -1059,6 +1031,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cestini-di-carta-laboratorio-14-16-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-16__cestini_di_carta_santa_toscana",
+    "title": "\"Cestini di carta\" - Santa Toscana",
+    "date": "2026-04-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cestini-di-carta-santa-toscana-16-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
