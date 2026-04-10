@@ -37,8 +37,9 @@ export const metadata: Metadata = {
     canonical: "https://www.laveciamescola.com/arena",
     languages: {
       "it-IT": "https://www.laveciamescola.com/arena",
-      "de-DE": "https://www.laveciamescola.com/arena",
-      "en-US": "https://www.laveciamescola.com/arena",
+      "en-US": "https://www.laveciamescola.com/en/arena",
+      "de-DE": "https://www.laveciamescola.com/de/arena",
+      "x-default": "https://www.laveciamescola.com/arena",
     },
   },
   openGraph: {
