@@ -224,20 +224,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-03-15_mostra_visioni_trasognate_in_sala_biroll",
-    "title": "Mostra “Visioni trasognate” in Sala Birolli",
-    "date": "2026-03-15",
-    "time": "",
-    "type": "Mostre",
-    "venue_type": "Mostre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-visioni-trasognate/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/visioni-trasognate-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-03-19_ricambisti_day",
     "title": "Ricambisti Day",
     "date": "2026-03-19",
@@ -322,31 +308,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-09__da_quarant_anni_fra_la_via_emilia_e_il_",
-    "title": "“Da quarant’anni… Fra la Via Emilia e il West”, I Musici di Guccini con Lodo Guenzi in concerto a Verona",
+    "id": "cittadiverona_2026-04-09_festa_dell_asparago_a_casaleone",
+    "title": "Festa dell’Asparago a Casaleone",
     "date": "2026-04-09",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/i-musici-guccini-lodo-guenzi-concerto-teatro-nuovo-9-aprile-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-dell-asparago-casaleone/",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/22019789995622/locandina-i-musici-di-guccini-teatro-nuovo-verona-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-04-09_il_progetto_we_light_the_sport_arriva_a_",
-    "title": "Il progetto “We Light The Sport” arriva a Verona",
-    "date": "2026-04-09",
-    "time": "",
-    "type": "Incontri",
-    "venue_type": "Incontri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/anie-confindustria-we-light-the-sport-illuminazione-9-aprile-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/11887748545922/locandina-il-progetto-we-light-the-sport.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/festa-asparago-casaleone-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -364,20 +336,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-09_il_mito_di_carosello_rivive_al_teatro_ca",
-    "title": "Il mito di “Carosello” rivive al Teatro Camploy",
-    "date": "2026-04-09",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mito-carosello-rivive-teatro-camploy/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Carosello-Teatro-Camploy-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-04-10_vinitaly_and_the_city_verona",
     "title": "Vinitaly and the City - Verona",
     "date": "2026-04-10",
@@ -390,6 +348,34 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-04-10_tre_giovani_voci_veronesi_per_una_serata",
+    "title": "Tre giovani voci veronesi per una serata di musica d’autore a Corte Molon",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerti-corte-molon-10-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/33749881575532/locandina-10-aprile.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-04-10__requiem_per_s_francesco_concerto_per_i_",
+    "title": "“Requiem per S. Francesco”, concerto per i 25 anni del Coro Università di Verona",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/requiem-san-francesco-concerto-san-fermo-10-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-04-10_queenmania_e_katia_ricciarelli_al_cinema",
@@ -420,6 +406,62 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-10_canone_inverso_e_caryllon_allo_stone_ros",
+    "title": "Canone Inverso e Caryllon allo Stone Rose",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/canone-inverso-caryllon-concerto-stone-rose-10-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-10_astroaperitivo_vini_zodiacali_il_tuo_seg",
+    "title": "AstroAperitivo | Vini zodiacali: il tuo segno in un calice",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/astroaperitivo-vini-zodiacali-10-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-10_workshop_di_macram_crea_il_tuo_porta_bot",
+    "title": "Workshop di Macramè - Crea il tuo porta bottiglia",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/workshop-macrame-crea-porta-bottiglia-10-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-10__cereaviniveri_la_fiera_del_vino_a_cerea",
+    "title": "“CereaViniVeri”, la fiera del Vino a Cerea",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Fiere",
+    "venue_type": "Fiere",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-del-vino-a-cerea/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/cerea-viniveri-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-10_festa_dell_asparago_e_dei_fiori_ad_arcol",
     "title": "Festa dell’Asparago e dei fiori ad Arcole",
     "date": "2026-04-10",
@@ -431,6 +473,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-dell-asparago-di-arcole/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/05/fiera-asparago-e-dei-fiori-di-arcole-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-10_spettacolo_sogno_ma_forse_no_un_gioco_a_",
+    "title": "Spettacolo “Sogno (ma forse no). Un gioco a tre con Pirandello” al Modus",
+    "date": "2026-04-10",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/spettacolo-sogno-ma-forse-no-un-gioco-a-tre-con-pirandello/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Matteo-Belli-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -560,20 +616,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-11_testa_leggera_design_workshop",
-    "title": "Testa leggera | Design workshop",
-    "date": "2026-04-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/testa-leggera-design-workshop-11-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-11_al_teatro_corallo_un_cretino_per_sempre_",
     "title": "Al Teatro Corallo \"Un cretino è per sempre\"",
     "date": "2026-04-11",
@@ -602,6 +644,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-11_testa_leggera_design_workshop",
+    "title": "Testa leggera | Design workshop",
+    "date": "2026-04-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/testa-leggera-design-workshop-11-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-11_l_angolo_di_cavour_wine_party",
     "title": "L’Angolo di Cavour - Wine Party",
     "date": "2026-04-11",
@@ -613,6 +669,34 @@
     "url": "https://www.veronasera.it/eventi/angolo-di-cavour-wine-party-11-aprile-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-11_paint_gin_pop_art_edition_food_drink",
+    "title": "Paint & Gin: pop art edition - Food & drink",
+    "date": "2026-04-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paint-gin-pop-art-edition-food-drink-11-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-11_mercatino_dell_antiquariato_a_bussolengo",
+    "title": "Mercatino dell’antiquariato a Bussolengo",
+    "date": "2026-04-11",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-bussolengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/bussolengo-antica-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -641,6 +725,20 @@
     "url": "https://www.cittadiverona.it/eventi/mostra-invito-viaggio-quel-paese-che-somiglia-tanto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Ti-invito-al-viaggio-in-quel-paese-che-ti-somiglia-tanto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-11_degustazioni_d_autore_al_caff_dante_per_",
+    "title": "Degustazioni d’autore al Caffè Dante per Vinitaly and the City",
+    "date": "2026-04-11",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/degustazioni-d-autore-caffe-dante-vinitaly-and-the-city/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/degustazioni-caffe-dante-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -700,17 +798,31 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-04-12_olly_riva_e_il_progetto_divo_sbarcano_al",
+    "title": "Olly Riva e il progetto Divo sbarcano all'Arilica Festival di Peschiera del Garda",
+    "date": "2026-04-12",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/arilica-festival-concerti-spettacoli-11-12-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/49900220035507/arilica-festival-foto-ufficio-stampa-pk-communication-2.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "veronasera_2026-04-12_daniele_fabbri_porta_a_verona_il_suo_nuo",
     "title": "Daniele Fabbri porta a Verona il suo nuovo spettacolo: “Clitoridere”",
     "date": "2026-04-12",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/daniele-fabbri-clitoridere-teatro-nuovo-san-michele-12-aprile-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/43667424721097/locandina-clitoridere-daniele-frabbi.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -798,57 +910,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-12_a_verona_torna_vinitaly_and_the_city",
-    "title": "A Verona torna Vinitaly and The City",
+    "id": "veronasera_2026-04-12_workshop_di_glass_painting_dipingi_su_un",
+    "title": "Workshop di glass painting | Dipingi su un calice o una bottiglia di vino",
     "date": "2026-04-12",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/vinitaly-and-the-city-festa-10-12-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/workshop-glass-painting-12-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-12_ad_arcole_la_fiera_dell_asparago_e_dei_f",
-    "title": "Ad Arcole la Fiera dell’Asparago e dei fiori",
+    "id": "veronasera_2026-04-12_paint_with_wine_mini_polaroid_edition_wo",
+    "title": "Paint with wine – Mini Polaroid edition | Workshop creativo",
     "date": "2026-04-12",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-asparago-fiori-10-12-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-12_al_filarmonico_il_concerto_per_violino_d",
-    "title": "Al Filarmonico il Concerto per violino di Mendelssohn e la Sinfonia fantastica di Berlioz",
-    "date": "2026-04-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sinfonia-fantastica-berlioz-teatro-filarmonico-10-12-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-12_a_cerea_torna_viniveri_",
-    "title": "A Cerea torna \"ViniVeri\"",
-    "date": "2026-04-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/viniveri-fiera-vino-10-12-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/paint-with-wine-mini-polaroid-edition-workshop-12-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -865,6 +949,20 @@
     "url": "https://www.cittadiverona.it/eventi/spettacolo-bambini-cuoco-dalla-gamba-legno/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/il-cuoco-dalla-gamba-di-legno-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-12_la_favola_di_amore_e_psiche_debutta_in_f",
+    "title": "La favola di amore e psiche debutta in Fucina Machiavelli",
+    "date": "2026-04-12",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-favola-di-amore-e-psiche-in-fucina-machiavelli/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Favola-amore-psiche-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -980,6 +1078,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-15_presentazione_libro_eticologia_rendere_l",
+    "title": "Presentazione libro \"Eticologia. Rendere l'etica naturale\"",
+    "date": "2026-04-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/presentazione-libro-eticologia-15-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-15_tempo_di_quaresima_pasqua_e_rinascita",
     "title": "Tempo di Quaresima, Pasqua e rinascita",
     "date": "2026-04-15",
@@ -1022,20 +1134,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-16__cestini_di_carta_",
-    "title": "\"Cestini di carta\"",
-    "date": "2026-04-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cestini-di-carta-laboratorio-14-16-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-16__cestini_di_carta_santa_toscana",
     "title": "\"Cestini di carta\" - Santa Toscana",
     "date": "2026-04-16",
@@ -1045,6 +1143,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cestini-di-carta-santa-toscana-16-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-16__cestini_di_carta_",
+    "title": "\"Cestini di carta\"",
+    "date": "2026-04-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cestini-di-carta-laboratorio-14-16-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1061,6 +1173,20 @@
     "url": "https://www.cittadiverona.it/eventi/paradiz-matteo-spiazzi-teatro-camploy/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/paradiz-matteo-spiazzi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-17_al_teatro_astra_gli_oblivion_tuttorial_g",
+    "title": "Al Teatro Astra gli Oblivion: “Tuttorial - Guida contromano alla contemporaneità”",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tuttorial-oblivion-teatro-astra-17-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/29138012530905/oblivion-foto-ufficio-stampa-cinema-teatro-astra.jpg",
     "category": "cultura"
   },
   {
@@ -1120,20 +1246,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-19_il_campo_dei_tulipani_della_flover_farm_",
-    "title": "Il campo dei tulipani della Flover Farm a Bussolengo",
-    "date": "2026-04-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/campo-dei-tulipani-flover-farm-20-marzo-19-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-19_torna_la_birralonga_tra_le_campagne_di_e",
     "title": "Torna la “Birralonga” tra le campagne di Erbè e Isola della Scala",
     "date": "2026-04-19",
@@ -1148,6 +1260,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-04-19_casting_giulietta_romeo_re_life_",
+    "title": "Casting “Giulietta & Romeo Re Life”",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/casting-giulietta-romeo-re-life/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/03/casting-giulietta-romeo-relife-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-22_sagra_dei_sparasi_di_mambrotta",
     "title": "Sagra dei Sparasi di Mambrotta",
     "date": "2026-04-22",
@@ -1159,6 +1285,48 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-dei-sparasi-di-mambrotta/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/03/sagra-dei-sparasi-mambrotta-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-23_antica_fiera_di_san_marco_a_san_bonifaci",
+    "title": "Antica Fiera di San Marco a San Bonifacio",
+    "date": "2026-04-23",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-di-san-marco-a-san-bonifacio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/antica-fiera-di-san-marco-san-bonifacio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-23_sagra_di_san_marco_evangelista",
+    "title": "Sagra di San Marco Evangelista",
+    "date": "2026-04-23",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-san-marco-evangelista/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/sagra-san-marco-evangelista-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-26_mercatino_antiquariato_a_valeggio_sul_mi",
+    "title": "Mercatino antiquariato a Valeggio sul Mincio",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1274,6 +1442,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-05-07_isola_rock_2026",
+    "title": "Isola Rock 2026",
+    "date": "2026-05-07",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/isola-rock/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/isola-rock-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-08_sagra_patronale_di_vangadizza",
     "title": "Sagra Patronale di Vangadizza",
     "date": "2026-05-08",
@@ -1383,20 +1565,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-dei-trombini-a-selva-di-progno/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/06/festa-dei-trombini-selva-di-progno-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1512,20 +1680,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-09-22_marmomac",
     "title": "Marmomac",
     "date": "2026-09-22",
@@ -1622,20 +1776,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-25_job_orienta",
