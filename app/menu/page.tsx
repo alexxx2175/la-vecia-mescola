@@ -12,13 +12,34 @@ const cormorant = Cormorant_Garamond({
 });
 
 export const metadata: Metadata = {
-  title: "Menu — La Vecia Mescola | Ristorante Verona",
+  title: {
+    absolute: "Menu | La Vecia Mescola — Ristorante Tipico Verona",
+  },
   description:
-    "Scopri il menu autentico de La Vecia Mescola, ristorante storico nel centro di Verona a 200 metri dall'Arena di Verona. Pasta fresca fatta in casa, risotto all'Amarone, cucina veneta tradizionale.",
+    "Scopri il menu de La Vecia Mescola: pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand e cucina veneta autentica. A 2 minuti dall'Arena di Verona. Vicolo Chiodo 4.",
+  alternates: {
+    canonical: "https://www.laveciamescola.com/menu",
+  },
   openGraph: {
-    title: "Menu — La Vecia Mescola | Ristorante Verona",
+    title: "Menu | La Vecia Mescola — Ristorante Tipico Verona",
     description:
-      "Scopri il menu autentico de La Vecia Mescola, ristorante storico nel centro di Verona a 200 metri dall'Arena di Verona. Pasta fresca fatta in casa, risotto all'Amarone, cucina veneta tradizionale.",
+      "Pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand. Cucina veneta autentica a 2 minuti dall'Arena di Verona.",
+    url: "https://www.laveciamescola.com/menu",
+    images: [
+      {
+        url: "/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Menu La Vecia Mescola — Cucina veneta autentica a Verona",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Menu | La Vecia Mescola — Ristorante Tipico Verona",
+    description:
+      "Pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand. A 2 minuti dall'Arena di Verona.",
+    images: ["/og-image.jpg"],
   },
 };
 
