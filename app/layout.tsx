@@ -80,12 +80,13 @@ export const metadata: Metadata = {
 
 const jsonLd = {
   "@context": "https://schema.org",
-  "@type": "LocalBusiness",
+  "@type": ["Restaurant", "LocalBusiness"],
   "@id": "https://www.laveciamescola.com",
   name: "La Vecia Mescola Dell'Oste",
   image: "https://www.laveciamescola.com/og-image.jpg",
   url: "https://www.laveciamescola.com",
   telephone: "+393928699275",
+  menu: "https://www.laveciamescola.com/menu",
   address: {
     "@type": "PostalAddress",
     streetAddress: "Vicolo Chiodo 4",
