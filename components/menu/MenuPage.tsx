@@ -2,7 +2,8 @@
 
 import { useState, useRef, useLayoutEffect, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronDown, ChevronUp } from "lucide-react";
+import { ChevronDown, ChevronUp, CalendarDays } from "lucide-react";
+import Link from "next/link";
 import { LanguageToggle } from "./LanguageToggle";
 import { CategoryTabs } from "./CategoryTabs";
 import { DishCard } from "./DishCard";
@@ -18,6 +19,26 @@ const UI_TEXT = {
   allergen_legend: {
     it: "Legenda allergeni", en: "Allergen legend", es: "Leyenda de alérgenos", de: "Allergenlegende",
     ru: "Обозначения аллергенов", ro: "Legenda alergenilor", zh: "过敏原说明", ja: "アレルゲン一覧",
+  },
+  events_banner_title: {
+    it: "Scopri gli eventi settimanali a Verona",
+    en: "Discover Verona's weekly events",
+    es: "Descubre los eventos semanales de Verona",
+    de: "Entdecke die wöchentlichen Events in Verona",
+    ru: "Еженедельные мероприятия Вероны",
+    ro: "Descoperă evenimentele săptămânale din Verona",
+    zh: "探索维罗纳的每周活动",
+    ja: "ヴェローナの週刊イベントを探る",
+  },
+  events_banner_cta: {
+    it: "Vedi tutti gli eventi",
+    en: "See all events",
+    es: "Ver todos los eventos",
+    de: "Alle Events anzeigen",
+    ru: "Смотреть все мероприятия",
+    ro: "Vezi toate evenimentele",
+    zh: "查看所有活动",
+    ja: "すべてのイベントを見る",
   },
 } satisfies Record<string, Record<Language, string>>;
 
@@ -198,6 +219,27 @@ export function MenuPage({ menuData, logoFontClassName }: MenuPageProps) {
             isOpen={allergenLegendOpen}
             onToggle={() => setAllergenLegendOpen(!allergenLegendOpen)}
           />
+        </div>
+
+        {/* Events banner */}
+        <div className="mt-10 bg-[#2C2420] px-6 py-10 text-center">
+          <CalendarDays
+            size={28}
+            className="mx-auto mb-3 text-[#B8962E]"
+            aria-hidden
+          />
+          <p
+            className="font-serif font-semibold text-[#EBD9D4]"
+            style={{ fontSize: "clamp(1.1rem, 3vw, 1.5rem)" }}
+          >
+            {UI_TEXT.events_banner_title[lang]}
+          </p>
+          <Link
+            href="/arena"
+            className="mt-5 inline-flex min-h-[48px] items-center rounded-sm border border-[#B8962E]/40 px-6 py-3 text-sm font-semibold uppercase tracking-wider text-[#B8962E] transition-colors hover:bg-[#B8962E]/10"
+          >
+            {UI_TEXT.events_banner_cta[lang]}
+          </Link>
         </div>
       </main>
     </div>
