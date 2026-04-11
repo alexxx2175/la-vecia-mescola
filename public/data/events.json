@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-04-10_berlioz_fantastique",
-    "title": "Berlioz Fantastique",
-    "date": "2026-04-10",
-    "time": "20:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/berlioz-fantastique/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134401&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-12_berlioz_fantastique",
     "title": "Berlioz Fantastique",
     "date": "2026-04-12",
@@ -174,10 +161,10 @@
     "date": "2026-05-09",
     "time": "17:00",
     "type": "Opera",
-    "venue_type": "Arena Opera Festival",
+    "venue_type": "Teatro Filarmonico",
     "location": "Arena di Verona",
     "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/turandot-enigmi-al-museo/",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/turandot-enigmi-al-museo/",
     "buy_url": "https://shop.arena.it/it/event/turandot-enigmi-al-museo/292749",
     "image": null
   },
