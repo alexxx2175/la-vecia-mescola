@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-04-12_berlioz_fantastique",
-    "title": "Berlioz Fantastique",
-    "date": "2026-04-12",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/berlioz-fantastique/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134402&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-17_musorgskij_quadri",
     "title": "Musorgskij Quadri",
     "date": "2026-04-17",
