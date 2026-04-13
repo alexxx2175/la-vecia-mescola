@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Playfair_Display, Lato } from "next/font/google";
-import Script from "next/script";
 import "./globals.css";
 import { ConditionalChrome } from "@/components/layout/ConditionalChrome";
 
@@ -152,21 +151,24 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
+        {/* Google Analytics 4 */}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-94TZMX9LMF"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              gtag('config', 'G-94TZMX9LMF');
+            `,
+          }}
+        />
       </head>
       <body className="relative min-h-full flex flex-col bg-[#EBD9D4] text-[#2C2420]">
         <ConditionalChrome>{children}</ConditionalChrome>
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-94TZMX9LMF"
-          strategy="afterInteractive"
-        />
-        <Script id="gtag-init" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-94TZMX9LMF');
-          `}
-        </Script>
       </body>
     </html>
   );
