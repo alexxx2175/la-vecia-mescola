@@ -392,48 +392,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-04-13_giovanni_allevi_al_teatro_filarmonico_pe",
-    "title": "Giovanni Allevi al Teatro Filarmonico per il suo \"PianoSolo Tour\"",
-    "date": "2026-04-13",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giovanni-allevi-concerto-piano-solo-teatro-filarmonico-13-aprile-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/27845724095402/locandina-giovanni-allevi-pianosolo-tour-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "cittadiverona_2026-04-13__in_casa_di_riposo_show_by_barutz",
-    "title": "“In casa di riposo Show” by Barutz",
-    "date": "2026-04-13",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/in-casa-di-riposo-show-barutz/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/in-casa-di-riposo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-13_concerto_di_giovanni_allevi_al_teatro_fi",
-    "title": "Concerto di Giovanni Allevi al Teatro Filarmonico",
-    "date": "2026-04-13",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-di-giovanni-allevi-a-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/04/Giovanni-Allevi-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-14__101_la_carica_del_vino_",
     "title": "\"101 la carica del vino\"",
     "date": "2026-04-14",
@@ -616,6 +574,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-04-17_i_blood_brothers_portano_la_magia_di_bru",
+    "title": "I Blood Brothers portano la magia di Bruce Springsteen al Teatro Alcione",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/i-blood-brothers-portano-magia-bruce-springsteen-teatro-alcione/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/blood-brothers-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-18_bybyke_valpolicella_2026_vino_natura_e_c",
     "title": "ByByke Valpolicella 2026: vino, natura e cicloturismo tra le colline veronesi Valpolicella",
     "date": "2026-04-18",
@@ -770,17 +742,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-18__up_the_real_world_of_peter_gabriel_al_t",
-    "title": "“UP! The real world of Peter Gabriel” al Teatro Nuovo San Michele",
+    "id": "cittadiverona_2026-04-18_convegno_che_fine_hanno_fatto_le_nostre_",
+    "title": "Convegno “Che fine hanno fatto le nostre DAT?”",
     "date": "2026-04-18",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Convegni",
+    "venue_type": "Convegni",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/up-the-real-world-of-peter-gabriel-verona/",
+    "url": "https://www.cittadiverona.it/eventi/convegno-che-fine-hanno-fatto-le-nostre-dat/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/up-the-real-world-of-peter-gabriel-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/maiurana-che-fine-dat-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -795,6 +767,20 @@
     "url": "https://www.cittadiverona.it/eventi/filippo-caccamo-torna-verona-nuovo-spettacolo-fuori-di-tela/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Filippo-Caccamo-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-18__up_the_real_world_of_peter_gabriel_al_t",
+    "title": "“UP! The real world of Peter Gabriel” al Teatro Nuovo San Michele",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/up-the-real-world-of-peter-gabriel-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/up-the-real-world-of-peter-gabriel-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -938,6 +924,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-21__la_tua_iniziale_in_fiore_",
+    "title": "\"La tua iniziale…in fiore\"",
+    "date": "2026-04-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/la-tua-iniziale-in-fiore-21-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-22_federico_buffa_al_teatro_nuovo_di_verona",
+    "title": "Federico Buffa al Teatro Nuovo di Verona per uno spettacolo dedicato alla leggenda del basket Kobe Bryant",
+    "date": "2026-04-22",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/federico-buffa-racconta-kobe-bryant-21-22-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/16732682287511/federico-buffa-locandina-ufficio-stampa-spettacolo-live-srls.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-22_sagra_dei_sparasi_di_mambrotta",
     "title": "Sagra dei Sparasi di Mambrotta",
     "date": "2026-04-22",
@@ -949,6 +963,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-dei-sparasi-di-mambrotta/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/03/sagra-dei-sparasi-mambrotta-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-22_la_memoria_del_vajont_raccontata_da_gius",
+    "title": "La memoria del Vajont raccontata da Giuseppe “Bepi” Vazza al Teatro S. Teresa",
+    "date": "2026-04-22",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/memoria-vajont-raccontata-giuseppe-bepi-vazza-teatro-s-teresa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/in-meno-di-quattro-minuti-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1008,17 +1036,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-25_festa_degli_aquiloni_a_brognoligo",
-    "title": "Festa degli Aquiloni a Brognoligo",
-    "date": "2026-04-25",
+    "id": "cittadiverona_2026-04-24_soave_guitar_festival_2026",
+    "title": "Soave Guitar Festival 2026",
+    "date": "2026-04-24",
     "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
+    "type": "Fiere",
+    "venue_type": "Fiere",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-degli-aquiloni/",
+    "url": "https://www.cittadiverona.it/eventi/festival-della-chitarra-a-soave/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/festa-aquiloni-brognoligo-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/soave-guitar-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1033,6 +1061,20 @@
     "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-25_festa_degli_aquiloni_a_brognoligo",
+    "title": "Festa degli Aquiloni a Brognoligo",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-degli-aquiloni/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/festa-aquiloni-brognoligo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1664,19 +1706,5 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   }
 ]
