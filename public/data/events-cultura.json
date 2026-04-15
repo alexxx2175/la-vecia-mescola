@@ -392,34 +392,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-04-14__101_la_carica_del_vino_",
-    "title": "\"101 la carica del vino\"",
-    "date": "2026-04-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/101-la-carica-del-vino-dj-daniele-baldelli-14-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-14__cestini_di_carta_casetta_maritati",
-    "title": "\"Cestini di carta\" - Casetta Maritati",
-    "date": "2026-04-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cestini-di-carta-casetta-maritati-14-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-15_presentazione_libro_eticologia_rendere_l",
     "title": "Presentazione libro \"Eticologia. Rendere l'etica naturale\"",
     "date": "2026-04-15",
@@ -490,20 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-16__cestini_di_carta_",
-    "title": "\"Cestini di carta\"",
-    "date": "2026-04-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cestini-di-carta-laboratorio-14-16-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-16__paradi_di_matteo_spiazzi_al_teatro_camp",
     "title": "“Paradiž” di Matteo Spiazzi al Teatro Camploy",
     "date": "2026-04-16",
@@ -518,6 +476,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-17_il_ballet_de_l_op_ra_grand_avignon_al_te",
+    "title": "Il Ballet de l’Opéra Grand Avignon al Teatro Ristori con la prima nazionale di \"Olympiade\"",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/olympiade-teatro-ristori-17-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-17_al_teatro_astra_gli_oblivion_tuttorial_g",
     "title": "Al Teatro Astra gli Oblivion: “Tuttorial - Guida contromano alla contemporaneità”",
     "date": "2026-04-17",
@@ -527,6 +499,62 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/tuttorial-oblivion-teatro-astra-17-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-17_monia_the_saints_band_accendono_negrar_c",
+    "title": "Monia & the Saints Band accendono Negrar con i greatest hit's anni '80",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-17-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-17_protagonisti_di_veronetta_san_gaspare_be",
+    "title": "Protagonisti di Veronetta: san Gaspare Bertoni",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/protagonisti-veronetta-incontro-san-gaspare-bertoni-17-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-17_dialogo_tra_cinema_e_vino",
+    "title": "Dialogo tra cinema e vino",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/dialogo-tra-cinema-vino-17-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-17_karaoke_live_by_andfriends_band",
+    "title": "Karaoke live by @Andfriends band",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-by-andfriends-band-17-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -644,6 +672,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-18_escursione_e_cena_in_malga",
+    "title": "Escursione e cena in malga",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-cena-malga-18-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-18_maurizio_ferrini_signora_coriandoli_e_gi",
     "title": "Maurizio Ferrini (signora Coriandoli) e Giovanni Fabiano a Bardolino",
     "date": "2026-04-18",
@@ -681,6 +723,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/passeggiata-val-tramigna-18-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-18_il_borgo_del_monte_pastello",
+    "title": "Il borgo del Monte Pastello",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-borgo-monte-pastello-18-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-18_visita_guidata_esclusiva_di_fondazione_m",
+    "title": "Visita guidata esclusiva di Fondazione Meriggio",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-fondazione-meriggio-18-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -807,6 +877,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/lavagno-campionato-s-cianco-19-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-19_viviamo_la_bassa_visita_guidata_a_terraz",
+    "title": "Viviamo La Bassa: visita guidata a Terrazzo",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-terrazzo-19-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-19_visita_guidata_il_segreto_pi_bello_di_ve",
+    "title": "Visita guidata: il segreto più bello di Verona",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-segreto-piu-bello-verona-19-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -952,6 +1050,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-22_eos_future_summit_ai_beyond",
+    "title": "Eos future summit AI & beyond",
+    "date": "2026-04-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/eos-future-summit-ai-beyond-22-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-22_sagra_dei_sparasi_di_mambrotta",
     "title": "Sagra dei Sparasi di Mambrotta",
     "date": "2026-04-22",
@@ -1019,20 +1131,6 @@
     "url": "https://www.cittadiverona.it/eventi/caravaggio-versione-rock-teatro-nuovo-verona-musical-ribelle/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/michelangelo-da-caravaggio-rock-musical-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-24_galleria_dello_scudo_presenta_la_mostra_",
-    "title": "Galleria dello Scudo presenta la mostra \"carlaaccardi oroargento dipinti 1964-1965\"",
-    "date": "2026-04-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/galleria-dello-scudo-arte-carlaaccardi-oroargentodipinti13-dicembre-2025-24-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1199,20 +1297,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/ti-invito-al-viaggio-mostra-11-aprile-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-03_a_castel_san_pietro_la_mostra_maffeo_d_a",
-    "title": "A Castel San Pietro la mostra \"Maffeo d’Arcole: STOP, non più oltre\"",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/maffeo-d-arcole-mostra-stop-non-piu-oltre-27-marzo-3-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1425,34 +1509,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-dei-trombini-a-selva-di-progno/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/06/festa-dei-trombini-selva-di-progno-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-07__sussurri_di_luce_sul_garda_la_mostra_pe",
-    "title": "“Sussurri di luce sul Garda”, la mostra personale di Athos Faccincani",
-    "date": "2026-06-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sussurri-luce-garda-athos-faccincani-28-febbraio-7-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
