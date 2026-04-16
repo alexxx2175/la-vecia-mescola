@@ -8,8 +8,7 @@ import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
-
-const WHATSAPP_URL = "https://wa.me/393928699275";
+import { openChatbot } from "@/components/ui/ChatbotWidget";
 
 const NAV_LINKS = [
   { href: "/#concept", num: "01", labelKey: "concept" as const },
@@ -83,10 +82,9 @@ export function Navbar() {
                 </span>
               </Link>
             ))}
-            <motion.a
-              href={WHATSAPP_URL}
-              target="_blank"
-              rel="noopener noreferrer"
+            <motion.button
+              type="button"
+              onClick={openChatbot}
               animate={{
                 boxShadow: [
                   "0 0 0 0 rgba(184,150,46,0)",
@@ -102,7 +100,7 @@ export function Navbar() {
               }`}
             >
               {t(translations.nav.prenota, lang)}
-            </motion.a>
+            </motion.button>
           </div>
 
           <button
@@ -174,15 +172,13 @@ export function Navbar() {
                   transition={{ delay: 0.35, duration: 0.3 }}
                   className="mt-4 px-6"
                 >
-                  <a
-                    href={WHATSAPP_URL}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    onClick={() => setMobileOpen(false)}
+                  <button
+                    type="button"
+                    onClick={() => { setMobileOpen(false); openChatbot(); }}
                     className="flex w-full min-h-[48px] items-center justify-center gap-2 rounded bg-[#2C2420] px-5 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
                   >
                     {t(translations.nav.prenota, lang)}
-                  </a>
+                  </button>
                 </motion.div>
               </div>
             </motion.div>

@@ -3,8 +3,7 @@
 import { motion } from "framer-motion";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
-
-const WHATSAPP_URL = "https://wa.me/393928699275";
+import { openChatbot } from "@/components/ui/ChatbotWidget";
 
 export function ArenaHero({
   title: titleProp,
@@ -102,14 +101,13 @@ export function ArenaHero({
           transition={{ duration: 0.6, delay: 1.8, ease: [0.25, 0.1, 0.25, 1] }}
           className="mt-10"
         >
-          <a
-            href={WHATSAPP_URL}
-            target="_blank"
-            rel="noopener noreferrer"
+          <button
+            type="button"
+            onClick={openChatbot}
             className="inline-flex min-h-[48px] items-center gap-2 rounded-sm bg-[#2C2420] px-8 py-3 text-sm font-semibold uppercase tracking-wider text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer"
           >
             {t(translations.arena.cta, lang)}
-          </a>
+          </button>
         </motion.div>
       </div>
     </section>

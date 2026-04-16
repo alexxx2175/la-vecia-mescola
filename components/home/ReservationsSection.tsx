@@ -3,8 +3,7 @@
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
-
-const WHATSAPP_URL = "https://wa.me/393928699275";
+import { openChatbot } from "@/components/ui/ChatbotWidget";
 
 /**
  * Sezione Prenotazioni — stile Quay House "CONTACT US TO RESERVE"
@@ -24,14 +23,13 @@ export function ReservationsSection() {
           <h2 className="mt-2 font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.75rem, 4vw, 3rem)" }}>
             {t(translations.reservations.title, lang)}
           </h2>
-          <a
-            href={WHATSAPP_URL}
-            target="_blank"
-            rel="noopener noreferrer"
+          <button
+            type="button"
+            onClick={openChatbot}
             className="mt-10 inline-flex min-h-[48px] w-full items-center justify-center gap-2 rounded-sm bg-[#2C2420] px-8 py-4 text-sm font-semibold uppercase tracking-[0.2em] text-[#EBD9D4] transition-colors hover:bg-[#3d3630] cursor-pointer sm:w-auto"
           >
             {t(translations.reservations.cta, lang)}
-          </a>
+          </button>
         </ScrollReveal>
       </div>
     </section>
