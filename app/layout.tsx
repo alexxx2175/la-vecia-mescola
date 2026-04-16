@@ -142,6 +142,21 @@ export default function RootLayout({
       className={`${playfair.variable} ${lato.variable} h-full antialiased`}
     >
       <head>
+        {/* Google tag (gtag.js) */}
+        <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-94TZMX9LMF"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-94TZMX9LMF');
+            `,
+          }}
+        />
         <link
           rel="preload"
           as="image"
