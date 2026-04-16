@@ -392,48 +392,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-04-15_presentazione_libro_eticologia_rendere_l",
-    "title": "Presentazione libro \"Eticologia. Rendere l'etica naturale\"",
-    "date": "2026-04-15",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/presentazione-libro-eticologia-15-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-15_tempo_di_quaresima_pasqua_e_rinascita",
-    "title": "Tempo di Quaresima, Pasqua e rinascita",
-    "date": "2026-04-15",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tempo-quaresima-pasqua-rinascita-15-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-15_omaggio_a_morricone_musiche_da_oscar_al_",
-    "title": "Omaggio a Morricone “Musiche da Oscar” al Teatro Nuovo di Verona",
-    "date": "2026-04-15",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/omaggio-a-morricone-musiche-da-oscar-al-teatro-nuovo-di-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/10/omaggio-morricone-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-16__cestini_di_carta_borgo_trento",
     "title": "\"Cestini di carta\" - Borgo Trento",
     "date": "2026-04-16",
@@ -476,6 +434,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-17_il_tributo_a_bruce_springsteen_dei_blood",
+    "title": "Il tributo a Bruce Springsteen dei Blood Brothers arriva al Teatro Alcione di Verona",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/blood-brothers-concerto-teatro-alcione-17-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31618083276865/locandina-blood-brothers-teatro-alcione.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "veronasera_2026-04-17_il_ballet_de_l_op_ra_grand_avignon_al_te",
     "title": "Il Ballet de l’Opéra Grand Avignon al Teatro Ristori con la prima nazionale di \"Olympiade\"",
     "date": "2026-04-17",
@@ -504,15 +476,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-17_monia_the_saints_band_accendono_negrar_c",
-    "title": "Monia & the Saints Band accendono Negrar con i greatest hit's anni '80",
+    "id": "veronasera_2026-04-17__la_fortezza_di_peschiera_i_grandi_lavor",
+    "title": "\"La fortezza di Peschiera, i grandi lavori del '900\"",
     "date": "2026-04-17",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-17-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/fortezza-peschiera-grandi-lavori-900-17-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -532,15 +504,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-17_dialogo_tra_cinema_e_vino",
-    "title": "Dialogo tra cinema e vino",
+    "id": "veronasera_2026-04-17_monia_the_saints_band_accendono_negrar_c",
+    "title": "Monia & the Saints Band accendono Negrar con i greatest hit's anni '80",
     "date": "2026-04-17",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dialogo-tra-cinema-vino-17-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-17-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -557,6 +529,20 @@
     "url": "https://www.veronasera.it/eventi/karaoke-live-by-andfriends-band-17-aprile-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-17_echi_contemporanei_e_parole_tra_passato_",
+    "title": "Echi contemporanei e parole tra passato e presente in scena al Polo Santa Marta",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/echi-contemporanei-parole-passato-e-presente-scena-polo-santa-marta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Echi-contemporanei-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -599,6 +585,20 @@
     "url": "https://www.cittadiverona.it/eventi/olympiade-teatro-ristori-prima-nazionale-firmata-korsia/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Olympiade-Teatro-Ristori-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-17__tuttorial_uno_spettacolo_di_e_con_gli_o",
+    "title": "“Tuttorial”, uno spettacolo di e con gli Oblivion al Teatro Astra",
+    "date": "2026-04-17",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/tuttorial-spettacolo-oblivion/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/tuttorial-oblivion-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -653,6 +653,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/fatima-storia-presenza-teatro-stimate-18-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-18_musorgskij_e_dvo_aacute_k_quadri_in_musi",
+    "title": "Musorgskij e Dvoř&aacute;k: quadri in musica al Teatro Filarmonico",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/musorgskij-dvorak-concerto-quadri-musica-teatro-filarmonico-17-18-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -714,20 +728,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-18_alla_scoperta_della_val_tramigna_un_viag",
-    "title": "Alla scoperta della Val Tramigna: un viaggio tra fioriture e storia antica",
-    "date": "2026-04-18",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/passeggiata-val-tramigna-18-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-18_il_borgo_del_monte_pastello",
     "title": "Il borgo del Monte Pastello",
     "date": "2026-04-18",
@@ -737,6 +737,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/passeggiata-borgo-monte-pastello-18-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-18_alla_scoperta_della_val_tramigna_un_viag",
+    "title": "Alla scoperta della Val Tramigna: un viaggio tra fioriture e storia antica",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-val-tramigna-18-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -767,6 +781,20 @@
     "url": "https://www.cittadiverona.it/eventi/weekend-primavera-lazise-flower-fun-games/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/flower-fun-games-lazise-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-18__immaginari_di_moda_tra_moda_arte_e_crea",
+    "title": "“Immaginari di moda” tra moda, arte e creatività contemporanea",
+    "date": "2026-04-18",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/immaginari-di-moda-moda-arte-creativita-contemporanea/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/immaginari-di-moda-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -858,13 +886,13 @@
     "title": "Il Festival del Gioco a Dolcè",
     "date": "2026-04-19",
     "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festival-del-gioco-dolce-18-19-aprile-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/16985506303560/festival-gioco-2026-foto-ufficio-stampa-provincia-di-verona.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -882,6 +910,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-19_la_birralonga_di_erb_",
+    "title": "La \"Birralonga\" di Erbè",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/birralonga-festa-erbe-19-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-19_filippo_caccamo_porta_il_suo_nuovo_spett",
+    "title": "Filippo Caccamo porta il suo nuovo spettacolo “Fuori di Tela” al Teatro Nuovo",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/filippo-caccamo-teatro-nuovo-18-19-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-19_viviamo_la_bassa_visita_guidata_a_terraz",
     "title": "Viviamo La Bassa: visita guidata a Terrazzo",
     "date": "2026-04-19",
@@ -891,6 +947,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-terrazzo-19-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-19_ersiliadanza_presenta_lo_spettacolo_home",
+    "title": "ErsiliaDanza presenta lo spettacolo “Home” della coreografa e danzatrice Giulia Roversi",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ersilia-danza-x-4-home-19-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -966,34 +1036,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-19__raccontarsi_al_baito_",
-    "title": "\"Raccontarsi al baito\"",
-    "date": "2026-04-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/raccontarsi-al-baito-19-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-19_il_campo_dei_tulipani_della_flover_farm_",
-    "title": "Il campo dei tulipani della Flover Farm a Bussolengo",
-    "date": "2026-04-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/campo-dei-tulipani-flover-farm-20-marzo-19-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-19_torna_la_birralonga_tra_le_campagne_di_e",
     "title": "Torna la “Birralonga” tra le campagne di Erbè e Isola della Scala",
     "date": "2026-04-19",
@@ -1008,6 +1050,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-04-19_livedog_fest_2026_nel_grande_parco_cinof",
+    "title": "LiveDog Fest 2026 nel grande parco cinofilo di Verona",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/livedog-fest-grande-parco-cinofilo-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/livedog-fest-2026-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-19_festa_della_sparasina_a_pigozzo",
+    "title": "Festa della Sparasina a Pigozzo",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-sparasina-a-pigozzo-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/04/festa-sparasina-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-19_casting_giulietta_romeo_re_life_",
     "title": "Casting “Giulietta & Romeo Re Life”",
     "date": "2026-04-19",
@@ -1019,6 +1089,20 @@
     "url": "https://www.cittadiverona.it/eventi/casting-giulietta-romeo-re-life/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/03/casting-giulietta-romeo-relife-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-19_ersiliadanza_presenta_home_della_coreogr",
+    "title": "ErsiliaDanza presenta “Home” della coreografa e danzatrice Giulia Roversi",
+    "date": "2026-04-19",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ersiliadanza-presenta-home-coreografa-danzatrice-giulia-roversi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Home-ErsiliaDanza-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1078,6 +1162,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-04-22_presentazione_percorso_di_filosofia_atti",
+    "title": "Presentazione “Percorso di Filosofia Attiva”",
+    "date": "2026-04-22",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/percorso-di-filosofia-attiva/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/10/CORSO_FILOSOFIA_ATTIVA-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-22_la_memoria_del_vajont_raccontata_da_gius",
     "title": "La memoria del Vajont raccontata da Giuseppe “Bepi” Vazza al Teatro S. Teresa",
     "date": "2026-04-22",
@@ -1089,6 +1187,34 @@
     "url": "https://www.cittadiverona.it/eventi/memoria-vajont-raccontata-giuseppe-bepi-vazza-teatro-s-teresa/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/in-meno-di-quattro-minuti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-23__caravaggio_a_rebel_rock_musical_al_teat",
+    "title": "\"Caravaggio - A Rebel Rock Musical\" al Teatro Nuovo di Verona",
+    "date": "2026-04-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/caravaggio-rebel-rock-musical-concerto-23-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-23_english_conversation_night_with_inlingua",
+    "title": "English conversation night with inlingua Verona",
+    "date": "2026-04-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/english-conversation-night-with-inlingua-verona-23-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1148,20 +1274,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-25__romeo_e_giulietta_la_passeggiata_teatra",
-    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
-    "date": "2026-04-25",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-25_festa_degli_aquiloni_a_brognoligo",
     "title": "Festa degli Aquiloni a Brognoligo",
     "date": "2026-04-25",
@@ -1173,6 +1285,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-degli-aquiloni/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/festa-aquiloni-brognoligo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-25__romeo_e_giulietta_la_passeggiata_teatra",
+    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1288,20 +1414,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03__ti_invito_al_viaggio_in_quel_paese_che_",
-    "title": "\"Ti invito al viaggio: in quel paese che ti somiglia tanto\": a Verona arte e incontri culturali dal sapore internazionale",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ti-invito-al-viaggio-mostra-11-aprile-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-03_mercatino_dell_antiquariato_a_povegliano",
     "title": "Mercatino dell’antiquariato a Povegliano Veronese",
     "date": "2026-05-03",
@@ -1411,6 +1523,20 @@
     "url": "https://www.cittadiverona.it/eventi/magia-pinocchio-musical-teatro-nuovo-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/pinocchio-musical-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-10_rispetto_e_inclusione_al_centro_del_fest",
+    "title": "Rispetto e inclusione al centro del festival “Non c’è differenza”",
+    "date": "2026-05-10",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rispetto-e-inclusione-al-centro-del-festival-non-ce-differenza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/11/festival-non-ce-differenza-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1554,6 +1680,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-11_l_omaggio_sinfonico_mio_padre_con_andrea",
+    "title": "L’omaggio sinfonico “È mio padre” con Andrea Morricone a Villafranca",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/omaggio-sinfonico-e-mio-padre-andrea-morricone-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/andrea-morricone-ennio-morricone-e-mio-padre-locandina-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-12_i_blue_celebrano_venticinque_anni_di_suc",
+    "title": "I Blue celebrano venticinque anni di successi al Castello Scaligero di Villafranca",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/blue-celebrano-venticinque-anni-successi-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/BLUE-25th-Anniversary-Tour-Estate-Italiana-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1565,6 +1719,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1580,6 +1748,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "cittadiverona_2026-07-17_angelina_mango_al_teatro_romano_di_veron",
+    "title": "Angelina Mango al Teatro Romano di Verona",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/angelina-mango-teatro-romano-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/angelina-mango-nina-canta-nei-teatri-600x338.jpg",
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-07-22_nek_in_concerto_per_il_villafranca_festi",
@@ -1610,6 +1792,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-25_daniele_silvestri_in_un_live_acustico_al",
+    "title": "Daniele Silvestri in un live acustico al Teatro Romano di Verona",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-di-daniele-silvestri-a-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/03/daniele-silvestri-teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-18__paganini_paradise_superlive_immersive_c",
     "title": "“Paganini Paradise – Superlive Immersive Concert” all’Arena di Verona",
     "date": "2026-08-18",
@@ -1621,20 +1817,6 @@
     "url": "https://www.cittadiverona.it/eventi/paganini-paradise-superlive-immersive-concert-arena-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/paganini-paradise-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1734,20 +1916,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-25_job_orienta",
