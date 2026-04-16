@@ -1,16 +1,16 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { openChatbot } from "@/components/ui/ChatbotWidget";
 
 /**
  * Cerchio "PRENOTA UN TAVOLO" che ruota — stile Quay House (grande, serif leggibile)
  */
 export function RotatingReserveBadge() {
   return (
-    <button
-      type="button"
-      onClick={openChatbot}
+    <a
+      href="https://wa.me/393928699275"
+      target="_blank"
+      rel="noopener noreferrer"
       className="fixed right-6 top-24 z-50 hidden lg:block cursor-pointer"
       aria-label="Prenota un tavolo"
     >
@@ -49,6 +49,6 @@ export function RotatingReserveBadge() {
         </svg>
         <span className="text-[#B8962E] text-2xl lg:text-3xl">⬧</span>
       </motion.div>
-    </button>
+    </a>
   );
 }
