@@ -21,10 +21,12 @@ const UI_TEXT: Record<string, Record<Language, string>> = {
   frozen: {
     it: "può essere surgelato", en: "may be frozen", es: "puede estar congelado", de: "kann tiefgekühlt sein",
     ru: "может быть заморожено", ro: "poate fi congelat", zh: "可能为冷冻食材", ja: "冷凍の場合あり",
+    fr: "peut être surgelé", pt: "pode ser congelado",
   },
   ask_waiter: {
     it: "chiedi al cameriere", en: "ask waiter", es: "pregunte al camarero", de: "bitte fragen Sie",
     ru: "спросите официанта", ro: "întrebați chelnerul", zh: "请咨询服务员", ja: "スタッフにお尋ねください",
+    fr: "demandez au serveur", pt: "pergunte ao empregado",
   },
 };
 

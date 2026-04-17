@@ -19,6 +19,7 @@ const UI_TEXT = {
   allergen_legend: {
     it: "Legenda allergeni", en: "Allergen legend", es: "Leyenda de alérgenos", de: "Allergenlegende",
     ru: "Обозначения аллергенов", ro: "Legenda alergenilor", zh: "过敏原说明", ja: "アレルゲン一覧",
+    fr: "Légende des allergènes", pt: "Legenda de alergénios",
   },
   events_banner_title: {
     it: "Scopri gli eventi settimanali a Verona",
@@ -29,6 +30,8 @@ const UI_TEXT = {
     ro: "Descoperă evenimentele săptămânale din Verona",
     zh: "探索维罗纳的每周活动",
     ja: "ヴェローナの週刊イベントを探る",
+    fr: "Découvrez les événements hebdomadaires de Vérone",
+    pt: "Descubra os eventos semanais de Verona",
   },
   events_banner_cta: {
     it: "Vedi tutti gli eventi",
@@ -39,6 +42,8 @@ const UI_TEXT = {
     ro: "Vezi toate evenimentele",
     zh: "查看所有活动",
     ja: "すべてのイベントを見る",
+    fr: "Voir tous les événements",
+    pt: "Ver todos os eventos",
   },
 } satisfies Record<string, Record<Language, string>>;
 
