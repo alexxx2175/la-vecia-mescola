@@ -1,6 +1,6 @@
-export type Language = "it" | "en" | "es" | "de" | "ru" | "ro" | "zh" | "ja";
+export type Language = "it" | "en" | "es" | "de" | "ru" | "ro" | "zh" | "ja" | "fr" | "pt";
 
-export const LANGUAGES: Language[] = ["it", "en", "es", "de", "ru", "ro", "zh", "ja"];
+export const LANGUAGES: Language[] = ["it", "en", "es", "de", "ru", "ro", "zh", "ja", "fr", "pt"];
 
 export const LANGUAGE_FLAGS: Record<Language, string> = {
   it: "🇮🇹",
@@ -11,6 +11,8 @@ export const LANGUAGE_FLAGS: Record<Language, string> = {
   ro: "🇷🇴",
   zh: "🇨🇳",
   ja: "🇯🇵",
+  fr: "🇫🇷",
+  pt: "🇵🇹",
 };
 
 export const LANGUAGE_LABELS: Record<Language, string> = {
@@ -22,6 +24,8 @@ export const LANGUAGE_LABELS: Record<Language, string> = {
   ro: "Română",
   zh: "中文",
   ja: "日本語",
+  fr: "Français",
+  pt: "Português",
 };
 
 export type MenuCategoryKey =
@@ -43,6 +47,8 @@ export interface MenuItem {
   name_ro?: string;
   name_zh?: string;
   name_ja?: string;
+  name_fr?: string;
+  name_pt?: string;
   desc_it: string;
   desc_en: string;
   desc_es?: string;
@@ -51,6 +57,8 @@ export interface MenuItem {
   desc_ro?: string;
   desc_zh?: string;
   desc_ja?: string;
+  desc_fr?: string;
+  desc_pt?: string;
   price: number;
   allergens: number[];
   frozen?: boolean;
@@ -77,12 +85,12 @@ export const CATEGORY_ORDER: MenuCategoryKey[] = [
 ];
 
 export const CATEGORY_LABELS: Record<MenuCategoryKey, LocalizedText> = {
-  antipasti: { it: "Antipasti", en: "Starters", es: "Entrantes", de: "Vorspeisen", ru: "Закуски", ro: "Aperitive", zh: "前菜", ja: "前菜" },
-  primi: { it: "Primi", en: "First courses", es: "Primeros platos", de: "Erste Gänge", ru: "Первые блюда", ro: "Felul întâi", zh: "头盘", ja: "プリモ" },
-  secondi: { it: "Secondi", en: "Main courses", es: "Segundos platos", de: "Hauptgerichte", ru: "Вторые блюда", ro: "Felul doi", zh: "主菜", ja: "セコンド" },
-  contorni: { it: "Contorni", en: "Side dishes", es: "Guarniciones", de: "Beilagen", ru: "Гарниры", ro: "Garnituri", zh: "配菜", ja: "付け合わせ" },
-  dolci: { it: "Dolci", en: "Desserts", es: "Postres", de: "Desserts", ru: "Десерты", ro: "Deserturi", zh: "甜点", ja: "デザート" },
-  bevande: { it: "Bevande", en: "Drinks", es: "Bebidas", de: "Getränke", ru: "Напитки", ro: "Băuturi", zh: "饮品", ja: "ドリンク" },
+  antipasti: { it: "Antipasti", en: "Starters", es: "Entrantes", de: "Vorspeisen", ru: "Закуски", ro: "Aperitive", zh: "前菜", ja: "前菜", fr: "Entrées", pt: "Entradas" },
+  primi: { it: "Primi", en: "First courses", es: "Primeros platos", de: "Erste Gänge", ru: "Первые блюда", ro: "Felul întâi", zh: "头盘", ja: "プリモ", fr: "Premiers plats", pt: "Primeiros pratos" },
+  secondi: { it: "Secondi", en: "Main courses", es: "Segundos platos", de: "Hauptgerichte", ru: "Вторые блюда", ro: "Felul doi", zh: "主菜", ja: "セコンド", fr: "Plats principaux", pt: "Pratos principais" },
+  contorni: { it: "Contorni", en: "Side dishes", es: "Guarniciones", de: "Beilagen", ru: "Гарниры", ro: "Garnituri", zh: "配菜", ja: "付け合わせ", fr: "Accompagnements", pt: "Acompanhamentos" },
+  dolci: { it: "Dolci", en: "Desserts", es: "Postres", de: "Desserts", ru: "Десерты", ro: "Deserturi", zh: "甜点", ja: "デザート", fr: "Desserts", pt: "Sobremesas" },
+  bevande: { it: "Bevande", en: "Drinks", es: "Bebidas", de: "Getränke", ru: "Напитки", ro: "Băuturi", zh: "饮品", ja: "ドリンク", fr: "Boissons", pt: "Bebidas" },
 };
 
 export const ALLERGENS: Record<Language, Record<number, string>> = {
@@ -125,6 +133,16 @@ export const ALLERGENS: Record<Language, Record<number, string>> = {
     1: "グルテン", 2: "甲殻類", 3: "卵", 4: "魚", 5: "ピーナッツ",
     6: "大豆", 7: "乳", 8: "ナッツ類", 9: "セロリ", 10: "マスタード",
     11: "ごま", 12: "亜硫酸塩", 13: "ルピナス", 14: "軟体動物",
+  },
+  fr: {
+    1: "Gluten", 2: "Crustacés", 3: "Œufs", 4: "Poisson", 5: "Cacahuètes",
+    6: "Soja", 7: "Lait", 8: "Fruits à coque", 9: "Céleri", 10: "Moutarde",
+    11: "Graines de sésame", 12: "Dioxyde de soufre", 13: "Lupin", 14: "Mollusques",
+  },
+  pt: {
+    1: "Glúten", 2: "Crustáceos", 3: "Ovos", 4: "Peixe", 5: "Amendoins",
+    6: "Soja", 7: "Leite", 8: "Frutos de casca rija", 9: "Aipo", 10: "Mostarda",
+    11: "Sementes de sésamo", 12: "Dióxido de enxofre", 13: "Tremoço", 14: "Moluscos",
   },
 };
 
