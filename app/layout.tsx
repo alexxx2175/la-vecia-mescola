@@ -31,6 +31,12 @@ export const metadata: Metadata = {
     "ristorante Arena Verona",
     "pasta fresca Verona",
     "risotto Amarone",
+    "risotto all'Amarone Verona",
+    "risotto Vialone Nano Verona",
+    "risotto tipico veronese",
+    "piatti tipici veronesi",
+    "Amarone della Valpolicella ristorante",
+    "trattoria Verona centro storico",
     "La Vecia Mescola",
   ],
   authors: [{ name: "La Vecia Mescola Dell'Oste" }],
@@ -129,6 +135,38 @@ const jsonLd = {
   servesCuisine: ["Veneta", "Italiana"],
   priceRange: "€€",
   acceptsReservations: "True",
+  hasMenuItem: [
+    {
+      "@type": "MenuItem",
+      name: "Risotto all'Amarone",
+      description: "Riso Vialone Nano IGP mantecato con Amarone della Valpolicella DOCG, radicchio di Treviso e fonduta veneta. Piatto simbolo della cucina veronese. Minimo 2 persone.",
+      offers: {
+        "@type": "Offer",
+        price: "18.00",
+        priceCurrency: "EUR",
+        availability: "https://schema.org/InStock",
+      },
+      suitableForDiet: "https://schema.org/GlutenFreeDiet",
+    },
+    {
+      "@type": "MenuItem",
+      name: "Pasta Fresca Fatta in Casa",
+      description: "Bigoli, pappardelle, tagliolini preparati ogni giorno con farine selezionate e uova fresche del territorio veronese.",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "EUR",
+      },
+    },
+    {
+      "@type": "MenuItem",
+      name: "Pane Fatto in Casa",
+      description: "Pane sfornato ogni giorno nel nostro forno. Crosta croccante e mollica morbida.",
+      offers: {
+        "@type": "Offer",
+        priceCurrency: "EUR",
+      },
+    },
+  ],
 };
 
 export default function RootLayout({

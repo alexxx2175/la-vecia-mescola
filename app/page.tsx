@@ -33,7 +33,39 @@ const faqJsonLd = {
       name: "Dove si mangia il risotto all'Amarone a Verona?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "La Vecia Mescola propone il classico risotto all'Amarone con radicchio e fonduta veneta, uno dei piatti simbolo della cucina veronese. Prezzo: €18,00 (minimo 2 persone).",
+        text: "La Vecia Mescola Dell'Oste, in Vicolo Chiodo 4 a Verona, prepara il risotto all'Amarone con riso Vialone Nano IGP mantecato con Amarone della Valpolicella DOCG, radicchio di Treviso e fonduta veneta. È il piatto simbolo del ristorante, disponibile per un minimo di 2 persone al prezzo di €18,00 a persona. Il ristorante si trova a 200 metri dall'Arena di Verona.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Cos'è il risotto all'Amarone della Valpolicella?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Il risotto all'Amarone è il piatto simbolo della cucina veronese. Si prepara con riso Vialone Nano IGP del Veneto — una varietà a chicco semitondo che assorbe i condimenti in modo eccezionale — mantecato lentamente con Amarone della Valpolicella DOCG, uno dei vini rossi più prestigiosi d'Italia. Il piatto è completato con radicchio di Treviso e fonduta veneta, che aggiungono dolcezza amaricante e cremosità. Il risultato è un risotto ricco, avvolgente, espressione autentica del territorio veronese.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Qual è il piatto tipico veronese da non perdere?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Il piatto tipico veronese per eccellenza è il risotto all'Amarone, preparato con riso Vialone Nano IGP e Amarone della Valpolicella DOCG. Tra i must della cucina veronese ci sono anche la pasta fresca fatta in casa (bigoli al ragù, pappardelle), il bollito con la pearà e le carni alla griglia. A La Vecia Mescola in Vicolo Chiodo 4, a 200 metri dall'Arena di Verona, si trovano tutti questi piatti della tradizione veneta autentica.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Quanto costa il risotto all'Amarone a Verona?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Il risotto all'Amarone della Valpolicella a La Vecia Mescola di Verona costa €18,00 a persona (minimo 2 persone). È preparato con riso Vialone Nano IGP, Amarone della Valpolicella DOCG, radicchio di Treviso e fonduta veneta. Vicolo Chiodo 4, a 200 metri dall'Arena di Verona. Prenotazione su WhatsApp: +39 392 869 9275.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Cos'è il riso Vialone Nano?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Il Vialone Nano è una varietà di riso IGP coltivata nel Veneto, a chicco semitondo e corto, con un elevato contenuto di amido che lo rende ideale per i risotti mantecati. Assorbe i condimenti meglio di altre varietà, mantenendo la giusta consistenza al dente. È l'ingrediente base del risotto all'Amarone veronese e di molti risotti della tradizione veneta. A La Vecia Mescola di Verona il Vialone Nano viene utilizzato per il risotto all'Amarone con fonduta veneta.",
       },
     },
     {
