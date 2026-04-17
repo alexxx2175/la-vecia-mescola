@@ -70,6 +70,18 @@ export function CucinaSection() {
                 {t(translations.cucina.freschi_desc, lang)}
               </p>
             </ScrollReveal>
+            <ScrollReveal variant="fadeLeft" delay={0.5}>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>{t(translations.cucina.pane_title, lang)}</h3>
+              <p className="mt-2 text-[#2C2420]/90">
+                {t(translations.cucina.pane_desc, lang)}
+              </p>
+            </ScrollReveal>
+            <ScrollReveal variant="fadeLeft" delay={0.6}>
+              <h3 className="font-serif font-semibold text-[#2C2420]" style={{ fontSize: "clamp(1.25rem, 3vw, 2rem)" }}>{t(translations.cucina.dolci_title, lang)}</h3>
+              <p className="mt-2 text-[#2C2420]/90">
+                {t(translations.cucina.dolci_desc, lang)}
+              </p>
+            </ScrollReveal>
           </div>
         </div>
       </div>
