@@ -1,44 +1,5 @@
 [
   {
-    "id": "arena_2026-04-18_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-04-18",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540411&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-04-18_opera_in_giallo_|_pagliacci_|_",
-    "title": "Opera in giallo | Pagliacci | Arena Young",
-    "date": "2026-04-18",
-    "time": "15:30",
-    "type": "Arena Young",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Sala Filarmonica",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/opera-in-giallo-pagliacci/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134472&amp;tcode=vt0020006",
-    "image": null
-  },
-  {
-    "id": "arena_2026-04-18_musorgskij_quadri",
-    "title": "Musorgskij Quadri",
-    "date": "2026-04-18",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/musorgskij-quadri/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134404&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-19_rossini_|_trascrizioni_per_qua",
     "title": "Rossini | Trascrizioni per quartetto di fiati",
     "date": "2026-04-19",
@@ -169,19 +130,6 @@
     "image": null
   },
   {
-    "id": "arena_2026-05-16_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-05-16",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540413&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-05-16_dvořák_nuovo_mondo",
     "title": "Dvořák Nuovo Mondo",
     "date": "2026-05-16",
@@ -192,6 +140,19 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/dvorak-nuovo-mondo/",
     "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134410&amp;tcode=vt0020008",
+    "image": null
+  },
+  {
+    "id": "arena_2026-05-16_visita_guidata_a_teatro_|_le_s",
+    "title": "Visita guidata a teatro | Le Sale della Musica",
+    "date": "2026-05-16",
+    "time": "10:30",
+    "type": "Visita guidata",
+    "venue_type": "Teatro Filarmonico",
+    "location": "Teatro Filarmonico",
+    "source": "arena.it",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
+    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540413&amp;tcode=vt0020008",
     "image": null
   },
   {
