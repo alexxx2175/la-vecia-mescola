@@ -280,20 +280,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-04-08_mostra_pane_vino_pesce_2_0_",
-    "title": "Mostra “Pane vino pesce 2.0”",
-    "date": "2026-04-08",
-    "time": "",
-    "type": "Mostre",
-    "venue_type": "Mostre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-pane-vino-pesce-2-0/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/mostra-pane-vino-pesce-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-04-10_vinitaly_and_the_city_verona",
     "title": "Vinitaly and the City - Verona",
     "date": "2026-04-10",
@@ -882,6 +868,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-28_crea_il_tuo_portafoto_fatto_a_mano",
+    "title": "Crea il tuo \"portafoto\" fatto a mano",
+    "date": "2026-04-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/crea-portafoto-28-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-29__il_sabato_del_villaggio_al_teatro_campl",
     "title": "“Il Sabato del Villaggio” al Teatro Camploy",
     "date": "2026-04-29",
@@ -1145,6 +1145,20 @@
     "url": "https://www.cittadiverona.it/eventi/pooh-arena-di-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/09/pooh-arena-di-verona-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-15_sagra_del_riso_coi_saltarei",
+    "title": "Sagra del riso coi Saltarei",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-del-riso-coi-saltarei/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Sagra-riso-saltarei-2026-600x338.jpg",
     "category": "cultura"
   },
   {
