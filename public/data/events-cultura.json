@@ -378,20 +378,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-21__la_tua_iniziale_in_fiore_",
-    "title": "\"La tua iniziale…in fiore\"",
-    "date": "2026-04-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-tua-iniziale-in-fiore-21-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-22_federico_buffa_al_teatro_nuovo_di_verona",
     "title": "Federico Buffa al Teatro Nuovo di Verona per uno spettacolo dedicato alla leggenda del basket Kobe Bryant",
     "date": "2026-04-22",
@@ -480,14 +466,14 @@
     "title": "\"Caravaggio - A Rebel Rock Musical\" al Teatro Nuovo di Verona",
     "date": "2026-04-23",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/caravaggio-rebel-rock-musical-concerto-23-aprile-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31474694788583/locandina-caravaggio-2026.jpeg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-04-23_english_conversation_night_with_inlingua",
