@@ -378,34 +378,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-22_federico_buffa_al_teatro_nuovo_di_verona",
-    "title": "Federico Buffa al Teatro Nuovo di Verona per uno spettacolo dedicato alla leggenda del basket Kobe Bryant",
-    "date": "2026-04-22",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/federico-buffa-racconta-kobe-bryant-21-22-aprile-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/16732682287511/federico-buffa-locandina-ufficio-stampa-spettacolo-live-srls.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-22_eos_future_summit_ai_beyond",
-    "title": "Eos future summit AI & beyond",
-    "date": "2026-04-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/eos-future-summit-ai-beyond-22-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-22_sagra_dei_sparasi_di_mambrotta",
     "title": "Sagra dei Sparasi di Mambrotta",
     "date": "2026-04-22",
@@ -420,57 +392,29 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-22_presentazione_percorso_di_filosofia_atti",
-    "title": "Presentazione “Percorso di Filosofia Attiva”",
-    "date": "2026-04-22",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/percorso-di-filosofia-attiva/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/10/CORSO_FILOSOFIA_ATTIVA-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-22__che_ci_faccio_qui_in_scena_con_domenico",
-    "title": "“Che ci faccio qui in scena” con Domenico Iannacone",
-    "date": "2026-04-22",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/che-ci-faccio-qui-in-scena-domenico-iannacone/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Domenico-Iannacone-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-22_la_memoria_del_vajont_raccontata_da_gius",
-    "title": "La memoria del Vajont raccontata da Giuseppe “Bepi” Vazza al Teatro S. Teresa",
-    "date": "2026-04-22",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/memoria-vajont-raccontata-giuseppe-bepi-vazza-teatro-s-teresa/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/in-meno-di-quattro-minuti-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-23__caravaggio_a_rebel_rock_musical_al_teat",
     "title": "\"Caravaggio - A Rebel Rock Musical\" al Teatro Nuovo di Verona",
+    "date": "2026-04-23",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/caravaggio-rebel-rock-musical-concerto-23-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31474694788583/locandina-caravaggio-2026.jpeg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-04-23_aperitivo_con_le_donne_del_vino_al_caff_",
+    "title": "Aperitivo con le donne del vino al Caffè Dante Bistrot di Verona: ospite Tracy Eboigbodin",
     "date": "2026-04-23",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/caravaggio-rebel-rock-musical-concerto-23-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/aperitivo-le-donne-del-vino-23-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -529,6 +473,20 @@
     "url": "https://www.cittadiverona.it/eventi/caravaggio-versione-rock-teatro-nuovo-verona-musical-ribelle/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/michelangelo-da-caravaggio-rock-musical-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-24_a_tregnago_il_cammino_memoria_storia_e_r",
+    "title": "A Tregnago “Il cammino”: memoria, storia e riflessione nell’Auditorium comunale",
+    "date": "2026-04-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/film-il-cammino-24-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -644,6 +602,62 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-25_festa_della_liberazione_le_donne_dalla_r",
+    "title": "Festa della Liberazione: le donne dalla Resistenza alla Repubblica",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-della-liberazione-donne-resistenza-repubblica-25-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-25_monia_the_saints_band_the_best_of_the_gr",
+    "title": "Monia & the Saints Band - The best of the greatest hits",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-25-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-25__suoni_di_ta_pum_echi_di_speranza_",
+    "title": "\"Suoni di ta pum, echi di speranza\"",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/suoni-di-ta-pum-echi-di-speranza-25-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-25__piera_benetti_small_boxes_",
+    "title": "\"Piera Benetti small boxes\"",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piera-benetti-small-boxes-25-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-04-25__romeo_e_giulietta_la_passeggiata_teatra",
     "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
     "date": "2026-04-25",
@@ -683,6 +697,20 @@
     "url": "https://www.cittadiverona.it/eventi/premio-beatrice-premio-solidarieta/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2022/05/premio-beatrice-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-26_visite_guidate_gratuite_all_ex_campo_di_",
+    "title": "Visite guidate gratuite all'ex campo di concentramento di Montorio",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visite-ex-campo-concentramento-montorio-25-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -728,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-26_escursione_nel_cuore_della_lessinia_tra_",
+    "title": "Escursione nel cuore della Lessinia, tra boschi, pascoli, erbe selvatiche e leggende",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-lessinia-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-26_la_chiesa_blu_san_bernardino_e_sala_moro",
     "title": "La chiesa blu: San Bernardino e Sala Morone",
     "date": "2026-04-26",
@@ -756,6 +798,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-26_shakespeare_walk_2026_la_passeggiata_tea",
+    "title": "Shakespeare Walk 2026: la passeggiata teatrale nel cuore di Verona",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/shakespeare-walk-passeggiata-teatrale-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-26_a_sona_il_cammino_un_pomeriggio_tra_docu",
+    "title": "A Sona “Il cammino”: un pomeriggio tra docufilm, libro e memoria storica",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sona-il-cammino-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-26_tempo_di_narcisi_poesia_al_baito",
     "title": "Tempo di narcisi, poesia al baito",
     "date": "2026-04-26",
@@ -765,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/tempo-narcisi-poesia-baito-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-26_olivum_bardolino_la_festa_dedicata_all_e",
+    "title": "Olivum Bardolino, la festa dedicata all’Extravergine di Oliva",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/olivum-bardolino-festa-olio-24-26-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -880,6 +964,20 @@
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/10/sabato-del-villaggio-600x338.jpg",
     "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-30_la_big_band_jazzset_orchestra_in_concert",
+    "title": "La Big Band Jazzset Orchestra in concerto per la Giornata internazionale del jazz",
+    "date": "2026-04-30",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornata-internazionale-jazz-concerto-30-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31506311645625/la-big-band-jazzset-orchestra-in-concerto-per-la-giornata-internazionale-del-jazz.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "cittadiverona_2026-04-30_calendario_di_musica_live_a_verona_e_pro",
@@ -1204,20 +1302,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-05-24__il_cenacolo_di_leonardo_da_vinci_tra_le",
-    "title": "“Il Cenacolo di Leonardo da Vinci, tra le pieghe dell’anima”",
-    "date": "2026-05-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cenacolo-leonardo-da-vinci-mostra-21-marzo-24-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-30_festa_dei_trombini_a_selva_di_progno",
     "title": "Festa dei Trombini a Selva di Progno",
     "date": "2026-05-30",
@@ -1241,34 +1325,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-07__sussurri_di_luce_sul_garda_la_mostra_pe",
-    "title": "“Sussurri di luce sul Garda”, la mostra personale di Athos Faccincani",
-    "date": "2026-06-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sussurri-luce-garda-athos-faccincani-28-febbraio-7-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-25_camminata_tonica_ad_angiari",
-    "title": "Camminata tonica ad Angiari",
-    "date": "2026-06-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/camminata-tonica-angiari-settembre-2025-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1344,20 +1400,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1369,6 +1411,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1608,19 +1664,5 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   }
 ]
