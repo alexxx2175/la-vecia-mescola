@@ -392,48 +392,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-23__caravaggio_a_rebel_rock_musical_al_teat",
-    "title": "\"Caravaggio - A Rebel Rock Musical\" al Teatro Nuovo di Verona",
-    "date": "2026-04-23",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/caravaggio-rebel-rock-musical-concerto-23-aprile-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31474694788583/locandina-caravaggio-2026.jpeg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-04-23_aperitivo_con_le_donne_del_vino_al_caff_",
-    "title": "Aperitivo con le donne del vino al Caffè Dante Bistrot di Verona: ospite Tracy Eboigbodin",
-    "date": "2026-04-23",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivo-le-donne-del-vino-23-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-23_english_conversation_night_with_inlingua",
-    "title": "English conversation night with inlingua Verona",
-    "date": "2026-04-23",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/english-conversation-night-with-inlingua-verona-23-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-23_antica_fiera_di_san_marco_a_san_bonifaci",
     "title": "Antica Fiera di San Marco a San Bonifacio",
     "date": "2026-04-23",
@@ -462,20 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-23_caravaggio_in_versione_rock_al_teatro_nu",
-    "title": "Caravaggio in versione rock al Teatro Nuovo di Verona con un musical “ribelle”",
-    "date": "2026-04-23",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/caravaggio-versione-rock-teatro-nuovo-verona-musical-ribelle/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/michelangelo-da-caravaggio-rock-musical-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-24_a_tregnago_il_cammino_memoria_storia_e_r",
     "title": "A Tregnago “Il cammino”: memoria, storia e riflessione nell’Auditorium comunale",
     "date": "2026-04-24",
@@ -490,17 +434,45 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-24_galleria_dello_scudo_presenta_la_mostra_",
-    "title": "Galleria dello Scudo presenta la mostra \"carlaaccardi oroargento dipinti 1964-1965\"",
+    "id": "veronasera_2026-04-24__giocare_fuori_uno_spazio_necessario_",
+    "title": "\"Giocare fuori, uno spazio necessario\"",
     "date": "2026-04-24",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/galleria-dello-scudo-arte-carlaaccardi-oroargentodipinti13-dicembre-2025-24-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/giocare-fuori-uno-spazio-necessario-24-aprile-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-24_art_architettura_incontri_formativi_e_di",
+    "title": "Art-architettura: incontri formativi e divulgativi sul lavoro d'artista",
+    "date": "2026-04-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/art-architettura-incontri-formativi-24-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-24_sagra_degli_asparagi_a_rivoli_veronese",
+    "title": "Sagra degli Asparagi a Rivoli Veronese",
+    "date": "2026-04-24",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-degli-asparagi-rivoli-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Sagra-asparagi-rivoli-veronese-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,20 +630,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-25__romeo_e_giulietta_la_passeggiata_teatra",
-    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
-    "date": "2026-04-25",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-25_festa_degli_aquiloni_a_brognoligo",
     "title": "Festa degli Aquiloni a Brognoligo",
     "date": "2026-04-25",
@@ -683,6 +641,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-degli-aquiloni/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/festa-aquiloni-brognoligo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-25__romeo_e_giulietta_la_passeggiata_teatra",
+    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
+    "date": "2026-04-25",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -704,13 +676,13 @@
     "title": "Visite guidate gratuite all'ex campo di concentramento di Montorio",
     "date": "2026-04-26",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Turismo",
+    "venue_type": "Turismo",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visite-ex-campo-concentramento-montorio-25-26-aprile-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34215568066676/ex-campo-di-concentramento-di-montorio-foto-ufficio-stampa-comune-di-verona-3.jpg",
     "category": "cultura"
   },
   {
@@ -742,15 +714,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-26_trekking_in_valpolicella",
-    "title": "Trekking in Valpolicella",
+    "id": "veronasera_2026-04-26_discesa_in_canoa_sul_fiume_buss_",
+    "title": "Discesa in canoa sul fiume Bussè",
     "date": "2026-04-26",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/trekking-valpolicella-26-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/discesa-canoa-fiume-busse-26-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -770,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-26_trekking_in_valpolicella",
+    "title": "Trekking in Valpolicella",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/trekking-valpolicella-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-04-26_la_chiesa_blu_san_bernardino_e_sala_moro",
     "title": "La chiesa blu: San Bernardino e Sala Morone",
     "date": "2026-04-26",
@@ -779,20 +765,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-chiesa-san-bernardino-sala-morone-26-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-26_workshop_inside_macbeth_a_verona_formazi",
-    "title": "Workshop “Inside Macbeth” a Verona: formazione teatrale con Paul Goodwin",
-    "date": "2026-04-26",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/workshop-inside-macbeth-paul-goodwin-26-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -821,6 +793,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sona-il-cammino-26-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-26_workshop_inside_macbeth_a_verona_formazi",
+    "title": "Workshop “Inside Macbeth” a Verona: formazione teatrale con Paul Goodwin",
+    "date": "2026-04-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/workshop-inside-macbeth-paul-goodwin-26-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1008,6 +994,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-01_torna_artinrete_il_festival_dell_arte_co",
+    "title": "Torna “Artinrete”, il Festival dell’Arte Contemporanea",
+    "date": "2026-05-01",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/artinrete-festival-dell-arte-contemporanea/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Artinrete-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-01__fragolosa_la_festa_della_fragola_a_butt",
     "title": "“Fragolosa”, la festa della Fragola a Buttapietra",
     "date": "2026-05-01",
@@ -1047,6 +1047,34 @@
     "url": "https://www.cittadiverona.it/eventi/verona-flower-show/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/verona-flower-show-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03__fragolosa_la_festa_della_fragola_a_butt",
+    "title": "\"Fragolosa\", la Festa della Fragola a Buttapietra",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fragolosa-festa-fragola-buttapietra-1-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03_cologna_in_fiore",
+    "title": "Cologna in Fiore",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-mercatino-cologna-in-fiore-1-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1243,6 +1271,34 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-del-riso-coi-saltarei/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Sagra-riso-saltarei-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-15_spettacolo_musicale_incontrarti_all_aren",
+    "title": "Spettacolo musicale “IncontrArti”all’Arena di Verona",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/spettacolo-musicale-incontrartiarena-di-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/IMG_2089-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-17_buskers_park_al_parco_giardino_sigurt_",
+    "title": "Buskers Park al Parco Giardino Sigurtà",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/buskers-park/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/Buskers-park-600x338.jpg",
     "category": "cultura"
   },
   {
