@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-04-25_mahler_9",
-    "title": "Mahler 9",
-    "date": "2026-04-25",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/mahler-9/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134406&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-04-26_bach,_couperin,_carter_|_sonat",
     "title": "Bach, Couperin, Carter | Sonate e concerti",
     "date": "2026-04-26",
