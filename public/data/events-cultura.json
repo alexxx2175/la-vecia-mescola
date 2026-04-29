@@ -406,15 +406,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-28_crea_il_tuo_portafoto_fatto_a_mano",
-    "title": "Crea il tuo \"portafoto\" fatto a mano",
-    "date": "2026-04-28",
+    "id": "veronasera_2026-04-29_giovanni_scifoni_chiude_la_stagione_del_",
+    "title": "Giovanni Scifoni chiude la stagione del Teatro Salieri con \"Fra’ - San Francesco, la Superstar del Medioevo\"",
+    "date": "2026-04-29",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/crea-portafoto-28-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/fra-san-rancesco-superstar-medioevo-teatro-salieri-29-aprile-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-04-29_al_teatro_camploy_il_sabato_del_villaggi",
+    "title": "Al Teatro Camploy “Il sabato del villaggio. Divieto di sosta 0-24”",
+    "date": "2026-04-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teatro-camploy-sabato-villaggio-29-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -434,6 +448,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-04-30_eddie_henderson_e_l_eredit_musicale_di_m",
+    "title": "Eddie Henderson e l'eredità musicale di Miles Davis al Teatro Ristori per l'International Jazz Day",
+    "date": "2026-04-30",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/eddie-henderson-concerto-teatro-ristori-30-aprile-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/37483052563376/henderson-eddie-s-picture-by-jimmy-katz-via-ufficio-stampa-teatro-ristori.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "veronasera_2026-04-30_la_big_band_jazzset_orchestra_in_concert",
     "title": "La Big Band Jazzset Orchestra in concerto per la Giornata internazionale del jazz",
     "date": "2026-04-30",
@@ -448,15 +476,15 @@
     "category": "concerti_pop"
   },
   {
-    "id": "veronasera_2026-04-30_corso_di_yoga_nidra",
-    "title": "Corso di Yoga Nidra",
+    "id": "veronasera_2026-04-30_the_janx_allo_stone_rose",
+    "title": "The Janx allo Stone Rose",
     "date": "2026-04-30",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-yoga-nidra-12-marzo-30-aprile-2026.html",
+    "url": "https://www.veronasera.it/eventi/the-janx-concerto-stone-rose-30-aprile-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -473,6 +501,20 @@
     "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-04-30_soave_street_food_festival",
+    "title": "Soave Street food festival",
+    "date": "2026-04-30",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/soave-street-food-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/04/Soave-street-food-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -518,6 +560,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-01_karaoke_live_andfriends_band",
+    "title": "Karaoke live: @andfriends band",
+    "date": "2026-05-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-1-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-01_festa_della_sparasina",
     "title": "Festa della Sparasina",
     "date": "2026-05-01",
@@ -529,20 +585,6 @@
     "url": "https://www.veronasera.it/eventi/festa-sparasina-pigozzo-19-25-26-aprile-1-maggio-2026.html",
     "buy_url": null,
     "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-01__romeo_e_giulietta_la_passeggiata_teatra",
-    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -571,6 +613,20 @@
     "url": "https://www.cittadiverona.it/eventi/artinrete-festival-dell-arte-contemporanea/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Artinrete-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-01__romeo_e_giulietta_la_passeggiata_teatra",
+    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
+    "date": "2026-05-01",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -686,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-03_wake_up_verona",
+    "title": "Wake up Verona",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/wake-up-verona-colazione-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-03_laboratorio_naturalistico_al_baito_un_po",
     "title": "Laboratorio naturalistico al baito: \"Un po' po' di pozza\"",
     "date": "2026-05-03",
@@ -770,20 +840,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03_le_evocative_strutture_reticolari_di_fra",
-    "title": "Le evocative strutture reticolari di Francesco Damiani presentate in Atelier Voglino a Verona",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-francesco-damiani-10-aprile-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-03_mercatino_dell_antiquariato_a_povegliano",
     "title": "Mercatino dell’antiquariato a Povegliano Veronese",
     "date": "2026-05-03",
@@ -844,13 +900,13 @@
     "title": "“Vernia o non Vernia – Sbrilluccicoso Edition” al Teatro Nuovo di Verona",
     "date": "2026-05-05",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giovanni-vernia-teatro-nuovo-5-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/51400728010248/giovanni-vernia-foto-ufficio-stampa-daniele-mignardi-promopressagency-comunicazione.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -866,6 +922,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-05-06_mindfulness_in_8_settimane_a_verona",
+    "title": "Mindfulness in 8 settimane a Verona",
+    "date": "2026-05-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mindfulness-otto-settimane-verona-6-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-05-07_isola_rock_2026",
@@ -966,6 +1036,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-14_antonio_e_cleopatra_al_teatro_satiro_off",
+    "title": "Antonio e Cleopatra al Teatro satiro OFF",
+    "date": "2026-05-14",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antonio-e-cleopatra-al-teatro-satiro-off/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/antonio-e-cleopatra-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-14_i_pooh_all_arena_di_verona",
     "title": "I Pooh all’Arena di Verona",
     "date": "2026-05-14",
@@ -1005,20 +1089,6 @@
     "url": "https://www.cittadiverona.it/eventi/spettacolo-musicale-incontrartiarena-di-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/IMG_2089-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-16_ketty_kobbo_wood_wide_web_",
-    "title": "Ketty Kobbo - \"Wood Wide Web\"",
-    "date": "2026-05-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ketty-gobbo-wood-wide-web-21-febbraio-16-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
