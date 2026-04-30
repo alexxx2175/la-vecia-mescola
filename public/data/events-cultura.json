@@ -406,48 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-29_giovanni_scifoni_chiude_la_stagione_del_",
-    "title": "Giovanni Scifoni chiude la stagione del Teatro Salieri con \"Fra’ - San Francesco, la Superstar del Medioevo\"",
-    "date": "2026-04-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fra-san-rancesco-superstar-medioevo-teatro-salieri-29-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-29_al_teatro_camploy_il_sabato_del_villaggi",
-    "title": "Al Teatro Camploy “Il sabato del villaggio. Divieto di sosta 0-24”",
-    "date": "2026-04-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-camploy-sabato-villaggio-29-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-29__il_sabato_del_villaggio_al_teatro_campl",
-    "title": "“Il Sabato del Villaggio” al Teatro Camploy",
-    "date": "2026-04-29",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-sabato-del-villaggio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/10/sabato-del-villaggio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-04-30_eddie_henderson_e_l_eredit_musicale_di_m",
     "title": "Eddie Henderson e l'eredità musicale di Miles Davis al Teatro Ristori per l'International Jazz Day",
     "date": "2026-04-30",
@@ -466,14 +424,14 @@
     "title": "La Big Band Jazzset Orchestra in concerto per la Giornata internazionale del jazz",
     "date": "2026-04-30",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giornata-internazionale-jazz-concerto-30-aprile-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31506311645625/la-big-band-jazzset-orchestra-in-concerto-per-la-giornata-internazionale-del-jazz.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-04-30_the_janx_allo_stone_rose",
@@ -602,20 +560,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-01_torna_artinrete_il_festival_dell_arte_co",
-    "title": "Torna “Artinrete”, il Festival dell’Arte Contemporanea",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/artinrete-festival-dell-arte-contemporanea/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Artinrete-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-01__romeo_e_giulietta_la_passeggiata_teatra",
     "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
     "date": "2026-05-01",
@@ -627,6 +571,20 @@
     "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-01_torna_artinrete_il_festival_dell_arte_co",
+    "title": "Torna “Artinrete”, il Festival dell’Arte Contemporanea",
+    "date": "2026-05-01",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/artinrete-festival-dell-arte-contemporanea/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Artinrete-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -669,6 +627,34 @@
     "url": "https://www.veronasera.it/eventi/sabato-vignaiolo-degustazione-vino-2-maggio-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/62008749520053/locandina-il-sabato-del-vignaiolo-2026.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-02_il_coro_dell_arena_arriva_al_teatro_bian",
+    "title": "Il coro dell’Arena arriva al Teatro Bianchi: concerto lirico a Pescantina",
+    "date": "2026-05-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/coro-arena-verona-concerto-lirico-teatro-bianchi-2-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-02_liberalibri_a_la_folaga_rossa_scambio_di",
+    "title": "LiberaLibri a la Folaga Rossa: scambio di libri nella natura",
+    "date": "2026-05-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/liberalibri-la-folaga-rossa-2-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -756,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-03_escursione_tra_boschi_acqua_e_pietra_sul",
+    "title": "Escursione tra boschi, acqua e pietra: sulle tracce delle streghe delle Lessinia",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-streghe-lessinia-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-03_laboratorio_naturalistico_al_baito_un_po",
     "title": "Laboratorio naturalistico al baito: \"Un po' po' di pozza\"",
     "date": "2026-05-03",
@@ -798,6 +798,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-03_a_verona_artinrete_il_festival_dell_arte",
+    "title": "A Verona \"Artinrete, il Festival dell’Arte Contemporanea\"",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/artinrete-festival-arte-contemporanea-1-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03_a_malcesine_riemerge_la_storia_degli_alp",
+    "title": "A Malcesine riemerge la storia degli alpini perduti nella Seconda guerra mondiale: la battaglia delle gallerie",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-alpini-battaglia-gallerie-seconda-guerra-mondiale-1-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-03_la_sagra_dei_sparasi_di_mambrotta",
     "title": "La Sagra dei Sparasi di Mambrotta",
     "date": "2026-05-03",
@@ -835,6 +863,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/maffeo-d-arcole-mostra-stop-non-piu-oltre-27-marzo-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03_soave_street_food_festival",
+    "title": "Soave Street Food Festival",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soave-street-food-festival-30-aprile-1-2-3-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -935,6 +977,20 @@
     "url": "https://www.veronasera.it/eventi/mindfulness-otto-settimane-verona-6-maggio-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-07_al_teatro_nuovo_di_verona_il_grande_spet",
+    "title": "Al Teatro Nuovo di Verona il grande spettacolo \"The Night of Musicals\" con la Broadway Musical Dance Company",
+    "date": "2026-05-07",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/the-night-musicals-teatro-nuovo-7-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38978675915467/the-night-of-musicals-puravida_nom_teatri_tam-locandina-2025-ufficio-stampa-eventi-verona-srl.jpg",
     "category": "cultura"
   },
   {
@@ -1218,20 +1274,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-25_camminata_tonica_ad_angiari",
-    "title": "Camminata tonica ad Angiari",
-    "date": "2026-06-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/camminata-tonica-angiari-settembre-2025-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-02_claudio_baglioni_al_castello_scaligero_d",
     "title": "Claudio Baglioni al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-02",
@@ -1383,20 +1425,6 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-25_corso_di_corsa_ad_angiari",
-    "title": "Corso di corsa ad Angiari",
-    "date": "2026-07-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-corsa-angiari-settembre-2025-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1594,19 +1622,5 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   }
 ]
