@@ -196,20 +196,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-03-15__tulipanomania_2026_al_parco_giardino_si",
-    "title": "“Tulipanomania 2026” al Parco Giardino Sigurtà",
-    "date": "2026-03-15",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/tulipanomania-al-parco-giardino-sigurta/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/03/tulipanomania-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-03-19_ricambisti_day",
     "title": "Ricambisti Day",
     "date": "2026-03-19",
@@ -406,62 +392,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-04-30_eddie_henderson_e_l_eredit_musicale_di_m",
-    "title": "Eddie Henderson e l'eredità musicale di Miles Davis al Teatro Ristori per l'International Jazz Day",
-    "date": "2026-04-30",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/eddie-henderson-concerto-teatro-ristori-30-aprile-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/37483052563376/henderson-eddie-s-picture-by-jimmy-katz-via-ufficio-stampa-teatro-ristori.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-04-30_la_big_band_jazzset_orchestra_in_concert",
-    "title": "La Big Band Jazzset Orchestra in concerto per la Giornata internazionale del jazz",
-    "date": "2026-04-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giornata-internazionale-jazz-concerto-30-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-04-30_the_janx_allo_stone_rose",
-    "title": "The Janx allo Stone Rose",
-    "date": "2026-04-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/the-janx-concerto-stone-rose-30-aprile-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-30_calendario_di_musica_live_a_verona_e_pro",
-    "title": "Calendario di musica live a Verona e provincia",
-    "date": "2026-04-30",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-30_soave_street_food_festival",
     "title": "Soave Street food festival",
     "date": "2026-04-30",
@@ -476,31 +406,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-04-30_eddie_henderson_omaggia_miles_davis_al_t",
-    "title": "Eddie Henderson omaggia Miles Davis al Teatro Ristori",
-    "date": "2026-04-30",
+    "id": "veronasera_2026-05-01__il_giro_dell_oco_",
+    "title": "\"Il giro dell'Oco\"",
+    "date": "2026-05-01",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/eddie-henderson-omaggia-miles-davis-teatro-ristori/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giro-dell-oco-festa-1-maggio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Eddie-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-04-30_la_difficilissima_storia_della_vita_di_c",
-    "title": "La difficilissima storia della vita di Ciccio Speranza in scena al Camploy",
-    "date": "2026-04-30",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/difficilissima-storia-della-vita-ciccio-speranza-scena-camploy/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/storia-Ciccio-Speranza-camploy-600x338.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -602,6 +518,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-01__concerto_d_opera_la_lirica_arriva_alla_",
+    "title": "“Concerto d’Opera”: la lirica arriva alla Sala Antonio Girelli",
+    "date": "2026-05-01",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-dopera-al-palazzo-dei-mutilati/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/05/concerto-opera-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-02_paolo_ruffini_porta_in_arena_lo_spettaco",
     "title": "Paolo Ruffini porta in Arena lo spettacolo “Din Don Down - Alla ricerca di (D)io”",
     "date": "2026-05-02",
@@ -634,14 +564,14 @@
     "title": "Il coro dell’Arena arriva al Teatro Bianchi: concerto lirico a Pescantina",
     "date": "2026-05-02",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/coro-arena-verona-concerto-lirico-teatro-bianchi-2-maggio-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/53156716902485/locandina-concerto-2-maggio-2026.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-05-02_liberalibri_a_la_folaga_rossa_scambio_di",
@@ -667,6 +597,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/salire-per-sopravvivere-libro-al-baito-2-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-02_pedalando_tra_paesaggi_e_corti",
+    "title": "Pedalando tra paesaggi e corti",
+    "date": "2026-05-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/pedalando-paesaggi-corti-bici-2-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -700,6 +644,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-02_giovanni_chiamenti_e_c_c_maxigross_in_un",
+    "title": "Giovanni Chiamenti e C+C=Maxigross in una performance immersiva a Palazzo Forti",
+    "date": "2026-05-02",
+    "time": "",
+    "type": "Mostre",
+    "venue_type": "Mostre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giovanni-chiamenti-ccmaxigross-performance-immersiva-palazzo-forti/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/key-Bioindicator-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-02__non_sparate_sul_postino_al_teatro_santa",
     "title": "“Non sparate sul postino” al Teatro Santa Teresa",
     "date": "2026-05-02",
@@ -728,20 +686,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03_wake_up_verona",
-    "title": "Wake up Verona",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/wake-up-verona-colazione-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-03_escursione_tra_boschi_acqua_e_pietra_sul",
     "title": "Escursione tra boschi, acqua e pietra: sulle tracce delle streghe delle Lessinia",
     "date": "2026-05-03",
@@ -751,6 +695,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/escursione-streghe-lessinia-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03_wake_up_verona",
+    "title": "Wake up Verona",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/wake-up-verona-colazione-3-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -812,6 +770,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-03_land_of_wine_a_peschiera_del_garda",
+    "title": "Land of Wine a Peschiera del Garda",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/land-of-wine-festa-peschiera-1-2-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-03_a_malcesine_riemerge_la_storia_degli_alp",
     "title": "A Malcesine riemerge la storia degli alpini perduti nella Seconda guerra mondiale: la battaglia delle gallerie",
     "date": "2026-05-03",
@@ -854,20 +826,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03_a_castel_san_pietro_la_mostra_maffeo_d_a",
-    "title": "A Castel San Pietro la mostra \"Maffeo d’Arcole: STOP, non più oltre\"",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/maffeo-d-arcole-mostra-stop-non-piu-oltre-27-marzo-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-03_soave_street_food_festival",
     "title": "Soave Street Food Festival",
     "date": "2026-05-03",
@@ -877,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/soave-street-food-festival-30-aprile-1-2-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03_a_castel_san_pietro_la_mostra_maffeo_d_a",
+    "title": "A Castel San Pietro la mostra \"Maffeo d’Arcole: STOP, non più oltre\"",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/maffeo-d-arcole-mostra-stop-non-piu-oltre-27-marzo-3-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -924,6 +896,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-04_sport_expo_in_tour_a_pescantina_la_prima",
+    "title": "Sport Expo in Tour: a Pescantina la prima Festa dello Sport",
+    "date": "2026-05-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-sport-expo-tour-3-4-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-04__ocjo_salute_e_sicurezza_in_ambiente_di_",
     "title": "\"Ocjo: salute e sicurezza in ambiente di lavoro\"",
     "date": "2026-05-04",
@@ -947,6 +933,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giovanni-vernia-teatro-nuovo-5-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-05_crea_il_tuo_pendente_in_resina_con_fiori",
+    "title": "Crea il tuo pendente in resina con fiori veri",
+    "date": "2026-05-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/crea-pendente-resina-fiori-5-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1148,6 +1148,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-16_borgo_divino_in_tour_a_san_giorgio_di_va",
+    "title": "Borgo diVino in tour a San Giorgio di Valpolicella",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/borgo-divino-in-tour-a-san-giorgio-di-valpolicella/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/borgo-divino-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-17_pedalata_inaugurale_south_garda_bike_reg",
+    "title": "Pedalata inaugurale South Garda Bike Region",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/pedalata-inaugurale-south-garda-bike-region/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/SGBR-Inaugurazione-17-maggio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-17_buskers_park_al_parco_giardino_sigurt_",
     "title": "Buskers Park al Parco Giardino Sigurtà",
     "date": "2026-05-17",
@@ -1218,20 +1246,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-05-24__il_cenacolo_di_leonardo_da_vinci_tra_le",
-    "title": "“Il Cenacolo di Leonardo da Vinci, tra le pieghe dell’anima”",
-    "date": "2026-05-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cenacolo-leonardo-da-vinci-mostra-21-marzo-24-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-30_festa_dei_trombini_a_selva_di_progno",
     "title": "Festa dei Trombini a Selva di Progno",
     "date": "2026-05-30",
@@ -1243,6 +1257,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-dei-trombini-a-selva-di-progno/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/06/festa-dei-trombini-selva-di-progno-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-31_calendario_di_musica_live_a_verona_e_pro",
+    "title": "Calendario di musica live a Verona e provincia",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
     "category": "cultura"
   },
   {
