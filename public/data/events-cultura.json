@@ -350,20 +350,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-04-19_festa_della_sparasina_a_pigozzo",
-    "title": "Festa della Sparasina a Pigozzo",
-    "date": "2026-04-19",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-della-sparasina-a-pigozzo-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/04/festa-sparasina-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-04-22_sagra_dei_sparasi_di_mambrotta",
     "title": "Sagra dei Sparasi di Mambrotta",
     "date": "2026-04-22",
@@ -406,59 +392,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-01__il_giro_dell_oco_",
-    "title": "\"Il giro dell'Oco\"",
+    "id": "cittadiverona_2026-05-01_torna_artinrete_il_festival_dell_arte_co",
+    "title": "Torna “Artinrete”, il Festival dell’Arte Contemporanea",
     "date": "2026-05-01",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Convegni",
+    "venue_type": "Convegni",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giro-dell-oco-festa-1-maggio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/artinrete-festival-dell-arte-contemporanea/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-01_platea_picnic_al_baito",
-    "title": "PlateA, picnic al baito",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/platea-picnic-baito-1-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-01_karaoke_live_andfriends_band",
-    "title": "Karaoke live: @andfriends band",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-1-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-01_festa_della_sparasina",
-    "title": "Festa della Sparasina",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-sparasina-pigozzo-19-25-26-aprile-1-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Artinrete-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -473,34 +417,6 @@
     "url": "https://www.cittadiverona.it/eventi/a-tavola-col-daniel-sapori-tradizione-castelnuovo-garda/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/A-tavola-con-daniel-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-01__romeo_e_giulietta_la_passeggiata_teatra",
-    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-01_torna_artinrete_il_festival_dell_arte_co",
-    "title": "Torna “Artinrete”, il Festival dell’Arte Contemporanea",
-    "date": "2026-05-01",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/artinrete-festival-dell-arte-contemporanea/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Artinrete-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -564,14 +480,14 @@
     "title": "Il coro dell’Arena arriva al Teatro Bianchi: concerto lirico a Pescantina",
     "date": "2026-05-02",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/coro-arena-verona-concerto-lirico-teatro-bianchi-2-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/53156716902485/locandina-concerto-2-maggio-2026.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-05-02_liberalibri_a_la_folaga_rossa_scambio_di",
@@ -588,20 +504,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-02__salire_per_sopravvivere_un_libro_al_bai",
-    "title": "\"Salire per sopravvivere\", un libro al baito...ed escursione al chiaro di luna",
-    "date": "2026-05-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/salire-per-sopravvivere-libro-al-baito-2-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-02_pedalando_tra_paesaggi_e_corti",
     "title": "Pedalando tra paesaggi e corti",
     "date": "2026-05-02",
@@ -611,6 +513,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/pedalando-paesaggi-corti-bici-2-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-02__salire_per_sopravvivere_un_libro_al_bai",
+    "title": "\"Salire per sopravvivere\", un libro al baito...ed escursione al chiaro di luna",
+    "date": "2026-05-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/salire-per-sopravvivere-libro-al-baito-2-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -672,6 +588,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-03_la_verona_sotterranea_e_gli_altri_appunt",
+    "title": "La Verona sotterranea e gli altri appuntamenti archeologici del weekend",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-archeologia-verona-sotterranea-2-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03_il_virtuosismo_di_frank_vignola_chiude_i",
+    "title": "Il virtuosismo di Frank Vignola chiude il Soave Guitar Festival",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/frank-vignola-concerto-soave-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-03_verona_flower_show_mostra_mercato_piante",
     "title": "Verona Flower Show - Mostra mercato piante rare e inconsuete",
     "date": "2026-05-03",
@@ -728,6 +672,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-03_land_of_wine_a_peschiera_del_garda",
+    "title": "Land of Wine a Peschiera del Garda",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/land-of-wine-festa-peschiera-1-2-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-03__fragolosa_la_festa_della_fragola_a_butt",
     "title": "\"Fragolosa\", la Festa della Fragola a Buttapietra",
     "date": "2026-05-03",
@@ -770,20 +728,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03_land_of_wine_a_peschiera_del_garda",
-    "title": "Land of Wine a Peschiera del Garda",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/land-of-wine-festa-peschiera-1-2-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-03_a_malcesine_riemerge_la_storia_degli_alp",
     "title": "A Malcesine riemerge la storia degli alpini perduti nella Seconda guerra mondiale: la battaglia delle gallerie",
     "date": "2026-05-03",
@@ -812,20 +756,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03__ti_invito_al_viaggio_in_quel_paese_che_",
-    "title": "\"Ti invito al viaggio: in quel paese che ti somiglia tanto\": a Verona arte e incontri culturali dal sapore internazionale",
-    "date": "2026-05-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ti-invito-al-viaggio-mostra-11-aprile-3-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-03_soave_street_food_festival",
     "title": "Soave Street Food Festival",
     "date": "2026-05-03",
@@ -840,15 +770,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-03_a_castel_san_pietro_la_mostra_maffeo_d_a",
-    "title": "A Castel San Pietro la mostra \"Maffeo d’Arcole: STOP, non più oltre\"",
+    "id": "veronasera_2026-05-03_la_sagra_di_san_giuseppe_a_torretta_di_l",
+    "title": "La Sagra di San Giuseppe a Torretta di Legnago",
     "date": "2026-05-03",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/maffeo-d-arcole-mostra-stop-non-piu-oltre-27-marzo-3-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/sagra-san-giuseppe-festa-torretta-legnago-30-aprile-3-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-03__ti_invito_al_viaggio_in_quel_paese_che_",
+    "title": "\"Ti invito al viaggio: in quel paese che ti somiglia tanto\": a Verona arte e incontri culturali dal sapore internazionale",
+    "date": "2026-05-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ti-invito-al-viaggio-mostra-11-aprile-3-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -924,6 +868,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-04_la_sagra_di_sant_eurosia_a_santa_lucia_a",
+    "title": "La Sagra di Sant'Eurosia a Santa Lucia ai Monti di Valeggio sul Mincio",
+    "date": "2026-05-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-sant-eurosia-valeggio-30-aprile-4-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-05__vernia_o_non_vernia_sbrilluccicoso_edit",
     "title": "“Vernia o non Vernia – Sbrilluccicoso Edition” al Teatro Nuovo di Verona",
     "date": "2026-05-05",
@@ -933,6 +891,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giovanni-vernia-teatro-nuovo-5-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-05__marted_soave_al_caff_dante_verona_scopr",
+    "title": "“Martedì soave” al Caffè Dante: Verona scopre il suo vino iconico",
+    "date": "2026-05-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/martedi-soave-caffe-dante-vino-5-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -964,6 +936,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-05-06_aperitivo_al_salotto_zenato_con_l_oro_ol",
+    "title": "Aperitivo al Salotto Zenato con l'oro olimpico Davide Ghiotto",
+    "date": "2026-05-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivo-salotto-zenato-oro-olimpico-davide-ghiotto-6-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-05-06_mindfulness_in_8_settimane_a_verona",
@@ -1022,6 +1008,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-08_dialogo_tra_vito_mancuso_e_marco_campede",
+    "title": "Dialogo tra Vito Mancuso e Marco Campedelli: il desiderio di spiritualità nel mondo contemporaneo",
+    "date": "2026-05-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/vito-mancuso-incontro-dialogo-marco-campedelli-8-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-08_kids_night_out_inlingua_verona",
+    "title": "Kids' Night Out - inlingua Verona",
+    "date": "2026-05-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/kids-night-out-inlingua-verona-8-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-08_sagra_di_cellore_d_illasi",
     "title": "Sagra di Cellore d’Illasi",
     "date": "2026-05-08",
@@ -1047,6 +1061,34 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-patronale-di-vangadizza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/sagra-patronale-di-vangadizza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-09_all_aeroporto_di_boscomantico_l_evento_t",
+    "title": "All'Aeroporto di Boscomantico l'evento \"Tra terra e cielo, auto e velivoli storici\"",
+    "date": "2026-05-09",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aeroporto-boscomantico-terra-cielo-auto-aerei-storici-9-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/64842955168165/presentazione-tra-terra-e-cielo-aeroporto-di-boscomantico-foto-ufficio-stampa-aeroclub-di-verona-boscomantico-airport.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-09__mamma_che_capolavoro_laboratorio_creati",
+    "title": "“Mamma che capolavoro!”, laboratorio creativo per bambini per la festa della mamma",
+    "date": "2026-05-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mamma-che-capolavoro-laboratorio-creativo-9-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1274,34 +1316,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-07__sussurri_di_luce_sul_garda_la_mostra_pe",
-    "title": "“Sussurri di luce sul Garda”, la mostra personale di Athos Faccincani",
-    "date": "2026-06-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sussurri-luce-garda-athos-faccincani-28-febbraio-7-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-02_claudio_baglioni_al_castello_scaligero_d",
     "title": "Claudio Baglioni al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-02",
@@ -1372,20 +1386,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1397,6 +1397,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
