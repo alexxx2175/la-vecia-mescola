@@ -308,20 +308,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-04-11_mostra_ti_invito_al_viaggio_in_quel_paes",
-    "title": "Mostra “Ti invito al viaggio, in quel paese che ti somiglia tanto”",
-    "date": "2026-04-11",
-    "time": "",
-    "type": "Mostre",
-    "venue_type": "Mostre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-invito-viaggio-quel-paese-che-somiglia-tanto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Ti-invito-al-viaggio-in-quel-paese-che-ti-somiglia-tanto-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-04-12_enolitech",
     "title": "Enolitech",
     "date": "2026-04-12",
@@ -375,34 +361,6 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-dopera-al-palazzo-dei-mutilati/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2022/05/concerto-opera-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-04__ocjo_salute_e_sicurezza_in_ambiente_di_",
-    "title": "\"Ocjo: salute e sicurezza in ambiente di lavoro\"",
-    "date": "2026-05-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ocjo-salute-sicurezza-ambiente-lavoro-4-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-04_la_sagra_di_sant_eurosia_a_santa_lucia_a",
-    "title": "La Sagra di Sant'Eurosia a Santa Lucia ai Monti di Valeggio sul Mincio",
-    "date": "2026-05-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-sant-eurosia-valeggio-30-aprile-4-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -616,6 +574,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-09_mercatino_dell_antiquariato_a_bussolengo",
+    "title": "Mercatino dell’antiquariato a Bussolengo",
+    "date": "2026-05-09",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-bussolengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/bussolengo-antica-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-09_la_magia_di_pinocchio_musical_al_teatro_",
     "title": "La magia di “Pinocchio Musical” al Teatro Nuovo di Verona",
     "date": "2026-05-09",
@@ -627,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/magia-pinocchio-musical-teatro-nuovo-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/pinocchio-musical-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-09_incontro_l_approccio_alla_salute_mentale",
+    "title": "Incontro “L’approccio alla salute mentale, oggi e domani”",
+    "date": "2026-05-09",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/incontro-approccio-salute-mentale-oggi-domani/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/approccio-salute-mentale-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -756,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-10_valeggio_veste_il_vintage",
+    "title": "Valeggio Veste il Vintage",
+    "date": "2026-05-10",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/valeggio-veste-il-vintage-2",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/valeggio-veste-il-vintage-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-10_rispetto_e_inclusione_al_centro_del_fest",
     "title": "Rispetto e inclusione al centro del festival “Non c’è differenza”",
     "date": "2026-05-10",
@@ -807,6 +807,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sagra-cellore-illasi-8-11-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-11_incontri_per_leggere_e_animare_fiabe_e_r",
+    "title": "Incontri per “Leggere e animare fiabe e racconti”",
+    "date": "2026-05-11",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/incontri-leggere-animare-fiabe-racconti/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/letture-animate-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-12_sagra_patronale_di_vangadizza",
+    "title": "Sagra Patronale di Vangadizza",
+    "date": "2026-05-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-patronale-vangadizza-8-12-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -893,6 +921,48 @@
     "url": "https://www.cittadiverona.it/eventi/borgo-divino-in-tour-a-san-giorgio-di-valpolicella/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/borgo-divino-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-16_sagra_dei_bisi_a_colognola_ai_colli",
+    "title": "Sagra dei Bisi a Colognola ai Colli",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-dei-bisi-a-colognola-ai-colli/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-bisi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-17_a_soave_la_mostra_estasi_d_amore_",
+    "title": "A Soave la mostra \"Estasi d'Amore\"",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/estasi-amore-soave-1-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-17_mercatino_dell_antiquariato_di_soave",
+    "title": "Mercatino dell’Antiquariato di Soave",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-dell-antiquariato-di-soave/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/mercatino-antiquariato-soave-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -994,6 +1064,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-30_mostra_immersiva_frida_kahlo_a_revolutio",
+    "title": "Mostra immersiva “Frida Kahlo | A Revolutionary Life”",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Mostre",
+    "venue_type": "Mostre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mostra-immersiva-frida-kahlo-a-revolutionary-life/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Frida-Kahlo-A-Revolutionary-Life-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-30_festa_dei_trombini_a_selva_di_progno",
     "title": "Festa dei Trombini a Selva di Progno",
     "date": "2026-05-30",
@@ -1005,6 +1089,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-dei-trombini-a-selva-di-progno/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/06/festa-dei-trombini-selva-di-progno-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-30_costermano_summer_fest_2026",
+    "title": "Costermano Summer Fest 2026",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/costermano-summer-fest/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/costermano-summer-fest-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1033,6 +1131,20 @@
     "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-02_tour_del_palato_a_prun_di_negrar",
+    "title": "Tour del Palato a Prun di Negrar",
+    "date": "2026-06-02",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/tour-del-palato-a-prun-di-negrar/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/05/Tour-del-palato-600x338.jpg",
     "category": "cultura"
   },
   {
