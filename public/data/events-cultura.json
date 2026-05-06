@@ -364,48 +364,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-05__vernia_o_non_vernia_sbrilluccicoso_edit",
-    "title": "“Vernia o non Vernia – Sbrilluccicoso Edition” al Teatro Nuovo di Verona",
-    "date": "2026-05-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giovanni-vernia-teatro-nuovo-5-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-05__marted_soave_al_caff_dante_verona_scopr",
-    "title": "“Martedì soave” al Caffè Dante: Verona scopre il suo vino iconico",
-    "date": "2026-05-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/martedi-soave-caffe-dante-vino-5-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-05_crea_il_tuo_pendente_in_resina_con_fiori",
-    "title": "Crea il tuo pendente in resina con fiori veri",
-    "date": "2026-05-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/crea-pendente-resina-fiori-5-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-05-06_samoter",
     "title": "Samoter",
     "date": "2026-05-06",
@@ -504,6 +462,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-08_tra_terra_e_vite_dialogo_in_quattro_atti",
+    "title": "Tra terra e vite, dialogo in quattro atti al ristorante Amistà",
+    "date": "2026-05-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ristorante-amista-degustazione-enologo-8-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-08_kids_night_out_inlingua_verona",
     "title": "Kids' Night Out - inlingua Verona",
     "date": "2026-05-08",
@@ -560,6 +532,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-09_allo_stone_rose_torna_il_rock_degli_shoo",
+    "title": "Allo Stone Rose torna il rock degli Shooting Cow",
+    "date": "2026-05-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/stone-rose-shooting-cow-9-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-09__mamma_che_capolavoro_laboratorio_creati",
     "title": "“Mamma che capolavoro!”, laboratorio creativo per bambini per la festa della mamma",
     "date": "2026-05-09",
@@ -613,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/incontro-approccio-salute-mentale-oggi-domani/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/approccio-salute-mentale-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-09__non_sparate_sul_postino_al_teatro_campl",
+    "title": "“Non sparate sul postino” al Teatro Camploy",
+    "date": "2026-05-09",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/non-sparate-sul-postino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Non-sparate-sul-Postino-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -723,20 +723,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/libri-rose-7-10-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-10_musica_live_e_divertimento_torna_isola_r",
-    "title": "Musica live e divertimento: torna \"Isola Rock\"",
-    "date": "2026-05-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/isola-rock-festa-concerto-7-10-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -896,20 +882,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-16_ketty_kobbo_wood_wide_web_",
-    "title": "Ketty Kobbo - \"Wood Wide Web\"",
-    "date": "2026-05-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ketty-gobbo-wood-wide-web-21-febbraio-16-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-16_borgo_divino_in_tour_a_san_giorgio_di_va",
     "title": "Borgo diVino in tour a San Giorgio di Valpolicella",
     "date": "2026-05-16",
@@ -935,20 +907,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-dei-bisi-a-colognola-ai-colli/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-bisi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-17_a_soave_la_mostra_estasi_d_amore_",
-    "title": "A Soave la mostra \"Estasi d'Amore\"",
-    "date": "2026-05-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/estasi-amore-soave-1-17-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1341,20 +1299,6 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-25_corso_di_corsa_ad_angiari",
-    "title": "Corso di corsa ad Angiari",
-    "date": "2026-07-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-corsa-angiari-settembre-2025-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
