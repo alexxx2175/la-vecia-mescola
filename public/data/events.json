@@ -1,15 +1,15 @@
 [
   {
-    "id": "arena_2026-05-08_beethoven_missa_solemnis",
-    "title": "Beethoven Missa Solemnis",
-    "date": "2026-05-08",
-    "time": "20:00",
-    "type": "Concerto",
+    "id": "arena_2026-05-09_turandot_|_enigmi_al_museo",
+    "title": "Turandot | Enigmi al museo",
+    "date": "2026-05-09",
+    "time": "17:00",
+    "type": "Opera",
     "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
+    "location": "Arena di Verona",
     "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/beethoven-missa-solemnis/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134407&amp;tcode=vt0020008",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/turandot-enigmi-al-museo/",
+    "buy_url": "https://shop.arena.it/it/event/turandot-enigmi-al-museo/292749",
     "image": null
   },
   {
@@ -23,19 +23,6 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/beethoven-missa-solemnis/",
     "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134408&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-05-09_turandot_|_enigmi_al_museo",
-    "title": "Turandot | Enigmi al museo",
-    "date": "2026-05-09",
-    "time": "17:00",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/turandot-enigmi-al-museo/",
-    "buy_url": "https://shop.arena.it/it/event/turandot-enigmi-al-museo/292749",
     "image": null
   },
   {
@@ -127,6 +114,19 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/grieg-concerto/",
     "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134412&amp;tcode=vt0020008",
+    "image": null
+  },
+  {
+    "id": "arena_2026-06-05_campioni_del_mondo",
+    "title": "Campioni del mondo",
+    "date": "2026-06-05",
+    "time": "21:15",
+    "type": "Evento speciale",
+    "venue_type": "Arena Opera Festival",
+    "location": "Arena di Verona",
+    "source": "arena.it",
+    "url": "https://www.arena.it/arena-opera-festival/campioni-del-mondo-italia-loves-unesco/",
+    "buy_url": "https://shop.arena.it/it/event/campioni-del-mondo-italia-loves-unesco/300363",
     "image": null
   },
   {
