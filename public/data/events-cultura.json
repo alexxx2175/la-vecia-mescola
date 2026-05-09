@@ -364,20 +364,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-05-07_al_teatro_nuovo_di_verona_il_grande_spet",
-    "title": "Al Teatro Nuovo di Verona il grande spettacolo \"The Night of Musicals\" con la Broadway Musical Dance Company",
-    "date": "2026-05-07",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/the-night-musicals-teatro-nuovo-7-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38978675915467/the-night-of-musicals-puravida_nom_teatri_tam-locandina-2025-ufficio-stampa-eventi-verona-srl.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-07_le_piazze_dei_sapori_a_verona",
     "title": "Le Piazze dei Sapori a Verona",
     "date": "2026-05-07",
@@ -406,73 +392,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-07_rilettura_in_chiave_attuale_del_cantico_",
-    "title": "Rilettura in chiave attuale del Cantico delle Creature a Corte Molon",
-    "date": "2026-05-07",
+    "id": "cittadiverona_2026-05-08_festa_della_fragola_a_bonavigo",
+    "title": "Festa della Fragola a Bonavigo",
+    "date": "2026-05-08",
     "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rilettura-chiave-attuale-cantico-delle-creature-corte-molon/",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-fragola-a-bonavigo/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/cantico-delle-creature-corte-molon-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-07_le_stelle_di_broadway_arrivano_al_teatro",
-    "title": "Le stelle di Broadway arrivano al Teatro Nuovo di Verona con “The Night of the Musicals”",
-    "date": "2026-05-07",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/stelle-broadway-arrivano-teatro-nuovo-verona-the-night-of-the-musicals/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/The-Night-of-the-Musicals-Verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-08_dialogo_tra_vito_mancuso_e_marco_campede",
-    "title": "Dialogo tra Vito Mancuso e Marco Campedelli: il desiderio di spiritualità nel mondo contemporaneo",
-    "date": "2026-05-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/vito-mancuso-incontro-dialogo-marco-campedelli-8-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-08_tra_terra_e_vite_dialogo_in_quattro_atti",
-    "title": "Tra terra e vite, dialogo in quattro atti al ristorante Amistà",
-    "date": "2026-05-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ristorante-amista-degustazione-enologo-8-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-08_kids_night_out_inlingua_verona",
-    "title": "Kids' Night Out - inlingua Verona",
-    "date": "2026-05-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/kids-night-out-inlingua-verona-8-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/05/festa-della-fragola-bonavigo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -487,20 +417,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-degli-asparagi-a-cavaion-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-asparagi-cavaion-veronese-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-08_festa_della_fragola_a_bonavigo",
-    "title": "Festa della Fragola a Bonavigo",
-    "date": "2026-05-08",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-della-fragola-a-bonavigo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/05/festa-della-fragola-bonavigo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -634,13 +550,13 @@
     "title": "Valeggio Veste il Vintage",
     "date": "2026-05-10",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/valeggio-veste-vintage-10-maggio-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/44022536099453/locandina-valeggio-veste-il-vintage-maggio-2026.jpg",
     "category": "cultura"
   },
   {
@@ -658,20 +574,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-10_raul_cremona_porta_al_teatro_nuovo_il_su",
-    "title": "Raul Cremona porta al Teatro Nuovo il suo spettacolo “Bravissssssimo!”",
-    "date": "2026-05-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/raul-cremona-teatro-nuovo-10-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-10_omaggio_a_ennio_morricone_con_diego_bass",
     "title": "Omaggio a Ennio Morricone con Diego Basso al Teatro Ristori",
     "date": "2026-05-10",
@@ -681,6 +583,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/omaggio-ennio-morricone-concerto-teatro-ristori-10-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-10_raul_cremona_porta_al_teatro_nuovo_il_su",
+    "title": "Raul Cremona porta al Teatro Nuovo il suo spettacolo “Bravissssssimo!”",
+    "date": "2026-05-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/raul-cremona-teatro-nuovo-10-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -896,6 +812,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-16_primavera_sul_monte_baldo_con_caccia_al_",
+    "title": "Primavera sul Monte Baldo con \"caccia al tesoro\" botanica",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-baldo-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-16_visita_guidata_esclusiva_a_fondazione_me",
+    "title": "Visita guidata esclusiva a Fondazione Meriggio",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-fondazione-meriggio-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-16_borgo_divino_in_tour_a_san_giorgio_di_va",
     "title": "Borgo diVino in tour a San Giorgio di Valpolicella",
     "date": "2026-05-16",
@@ -1078,6 +1022,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-22_villafranca_fest_2026",
+    "title": "Villafranca Fest 2026",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/villafranca-fest-2",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/villafranca-fest-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-23_trekking_in_vigneto",
     "title": "Trekking in Vigneto",
     "date": "2026-05-23",
@@ -1089,20 +1047,6 @@
     "url": "https://www.cittadiverona.it/eventi/trekking-in-vigneto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Trekking-Vigneto-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-24__il_cenacolo_di_leonardo_da_vinci_tra_le",
-    "title": "“Il Cenacolo di Leonardo da Vinci, tra le pieghe dell’anima”",
-    "date": "2026-05-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cenacolo-leonardo-da-vinci-mostra-21-marzo-24-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1162,20 +1106,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-02_tour_del_palato_a_prun_di_negrar",
     "title": "Tour del Palato a Prun di Negrar",
     "date": "2026-06-02",
@@ -1187,20 +1117,6 @@
     "url": "https://www.cittadiverona.it/eventi/tour-del-palato-a-prun-di-negrar/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2019/05/Tour-del-palato-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-05__oltre_i_limiti_a_bardolino_una_mostra_t",
-    "title": "“Oltre i limiti”: a Bardolino una mostra tra arte, inclusione e comunità",
-    "date": "2026-06-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oltre-limiti-mostra-arte-bardolino-4-maggio-5-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1288,20 +1204,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1313,6 +1215,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
