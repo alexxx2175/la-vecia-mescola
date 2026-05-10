@@ -434,6 +434,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-08_34esima_edizione_della_primavera_del_lib",
+    "title": "34esima edizione della “Primavera del Libro” a Negrar",
+    "date": "2026-05-08",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/primavera-del-libro-negrar/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/primavera-del-libro-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-08_sagra_patronale_di_vangadizza",
     "title": "Sagra Patronale di Vangadizza",
     "date": "2026-05-08",
@@ -445,90 +459,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-patronale-di-vangadizza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/sagra-patronale-di-vangadizza-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-09_all_aeroporto_di_boscomantico_l_evento_t",
-    "title": "All'Aeroporto di Boscomantico l'evento \"Tra terra e cielo, auto e velivoli storici\"",
-    "date": "2026-05-09",
-    "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aeroporto-boscomantico-terra-cielo-auto-aerei-storici-9-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/64842955168165/presentazione-tra-terra-e-cielo-aeroporto-di-boscomantico-foto-ufficio-stampa-aeroclub-di-verona-boscomantico-airport.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-09_allo_stone_rose_torna_il_rock_degli_shoo",
-    "title": "Allo Stone Rose torna il rock degli Shooting Cow",
-    "date": "2026-05-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/stone-rose-shooting-cow-9-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-09__mamma_che_capolavoro_laboratorio_creati",
-    "title": "“Mamma che capolavoro!”, laboratorio creativo per bambini per la festa della mamma",
-    "date": "2026-05-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mamma-che-capolavoro-laboratorio-creativo-9-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-09_mercatino_dell_antiquariato_a_bussolengo",
-    "title": "Mercatino dell’antiquariato a Bussolengo",
-    "date": "2026-05-09",
-    "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-bussolengo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/bussolengo-antica-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-09_la_magia_di_pinocchio_musical_al_teatro_",
-    "title": "La magia di “Pinocchio Musical” al Teatro Nuovo di Verona",
-    "date": "2026-05-09",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/magia-pinocchio-musical-teatro-nuovo-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/pinocchio-musical-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-09_incontro_l_approccio_alla_salute_mentale",
-    "title": "Incontro “L’approccio alla salute mentale, oggi e domani”",
-    "date": "2026-05-09",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/incontro-approccio-salute-mentale-oggi-domani/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/approccio-salute-mentale-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -564,13 +494,13 @@
     "title": "A Montorio torna \"Libri in Castello\"",
     "date": "2026-05-10",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/libri-in-castello-montorio-10-maggio-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/390270333730/locandina-a3-montorio.jpg",
     "category": "cultura"
   },
   {
@@ -639,6 +569,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cerchio-foulard-workshop-creativo-10-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-10_musica_live_e_divertimento_torna_isola_r",
+    "title": "Musica live e divertimento: torna \"Isola Rock\"",
+    "date": "2026-05-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/isola-rock-festa-concerto-7-10-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -714,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-11_sagra_di_cellore_d_illasi",
+    "title": "Sagra di Cellore d’Illasi",
+    "date": "2026-05-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-cellore-illasi-8-11-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-11_incontri_per_leggere_e_animare_fiabe_e_r",
     "title": "Incontri per “Leggere e animare fiabe e racconti”",
     "date": "2026-05-11",
@@ -725,6 +683,20 @@
     "url": "https://www.cittadiverona.it/eventi/incontri-leggere-animare-fiabe-racconti/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/letture-animate-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-12_sagra_patronale_di_vangadizza",
+    "title": "Sagra Patronale di Vangadizza",
+    "date": "2026-05-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-patronale-vangadizza-8-12-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -865,6 +837,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-dei-bisi-a-colognola-ai-colli/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-bisi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-17_a_negrar_di_valpolicella_torna_la_giorna",
+    "title": "A Negrar di Valpolicella torna la \"Giornata per le api\"",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornata-per-le-api-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1106,6 +1092,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
+    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
+    "date": "2026-06-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-02_tour_del_palato_a_prun_di_negrar",
     "title": "Tour del Palato a Prun di Negrar",
     "date": "2026-06-02",
@@ -1117,6 +1117,20 @@
     "url": "https://www.cittadiverona.it/eventi/tour-del-palato-a-prun-di-negrar/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2019/05/Tour-del-palato-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-05__oltre_i_limiti_a_bardolino_una_mostra_t",
+    "title": "“Oltre i limiti”: a Bardolino una mostra tra arte, inclusione e comunità",
+    "date": "2026-06-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/oltre-limiti-mostra-arte-bardolino-4-maggio-5-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
