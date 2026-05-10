@@ -1,31 +1,5 @@
 [
   {
-    "id": "arena_2026-05-09_turandot_|_enigmi_al_museo",
-    "title": "Turandot | Enigmi al museo",
-    "date": "2026-05-09",
-    "time": "17:00",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/turandot-enigmi-al-museo/",
-    "buy_url": "https://shop.arena.it/it/event/turandot-enigmi-al-museo/292749",
-    "image": null
-  },
-  {
-    "id": "arena_2026-05-09_beethoven_missa_solemnis",
-    "title": "Beethoven Missa Solemnis",
-    "date": "2026-05-09",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/beethoven-missa-solemnis/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134408&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-05-10_haydn,_schubert,_beethoven_|_t",
     "title": "Haydn, Schubert, Beethoven | Trii per archi",
     "date": "2026-05-10",
