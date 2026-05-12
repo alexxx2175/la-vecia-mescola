@@ -378,20 +378,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-08_sagra_di_cellore_d_illasi",
-    "title": "Sagra di Cellore d’Illasi",
-    "date": "2026-05-08",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-cellore-illasi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/sagra-a-cellore-illasi-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-08_sagra_patronale_di_vangadizza",
     "title": "Sagra Patronale di Vangadizza",
     "date": "2026-05-08",
@@ -417,48 +403,6 @@
     "url": "https://www.cittadiverona.it/eventi/rispetto-e-inclusione-al-centro-del-festival-non-ce-differenza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2019/11/festival-non-ce-differenza-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-11_matilde_brandi_arriva_al_teatro_nuovo_di",
-    "title": "Matilde Brandi arriva al Teatro Nuovo di Verona per lo spettacolo “Hairspray – The Broadway Musical”",
-    "date": "2026-05-11",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/hairspray-the-broadway-musical-teatro-nuovo-11-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38558438560340/hairspray-tour-matilde-brandi-locandina-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-11_sagra_di_cellore_d_illasi",
-    "title": "Sagra di Cellore d’Illasi",
-    "date": "2026-05-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-cellore-illasi-8-11-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-11_incontri_per_leggere_e_animare_fiabe_e_r",
-    "title": "Incontri per “Leggere e animare fiabe e racconti”",
-    "date": "2026-05-11",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/incontri-leggere-animare-fiabe-racconti/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/letture-animate-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
