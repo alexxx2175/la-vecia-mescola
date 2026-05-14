@@ -392,31 +392,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-13__wine_chill_aperitivo_al_tramonto_a_masi",
-    "title": "“Wine & Chill”: aperitivo al tramonto a Masi Tenuta Canova",
-    "date": "2026-05-13",
+    "id": "veronasera_2026-05-14_aperitivi_al_femminile_aperitalk_con_esp",
+    "title": "Aperitivi al femminile: \"Aperitalk con esperti - La donna al centro\"",
+    "date": "2026-05-14",
     "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wine-chill-aperitivo-tramonto-masi-tenuta-canova/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivi-femminile-aperitalk-14-maggio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/WineChill-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-13_gran_finale_di_stagione_del_teatro_risto",
-    "title": "Gran finale di stagione del Teatro Ristori con il pianista Aaron Parks",
-    "date": "2026-05-13",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/gran-finale-stagione-teatro-ristori-pianista-aaron-parks/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Aaron-Parks-Teatro-Ristori-600x338.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -448,6 +434,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-15_all_arena_di_verona_la_grande_sfida_inco",
+    "title": "All'Arena di Verona \"La Grande Sfida – InConTrArti\"",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/la-grande-sfida-InConTrArti-arena-verona-15-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/14600177848437/la-grande-sfida-2026-presentazione-damiano-tommasi-foto-ufficio-stampa-comune-di-verona.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-15__impressions_vanilla_sky_presso_l_area_l",
+    "title": "\"Impressions: Vanilla Sky\" presso l’Area Live di Musical Box a Verona",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/impressions-vanilla-sky-concerto-15-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-15_monia_the_saints_band_una_notte_di_grand",
     "title": "Monia & the Saints Band: una notte di grandi successi al trend-up",
     "date": "2026-05-15",
@@ -457,6 +471,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-15-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-15_karaoke_live_andfriends_band",
+    "title": "Karaoke live // @andfriends band",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-15-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -504,6 +532,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-15__rainer_l_indicibile_al_teatro_modus",
+    "title": "“Rainer. L’indicibile” al Teatro Modus",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rainer-l-indicibile/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Rainer_Maria_Rilke-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-15_spettacolo_musicale_incontrarti_all_aren",
     "title": "Spettacolo musicale “IncontrArti”all’Arena di Verona",
     "date": "2026-05-15",
@@ -518,17 +560,45 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-16_i_villach_people_e_giulia_conte_in_conce",
+    "title": "I Villach People e Giulia Conte in concerto al The Brothers di Grezzana",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/villach-people-concerto-giulia-conte-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-16_primavera_sul_monte_baldo_con_caccia_al_",
     "title": "Primavera sul Monte Baldo con \"caccia al tesoro\" botanica",
     "date": "2026-05-16",
     "time": "",
-    "type": "Escursioni",
-    "venue_type": "Escursioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/escursione-baldo-16-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/22145464000695/_3e8228ba.png",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-16_fai_storia_e_ambiente_la_dorsale_preafit",
+    "title": "FAI storia e ambiente: la dorsale Preafita di Montorio",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fai-storia-ambiente-dorsale-preafita-montorio-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -546,15 +616,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-16_fai_storia_e_ambiente_la_dorsale_preafit",
-    "title": "FAI storia e ambiente: la dorsale Preafita di Montorio",
+    "id": "veronasera_2026-05-16_escursione_sentieri_d_alta_lessinia_bosc",
+    "title": "Escursione - Sentieri d'alta Lessinia: boschi, silenzi e grandi panorami",
     "date": "2026-05-16",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fai-storia-ambiente-dorsale-preafita-montorio-16-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/escursione-sentieri-alta-lessinia-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-16__in_limine_all_ossario_di_custoza",
+    "title": "\"In limine\" all'Ossario di Custoza",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/in-limine-ossario-custoza-16-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -583,34 +667,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/commedia-risotto-teatro-16-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-16__in_limine_all_ossario_di_custoza",
-    "title": "\"In limine\" all'Ossario di Custoza",
-    "date": "2026-05-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/in-limine-ossario-custoza-16-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-16_escursione_sentieri_d_alta_lessinia_bosc",
-    "title": "Escursione - Sentieri d'alta Lessinia: boschi, silenzi e grandi panorami",
-    "date": "2026-05-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/escursione-sentieri-alta-lessinia-16-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -672,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-16__la_locandiera_di_carlo_goldoni_al_teatr",
+    "title": "“La Locandiera” di Carlo Goldoni al Teatro Camploy",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-locandiera-di-carlo-goldoni/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/la-locandiera-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-17__buskers_park_al_giardino_sigurt_",
     "title": "\"Buskers Park\" al Giardino Sigurtà",
     "date": "2026-05-17",
@@ -683,6 +753,20 @@
     "url": "https://www.veronasera.it/eventi/buskers-park-giardino-sigurta-17-maggio-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/58126651618980/buskers-park-foto-ufficio-stampa-parco-giardino-sigurta.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-17__se_fosse_pietra_a_sant_anna_d_alfaedo",
+    "title": "“Se Fosse Pietra” a Sant’Anna d’Alfaedo",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/se-fosse-pietra-lessinia-festa-17-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/37463930837920/locandina-se-fosse-pietra-2026.jpg",
     "category": "cultura"
   },
   {
@@ -714,6 +798,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-17_festa_medievale_e_del_vino_soave",
+    "title": "Festa medievale e del vino Soave",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-medievale-vino-soave-15-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-17_street_food_festival_a_bussolengo",
+    "title": "Street Food Festival a Bussolengo",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/street-food-festival-beer-best-eat-bussolengo-15-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-17_i_pooh_festeggiano_60_anni_di_carriera_c",
     "title": "I Pooh festeggiano 60 anni di carriera con un tris di concerti all'Arena di Verona",
     "date": "2026-05-17",
@@ -723,20 +835,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/pooh-concerto-arena-14-16-17-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-17_a_soave_la_mostra_estasi_d_amore_",
-    "title": "A Soave la mostra \"Estasi d'Amore\"",
-    "date": "2026-05-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/estasi-amore-soave-1-17-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -795,6 +893,34 @@
     "url": "https://www.cittadiverona.it/eventi/buskers-park/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/Buskers-park-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-17_una_domenica_a_borgo_roma_per_la_giornat",
+    "title": "Una domenica a Borgo Roma per la giornata della sostenibilità",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/una-domenica-a-borgo-roma-per-la-giornata-della-sostenibilita/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/domenica-sostenibilita-borgo-roma-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-17__buone_vibrazioni_un_evento_alla_scopert",
+    "title": "“Buone Vibrazioni”, un evento alla scoperta di talenti musicali a Villa Buri",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/buone-vibrazioni/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/buone-vibrazioni-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -868,6 +994,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-05-19_a_verona_la_prima_nazionale_per_le_scuol",
+    "title": "A Verona la prima nazionale per le scuole del premio Oscar \"Mr. nobody against Putin\"",
+    "date": "2026-05-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/premio-oscar-mr-nobody-against-putin-film-19-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-20_festival_letterario_soave_citt_del_libro",
     "title": "Festival letterario “Soave Città del Libro”",
     "date": "2026-05-20",
@@ -894,6 +1034,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-05-21__il_prossimo_passo_del_mio_cammino_",
+    "title": "\"Il prossimo passo del mio cammino\"",
+    "date": "2026-05-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/prossimo-passo-mio-cammino-21-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-05-22_verona_mineral_show",
@@ -966,6 +1120,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-24_la_festa_dei_bisi_a_colognola_ai_colli",
+    "title": "La Festa dei Bisi a Colognola ai Colli",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-bisi-colognola-ai-colli-16-24-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-24__il_cenacolo_di_leonardo_da_vinci_tra_le",
     "title": "“Il Cenacolo di Leonardo da Vinci, tra le pieghe dell’anima”",
     "date": "2026-05-24",
@@ -977,6 +1145,20 @@
     "url": "https://www.veronasera.it/eventi/cenacolo-leonardo-da-vinci-mostra-21-marzo-24-maggio-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-27_fiori_erbe_e_sapori_di_primavera_a_tenut",
+    "title": "Fiori, erbe e sapori di primavera a Tenuta Canova",
+    "date": "2026-05-27",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiori-erbe-sapori-primavera-tenuta-canova/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/fiori-Sapori-Primavera-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1106,31 +1288,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-07__sussurri_di_luce_sul_garda_la_mostra_pe",
-    "title": "“Sussurri di luce sul Garda”, la mostra personale di Athos Faccincani",
-    "date": "2026-06-07",
+    "id": "cittadiverona_2026-06-06_workshop_monotipo_adulti_museo_miniscalc",
+    "title": "Workshop monotipo adulti Museo Miniscalchi-Erizzo",
+    "date": "2026-06-06",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Corsi",
+    "venue_type": "Corsi",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sussurri-luce-garda-athos-faccincani-28-febbraio-7-giugno-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/workshop-monotipo-adulti-museo-miniscalchi-erizzo/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-25_camminata_tonica_ad_angiari",
-    "title": "Camminata tonica ad Angiari",
-    "date": "2026-06-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/camminata-tonica-angiari-settembre-2025-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/workshop-tra-stampa-e-pittura-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1299,20 +1467,6 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-25_corso_di_corsa_ad_angiari",
-    "title": "Corso di corsa ad Angiari",
-    "date": "2026-07-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-corsa-angiari-settembre-2025-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1510,19 +1664,5 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   }
 ]
