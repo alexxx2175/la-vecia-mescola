@@ -392,20 +392,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-14_aperitivi_al_femminile_aperitalk_con_esp",
-    "title": "Aperitivi al femminile: \"Aperitalk con esperti - La donna al centro\"",
-    "date": "2026-05-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivi-femminile-aperitalk-14-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-14_antonio_e_cleopatra_al_teatro_satiro_off",
     "title": "Antonio e Cleopatra al Teatro satiro OFF",
     "date": "2026-05-14",
@@ -546,6 +532,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-15__io_sono_invisibile_un_concerto_disegnat",
+    "title": "“Io sono invisibile”, un concerto disegnato in Fucina Machiavelli",
+    "date": "2026-05-15",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/io-sono-invisibile-concerto-disegnato/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/io-sono-invisibile-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-15_spettacolo_musicale_incontrarti_all_aren",
     "title": "Spettacolo musicale “IncontrArti”all’Arena di Verona",
     "date": "2026-05-15",
@@ -569,6 +569,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/villach-people-concerto-giulia-conte-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-16__rainer_l_indicibile_al_teatro_modus",
+    "title": "\"Rainer. L’indicibile\" al Teatro Modus",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rainer-indicibile-teatro-modus-15-16-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -611,6 +625,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-fondazione-meriggio-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-16_giornata_nazionale_del_naso_rosso_vip_ve",
+    "title": "Giornata nazionale del naso rosso - Vip Verona - Caselle di Sommacampagna",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornata-nazionale-naso-rosso-vip-verona-16-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -681,6 +709,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/laboratorio-fermentazione-center-without-centre-16-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-16_trame_d_impresa_on_the_road_la_storia_de",
+    "title": "Trame d’impresa on the road: la storia della pianura da esplorare su due ruote",
+    "date": "2026-05-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/trame-impresa-on-the-road-bici-16-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -770,6 +812,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-17__buone_vibrazioni_a_villa_buri_un_evento",
+    "title": "“Buone Vibrazioni” a Villa Buri: un evento alla scoperta dei talenti musicali del territorio",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/buon-vibrazione-concerti-villa-buri-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-17_a_negrar_di_valpolicella_torna_la_giorna",
     "title": "A Negrar di Valpolicella torna la \"Giornata per le api\"",
     "date": "2026-05-17",
@@ -784,6 +840,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-17_domenica_della_sostenibilit_in_borgo_rom",
+    "title": "Domenica della sostenibilità in Borgo Roma",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/domenica-sostenibilita-borgo-roma-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-17__vivi_magenta_natura_musica_e_territorio",
     "title": "\"Vivi Magenta\" – Natura, musica e territorio si incontrano a Villafranca di Verona",
     "date": "2026-05-17",
@@ -793,6 +863,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/vivi-magenta-natura-musica-territorio-17-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-17__la_locandiera_di_carlo_goldoni",
+    "title": "\"La Locandiera\" di Carlo Goldoni",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/la-locandiera-compagnia-teatrale-trixtragos-16-17-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -821,20 +905,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/street-food-festival-beer-best-eat-bussolengo-15-17-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-17_i_pooh_festeggiano_60_anni_di_carriera_c",
-    "title": "I Pooh festeggiano 60 anni di carriera con un tris di concerti all'Arena di Verona",
-    "date": "2026-05-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/pooh-concerto-arena-14-16-17-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -910,6 +980,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-17_festa_della_famiglia_al_parco_del_monte_",
+    "title": "Festa della famiglia al parco del monte Rocca di Caldiero",
+    "date": "2026-05-17",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-famiglia-caldiero/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/festa-della-famiglia-caldiero-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-17__buone_vibrazioni_un_evento_alla_scopert",
     "title": "“Buone Vibrazioni”, un evento alla scoperta di talenti musicali a Villa Buri",
     "date": "2026-05-17",
@@ -935,6 +1019,20 @@
     "url": "https://www.veronasera.it/eventi/katia-follesa-teatro-filarmonico-18-maggio-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/59013242089025/locandina-katia-follesa-no-vabbe-mi-adoro-2026.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-18__sport_expo_in_tour_arriva_a_san_martino",
+    "title": "\"Sport Expo in Tour\" arriva a San Martino Buon Albergo",
+    "date": "2026-05-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sport-expo-tour-san-martino-buon-albergo-17-18-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1064,6 +1162,62 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-05-22_cena_sotto_le_stelle",
+    "title": "Cena sotto le stelle",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cena-sotto-stelle-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-22_dj_set_by_niko_vittorini_osteria_marconi",
+    "title": "Dj set by Niko Vittorini | Osteria Marconi",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/dj-set-niko-vittorini-osteria-marconi-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-22_meditazione_e_astrologia",
+    "title": "Meditazione e astrologia",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/meditazione-astrologia-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-22_sagra_di_san_leonardo_a_pradelle_di_noga",
+    "title": "Sagra di San Leonardo a Pradelle di Nogarole Rocca",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-leonardo-a-pradelle-di-nogarole-rocca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/05/sagra-di-san-leonardo-pradelle-nogarole-rocca-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
     "title": "“47° Porto Maggio” a Porto San Pancrazio",
     "date": "2026-05-22",
@@ -1120,29 +1274,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-24_la_festa_dei_bisi_a_colognola_ai_colli",
-    "title": "La Festa dei Bisi a Colognola ai Colli",
+    "id": "veronasera_2026-05-24_la_festa_del_vino_a_monteforte_d_alpone",
+    "title": "La Festa del Vino a Monteforte d'Alpone",
     "date": "2026-05-24",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-bisi-colognola-ai-colli-16-24-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-24__il_cenacolo_di_leonardo_da_vinci_tra_le",
-    "title": "“Il Cenacolo di Leonardo da Vinci, tra le pieghe dell’anima”",
-    "date": "2026-05-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cenacolo-leonardo-da-vinci-mostra-21-marzo-24-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/festa-vino-monteforte-alpone-22-24-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1159,6 +1299,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiori-erbe-sapori-primavera-tenuta-canova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/fiori-Sapori-Primavera-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-28_serata_di_conversazione_in_inglese",
+    "title": "Serata di conversazione in inglese",
+    "date": "2026-05-28",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/serata-conversazione-in-inglese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/english-speed-night-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1232,20 +1386,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-02_tour_del_palato_a_prun_di_negrar",
     "title": "Tour del Palato a Prun di Negrar",
     "date": "2026-06-02",
@@ -1271,20 +1411,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-sant-eurosia-a-salizzole/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/06/sagra-sant-eurosia-salizzole-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-05__oltre_i_limiti_a_bardolino_una_mostra_t",
-    "title": "“Oltre i limiti”: a Bardolino una mostra tra arte, inclusione e comunità",
-    "date": "2026-06-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oltre-limiti-mostra-arte-bardolino-4-maggio-5-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1386,20 +1512,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1411,6 +1523,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1512,17 +1638,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
+    "id": "cittadiverona_2026-08-28_giovanni_caccamo_al_teatro_romano_di_ver",
+    "title": "Giovanni Caccamo al Teatro Romano di Verona",
+    "date": "2026-08-28",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giovanni-caccamo-verona/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giovanni-Caccamo-Verona-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1622,20 +1748,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-20_verona_mineral_show",
