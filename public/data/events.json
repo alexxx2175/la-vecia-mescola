@@ -1,15 +1,15 @@
 [
   {
-    "id": "arena_2026-05-15_dvořák_nuovo_mondo",
-    "title": "Dvořák Nuovo Mondo",
-    "date": "2026-05-15",
-    "time": "20:00",
-    "type": "Concerto",
+    "id": "arena_2026-05-16_visita_guidata_a_teatro_|_le_s",
+    "title": "Visita guidata a teatro | Le Sale della Musica",
+    "date": "2026-05-16",
+    "time": "10:30",
+    "type": "Visita guidata",
     "venue_type": "Teatro Filarmonico",
     "location": "Teatro Filarmonico",
     "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/dvorak-nuovo-mondo/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134409&amp;tcode=vt0020008",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
+    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540413&amp;tcode=vt0020008",
     "image": null
   },
   {
@@ -23,19 +23,6 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/dvorak-nuovo-mondo/",
     "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134410&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-05-16_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-05-16",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540413&amp;tcode=vt0020008",
     "image": null
   },
   {
