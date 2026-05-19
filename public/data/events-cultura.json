@@ -406,90 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-17__sport_expo_in_tour_arriva_a_san_martino",
-    "title": "“Sport Expo in Tour” arriva a San Martino Buon Albergo",
-    "date": "2026-05-17",
-    "time": "",
-    "type": "Eventi Sportivi",
-    "venue_type": "Eventi Sportivi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sport-expo-in-tour-arriva-a-san-martino-buon-albergo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sport-expo-in-tour-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-18_katia_follesa_al_teatro_filarmonico_no_v",
-    "title": "Katia Follesa al Teatro Filarmonico: \"No vabbè mi adoro\"",
-    "date": "2026-05-18",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/katia-follesa-teatro-filarmonico-18-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/59013242089025/locandina-katia-follesa-no-vabbe-mi-adoro-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-18__sport_expo_in_tour_arriva_a_san_martino",
-    "title": "\"Sport Expo in Tour\" arriva a San Martino Buon Albergo",
-    "date": "2026-05-18",
-    "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sport-expo-tour-san-martino-buon-albergo-17-18-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/23325301142636/locandina-sport-expo-in-tour-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-18_giornata_internazionale_dei_musei_visita",
-    "title": "Giornata internazionale dei musei: visita guidata a Palazzo Miniscalchi",
-    "date": "2026-05-18",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giornata-internazionale-dei-musei-visita-palazzo-miniscalchi-18-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-18_visita_guidata_al_museo_miniscalchi_eriz",
-    "title": "Visita guidata al Museo Miniscalchi-Erizzo in occasione della Giornata Internazionale dei Musei",
-    "date": "2026-05-18",
-    "time": "",
-    "type": "Visite guidate",
-    "venue_type": "Visite guidate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/visita-guidata-museo-miniscalchi-erizzo-giornata-internazionale-musei/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/visita-guidata-museo-miniscalchi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-18_katia_follesa_al_teatro_filarmonico_di_v",
-    "title": "Katia Follesa al teatro Filarmonico di Verona",
-    "date": "2026-05-18",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/katia-follesa-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/katia-follesa-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-05-19_automotive_dealer_day",
     "title": "Automotive Dealer Day",
     "date": "2026-05-19",
@@ -502,6 +418,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-05-19_a_verona_il_marted_si_va_al_cinema_a_sol",
+    "title": "A Verona il martedì si va al cinema a soli 4 euro: i film in programma il 19 maggio 2026",
+    "date": "2026-05-19",
+    "time": "",
+    "type": "Cinema",
+    "venue_type": "Cinema",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/film-martedi-cinema-veneto-quattro-euro-19-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/55203452468088/le-citta-di-pianura-di-sossai-foto-ufficio-stampa-studio-pierrepi.jpg",
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-05-19_a_verona_la_prima_nazionale_per_le_scuol",
@@ -602,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-22_dj_set_by_niko_vittorini_osteria_marconi",
-    "title": "Dj set by Niko Vittorini | Osteria Marconi",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dj-set-niko-vittorini-osteria-marconi-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-22_speed_friending_in_english_chat_and_meet",
     "title": "Speed friending in english | Chat and meet new people",
     "date": "2026-05-22",
@@ -625,6 +541,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/speed-friending-english-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-22_dj_set_by_niko_vittorini_osteria_marconi",
+    "title": "Dj set by Niko Vittorini | Osteria Marconi",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/dj-set-niko-vittorini-osteria-marconi-22-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -658,20 +588,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
-    "title": "“47° Porto Maggio” a Porto San Pancrazio",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-22_festa_del_vino_a_monteforte_d_alpone",
     "title": "Festa del Vino a Monteforte d’Alpone",
     "date": "2026-05-22",
@@ -683,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-vino-monteforte-alpone/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-vino-monteforte-alpone-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
+    "title": "“47° Porto Maggio” a Porto San Pancrazio",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -942,11 +872,25 @@
     "title": "Roberta Bruzzone al Teatro Filarmonico di Verona: “Amami da morire. Anatomia di una relazione tossica”",
     "date": "2026-05-25",
     "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/roberta-bruzzone-amami-da-morire-teatro-filarmonico-25-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54853113110530/locandina-roberta-bruzzone-ufficio-stampa-eventi-verona-srl.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-26_crea_il_tuo_portavaso_in_macram_",
+    "title": "Crea il tuo portavaso in macramè",
+    "date": "2026-05-26",
+    "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/roberta-bruzzone-amami-da-morire-teatro-filarmonico-25-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/crea-portavaso-macrame-26-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1106,6 +1050,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-05__oltre_i_limiti_a_bardolino_una_mostra_t",
+    "title": "“Oltre i limiti”: a Bardolino una mostra tra arte, inclusione e comunità",
+    "date": "2026-06-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/oltre-limiti-mostra-arte-bardolino-4-maggio-5-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-06_workshop_monotipo_adulti_museo_miniscalc",
     "title": "Workshop monotipo adulti Museo Miniscalchi-Erizzo",
     "date": "2026-06-06",
@@ -1204,20 +1162,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1229,6 +1173,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
