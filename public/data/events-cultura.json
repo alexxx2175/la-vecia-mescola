@@ -266,20 +266,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronafiere_2026-04-11_operawine",
-    "title": "OperaWine",
-    "date": "2026-04-11",
-    "time": "",
-    "type": "Finest Italian Wines",
-    "venue_type": "Fiera",
-    "location": "Veronafiere — Viale del Lavoro 8, Verona",
-    "source": "veronafiere.it",
-    "url": "https://www.veronafiere.it/manifestazione/opera-wine-2026/",
-    "buy_url": null,
-    "image": null,
-    "category": "fiere"
-  },
-  {
     "id": "veronafiere_2026-04-11_vinitaly_design_award",
     "title": "Vinitaly Design Award",
     "date": "2026-04-11",
@@ -289,6 +275,20 @@
     "location": "Veronafiere — Viale del Lavoro 8, Verona",
     "source": "veronafiere.it",
     "url": "https://www.veronafiere.it/manifestazione/vinitaly-design-award-2026/",
+    "buy_url": null,
+    "image": null,
+    "category": "fiere"
+  },
+  {
+    "id": "veronafiere_2026-04-11_operawine",
+    "title": "OperaWine",
+    "date": "2026-04-11",
+    "time": "",
+    "type": "Finest Italian Wines",
+    "venue_type": "Fiera",
+    "location": "Veronafiere — Viale del Lavoro 8, Verona",
+    "source": "veronafiere.it",
+    "url": "https://www.veronafiere.it/manifestazione/operawine-2026/",
     "buy_url": null,
     "image": null,
     "category": "fiere"
@@ -364,20 +364,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-05-15_sagra_del_riso_coi_saltarei",
-    "title": "Sagra del riso coi Saltarei",
-    "date": "2026-05-15",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-del-riso-coi-saltarei/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Sagra-riso-saltarei-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-15_corsi_gratuiti_sull_intelligenza_artific",
     "title": "Corsi gratuiti sull’intelligenza artificiale alla Fondazione Spazio Vitale",
     "date": "2026-05-15",
@@ -418,34 +404,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-05-19_a_verona_il_marted_si_va_al_cinema_a_sol",
-    "title": "A Verona il martedì si va al cinema a soli 4 euro: i film in programma il 19 maggio 2026",
-    "date": "2026-05-19",
-    "time": "",
-    "type": "Cinema",
-    "venue_type": "Cinema",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/film-martedi-cinema-veneto-quattro-euro-19-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/55203452468088/le-citta-di-pianura-di-sossai-foto-ufficio-stampa-studio-pierrepi.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-19_a_verona_la_prima_nazionale_per_le_scuol",
-    "title": "A Verona la prima nazionale per le scuole del premio Oscar \"Mr. nobody against Putin\"",
-    "date": "2026-05-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/premio-oscar-mr-nobody-against-putin-film-19-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronasera_2026-05-20_ukulele_club_chiri_serata_ukulele_all_ap",
@@ -490,6 +448,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-05-21_aperitivi_con_le_donne_del_vino_al_caff_",
+    "title": "Aperitivi con le donne del vino: al Caffè Dante un dialogo tra vino e cinema",
+    "date": "2026-05-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivi-donne-vino-caffe-dante-21-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-21__il_prossimo_passo_del_mio_cammino_",
     "title": "\"Il prossimo passo del mio cammino\"",
     "date": "2026-05-21",
@@ -501,6 +473,34 @@
     "url": "https://www.veronasera.it/eventi/prossimo-passo-mio-cammino-21-maggio-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-21_sagra_di_pozzo_2026",
+    "title": "Sagra di Pozzo 2026",
+    "date": "2026-05-21",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-pozzo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Sagra-di-Pozzo-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-21_aperitivi_con_le_donne_del_vino_al_caff_",
+    "title": "Aperitivi con le donne del vino al Caffè Dante Bistrot di Verona",
+    "date": "2026-05-21",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/aperitivi-donne-vino-caffe-dante-bistrot-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/aperitivo-donne-del-vino-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -532,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-22_speed_friending_in_english_chat_and_meet",
-    "title": "Speed friending in english | Chat and meet new people",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/speed-friending-english-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-22_dj_set_by_niko_vittorini_osteria_marconi",
     "title": "Dj set by Niko Vittorini | Osteria Marconi",
     "date": "2026-05-22",
@@ -555,6 +541,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/dj-set-niko-vittorini-osteria-marconi-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-22_speed_friending_in_english_chat_and_meet",
+    "title": "Speed friending in english | Chat and meet new people",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/speed-friending-english-22-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -588,20 +588,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-22_festa_del_vino_a_monteforte_d_alpone",
-    "title": "Festa del Vino a Monteforte d’Alpone",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-vino-monteforte-alpone/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-vino-monteforte-alpone-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
     "title": "“47° Porto Maggio” a Porto San Pancrazio",
     "date": "2026-05-22",
@@ -613,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-22_festa_del_vino_a_monteforte_d_alpone",
+    "title": "Festa del Vino a Monteforte d’Alpone",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-vino-monteforte-alpone/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-vino-monteforte-alpone-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -686,6 +686,76 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-23_passeggiata_cinofila_oltre_il_guinzaglio",
+    "title": "Passeggiata cinofila “Oltre il guinzaglio”",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-cinofila-oltre-guinzaglio-23-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-23_monia_the_saints_band_portano_il_rhythm_",
+    "title": "Monia & the Saints Band portano il “rhythm & blues 2.0” a Megrar",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-23-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-23_visita_guidata_a_palazzo_miniscalchi_da_",
+    "title": "Visita guidata a Palazzo Miniscalchi: da casa a museo",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-23-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-23_giornate_del_giardino_terapeutico_al_gia",
+    "title": "Giornate del Giardino Terapeutico al Giardino di Pojega",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giornate-giardino-terapeutico-giardino-pojega/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giornate-giardino-terapeutico-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-23_interno_verde_giardini_aperti_verona",
+    "title": "Interno Verde – Giardini Aperti Verona",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/interno-verde-giardini-aperti-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giardini-aperti-interno-verde-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-23_trekking_in_vigneto",
     "title": "Trekking in Vigneto",
     "date": "2026-05-23",
@@ -732,13 +802,13 @@
     "title": "A Molina si festeggia la \"Giornata della tosatura\"",
     "date": "2026-05-24",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giornata-tosatura-molina-24-maggio-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/33268611515728/locandina-tosatura-della-pecora-molina-di-fumane-2026.jpg",
     "category": "cultura"
   },
   {
@@ -765,6 +835,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/interno-verde-giardini-aperti-verona-23-24-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-24_festa_dei_bisi_a_pieve",
+    "title": "Festa dei Bisi a Pieve",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-festa-dei-bisi-pieve-23-24-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-24_tra_sensi_e_natura_nella_lessinia_orient",
+    "title": "Tra sensi e natura nella Lessinia orientale : escursione esperienziale e tiro con l'arco a Campofontana",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sensi-natura-lessinia-orientale-24-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -840,31 +938,31 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-24_a_verona_l_oro_di_giulietta_intreccia_sg",
-    "title": "A Verona “L’oro di Giulietta” intreccia sguardi e linguaggi contemporanei",
+    "id": "cittadiverona_2026-05-24_mercatino_antiquariato_a_valeggio_sul_mi",
+    "title": "Mercatino antiquariato a Valeggio sul Mincio",
     "date": "2026-05-24",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/Oro-di-giulietta-arte-16-24-maggio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-24__il_cenacolo_di_leonardo_da_vinci_tra_le",
-    "title": "“Il Cenacolo di Leonardo da Vinci, tra le pieghe dell’anima”",
+    "id": "cittadiverona_2026-05-24_giornata_della_tosatura_a_molina",
+    "title": "Giornata della tosatura a Molina",
     "date": "2026-05-24",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cenacolo-leonardo-da-vinci-mostra-21-marzo-24-maggio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giornata-della-tosatura-a-molina/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/04/giornata-della-tosatura-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -891,6 +989,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/crea-portavaso-macrame-26-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-27_corsi_gratuiti_sull_intelligenza_artific",
+    "title": "Corsi gratuiti sull’intelligenza artificiale per studenti e pensionati alla Fondazione Spazio Vitale",
+    "date": "2026-05-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/corsi-gratuiti-intelligenza-artificiale-27-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-27__capire_ed_educare_la_generazione_z_",
+    "title": "\"Capire ed educare la Generazione Z\"",
+    "date": "2026-05-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/capire-educare-generazione-z-osvaldo-poli-riccardo-camarda-27-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -994,34 +1120,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-02_sagra_di_san_leonardo_pradelle_di_nogaro",
-    "title": "Sagra di San Leonardo - Pradelle di Nogarole Rocca",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-san-leonardo-pradelle-festa-22-maggio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-02_tour_del_palato_a_prun_di_negrar",
     "title": "Tour del Palato a Prun di Negrar",
     "date": "2026-06-02",
@@ -1050,17 +1148,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-05__oltre_i_limiti_a_bardolino_una_mostra_t",
-    "title": "“Oltre i limiti”: a Bardolino una mostra tra arte, inclusione e comunità",
-    "date": "2026-06-05",
+    "id": "cittadiverona_2026-06-06_valeggio_contemporanea",
+    "title": "Valeggio Contemporanea",
+    "date": "2026-06-06",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Fiere",
+    "venue_type": "Fiere",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oltre-limiti-mostra-arte-bardolino-4-maggio-5-giugno-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/valeggio-contemporanea/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/valeggio-contemporanea-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1075,6 +1173,34 @@
     "url": "https://www.cittadiverona.it/eventi/workshop-monotipo-adulti-museo-miniscalchi-erizzo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/workshop-tra-stampa-e-pittura-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_povegliano",
+    "title": "Mercatino dell’antiquariato a Povegliano Veronese",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-21_mercatino_dell_antiquariato_di_soave",
+    "title": "Mercatino dell’Antiquariato di Soave",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-dell-antiquariato-di-soave/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/mercatino-antiquariato-soave-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1316,20 +1442,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-09-22_marmomac",
     "title": "Marmomac",
     "date": "2026-09-22",
@@ -1468,5 +1580,19 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "cittadiverona_2027-04-22_giordana_angi_al_teatro_nuovo_di_verona",
+    "title": "Giordana Angi al Teatro Nuovo di Verona",
+    "date": "2027-04-22",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
+    "category": "cultura"
   }
 ]
