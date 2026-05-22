@@ -434,34 +434,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-05-21_il_regista_veronese_marco_pollini_presen",
-    "title": "Il regista veronese Marco Pollini presenta il suo ultimo film “L’Oratore” al Cinema Pindemonte",
-    "date": "2026-05-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/l-oratore-film-cinema-pindemonte-regista-marco-pollini-21-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-21_aperitivi_con_le_donne_del_vino_al_caff_",
-    "title": "Aperitivi con le donne del vino: al Caffè Dante un dialogo tra vino e cinema",
-    "date": "2026-05-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivi-donne-vino-caffe-dante-21-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-21_sagra_di_pozzo_2026",
     "title": "Sagra di Pozzo 2026",
     "date": "2026-05-21",
@@ -473,20 +445,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-pozzo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Sagra-di-Pozzo-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-21_aperitivi_con_le_donne_del_vino_al_caff_",
-    "title": "Aperitivi con le donne del vino al Caffè Dante Bistrot di Verona",
-    "date": "2026-05-21",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/aperitivi-donne-vino-caffe-dante-bistrot-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/aperitivo-donne-del-vino-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -504,6 +462,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-05-22_a_corte_molon_giovani_talenti_tra_urban_",
+    "title": "A Corte Molon giovani talenti tra urban pop, rock e punk per una nuova serata live",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/kalisa-ikebana-autospurghi-concerto-corte-molon-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-22_cena_sotto_le_stelle",
     "title": "Cena sotto le stelle",
     "date": "2026-05-22",
@@ -513,6 +485,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cena-sotto-stelle-22-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-22_a_gazzo_veronese_alterego_vs_principe",
+    "title": "A Gazzo Veronese: Alterego vs Principe",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/gazzo-veronese-alterego-vs-principe-22-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -546,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-22__osho_e_la_s3ssualit_meditazione_e_incon",
-    "title": "\"Osho e la s3ssualità\" | Meditazione e incontro con Shanti Tozzi",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/osho-e-la-s3ssualita-meditazione-incontro-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-22_sagra_di_san_leonardo_a_pradelle_di_noga",
     "title": "Sagra di San Leonardo a Pradelle di Nogarole Rocca",
     "date": "2026-05-22",
@@ -571,6 +543,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-san-leonardo-a-pradelle-di-nogarole-rocca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/05/sagra-di-san-leonardo-pradelle-nogarole-rocca-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-22_festa_del_vino_a_monteforte_d_alpone",
+    "title": "Festa del Vino a Monteforte d’Alpone",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-vino-monteforte-alpone/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-vino-monteforte-alpone-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -588,17 +574,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-22_festa_del_vino_a_monteforte_d_alpone",
-    "title": "Festa del Vino a Monteforte d’Alpone",
+    "id": "cittadiverona_2026-05-22_antica_sagra_del_risotto_a_gazzo_verones",
+    "title": "Antica sagra del Risotto a Gazzo Veronese",
     "date": "2026-05-22",
     "time": "",
     "type": "Sagre",
     "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-vino-monteforte-alpone/",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-risotto-gazzo-veronese/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/festa-vino-monteforte-alpone-2026-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/antica-sagra-risotto-gazzo-veronese-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -630,6 +616,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-23_tornano_i_burattini_per_grandi_e_piccini",
+    "title": "Tornano i burattini per grandi e piccini in galleria Ri-Ciak",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/spettacolo-burattina-galleria-ri-ciak-23-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-23_fai_cultura_villa_polettini_tedeschi_gri",
     "title": "FAI Cultura: Villa Polettini-Tedeschi Grigoli e Santa Maria Juana Coeli",
     "date": "2026-05-23",
@@ -658,15 +658,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-23_passeggiata_cinofila_oltre_il_guinzaglio",
-    "title": "Passeggiata cinofila “Oltre il guinzaglio”",
+    "id": "veronasera_2026-05-23_passeggiata_lungo_l_adige_tra_corti_mest",
+    "title": "Passeggiata lungo l'Adige tra corti, mestieri e tradizioni di Angiari",
     "date": "2026-05-23",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/passeggiata-cinofila-oltre-guinzaglio-23-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/passeggiata-adige-angiari-23-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -681,6 +681,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/escursione-cena-degustazione-vini-rifugio-23-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-23_passeggiata_cinofila_oltre_il_guinzaglio",
+    "title": "Passeggiata cinofila “Oltre il guinzaglio”",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-cinofila-oltre-guinzaglio-23-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -728,31 +742,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-23__tra_carne_e_cielo_omaggio_a_pier_paolo_",
-    "title": "\"Tra carne e cielo\" - Omaggio a Pier Paolo Pasolini",
+    "id": "cittadiverona_2026-05-23_interno_verde_giardini_aperti_verona",
+    "title": "Interno Verde – Giardini Aperti Verona",
     "date": "2026-05-23",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Feste",
+    "venue_type": "Feste",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tra-carne-e-cielo-omaggio-pier-paolo-pasolini-23-maggio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/interno-verde-giardini-aperti-verona/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-23_workshop_esperienziale_interpretare_i_so",
-    "title": "Workshop esperienziale: “Interpretare i sogni”",
-    "date": "2026-05-23",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/workshop-esperienziale-interpretare-sogni-23-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giardini-aperti-interno-verde-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -767,20 +767,6 @@
     "url": "https://www.cittadiverona.it/eventi/giornate-giardino-terapeutico-giardino-pojega/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giornate-giardino-terapeutico-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-23_interno_verde_giardini_aperti_verona",
-    "title": "Interno Verde – Giardini Aperti Verona",
-    "date": "2026-05-23",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/interno-verde-giardini-aperti-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giardini-aperti-interno-verde-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -812,20 +798,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-24__attraverso_2026_circus_castelnuovo_del_",
-    "title": "“Attraverso 2026 - Circus”, Castelnuovo del Garda diventa un palcoscenico a cielo aperto",
-    "date": "2026-05-24",
-    "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/attraverso-circus-spettacolo-circo-24-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/15583671135417/dadde-visconti-foto-ufficio-stampa-comune-di-castelnuovo-del-garda.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-24_mercato_antiquariato_e_modernariato_vale",
     "title": "Mercato Antiquariato e modernariato Valeggio sul Mincio",
     "date": "2026-05-24",
@@ -837,6 +809,34 @@
     "url": "https://www.veronasera.it/eventi/mercato-antiquariato-modernariato-valeggio-24-maggio-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54457538473995/mercato-dell-antiquariato-e-modernariato-a-valeggio-sul-mincio.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-24_torna_al_giardino_di_pojega_il_giardino_",
+    "title": "Torna al Giardino di Pojega “Il Giardino che cura”",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giardino-pojega-che-cura-23-24-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54666352993838/giardino-di-pojega-foto-ufficio-stampa-press-guerrieri-rizzardi-4.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-24__attraverso_2026_circus_castelnuovo_del_",
+    "title": "“Attraverso 2026 - Circus”, Castelnuovo del Garda diventa un palcoscenico a cielo aperto",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/attraverso-circus-spettacolo-circo-24-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/15583671135417/dadde-visconti-foto-ufficio-stampa-comune-di-castelnuovo-del-garda.jpg",
     "category": "cultura"
   },
   {
@@ -854,15 +854,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-24_torna_al_giardino_di_pojega_il_giardino_",
-    "title": "Torna al Giardino di Pojega “Il Giardino che cura”",
+    "id": "veronasera_2026-05-24_a_villa_buri_torna_la_festa_dei_popoli",
+    "title": "A Villa Buri torna la Festa dei Popoli",
     "date": "2026-05-24",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giardino-pojega-che-cura-23-24-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/festa-popoli-villa-buri-24-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -938,6 +938,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-24__l_acqua_coltiva_la_pace_da_sciorne_alla",
+    "title": "\"L'acqua coltiva la pace da Sciorne alla pianura veronese\"",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/acqua-coltiva-pace-sciorne-pianura-veronese-24-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-24_amarone_riserva_un_esperienza_da_vivere_",
     "title": "Amarone riserva – Un’esperienza da vivere in cantina",
     "date": "2026-05-24",
@@ -947,20 +961,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/amarone-riserva-degustazione-vino-23-24-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-24__la_via_del_mandala_corso_base_con_shant",
-    "title": "\"La via del mandala\" - Corso base con Shanti Tozzi",
-    "date": "2026-05-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-via-del-mandala-corso-base-shanti-tozzi-24-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -994,17 +994,59 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-24_festa_dei_popoli_a_villa_buri",
+    "title": "Festa dei Popoli a Villa Buri",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-dei-popoli-a-villa-buri-san-michele-extra",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/05/festa-dei-popoli-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-24_giornata_mondiale_della_biodiversit_",
+    "title": "Giornata mondiale della biodiversità",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giornata-mondiale-della-biodiversita/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/05/Giornata-mondiale-della-biodiversita-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-24_progetto_urbane_spettacoli_teatrali_itin",
+    "title": "Progetto “UrbanE”: spettacoli teatrali itineranti tra natura e città",
+    "date": "2026-05-24",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/progetto-urbane-spettacoli-teatrali-itineranti-natura-citta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/urban-e-spettacoli-teatrali-itineranti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-25_roberta_bruzzone_al_teatro_filarmonico_d",
     "title": "Roberta Bruzzone al Teatro Filarmonico di Verona: “Amami da morire. Anatomia di una relazione tossica”",
     "date": "2026-05-25",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/roberta-bruzzone-amami-da-morire-teatro-filarmonico-25-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54853113110530/locandina-roberta-bruzzone-ufficio-stampa-eventi-verona-srl.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1106,6 +1148,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-29_chiara_becchimanzi_arriva_a_verona_eroin",
+    "title": "Chiara Becchimanzi arriva a Verona: \"Eroina – non solo stand up comedy show\"",
+    "date": "2026-05-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/chiara-becchimanzi-teatro-nuovo-san-michel-eroina-29-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-29_verona_jazzset_orchestra_live_in_cortile",
+    "title": "Verona: Jazzset Orchestra live in Cortile Mercato Vecchio per \"Medici per Strada\"",
+    "date": "2026-05-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/jazzset-orchestra-concerto-medici-per-strada-29-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-29_soave_rock_festival_2026",
     "title": "Soave Rock Festival 2026",
     "date": "2026-05-29",
@@ -1117,6 +1187,20 @@
     "url": "https://www.cittadiverona.it/eventi/soave-rock-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Soave-Rock-Festival-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-29_andar_festival_2026",
+    "title": "Andarò Festival 2026",
+    "date": "2026-05-29",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/andaro-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/09/andaro-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1288,6 +1372,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-06_respiri_in_festa",
+    "title": "Respiri in festa",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/respiri-in-festa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/respiri-in-festa-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_povegliano",
     "title": "Mercatino dell’antiquariato a Povegliano Veronese",
     "date": "2026-06-07",
@@ -1302,6 +1400,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_verona_in_",
+    "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/verona-antiquaria-giugno-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-11_sagra_delle_ciliegie_di_montecchia_di_cr",
+    "title": "Sagra delle Ciliegie di Montecchia di Crosara",
+    "date": "2026-06-11",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-ciliegie-montecchia-crosara/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Sagra-delle-Ciliegie-di-Montecchia-di-Crosara-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-21_mercatino_dell_antiquariato_di_soave",
     "title": "Mercatino dell’Antiquariato di Soave",
     "date": "2026-06-21",
@@ -1313,6 +1439,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-dell-antiquariato-di-soave/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/mercatino-antiquariato-soave-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-30_arisa_al_teatro_romano_di_verona",
+    "title": "Arisa al Teatro Romano di Verona",
+    "date": "2026-06-30",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/arisa-al-teatro-romano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/06/arisa-teatro-romano-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1400,20 +1540,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1425,6 +1551,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
