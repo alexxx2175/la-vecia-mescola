@@ -462,34 +462,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-05-22_a_corte_molon_giovani_talenti_tra_urban_",
-    "title": "A Corte Molon giovani talenti tra urban pop, rock e punk per una nuova serata live",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/kalisa-ikebana-autospurghi-concerto-corte-molon-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-22_cena_sotto_le_stelle",
-    "title": "Cena sotto le stelle",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cena-sotto-stelle-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-22_a_gazzo_veronese_alterego_vs_principe",
     "title": "A Gazzo Veronese: Alterego vs Principe",
     "date": "2026-05-22",
@@ -499,34 +471,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/gazzo-veronese-alterego-vs-principe-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-22_dj_set_by_niko_vittorini_osteria_marconi",
-    "title": "Dj set by Niko Vittorini | Osteria Marconi",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dj-set-niko-vittorini-osteria-marconi-22-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-22_speed_friending_in_english_chat_and_meet",
-    "title": "Speed friending in english | Chat and meet new people",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/speed-friending-english-22-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -599,20 +543,6 @@
     "url": "https://www.cittadiverona.it/eventi/villafranca-fest-2",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/villafranca-fest-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-22__concerto_live_in_corte_molon",
-    "title": "“Concerto Live” in Corte Molon",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-live-corte-molon/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/concerto-live-corte-molon-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -742,17 +672,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-23_interno_verde_giardini_aperti_verona",
-    "title": "Interno Verde – Giardini Aperti Verona",
+    "id": "veronasera_2026-05-23_liberalibri_alla_festa_dell_olmo",
+    "title": "LiberaLibri alla Festa dell'Olmo",
     "date": "2026-05-23",
     "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/interno-verde-giardini-aperti-verona/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/liberalibri-festa-dell-olmo-23-maggio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giardini-aperti-interno-verde-600x338.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -767,6 +697,20 @@
     "url": "https://www.cittadiverona.it/eventi/giornate-giardino-terapeutico-giardino-pojega/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giornate-giardino-terapeutico-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-23_interno_verde_giardini_aperti_verona",
+    "title": "Interno Verde – Giardini Aperti Verona",
+    "date": "2026-05-23",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/interno-verde-giardini-aperti-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/giardini-aperti-interno-verde-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1078,20 +1022,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-27__capire_ed_educare_la_generazione_z_",
-    "title": "\"Capire ed educare la Generazione Z\"",
-    "date": "2026-05-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/capire-educare-generazione-z-osvaldo-poli-riccardo-camarda-27-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-27_fiori_erbe_e_sapori_di_primavera_a_tenut",
     "title": "Fiori, erbe e sapori di primavera a Tenuta Canova",
     "date": "2026-05-27",
@@ -1115,20 +1045,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/progetto-teach-me-concerto-orchestra-universita-verona-28-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-28_english_conversation_night_with_inlingua",
-    "title": "English conversation night with inlingua Verona",
-    "date": "2026-05-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/english-conversation-night-inlingua-verona-28-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1215,6 +1131,62 @@
     "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_chiaretto_di_bardolino_run",
+    "title": "Chiaretto di Bardolino Run",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/chiaretto-bardolino-run-corsa-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_pink_floyd_il_mito_incontra_la_storia_no",
+    "title": "Pink Floyd: il mito incontra la storia. Note rock tra le mura di Soave",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerto-tributo-pink-floyd-wit-matrix-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_alla_scoperta_di_sprea_tra_natura_e_biod",
+    "title": "Alla scoperta di Sprea tra natura e biodiversità: il giardino delle erbe di Sprea",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/natura-biodiversita-visita-giardino-erbe-sprea-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_visita_al_cimitero_monumentale_di_verona",
+    "title": "Visita al Cimitero monumentale di Verona",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-cimitero-monumentale-verona-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
