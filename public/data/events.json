@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-05-23_grieg_concerto",
-    "title": "Grieg Concerto",
-    "date": "2026-05-23",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/grieg-concerto/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134412&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-06-05_campioni_del_mondo",
     "title": "Campioni del mondo",
     "date": "2026-06-05",
