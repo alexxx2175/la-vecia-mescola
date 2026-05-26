@@ -434,20 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
-    "title": "“47° Porto Maggio” a Porto San Pancrazio",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-22_antica_sagra_del_risotto_a_gazzo_verones",
     "title": "Antica sagra del Risotto a Gazzo Veronese",
     "date": "2026-05-22",
@@ -462,6 +448,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
+    "title": "“47° Porto Maggio” a Porto San Pancrazio",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-22_villafranca_fest_2026",
     "title": "Villafranca Fest 2026",
     "date": "2026-05-22",
@@ -473,20 +473,6 @@
     "url": "https://www.cittadiverona.it/eventi/villafranca-fest-2",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/villafranca-fest-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-25_roberta_bruzzone_al_teatro_filarmonico_d",
-    "title": "Roberta Bruzzone al Teatro Filarmonico di Verona: “Amami da morire. Anatomia di una relazione tossica”",
-    "date": "2026-05-25",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/roberta-bruzzone-amami-da-morire-teatro-filarmonico-25-maggio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54853113110530/locandina-roberta-bruzzone-ufficio-stampa-eventi-verona-srl.jpg",
     "category": "cultura"
   },
   {
@@ -851,6 +837,34 @@
     "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-31__mura_golden_walk_una_giornata_dedicata_",
+    "title": "“Mura Golden Walk”, una giornata dedicata agli amici a quattro zampe",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/muragolden-walk/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/mura-golden-walk-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-02_tour_del_palato_tra_i_sentieri_del_gusto",
+    "title": "Tour del palato: \"Tra i sentieri del gusto e della pietra\"",
+    "date": "2026-06-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tour-del-palato-prun-2-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
