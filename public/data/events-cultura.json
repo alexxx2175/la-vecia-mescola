@@ -350,20 +350,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-05-15_corsi_gratuiti_sull_intelligenza_artific",
-    "title": "Corsi gratuiti sull’intelligenza artificiale alla Fondazione Spazio Vitale",
-    "date": "2026-05-15",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/corsi-gratuiti-intelligenza-artificiale-fondazione-spazio-vitale/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/image-ai-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-05-19_automotive_dealer_day",
     "title": "Automotive Dealer Day",
     "date": "2026-05-19",
@@ -420,20 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-22_antica_sagra_del_risotto_a_gazzo_verones",
-    "title": "Antica sagra del Risotto a Gazzo Veronese",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-sagra-risotto-gazzo-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/antica-sagra-risotto-gazzo-veronese-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
     "title": "“47° Porto Maggio” a Porto San Pancrazio",
     "date": "2026-05-22",
@@ -445,6 +417,20 @@
     "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-22_antica_sagra_del_risotto_a_gazzo_verones",
+    "title": "Antica sagra del Risotto a Gazzo Veronese",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-risotto-gazzo-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/antica-sagra-risotto-gazzo-veronese-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -462,59 +448,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-27_masi_tenuta_canova_fiori_erbe_e_sapori_d",
-    "title": "Masi Tenuta Canova: \"Fiori, erbe e sapori di primavera\"",
-    "date": "2026-05-27",
+    "id": "cittadiverona_2026-05-26__festival_del_teatro_generazioni_sul_pal",
+    "title": "“Festival del Teatro – Generazioni sul Palco” al Cinema Teatro Astra",
+    "date": "2026-05-26",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiori-erbe-sapori-primavera-vino-masi-27-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-27_corsi_gratuiti_sull_intelligenza_artific",
-    "title": "Corsi gratuiti sull’intelligenza artificiale per studenti e pensionati alla Fondazione Spazio Vitale",
-    "date": "2026-05-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corsi-gratuiti-intelligenza-artificiale-27-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-27__capire_ed_educare_la_generazione_z_",
-    "title": "\"Capire ed educare la Generazione Z\"",
-    "date": "2026-05-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/capire-educare-generazione-z-osvaldo-poli-riccardo-camarda-27-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-27_fiori_erbe_e_sapori_di_primavera_a_tenut",
-    "title": "Fiori, erbe e sapori di primavera a Tenuta Canova",
-    "date": "2026-05-27",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiori-erbe-sapori-primavera-tenuta-canova/",
+    "url": "https://www.cittadiverona.it/eventi/festival-del-teatro/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/fiori-Sapori-Primavera-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/Festival-del-teatro-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -574,6 +518,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-28_sagra_di_borgo_nuovo_2026",
+    "title": "Sagra di Borgo Nuovo 2026",
+    "date": "2026-05-28",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-borgo-nuovo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sagra-del-borgo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-05-28_serata_di_conversazione_in_inglese",
     "title": "Serata di conversazione in inglese",
     "date": "2026-05-28",
@@ -592,13 +550,13 @@
     "title": "Chiara Becchimanzi arriva a Verona: \"Eroina – non solo stand up comedy show\"",
     "date": "2026-05-29",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/chiara-becchimanzi-teatro-nuovo-san-michel-eroina-29-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/40445182724665/chiara-becchimanzi-foto-di-carlo-mogiani-via-ufficio-stampa-hf4.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -700,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-29__teatro_da_bar_al_malacarne",
+    "title": "“Teatro Da Bar” al Malacarne",
+    "date": "2026-05-29",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/teatro-da-bar/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Teatro-da-Bar-Malacarne-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-30_chiaretto_di_bardolino_run",
     "title": "Chiaretto di Bardolino Run",
     "date": "2026-05-30",
@@ -756,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-30_funk_e_soul_allo_stone_rose_con_soul_cit",
+    "title": "Funk e soul allo Stone Rose con Soul City Band",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerto-stone-rose-soul-city-band-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-30_giochi_teatrali_serata_all_aperto",
     "title": "Giochi teatrali | Serata all’aperto",
     "date": "2026-05-30",
@@ -784,20 +770,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-30_funk_e_soul_allo_stone_rose_con_soul_cit",
-    "title": "Funk e soul allo Stone Rose con Soul City Band",
-    "date": "2026-05-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/concerto-stone-rose-soul-city-band-30-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-30_evento_di_yoga_dall_oscurit_alla_luce",
     "title": "Evento di yoga: dall'oscurità alla luce",
     "date": "2026-05-30",
@@ -807,6 +779,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/yoga-oscurita-luce-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_pedalata_tra_paesaggi_rurali_e_viticoltu",
+    "title": "Pedalata tra paesaggi rurali e viticoltura",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/pedalata-bici-paesaggi-rurali-viticoltura-30-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,6 +868,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-30_chiaretto_di_bardolino_run",
+    "title": "Chiaretto di Bardolino Run",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/chiaretto-di-bardolino-run/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/05/chiaretto-di-bardolino-run-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-30__tramaci_par_sposar_na_fiola_a_isola_riz",
+    "title": "“Tramaci par sposar na fiola” a Isola Rizza",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/tramaci-par-sposar-na-fiola/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/tramaci-per-sposar-na-fiola-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-31_a_verona_torna_la_mura_golden_walk_",
     "title": "A Verona torna la \"Mura Golden Walk\"",
     "date": "2026-05-31",
@@ -896,6 +910,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-31_rievocazione_storica_del_combattimento_d",
+    "title": "Rievocazione storica del combattimento di Calmasino del 1848",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rievocazione-storica-combattimento-calmasino-30-31-maggio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/45112446076142/rievocazione-storica-del-combattimento-di-calmasino-del-1848-foto-ufficio-stampa-comune-di-bardolino-1.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-31__pecora_tosando_al_parco_giardino_sigurt",
     "title": "“Pecora Tosando” al Parco Giardino Sigurtà",
     "date": "2026-05-31",
@@ -907,6 +935,20 @@
     "url": "https://www.veronasera.it/eventi/pecora-tosando-parco-giardino-sigurta-31-maggio-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/64537501941223/parco-giardino-sigurta-e-la-tosatur-delle-pecore-foto-ufficio-stampa-parco-giardino-sigurta.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-31_passeggiata_guidata_tra_colline_prati_e_",
+    "title": "Passeggiata guidata tra colline, prati e boschi sulla Dorsale della Prea Fita a Montorio",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-guidata-tra-colline-prati-e-boschi-sulla-dorsale-della-prea-fita-a-montorio-il-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -966,6 +1008,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-31_tre_giorni_di_festa_a_illasi_con_il_pali",
+    "title": "Tre giorni di festa a Illasi con il Palio dedicato a Ginevra",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/palio-ginevra-illasi-29-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-31_festival_della_lettura_a_dolc_",
     "title": "Festival della Lettura a Dolcè",
     "date": "2026-05-31",
@@ -1005,6 +1061,34 @@
     "url": "https://www.cittadiverona.it/eventi/muragolden-walk/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/mura-golden-walk-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-31_festa_del_formaggio_monte_veronese_a_erb",
+    "title": "Festa del Formaggio Monte Veronese a Erbezzo",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-formaggio-monte-veronese-a-erbezzo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/05/festa-formaggio-monte-veronese-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-31_cantine_aperte_a_bardolino_da_guerrieri_",
+    "title": "Cantine Aperte a Bardolino da Guerrieri Rizzardi",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Cantine Aperte",
+    "venue_type": "Cantine Aperte",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/cantine-aperte-bardolino-guerrieri-rizzardi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/GuerrieriRizzardi_sede_Bardolino-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1316,20 +1400,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1341,6 +1411,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
