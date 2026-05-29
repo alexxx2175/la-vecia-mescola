@@ -406,20 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
-    "title": "“47° Porto Maggio” a Porto San Pancrazio",
-    "date": "2026-05-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-22_antica_sagra_del_risotto_a_gazzo_verones",
     "title": "Antica sagra del Risotto a Gazzo Veronese",
     "date": "2026-05-22",
@@ -431,6 +417,20 @@
     "url": "https://www.cittadiverona.it/eventi/antica-sagra-risotto-gazzo-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/antica-sagra-risotto-gazzo-veronese-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-22__47_porto_maggio_a_porto_san_pancrazio",
+    "title": "“47° Porto Maggio” a Porto San Pancrazio",
+    "date": "2026-05-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/porto-maggio-porto-san-pancrazio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/portomaggio-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -462,62 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-28_progetto_teach_me_concerto_solidale_con_",
-    "title": "Progetto Teach me: concerto solidale con l'orchestra dell'università di Verona",
-    "date": "2026-05-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/progetto-teach-me-concerto-orchestra-universita-verona-28-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-28_english_conversation_night_with_inlingua",
-    "title": "English conversation night with inlingua Verona",
-    "date": "2026-05-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/english-conversation-night-inlingua-verona-28-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-28_aperitivi_al_femminile_aperitalk_con_esp",
-    "title": "Aperitivi al femminile: \"Aperitalk con esperti - La donna al centro\"",
-    "date": "2026-05-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivi-femminile-donna-centro-28-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-28_lezione_di_yoga_nidra",
-    "title": "Lezione di Yoga Nidra",
-    "date": "2026-05-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/lezione-yoga-nidra-28-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-05-28_sagra_di_borgo_nuovo_2026",
     "title": "Sagra di Borgo Nuovo 2026",
     "date": "2026-05-28",
@@ -529,20 +473,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-borgo-nuovo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sagra-del-borgo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-28_serata_di_conversazione_in_inglese",
-    "title": "Serata di conversazione in inglese",
-    "date": "2026-05-28",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/serata-conversazione-in-inglese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/english-speed-night-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -613,6 +543,20 @@
     "url": "https://www.veronasera.it/eventi/guided-tour-english-miniscalchi-palace-visita-29-maggio-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-05-29_festival_della_lettura_oltre_il_confine_",
+    "title": "Festival della lettura “Oltre il confine”",
+    "date": "2026-05-29",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-della-lettura-oltre-il-confine/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Festival-della-lettura-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -770,15 +714,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-30_evento_di_yoga_dall_oscurit_alla_luce",
-    "title": "Evento di yoga: dall'oscurità alla luce",
+    "id": "veronasera_2026-05-30_commedia_teatrale_tramaci_par_sposar_na_",
+    "title": "Commedia teatrale: \"Tramaci par sposar na fiola\"",
     "date": "2026-05-30",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/yoga-oscurita-luce-30-maggio-2026.html",
+    "url": "https://www.veronasera.it/eventi/commedia-teatrale-tramaci-par-sposar-na-fiola-30-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -793,6 +737,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/pedalata-bici-paesaggi-rurali-viticoltura-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_evento_di_yoga_dall_oscurit_alla_luce",
+    "title": "Evento di yoga: dall'oscurità alla luce",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/yoga-oscurita-luce-30-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -928,13 +886,27 @@
     "title": "“Pecora Tosando” al Parco Giardino Sigurtà",
     "date": "2026-05-31",
     "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/pecora-tosando-parco-giardino-sigurta-31-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/64537501941223/parco-giardino-sigurta-e-la-tosatur-delle-pecore-foto-ufficio-stampa-parco-giardino-sigurta.jpg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-31_cantine_aperte_a_bardolino_da_guerrieri_",
+    "title": "Cantine Aperte a Bardolino da Guerrieri Rizzardi",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cantine-aperte-guerrieri-rizzardi-vino-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1008,6 +980,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-31_trekking_alla_scoperta_della_valpolicell",
+    "title": "Trekking alla scoperta della Valpolicella",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/trekking-vino-valpolicella-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-31_tre_giorni_di_festa_a_illasi_con_il_pali",
     "title": "Tre giorni di festa a Illasi con il Palio dedicato a Ginevra",
     "date": "2026-05-31",
@@ -1033,20 +1019,6 @@
     "url": "https://www.veronasera.it/eventi/festival-della-lettura-dolce-29-31-maggio-2026.html",
     "buy_url": null,
     "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-31_calendario_di_musica_live_a_verona_e_pro",
-    "title": "Calendario di musica live a Verona e provincia",
-    "date": "2026-05-31",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1092,6 +1064,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-31_giornata_delle_fortezze",
+    "title": "Giornata delle Fortezze",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Visite guidate",
+    "venue_type": "Visite guidate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giornata-delle-fortezze/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giornata-delle-fortezze-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-02_tour_del_palato_tra_i_sentieri_del_gusto",
     "title": "Tour del palato: \"Tra i sentieri del gusto e della pietra\"",
     "date": "2026-06-02",
@@ -1101,6 +1087,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/tour-del-palato-prun-2-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-02_escursione_sentieri_d_alta_lessinia_bosc",
+    "title": "Escursione sentieri d’alta Lessinia: boschi, silenzi e grandi panorami",
+    "date": "2026-06-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-lessinia-boschi-silenzi-2-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1176,6 +1176,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-05_da_sal_da_vinci_a_patti_smith_all_arena_",
+    "title": "Da Sal Da Vinci a Patti Smith, all'Arena di Verona l'evento “Campioni del mondo - Italia loves Unesco”",
+    "date": "2026-06-05",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/campioni-mondo-italia-loves-unesco-arena-verona-5-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/18426751857992/locandina-campioni-del-mondo-arena-di-verona-2026.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "cittadiverona_2026-06-05_truci_rock_fest_2026",
     "title": "Truci Rock Fest 2026",
     "date": "2026-06-05",
@@ -1229,6 +1243,34 @@
     "url": "https://www.cittadiverona.it/eventi/respiri-in-festa/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/respiri-in-festa-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-06__finch_vita_non_ci_separi_al_teatro_aren",
+    "title": "“Finché vita non ci separi” al Teatro Arena Corte Torcolo",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/finche-vita-non-ci-separi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/finche-vita-non-ci-separi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-07_festa_del_quartiere_ponte_catena",
+    "title": "Festa del quartiere Ponte Catena",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-quartiere-ponte-catena-5-7-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1302,6 +1344,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-30_calendario_di_musica_live_a_verona_e_pro",
+    "title": "Calendario di musica live a Verona e provincia",
+    "date": "2026-06-30",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-30_arisa_al_teatro_romano_di_verona",
     "title": "Arisa al Teatro Romano di Verona",
     "date": "2026-06-30",
@@ -1372,6 +1428,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-06_simona_molinari_al_teatro_romano_di_vero",
+    "title": "Simona Molinari al Teatro Romano di Verona",
+    "date": "2026-07-06",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/simona-molinari-a-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/simona-molinari-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-11_l_omaggio_sinfonico_mio_padre_con_andrea",
     "title": "L’omaggio sinfonico “È mio padre” con Andrea Morricone a Villafranca",
     "date": "2026-07-11",
@@ -1400,20 +1470,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1425,6 +1481,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1554,20 +1624,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-09-22_marmomac",
     "title": "Marmomac",
     "date": "2026-09-22",
@@ -1636,20 +1692,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-10-15_service_day",
