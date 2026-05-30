@@ -476,73 +476,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-29_chiara_becchimanzi_arriva_a_verona_eroin",
-    "title": "Chiara Becchimanzi arriva a Verona: \"Eroina – non solo stand up comedy show\"",
+    "id": "cittadiverona_2026-05-29_soave_rock_festival_2026",
+    "title": "Soave Rock Festival 2026",
     "date": "2026-05-29",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/chiara-becchimanzi-teatro-nuovo-san-michel-eroina-29-maggio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/soave-rock-festival/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-29_verona_jazzset_orchestra_live_in_cortile",
-    "title": "Verona: Jazzset Orchestra live in Cortile Mercato Vecchio per \"Medici per Strada\"",
-    "date": "2026-05-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/jazzset-orchestra-concerto-medici-per-strada-29-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-29__teatro_da_bar_torna_al_malacarne",
-    "title": "\"Teatro da bar\" torna al Malacarne",
-    "date": "2026-05-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-da-bar-malacarne-29-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-29__elogio_alle_donne_arte_di_fare_impresa_",
-    "title": "\"Elogio alle donne\" arte di fare impresa, comunicazione e creatività femminile nel terzo millennio",
-    "date": "2026-05-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/elogio-donne-fare-impresa-comunicazione-29-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-05-29_guided_tour_in_english_to_miniscalchi_pa",
-    "title": "Guided tour in english to Miniscalchi Palace | Visita guidata in inglese",
-    "date": "2026-05-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/guided-tour-english-miniscalchi-palace-visita-29-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Soave-Rock-Festival-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -557,20 +501,6 @@
     "url": "https://www.cittadiverona.it/eventi/festival-della-lettura-oltre-il-confine/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Festival-della-lettura-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-05-29_soave_rock_festival_2026",
-    "title": "Soave Rock Festival 2026",
-    "date": "2026-05-29",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/soave-rock-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Soave-Rock-Festival-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -602,31 +532,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-05-29__teatro_da_bar_al_malacarne",
-    "title": "“Teatro Da Bar” al Malacarne",
-    "date": "2026-05-29",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/teatro-da-bar/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Teatro-da-Bar-Malacarne-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-30_chiaretto_di_bardolino_run",
     "title": "Chiaretto di Bardolino Run",
     "date": "2026-05-30",
     "time": "",
-    "type": "Sport",
-    "venue_type": "Sport",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/chiaretto-bardolino-run-corsa-30-maggio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/9687637854582/chiaretto-di-bardolino-run-foto-2025-ufficio-stampa-vrm-team-asd.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -686,20 +602,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-30_giochi_teatrali_serata_all_aperto",
-    "title": "Giochi teatrali | Serata all’aperto",
-    "date": "2026-05-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giochi-teatrali-30-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-30__dog_night_experience_sul_corno_d_aquili",
     "title": "\"Dog night experience\" sul Corno d’Aquilio",
     "date": "2026-05-30",
@@ -709,6 +611,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/dog-night-experience-corno-aquilio-30-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-30_giochi_teatrali_serata_all_aperto",
+    "title": "Giochi teatrali | Serata all’aperto",
+    "date": "2026-05-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giochi-teatrali-30-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,6 +798,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-31_festa_storica_del_formaggio_monte_verone",
+    "title": "Festa storica del formaggio Monte Veronese",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-storica-formaggio-monte-veronese-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-31__pecora_tosando_al_parco_giardino_sigurt",
     "title": "“Pecora Tosando” al Parco Giardino Sigurtà",
     "date": "2026-05-31",
@@ -952,6 +882,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-05-31_trekking_alla_scoperta_della_valpolicell",
+    "title": "Trekking alla scoperta della Valpolicella",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/trekking-vino-valpolicella-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-05-31_escursione_tra_mulattiere_romane_panoram",
     "title": "Escursione tra mulattiere romane, panorami stratosferici e merenda contadina",
     "date": "2026-05-31",
@@ -980,20 +924,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-05-31_trekking_alla_scoperta_della_valpolicell",
-    "title": "Trekking alla scoperta della Valpolicella",
-    "date": "2026-05-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/trekking-vino-valpolicella-31-maggio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-05-31_tre_giorni_di_festa_a_illasi_con_il_pali",
     "title": "Tre giorni di festa a Illasi con il Palio dedicato a Ginevra",
     "date": "2026-05-31",
@@ -1003,6 +933,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/palio-ginevra-illasi-29-31-maggio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-05-31_medical_buskers_cento_band_live_a_verona",
+    "title": "Medical Buskers: cento band live a Verona",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/medici-per-strada-medical-buskers-concerto-29-31-maggio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1078,6 +1022,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-05-31_progetto_urbane_spettacoli_teatrali_itin",
+    "title": "Progetto “UrbanE”: spettacoli teatrali itineranti tra natura e città",
+    "date": "2026-05-31",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/progetto-urbane-spettacoli-teatrali-itineranti-natura-citta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/urban-e-spettacoli-teatrali-itineranti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-02_tour_del_palato_tra_i_sentieri_del_gusto",
     "title": "Tour del palato: \"Tra i sentieri del gusto e della pietra\"",
     "date": "2026-06-02",
@@ -1115,20 +1073,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/villafranca-fest-22-maggio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-02_sagra_di_san_leonardo_pradelle_di_nogaro",
-    "title": "Sagra di San Leonardo - Pradelle di Nogarole Rocca",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-san-leonardo-pradelle-festa-22-maggio-2-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1204,6 +1148,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-06_la_festa_delle_associazioni_a_verona",
+    "title": "La Festa delle Associazioni a Verona",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-associazioni-verona-6-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-06_visita_guidata_a_fondazione_meriggio",
+    "title": "Visita guidata a Fondazione Meriggio",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-fondazione-meriggio-6-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-06_tra_stampa_e_pittura_workshop_di_monotip",
+    "title": "Tra stampa e pittura: workshop di monotipo per adulti al Museo Miniscalchi-Erizzo",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/stampa-pittura-workshop-museo-6-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-06_valeggio_contemporanea",
     "title": "Valeggio Contemporanea",
     "date": "2026-06-06",
@@ -1260,6 +1246,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-07_torna_a_verona_il_soul_festival",
+    "title": "Torna a Verona il Soul Festival",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soul-festival-villa-buri-6-7-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/60272613071005/foto-ufficio-stampa-bergamini-soul-festival-a-verona.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-07_palesella_in_festa",
+    "title": "Palesella in festa",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/palesella-in-festa-6-7-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-07_festa_del_quartiere_ponte_catena",
     "title": "Festa del quartiere Ponte Catena",
     "date": "2026-06-07",
@@ -1271,34 +1285,6 @@
     "url": "https://www.veronasera.it/eventi/festa-quartiere-ponte-catena-5-7-giugno-2026.html",
     "buy_url": null,
     "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-07_valeggio_contemporanea_un_grande_evento_",
-    "title": "Valeggio Contemporanea: un grande evento di cultura condivisa aperto a tutti",
-    "date": "2026-06-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/valeggio-comtemporanea-festival-6-7-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_verona_in_",
-    "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
-    "date": "2026-06-07",
-    "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/verona-antiquaria-giugno-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1316,6 +1302,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_verona_in_",
+    "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/verona-antiquaria-giugno-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-11_sagra_delle_ciliegie_di_montecchia_di_cr",
     "title": "Sagra delle Ciliegie di Montecchia di Crosara",
     "date": "2026-06-11",
@@ -1330,6 +1330,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-18_i_tre_porcellini_a_forte_gisella",
+    "title": "I tre porcellini a Forte Gisella",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/i-tre-porcellini-a-forte-gisella/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/07/i-tre-porcellini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-21_mercatino_dell_antiquariato_di_soave",
     "title": "Mercatino dell’Antiquariato di Soave",
     "date": "2026-06-21",
@@ -1341,6 +1355,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-dell-antiquariato-di-soave/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/mercatino-antiquariato-soave-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-25_le_vicende_di_pippi_calzelunghe_a_forte_",
+    "title": "Le vicende di Pippi Calzelunghe a Forte Gisella",
+    "date": "2026-06-25",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/le-vicende-di-pippi-calzelunghe-a-forte-gisella/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2020/07/pippi-calzelunghe-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1369,6 +1397,20 @@
     "url": "https://www.cittadiverona.it/eventi/arisa-al-teatro-romano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/06/arisa-teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-02_amore_e_amicizia_ne_il_principe_felice_a",
+    "title": "Amore e amicizia ne “Il Principe Felice” a Forte Gisella",
+    "date": "2026-07-02",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/amore-e-amicizia-ne-il-principe-felice/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/02/principe-felice-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1498,6 +1540,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-16_lo_spettacolo_un_brutto_bruttissimo_anat",
+    "title": "Lo spettacolo “Un brutto bruttissimo anatroccolo” al Castello di Montorio",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/un-brutto-bruttissimo-anattroccolo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/UN-BRUTTO-BRUTTISSIMO-ANATROCCOLO-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-07-17_vinitaly_and_the_city_calabria_in_wine",
     "title": "Vinitaly and the City Calabria in Wine",
     "date": "2026-07-17",
@@ -1568,6 +1624,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-30__il_ladro_di_sole_a_forte_gisella",
+    "title": "“Il ladro di sole” a Forte Gisella",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/il-ladro-di-sole/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/il-ladro-di-sole-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-08-01_vinitaly_and_the_city_calabria_in_wine",
     "title": "Vinitaly and the City Calabria in Wine",
     "date": "2026-08-01",
@@ -1582,17 +1652,59 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-08-06__i_viaggi_di_sindbad_il_marinaio_a_forte",
+    "title": "“I viaggi di Sindbad il marinaio” a Forte Gisella",
+    "date": "2026-08-06",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/viaggi-sindbad-marinaio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/I-viaggi-di-Sindbad-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-18__paganini_paradise_superlive_immersive_c",
     "title": "“Paganini Paradise – Superlive Immersive Concert” all’Arena di Verona",
     "date": "2026-08-18",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
     "location": "Verona",
     "source": "cittadiverona.it",
     "url": "https://www.cittadiverona.it/eventi/paganini-paradise-superlive-immersive-concert-arena-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/paganini-paradise-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-20_le_avventure_della_famiglia_caccapuzza_a",
+    "title": "Le avventure della famiglia Caccapuzza a Forte Gisella",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/avventure-famiglia-caccapuzza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/famiglia-caccapuzza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-27_la_storia_di_cip_a_forte_gisella",
+    "title": "La storia di “Cipì” a Forte Gisella",
+    "date": "2026-08-27",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/storia-cipi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Cipi-600x338.jpg",
     "category": "cultura"
   },
   {
