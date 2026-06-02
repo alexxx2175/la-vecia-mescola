@@ -532,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-01_la_festa_del_melone_a_san_zenone_di_mine",
-    "title": "La Festa del Melone a San Zenone di Minerbe",
-    "date": "2026-06-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-melone-san-zenone-minerbe-29-maggio-1-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-02_tour_del_palato_tra_i_sentieri_del_gusto",
     "title": "Tour del palato: \"Tra i sentieri del gusto e della pietra\"",
     "date": "2026-06-02",
@@ -658,20 +644,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
-    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
-    "date": "2026-06-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-02_la_sagra_del_cristo_in_borgo_roma",
     "title": "La Sagra del Cristo in Borgo Roma",
     "date": "2026-06-02",
@@ -695,6 +667,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-trombini-san-bortolo-delle-montagne-30-maggio-2-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-02_riaprono_gli_scavi_scaligeri_con_la_most",
+    "title": "Riaprono gli Scavi Scaligeri con la mostra \"Winter games!\", un viaggio nella memoria visiva degli sport invernali",
+    "date": "2026-06-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/winter-games-mostra-fotografia-scavi-scaligeri-20-febbraio-2-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1073,6 +1059,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/escursione-rifugio-fosce-8-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-09_silent_reading_con_workshop_di_blackout_",
+    "title": "Silent reading con workshop di blackout poetry",
+    "date": "2026-06-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/silent-reading-workshop-blackout-poetry-9-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
