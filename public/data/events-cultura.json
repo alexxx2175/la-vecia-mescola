@@ -392,6 +392,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-04_fiera_di_campagna_amica_e_festa_della_co",
+    "title": "Fiera di Campagna Amica e Festa della Costata a Isola Rizza",
+    "date": "2026-06-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-di-campagna-amica-e-festa-della-costata-a-isola-rizza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/fiera-campagna-amica-costata-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-04_sagra_di_sant_eurosia_a_salizzole",
     "title": "Sagra di Sant’Eurosia a Salizzole",
     "date": "2026-06-04",
@@ -403,6 +417,34 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-sant-eurosia-a-salizzole/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/06/sagra-sant-eurosia-salizzole-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-04__aperitivi_d_autore_al_caff_dante_con_gi",
+    "title": "“Aperitivi d’autore” al Caffè Dante con Giangilberto Monti",
+    "date": "2026-06-04",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/aperitivi-d-autore-caffe-dante/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giangilberto-Monti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-04_sagra_di_balconi",
+    "title": "Sagra di Balconi",
+    "date": "2026-06-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-balconi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/sagra-di-balconi-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -518,6 +560,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-06_golosine_37136_la_festa_",
+    "title": "Golosine 37136 – La Festa!",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/golosine-37136",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Golosine-37136-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-06_soul_festival_a_villa_buri",
+    "title": "Soul Festival a Villa Buri",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/soul-festival-a-villa-buri/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/05/soul-festival-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-06_valeggio_contemporanea",
     "title": "Valeggio Contemporanea",
     "date": "2026-06-06",
@@ -557,6 +627,34 @@
     "url": "https://www.cittadiverona.it/eventi/respiri-in-festa/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/respiri-in-festa-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-06_progetto_urbane_spettacoli_teatrali_itin",
+    "title": "Progetto “UrbanE”: spettacoli teatrali itineranti tra natura e città",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/progetto-urbane-spettacoli-teatrali-itineranti-natura-citta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/urban-e-spettacoli-teatrali-itineranti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-06__opera_terza_3_serate_sotto_le_stelle",
+    "title": "“Opera Terza”: 3 serate sotto le stelle",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/opera-terza-serate-sotto-stelle/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/opera-terza-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -700,6 +798,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_povegliano",
+    "title": "Mercatino dell’antiquariato a Povegliano Veronese",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_verona_in_",
     "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
     "date": "2026-06-07",
@@ -714,17 +826,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_povegliano",
-    "title": "Mercatino dell’antiquariato a Povegliano Veronese",
+    "id": "cittadiverona_2026-06-07_la_commedia_di_dante_al_lazzaretto",
+    "title": "La Commedia di Dante al Lazzaretto",
     "date": "2026-06-07",
     "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
+    "url": "https://www.cittadiverona.it/eventi/commedia-dante-lazzaretto/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/dante-al-lazzaretto-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -798,6 +910,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-11_aperitivi_al_femminile_aperitalk_con_esp",
+    "title": "Aperitivi al femminile. Aperitalk con esperti - La donna al centro.",
+    "date": "2026-06-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivi-femminile-aperitalk-11-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-11_sagra_delle_ciliegie_di_montecchia_di_cr",
     "title": "Sagra delle Ciliegie di Montecchia di Crosara",
     "date": "2026-06-11",
@@ -809,6 +935,62 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-ciliegie-montecchia-crosara/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Sagra-delle-Ciliegie-di-Montecchia-di-Crosara-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-12__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
+    "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
+    "date": "2026-06-12",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-13_festa_medievale_di_affi",
+    "title": "Festa Medievale di Affi",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-medievale-di-affi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Affi-Medievale-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_africae_festival",
+    "title": "Africae Festival",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/africae-festival-12-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-18_fumane_in_festa_2026",
+    "title": "Fumane in festa 2026",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fumane-in-festa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/fumane-in-festa-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -826,6 +1008,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-18__macbeth_atto_di_sangue_invade_castelvec",
+    "title": "“Macbeth – Atto di Sangue” invade Castelvecchio",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/macbeth-atto-di-sangue/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/MACBETH-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-21_mercatino_dell_antiquariato_di_soave",
     "title": "Mercatino dell’Antiquariato di Soave",
     "date": "2026-06-21",
@@ -837,6 +1033,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-dell-antiquariato-di-soave/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/mercatino-antiquariato-soave-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-23_festa_del_fuoco_a_giazza",
+    "title": "Festa del Fuoco a Giazza",
+    "date": "2026-06-23",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-fuoco-a-giazza",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-del-fuoco-giazza-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1022,6 +1232,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1036,17 +1260,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
+    "id": "cittadiverona_2026-07-16_festa_dell_antica_pieve_a_cologna_veneta",
+    "title": "Festa dell’antica Pieve a Cologna Veneta",
+    "date": "2026-07-16",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
     "category": "cultura"
   },
   {
