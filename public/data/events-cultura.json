@@ -462,48 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-05_da_sal_da_vinci_a_patti_smith_all_arena_",
-    "title": "Da Sal Da Vinci a Patti Smith, all'Arena di Verona l'evento “Campioni del mondo - Italia loves Unesco”",
-    "date": "2026-06-05",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/campioni-mondo-italia-loves-unesco-arena-verona-5-giugno-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/18426751857992/locandina-campioni-del-mondo-arena-di-verona-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-06-05_karaoke_live_and_friends_band",
-    "title": "Karaoke live // And Friends Band",
-    "date": "2026-06-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/karaoke-live-and-friends-band-5-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-05__oltre_i_limiti_a_bardolino_una_mostra_t",
-    "title": "“Oltre i limiti”: a Bardolino una mostra tra arte, inclusione e comunità",
-    "date": "2026-06-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oltre-limiti-mostra-arte-bardolino-4-maggio-5-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-05_festa_del_quartiere_ponte_catena",
     "title": "Festa del quartiere Ponte Catena",
     "date": "2026-06-05",
@@ -546,6 +504,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-06__linkanto_musica_arte_e_sport_per_valori",
+    "title": "“Linkanto”: musica, arte e sport per valorizzare i giovani talenti veronesi",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/linkanto-musica-arte-e-sport-per-valorizzare-i-giovani-talenti-veronesi-il-6-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-06_torna_respiri_in_festa_",
     "title": "Torna “Respiri in Festa”",
     "date": "2026-06-06",
@@ -574,6 +546,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-06__nacque_al_mondo_un_sole_il_san_francesc",
+    "title": "\"Nacque al mondo un sole\", il San Francesco di Dante al Lazzaretto",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/nacque-al-mondo-un-sole-san-francesco-dante-6-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-06_in_gommone_tra_legnago_e_villa_bartolome",
     "title": "In gommone tra Legnago e Villa Bartolomea",
     "date": "2026-06-06",
@@ -588,20 +574,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-06_visita_guidata_a_fondazione_meriggio",
-    "title": "Visita guidata a Fondazione Meriggio",
-    "date": "2026-06-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-fondazione-meriggio-6-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-06_i_flaming_stars_una_notte_con_elvis_pres",
     "title": "I Flaming Stars: una notte con Elvis Presley allo Stone Rose",
     "date": "2026-06-06",
@@ -611,6 +583,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/flaming-stars-concerto-tributo-elvis-presley-6-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-06_visita_guidata_a_fondazione_meriggio",
+    "title": "Visita guidata a Fondazione Meriggio",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-fondazione-meriggio-6-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -658,20 +644,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-06_soul_festival_a_villa_buri",
-    "title": "Soul Festival a Villa Buri",
-    "date": "2026-06-06",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/soul-festival-a-villa-buri/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/05/soul-festival-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-06_golosine_37136_la_festa_",
     "title": "Golosine 37136 – La Festa!",
     "date": "2026-06-06",
@@ -683,6 +655,20 @@
     "url": "https://www.cittadiverona.it/eventi/golosine-37136",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Golosine-37136-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-06_soul_festival_a_villa_buri",
+    "title": "Soul Festival a Villa Buri",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/soul-festival-a-villa-buri/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/05/soul-festival-verona-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -756,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-06__finch_vita_non_ci_separi_al_teatro_aren",
+    "title": "“Finché vita non ci separi” al Teatro Arena Corte Torcolo",
+    "date": "2026-06-06",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/finche-vita-non-ci-separi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/finche-vita-non-ci-separi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-06__opera_terza_3_serate_sotto_le_stelle",
     "title": "“Opera Terza”: 3 serate sotto le stelle",
     "date": "2026-06-06",
@@ -770,17 +770,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-06__finch_vita_non_ci_separi_al_teatro_aren",
-    "title": "“Finché vita non ci separi” al Teatro Arena Corte Torcolo",
-    "date": "2026-06-06",
+    "id": "veronasera_2026-06-07_verona_antiquaria_festeggia_il_dio_dei_v",
+    "title": "Verona Antiquaria festeggia il dio dei viaggi a San Zeno tra vintage, antiquariato, modernariato e collezionismo",
+    "date": "2026-06-07",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/finche-vita-non-ci-separi/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/verona-antiquaria-san-zeno-mercatino-7-giugno-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/finche-vita-non-ci-separi-600x338.jpg",
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/47369071795535/verona-antiquaria-foto-ufficio-stampa-verona-antiquaria.jpg",
     "category": "cultura"
   },
   {
@@ -802,13 +802,13 @@
     "title": "La Giornata dei Bambini di Primavera al Parco Giardino Sigurtà",
     "date": "2026-06-07",
     "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giornata-bambini-primavera-parco-giardino-sigurta-7-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/18585271599466/viale-delle-rose-foto-ufficio-stampa-parco-giardino-sigurta.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -835,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/palesella-in-festa-6-7-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-07_la_commedia_di_dante_al_lazzaretto",
+    "title": "La Commedia di Dante al Lazzaretto",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/commedia-dante-lazzaretto-alessandro-anderloni-7-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -966,20 +980,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_povegliano",
-    "title": "Mercatino dell’antiquariato a Povegliano Veronese",
-    "date": "2026-06-07",
-    "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_verona_in_",
     "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
     "date": "2026-06-07",
@@ -991,6 +991,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/verona-antiquaria-giugno-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-07_mercatino_dell_antiquariato_a_povegliano",
+    "title": "Mercatino dell’antiquariato a Povegliano Veronese",
+    "date": "2026-06-07",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1120,6 +1134,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-13_k_pop_demon_hunters_the_experience_dove_",
+    "title": "K Pop Demon Hunters the Experience - Dove il ritmo incontra la magia del circo",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/k-pop-demon-hunters-the-experience-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-13_la_famiglia_canterina_il_trionfo_dello_s",
+    "title": "La famiglia canterina. Il trionfo dello swing italiano tra gli anni '30 e '40",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/la-famiglia-canterina-trionfo-swing-italiano-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-13_un_pomeriggio_con_i_fermentati",
+    "title": "Un pomeriggio con i fermentati",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fermentati-centerwithoutcentre-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-13_festa_medievale_di_affi",
     "title": "Festa Medievale di Affi",
     "date": "2026-06-13",
@@ -1131,6 +1187,48 @@
     "url": "https://www.cittadiverona.it/eventi/festa-medievale-di-affi/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Affi-Medievale-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-13__vino_e_fotografia_workshop_a_serego_ali",
+    "title": "“Vino e fotografia”: workshop a Serego Alighieri",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/workshop-vino-e-fotografia-serego-alighieri/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Vino-e-Fotografia-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_gardaland_k_pop_festival",
+    "title": "Gardaland K-Pop Festival",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/gardaland-k-pop-festival-concerti-13-14-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/55236872260967/gardaland-kpop-festival-locandina-2026.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-06-14_festa_medievale_di_affi",
+    "title": "Festa Medievale di Affi",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-medievale-affi-13-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1173,6 +1271,20 @@
     "url": "https://www.cittadiverona.it/eventi/macbeth-atto-di-sangue/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/MACBETH-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-19_castelnuovo_del_garda_celebra_i_160_anni",
+    "title": "Castelnuovo del Garda celebra i 160 anni della Bandiera di Oliosi",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/castelnuovo-del-garda-celebra-160-anni-bandiera-oliosi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/160-Bandiera-Oliosi-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1229,20 +1341,6 @@
     "url": "https://www.cittadiverona.it/eventi/tre-serate-di-musica-e-stand-gastronomici-per-la-sagra-di-bosco-chiesanuova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-bosco-chiesanuova-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-29__musica_in_piazza_a_malcesine",
-    "title": "\"Musica in Piazza\" a Malcesine",
-    "date": "2026-06-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/musica-in-piazza-malcesine-concerti-1-29-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1554,20 +1652,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-08-02_musica_spettacoli_sport_e_socialit_il_mu",
-    "title": "Musica, spettacoli, sport e socialità: il Mura Festival a Verona",
-    "date": "2026-08-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mura-festival-spettacoli-concerti-festa-28-maggio-2-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-06__i_viaggi_di_sindbad_il_marinaio_a_forte",
     "title": "“I viaggi di Sindbad il marinaio” a Forte Gisella",
     "date": "2026-08-06",
@@ -1652,20 +1736,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-09-22_marmomac",
     "title": "Marmomac",
     "date": "2026-09-22",
@@ -1734,20 +1804,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-10-15_service_day",
