@@ -406,20 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-04_sagra_di_balconi",
-    "title": "Sagra di Balconi",
-    "date": "2026-06-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-balconi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/sagra-di-balconi-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-06_golosine_37136_la_festa_",
     "title": "Golosine 37136 – La Festa!",
     "date": "2026-06-06",
@@ -431,104 +417,6 @@
     "url": "https://www.cittadiverona.it/eventi/golosine-37136",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Golosine-37136-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_crea_il_tuo_pendente_in_resina_e_fiori",
-    "title": "Crea il tuo pendente in resina e fiori",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Hobby",
-    "venue_type": "Hobby",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/crea-pendente-resina-fiori-8-giugno-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/63497463022683/crea-il-tuo-pendente-in-resina-e-fiori.png",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_escursione_al_rifugio_fosce",
-    "title": "Escursione al Rifugio Fosce",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/escursione-rifugio-fosce-8-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_guided_tour_in_english_to_miniscalchi_pa",
-    "title": "Guided tour in english to Miniscalchi Palace | Visita guidata in inglese",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/guided-tour-in-english-to-miniscalchi-palace-8-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_la_festa_della_pizza_e_dello_sport_a_iso",
-    "title": "La Festa della Pizza e dello Sport a Isola della Scala",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-pizza-sport-isola-della-scala-5-8-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_a_pescantina_si_festeggia_con_la_sagra_d",
-    "title": "A Pescantina si festeggia con la Sagra di Balconi",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-balconi-pescantina-4-8-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_sagra_del_saval_al_forte_procolo",
-    "title": "Sagra del Saval al Forte Procolo",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-del-saval-parrocchia-santa-maria-maddalena-5-8-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-08_la_festa_del_melone_a_erb_",
-    "title": "La Festa del Melone a Erbè",
-    "date": "2026-06-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-melone-erbe-5-8-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -599,6 +487,20 @@
     "url": "https://www.veronasera.it/eventi/aperitivi-femminile-aperitalk-11-giugno-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-11_de_andr_e_la_canzone_d_autore_al_caff_da",
+    "title": "De André e la canzone d’autore al Caffè Dante",
+    "date": "2026-06-11",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/de-andre-canzone-d-autore-caffe-dante/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/incontri-autore-caffe-dante-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -732,11 +634,25 @@
     "title": "Visita guidata a Palazzo Miniscalchi: da casa a museo",
     "date": "2026-06-14",
     "time": "",
+    "type": "Turismo",
+    "venue_type": "Turismo",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-14-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/21407232634065/visita-guidata-a-palazzo-miniscalchi-da-casa-a-museo-10.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14__in_limine_",
+    "title": "\"In limine\"",
+    "date": "2026-06-14",
+    "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-14-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/in-limine-ossario-custoza-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -756,20 +672,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-14__in_limine_",
-    "title": "\"In limine\"",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/in-limine-ossario-custoza-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-14_torna_a_verona_golosine_37136_la_festa_",
     "title": "Torna a Verona \"Golosine 37136 – La Festa!\"",
     "date": "2026-06-14",
@@ -779,6 +681,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/golosine-37136-festa-6-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_a_verona_la_mostra_documentario_fotograf",
+    "title": "A Verona la mostra documentario fotografica \"Psichiatria e Diritti Umani\"",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-fotografia-psichiatia-diritti-umani-11-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -798,15 +714,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-14_a_verona_la_mostra_documentario_fotograf",
-    "title": "A Verona la mostra documentario fotografica \"Psichiatria e Diritti Umani\"",
-    "date": "2026-06-14",
+    "id": "veronasera_2026-06-16_crea_la_tua_cintura_in_macram_",
+    "title": "Crea la tua cintura in macramè",
+    "date": "2026-06-16",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-psichiatia-diritti-umani-11-14-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/crea-tua-cintura-macrame-16-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-16_crea_il_tuo_arazzo_boho_in_macram_",
+    "title": "Crea il tuo arazzo boho in macramè",
+    "date": "2026-06-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/crea-arazzo-boho-macrame-16-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -865,6 +795,20 @@
     "url": "https://www.cittadiverona.it/eventi/castelnuovo-del-garda-celebra-160-anni-bandiera-oliosi/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/160-Bandiera-Oliosi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-20_la_bella_addormentata_del_balletto_di_ve",
+    "title": "La Bella Addormentata del Balletto di Verona",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-bella-addormentata-balletto-a-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/06/la-bella-addormentata-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -949,6 +893,20 @@
     "url": "https://www.cittadiverona.it/eventi/tre-serate-di-musica-e-stand-gastronomici-per-la-sagra-di-bosco-chiesanuova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-bosco-chiesanuova-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-26_sagra_di_san_pietro_e_paolo_a_corso_di_g",
+    "title": "Sagra di San Pietro e Paolo a Corso di Grezzana",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-pietro-e-paolo-a-corso-di-grezzana/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-san-pietro-e-paolo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1047,6 +1005,20 @@
     "url": "https://www.cittadiverona.it/eventi/tour-estivo-niccolo-fabi-teatro-romano-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/niccolo_fabi_teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-05__romeo_e_giulietta_la_passeggiata_teatra",
+    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1229,6 +1201,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-25_corso_di_corsa_ad_angiari",
+    "title": "Corso di corsa ad Angiari",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/corso-corsa-angiari-settembre-2025-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
