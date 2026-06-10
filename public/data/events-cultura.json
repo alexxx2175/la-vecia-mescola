@@ -392,20 +392,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-04_sagra_di_sant_eurosia_a_salizzole",
-    "title": "Sagra di Sant’Eurosia a Salizzole",
-    "date": "2026-06-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-sant-eurosia-a-salizzole/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/06/sagra-sant-eurosia-salizzole-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-06_golosine_37136_la_festa_",
     "title": "Golosine 37136 – La Festa!",
     "date": "2026-06-06",
@@ -420,43 +406,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-09_silent_reading_con_workshop_di_blackout_",
-    "title": "Silent reading con workshop di blackout poetry",
-    "date": "2026-06-09",
+    "id": "veronasera_2026-06-10_wine_chill_aperitivo_al_tramonto",
+    "title": "Wine & Chill: aperitivo al tramonto",
+    "date": "2026-06-10",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/silent-reading-workshop-blackout-poetry-9-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-09_la_sagra_di_sant_eurosia_a_salizzole",
-    "title": "La Sagra di Sant’Eurosia a Salizzole",
-    "date": "2026-06-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-sant-eurosia-salizzole-4-9-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-09_la_mostra_provinciale_delle_ciliegie_ver",
-    "title": "La Mostra Provinciale delle Ciliegie Veronesi a Cazzano di Tramigna",
-    "date": "2026-06-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-provinciale-ciliegie-veronesi-cazzano-tramigna-5-9-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/wine-chill-aperitivo-tramonto-valesound-10-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -473,6 +431,20 @@
     "url": "https://www.cittadiverona.it/eventi/wine-chill-aperitivo-tramonto-masi-tenuta-canova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/WineChill-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-11_de_andr_e_la_canzone_d_autore_al_caff_da",
+    "title": "De André e la canzone d'autore al Caffè Dante",
+    "date": "2026-06-11",
+    "time": "",
+    "type": "Incontri",
+    "venue_type": "Incontri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/de-andre-canzone-autore-caffe-dante-11-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/6989331947096/de-andre-e-la-canzone-d-autore-al-caffe-dante.jpg",
     "category": "cultura"
   },
   {
@@ -560,6 +532,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-13_workshop_vino_e_fotografia_",
+    "title": "Workshop: \"Vino e fotografia\"",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/workshop-vino-fotografia-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-13_un_pomeriggio_con_i_fermentati",
     "title": "Un pomeriggio con i fermentati",
     "date": "2026-06-13",
@@ -630,17 +616,31 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-14_soledarte_musical_presenta_performing_ar",
+    "title": "Soledarte musical presenta “Performing Arts”",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soledarte-musical-performing-arts-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-14_visita_guidata_a_palazzo_miniscalchi_da_",
     "title": "Visita guidata a Palazzo Miniscalchi: da casa a museo",
     "date": "2026-06-14",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-14-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/21407232634065/visita-guidata-a-palazzo-miniscalchi-da-casa-a-museo-10.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -667,6 +667,62 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/pomeriggio-in-meditazione-centerwithoutcentre-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_escursione_sui_sentieri_dell_alta_lessin",
+    "title": "Escursione - Sui sentieri dell’alta Lessinia: tra storia, fauna e piante selvatiche",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-alta-lessinia-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_progetto_ciclopedonale_della_lessinia_op",
+    "title": "Progetto ciclopedonale della Lessinia – Opportunità e criticità",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/progetto-ciclopedonale-lessinia-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_sommacampagna_street_food",
+    "title": "Sommacampagna Street Food",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sommacampagna-street-food-12-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_giornate_europee_dell_archeologia_nei_mu",
+    "title": "Giornate europee dell'archeologia nei musei civici di Verona",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornate-europee-archeologia-musei-civici-12-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -851,20 +907,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-del-fuoco-a-giazza",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-del-fuoco-giazza-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-25_camminata_tonica_ad_angiari",
-    "title": "Camminata tonica ad Angiari",
-    "date": "2026-06-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/camminata-tonica-angiari-settembre-2025-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1092,20 +1134,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1117,6 +1145,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1201,20 +1243,6 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-25_corso_di_corsa_ad_angiari",
-    "title": "Corso di corsa ad Angiari",
-    "date": "2026-07-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-corsa-angiari-settembre-2025-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
