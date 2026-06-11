@@ -392,6 +392,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-04__musica_in_piazza_a_malcesine",
+    "title": "“Musica in Piazza” a Malcesine",
+    "date": "2026-06-04",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/musica-in-piazza-malcesine/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/musica-in-piazza-a-malcesine-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-06_golosine_37136_la_festa_",
     "title": "Golosine 37136 – La Festa!",
     "date": "2026-06-06",
@@ -406,31 +420,59 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-10_wine_chill_aperitivo_al_tramonto",
-    "title": "Wine & Chill: aperitivo al tramonto",
-    "date": "2026-06-10",
+    "id": "cittadiverona_2026-06-09_una_settimana_ricca_di_eventi_al_mura_fe",
+    "title": "Una settimana ricca di eventi al Mura Festival",
+    "date": "2026-06-09",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/wine-chill-aperitivo-tramonto-valesound-10-giugno-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/weekend-mura-festival/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/weekend-mura-festival-600x338.jpg",
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-10__wine_chill_aperitivo_al_tramonto_a_masi",
-    "title": "“Wine & Chill”: aperitivo al tramonto a Masi Tenuta Canova",
+    "id": "cittadiverona_2026-06-10_africae_festival",
+    "title": "Africae Festival",
     "date": "2026-06-10",
     "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
+    "type": "Feste",
+    "venue_type": "Feste",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wine-chill-aperitivo-tramonto-masi-tenuta-canova/",
+    "url": "https://www.cittadiverona.it/eventi/africae-festival/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/WineChill-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/africae-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-10_commedia_divertente_mi_sposo_mohamed_al_",
+    "title": "Commedia divertente “Mi sposo Mohamed” al Chiostro di Sant’Eufemia",
+    "date": "2026-06-10",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/commedia-divertente-mi-sposo-mohamed/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Mi-sposo-Mohamed-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-11_a_villafranca_lo_spettacolo_tutte_le_don",
+    "title": "A Villafranca lo spettacolo “Tutte le donne che voglio essere”",
+    "date": "2026-06-11",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tutte-donne-che-voglio-essere-11-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/50337689716772/locandina-spettacolo-ulss-9_11-giugno_2026.jpg",
     "category": "cultura"
   },
   {
@@ -438,13 +480,13 @@
     "title": "De André e la canzone d'autore al Caffè Dante",
     "date": "2026-06-11",
     "time": "",
-    "type": "Incontri",
-    "venue_type": "Incontri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/de-andre-canzone-autore-caffe-dante-11-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/6989331947096/de-andre-e-la-canzone-d-autore-al-caffe-dante.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -490,6 +532,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-11_sagra_di_valgatara",
+    "title": "Sagra di Valgatara",
+    "date": "2026-06-11",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-valgatara/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-valgatara-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-12_la_new_sambo_big_band_in_concerto_a_vill",
+    "title": "La New Sambo Big Band in concerto a Villa Gritti",
+    "date": "2026-06-12",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/new-sambo-big-band-concerto-12-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/30126358588012/locandina-17.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "cittadiverona_2026-06-12__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
     "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
     "date": "2026-06-12",
@@ -508,14 +578,14 @@
     "title": "K Pop Demon Hunters the Experience - Dove il ritmo incontra la magia del circo",
     "date": "2026-06-13",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/k-pop-demon-hunters-the-experience-13-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/26258357014071/k-pop-demon-hunters-the-experience-dove-il-ritmo-incontra-la-magia-del-circo.png",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-06-13_la_famiglia_canterina_il_trionfo_dello_s",
@@ -541,6 +611,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/workshop-vino-fotografia-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-13_giornata_di_allenamenti_open_birra_e_bbq",
+    "title": "Giornata di allenamenti open, birra e bbq",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/allenamenti-open-birra-bbq-13-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -644,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-14_amarone_riserva_un_viaggio_nel_cuore_del",
+    "title": "Amarone riserva – Un viaggio nel cuore della Valpolicella",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/amarone-riserva-valpolicella-13-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-14__in_limine_",
     "title": "\"In limine\"",
     "date": "2026-06-14",
@@ -653,20 +751,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/in-limine-ossario-custoza-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-14_pomeriggio_in_meditazione",
-    "title": "Pomeriggio in meditazione",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/pomeriggio-in-meditazione-centerwithoutcentre-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -695,6 +779,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/progetto-ciclopedonale-lessinia-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_pomeriggio_in_meditazione",
+    "title": "Pomeriggio in meditazione",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/pomeriggio-in-meditazione-centerwithoutcentre-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -737,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/golosine-37136-festa-6-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_il_paese_dei_balocchi_al_parco_della_pro",
+    "title": "Il Paese dei Balocchi al parco della Provianda: musica, spettacoli e volo in mongolfiera",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paese-dei-balocchi-parco-provianda-12-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -798,6 +910,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-18__i_tre_porcellini_",
+    "title": "\"I tre porcellini\"",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/i-tre-porcellini-fondazione-aida-18-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-18_fumane_in_festa_2026",
     "title": "Fumane in festa 2026",
     "date": "2026-06-18",
@@ -854,6 +980,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-19_sagra_del_luogo_comune",
+    "title": "Sagra del Luogo Comune",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-del-luogo-comune/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Sagra-del-luogo-comune-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-20_la_bella_addormentata_del_balletto_di_ve",
     "title": "La Bella Addormentata del Balletto di Verona",
     "date": "2026-06-20",
@@ -877,6 +1017,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/veronensis-mostra-fotografia-11-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21__turris_antiqua_a_torri_del_benaco",
+    "title": "\"Turris Antiqua\" a Torri del Benaco",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/turris-antiqua-mostra-arte-mercato-13-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -963,6 +1117,20 @@
     "url": "https://www.veronasera.it/eventi/musica-in-piazza-malcesine-concerti-1-29-giugno-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-29_un_mese_di_teatro_e_proiezioni_a_la_cort",
+    "title": "Un mese di teatro e proiezioni a “La corte dell’Astra”",
+    "date": "2026-06-29",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-corte-astra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Corte-dell_Astra-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1103,6 +1271,20 @@
     "url": "https://www.cittadiverona.it/eventi/sigfrido-ranucci-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/sigfrido-ranucci-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-10_un_blues_di_pace_a_corte_cavalchina",
+    "title": "Un blues di pace a Corte Cavalchina",
+    "date": "2026-07-10",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/un-blues-di-pace/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Un-Blues-di-Pace-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1274,20 +1456,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronafiere_2026-08-01_vinitaly_and_the_city_calabria_in_wine",
-    "title": "Vinitaly and the City Calabria in Wine",
-    "date": "2026-08-01",
-    "time": "",
-    "type": "Reggio Calabria",
-    "venue_type": "Fiera",
-    "location": "Veronafiere — Viale del Lavoro 8, Verona",
-    "source": "veronafiere.it",
-    "url": "https://www.veronafiere.it/manifestazione/vinitaly-and-the-city-calabria-in-wine-2026/",
-    "buy_url": null,
-    "image": null,
-    "category": "fiere"
-  },
-  {
     "id": "veronasera_2026-08-02_musica_spettacoli_sport_e_socialit_il_mu",
     "title": "Musica, spettacoli, sport e socialità: il Mura Festival a Verona",
     "date": "2026-08-02",
@@ -1381,20 +1549,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1566,20 +1720,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2027-04-22_giordana_angi_al_teatro_nuovo_di_verona",
