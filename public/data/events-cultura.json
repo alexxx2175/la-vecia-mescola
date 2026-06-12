@@ -462,59 +462,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-11_a_villafranca_lo_spettacolo_tutte_le_don",
-    "title": "A Villafranca lo spettacolo “Tutte le donne che voglio essere”",
+    "id": "cittadiverona_2026-06-11__soavemente_pizza_al_parco_della_rimembr",
+    "title": "“Soavemente Pizza” al Parco della Rimembranza a Soave",
     "date": "2026-06-11",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tutte-donne-che-voglio-essere-11-giugno-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/50337689716772/locandina-spettacolo-ulss-9_11-giugno_2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-11_de_andr_e_la_canzone_d_autore_al_caff_da",
-    "title": "De André e la canzone d'autore al Caffè Dante",
-    "date": "2026-06-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/de-andre-canzone-autore-caffe-dante-11-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-11_aperitivi_al_femminile_aperitalk_con_esp",
-    "title": "Aperitivi al femminile. Aperitalk con esperti - La donna al centro.",
-    "date": "2026-06-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivi-femminile-aperitalk-11-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-11_de_andr_e_la_canzone_d_autore_al_caff_da",
-    "title": "De André e la canzone d’autore al Caffè Dante",
-    "date": "2026-06-11",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/de-andre-canzone-d-autore-caffe-dante/",
+    "url": "https://www.cittadiverona.it/eventi/soavemente-pizza-parco-della-rimembranza-soave/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/incontri-autore-caffe-dante-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/soavemente-pizza-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -602,6 +560,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-13_passeggiata_naturalistica_al_parco_valpo",
+    "title": "Passeggiata naturalistica al Parco Valpolicella",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-naturalistica-parco-valpolicella-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-13_workshop_vino_e_fotografia_",
     "title": "Workshop: \"Vino e fotografia\"",
     "date": "2026-06-13",
@@ -611,6 +583,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/workshop-vino-fotografia-13-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-13_luca_gallina_matteo_mantovani_folk_blues",
+    "title": "Luca Gallina & Matteo Mantovani folk/blues kids combo allo Stone Rose",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/luca-gallina-matteo-mantovani-folk-blues-concerto-13-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -672,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-13__la_famiglia_canterina_il_trionfo_dello_",
+    "title": "“La famiglia canterina – Il trionfo dello swing italiano tra gli anni ’30 e ’40”",
+    "date": "2026-06-13",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-famiglia-canterina-trionfo-swing-italiano-anni-30-40/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/la-famiglia-canterina-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-14_gardaland_k_pop_festival",
     "title": "Gardaland K-Pop Festival",
     "date": "2026-06-14",
@@ -704,11 +704,25 @@
     "title": "Soledarte musical presenta “Performing Arts”",
     "date": "2026-06-14",
     "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soledarte-musical-performing-arts-14-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/6975346407297/soledarte-musical-presenta-performing-arts.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_amarone_riserva_un_viaggio_nel_cuore_del",
+    "title": "Amarone riserva – Un viaggio nel cuore della Valpolicella",
+    "date": "2026-06-14",
+    "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soledarte-musical-performing-arts-14-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/amarone-riserva-valpolicella-13-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -728,15 +742,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-14_amarone_riserva_un_viaggio_nel_cuore_del",
-    "title": "Amarone riserva – Un viaggio nel cuore della Valpolicella",
+    "id": "veronasera_2026-06-14_progetto_ciclopedonale_della_lessinia_op",
+    "title": "Progetto ciclopedonale della Lessinia – Opportunità e criticità",
     "date": "2026-06-14",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/amarone-riserva-valpolicella-13-14-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/progetto-ciclopedonale-lessinia-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -765,20 +779,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/escursione-alta-lessinia-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-14_progetto_ciclopedonale_della_lessinia_op",
-    "title": "Progetto ciclopedonale della Lessinia – Opportunità e criticità",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/progetto-ciclopedonale-lessinia-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -826,20 +826,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-14_torna_a_verona_golosine_37136_la_festa_",
-    "title": "Torna a Verona \"Golosine 37136 – La Festa!\"",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/golosine-37136-festa-6-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-14_il_paese_dei_balocchi_al_parco_della_pro",
     "title": "Il Paese dei Balocchi al parco della Provianda: musica, spettacoli e volo in mongolfiera",
     "date": "2026-06-14",
@@ -854,6 +840,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-14_torna_a_verona_golosine_37136_la_festa_",
+    "title": "Torna a Verona \"Golosine 37136 – La Festa!\"",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/golosine-37136-festa-6-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-14_a_verona_la_mostra_documentario_fotograf",
     "title": "A Verona la mostra documentario fotografica \"Psichiatria e Diritti Umani\"",
     "date": "2026-06-14",
@@ -863,20 +863,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/mostra-fotografia-psichiatia-diritti-umani-11-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-14_africae_festival",
-    "title": "Africae Festival",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/africae-festival-12-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -980,6 +966,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-19_festa_delle_fate_a_garda",
+    "title": "Festa delle Fate a Garda",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-delle-fate-a-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/la-festa-delle-fate-2026-garda-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-19_mostra_provinciale_la_ciliegia_d_oro_a_t",
+    "title": "Mostra provinciale “La Ciliegia d’Oro” a Tregnago",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mostra-provinciale-la-ciliegia-doro/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/mostra-ciliegia-oro-tregnago-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-19_sagra_del_luogo_comune",
     "title": "Sagra del Luogo Comune",
     "date": "2026-06-19",
@@ -991,6 +1005,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-del-luogo-comune/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Sagra-del-luogo-comune-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-20_visita_guidata_al_museo_miniscalchi_eriz",
+    "title": "Visita guidata al Museo Miniscalchi-Erizzo e alla mostra “Una principessa a Palazzo”",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Visite guidate",
+    "venue_type": "Visite guidate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/visita-guidata-museo-miniscalchi-erizzo-mostra-una-principessa-a-palazzo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/mostra-una-principessa-a-palazzo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1008,15 +1036,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-21_gli_scatti_della_veronesit_in_mostra_a_p",
-    "title": "Gli scatti della \"veronesità\" in mostra a Porta Palio",
+    "id": "veronasera_2026-06-21_a_bardolino_torna_parole_sull_acqua_",
+    "title": "A Bardolino torna \"Parole sull’Acqua\"",
     "date": "2026-06-21",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/veronensis-mostra-fotografia-11-21-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/parole-sull-acqua-bardolino-19-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1031,6 +1059,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/turris-antiqua-mostra-arte-mercato-13-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_fumane_in_festa",
+    "title": "Fumane in festa",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fumane-in-festa-18-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_gli_scatti_della_veronesit_in_mostra_a_p",
+    "title": "Gli scatti della \"veronesità\" in mostra a Porta Palio",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/veronensis-mostra-fotografia-11-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1103,6 +1159,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-san-pietro-e-paolo-a-corso-di-grezzana/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-san-pietro-e-paolo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-28_mercatino_antiquariato_a_valeggio_sul_mi",
+    "title": "Mercatino antiquariato a Valeggio sul Mincio",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1316,20 +1386,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1341,6 +1397,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1565,6 +1635,34 @@
     "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-20_concerto_dei_negramaro_in_arena",
+    "title": "Concerto dei Negramaro in Arena",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-dei-negramaro-a-verona-in-arena/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/05/negramaro-arena-di-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-21__una_nessuna_centomila_all_arena_di_vero",
+    "title": "“Una Nessuna Centomila” all’Arena di Verona",
+    "date": "2026-09-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/una-nessuna-centomila-in-arena/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/08/una-nessuna-centomila-arena-verona-2026-600x338.jpg",
     "category": "cultura"
   },
   {
