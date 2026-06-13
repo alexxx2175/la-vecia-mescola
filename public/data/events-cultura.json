@@ -504,32 +504,18 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-12_la_new_sambo_big_band_in_concerto_a_vill",
-    "title": "La New Sambo Big Band in concerto a Villa Gritti",
-    "date": "2026-06-12",
+    "id": "veronasera_2026-06-13_la_traviata_per_l_apertura_dell_arena_di",
+    "title": "La Traviata per l'apertura dell'Arena di Verona Opera Festival",
+    "date": "2026-06-13",
     "time": "",
     "type": "Concerti",
     "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/new-sambo-big-band-concerto-12-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/la-traviata-inaugurazione-arena-verona-opera-festival-12-13-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/30126358588012/locandina-17.jpg",
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/65423633291135/bozzetto-di-juan-guillermo-nova-per-il-nuovo-allestimento-de-la-traviata-foto-ufficio-stampa-fondazione-arean.jpg",
     "category": "concerti_pop"
-  },
-  {
-    "id": "cittadiverona_2026-06-12__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
-    "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
-    "date": "2026-06-12",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
-    "category": "cultura"
   },
   {
     "id": "veronasera_2026-06-13_k_pop_demon_hunters_the_experience_dove_",
@@ -742,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-14_escursione_sui_sentieri_dell_alta_lessin",
+    "title": "Escursione - Sui sentieri dell’alta Lessinia: tra storia, fauna e piante selvatiche",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-alta-lessinia-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-14_progetto_ciclopedonale_della_lessinia_op",
     "title": "Progetto ciclopedonale della Lessinia – Opportunità e criticità",
     "date": "2026-06-14",
@@ -770,20 +770,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-14_escursione_sui_sentieri_dell_alta_lessin",
-    "title": "Escursione - Sui sentieri dell’alta Lessinia: tra storia, fauna e piante selvatiche",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/escursione-alta-lessinia-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-14_pomeriggio_in_meditazione",
     "title": "Pomeriggio in meditazione",
     "date": "2026-06-14",
@@ -798,29 +784,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-14_sommacampagna_street_food",
-    "title": "Sommacampagna Street Food",
+    "id": "veronasera_2026-06-14_esploratori_all_area_naturalistica_casin",
+    "title": "Esploratori all'area naturalistica Casino Riva",
     "date": "2026-06-14",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sommacampagna-street-food-12-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-14_giornate_europee_dell_archeologia_nei_mu",
-    "title": "Giornate europee dell'archeologia nei musei civici di Verona",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giornate-europee-archeologia-musei-civici-12-14-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/visita-area-naturalistica-casino-riva-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -840,6 +812,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-14_sommacampagna_street_food",
+    "title": "Sommacampagna Street Food",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sommacampagna-street-food-12-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14__fam_castle_festival_a_villafranca_di_ve",
+    "title": "\"FAM Castle Festival\" a Villafranca di Verona",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fan-castle-festival-castello-villafranca-12-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-14_giornate_europee_dell_archeologia_nei_mu",
+    "title": "Giornate europee dell'archeologia nei musei civici di Verona",
+    "date": "2026-06-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornate-europee-archeologia-musei-civici-12-14-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-14_torna_a_verona_golosine_37136_la_festa_",
     "title": "Torna a Verona \"Golosine 37136 – La Festa!\"",
     "date": "2026-06-14",
@@ -849,20 +863,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/golosine-37136-festa-6-14-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-14_a_verona_la_mostra_documentario_fotograf",
-    "title": "A Verona la mostra documentario fotografica \"Psichiatria e Diritti Umani\"",
-    "date": "2026-06-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-psichiatia-diritti-umani-11-14-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1008,6 +1008,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-20_escursioni_a_malga_zocchi_monte_baldo",
+    "title": "Escursioni a Malga Zocchi-Monte Baldo",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursioni-malga-zocchi-monte-baldo-20-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-20_visita_guidata_alla_casa_museo_miniscalc",
+    "title": "Visita guidata alla Casa Museo MiniscalchiEerizzo e alla mostra \"Una principessa a palazzo. Marianna Erizzo\"",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-20-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-20_visita_guidata_al_museo_miniscalchi_eriz",
     "title": "Visita guidata al Museo Miniscalchi-Erizzo e alla mostra “Una principessa a Palazzo”",
     "date": "2026-06-20",
@@ -1050,6 +1078,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-21_la_festa_delle_fate_a_garda",
+    "title": "La Festa delle fate a Garda",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-delle-fate-garda-19-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-21__turris_antiqua_a_torri_del_benaco",
     "title": "\"Turris Antiqua\" a Torri del Benaco",
     "date": "2026-06-21",
@@ -1059,34 +1101,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/turris-antiqua-mostra-arte-mercato-13-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-21_fumane_in_festa",
-    "title": "Fumane in festa",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fumane-in-festa-18-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-21_gli_scatti_della_veronesit_in_mostra_a_p",
-    "title": "Gli scatti della \"veronesità\" in mostra a Porta Palio",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/veronensis-mostra-fotografia-11-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1173,20 +1187,6 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-29__musica_in_piazza_a_malcesine",
-    "title": "\"Musica in Piazza\" a Malcesine",
-    "date": "2026-06-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/musica-in-piazza-malcesine-concerti-1-29-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1386,20 +1386,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1411,6 +1397,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
