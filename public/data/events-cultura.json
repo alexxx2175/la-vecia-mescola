@@ -420,6 +420,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-17_una_settimana_ricca_di_eventi_al_mura_fe",
+    "title": "Una settimana ricca di eventi al Mura Festival",
+    "date": "2026-06-17",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/weekend-mura-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/weekend-mura-festival-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-18__i_tre_porcellini_",
     "title": "\"I tre porcellini\"",
     "date": "2026-06-18",
@@ -448,6 +462,48 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-18_festa_a_castel_d_azzano_al_parco_delle_r",
+    "title": "Festa a Castel d’Azzano al parco delle Risorgive",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-a-castel-dazzano-nel-bellissimo-parco-delle-risorgive/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/azzano-live-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-18_aperitivi_con_le_donne_del_vino_al_caff_",
+    "title": "Aperitivi con le donne del vino al Caffè Dante Bistrot di Verona",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/aperitivi-donne-vino-caffe-dante-bistrot-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/aperitivi-donne-vino-giugno-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-18_estate_ad_affi",
+    "title": "Estate ad Affi",
+    "date": "2026-06-18",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/estate-ad-affi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/estate-ad-affi-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-18_i_tre_porcellini_a_forte_gisella",
     "title": "I tre porcellini a Forte Gisella",
     "date": "2026-06-18",
@@ -473,6 +529,20 @@
     "url": "https://www.cittadiverona.it/eventi/macbeth-atto-di-sangue/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/MACBETH-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-19__musica_sull_acqua_a_corte_dogana",
+    "title": "\"Musica sull’acqua\" a Corte Dogana",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/musica-acqua-corte-dogana-17-19-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -518,6 +588,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-19_55a_edizione_della_sagra_della_croce_bia",
+    "title": "55a edizione della Sagra della Croce Bianca",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-della-croce-bianca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/sagra-croce-bianca-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-19_sagra_del_luogo_comune",
     "title": "Sagra del Luogo Comune",
     "date": "2026-06-19",
@@ -529,6 +613,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-del-luogo-comune/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Sagra-del-luogo-comune-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-19_sagra_di_san_giovanni_battista_a_oppeano",
+    "title": "Sagra di San Giovanni Battista a Oppeano",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-giovanni-battista-a-oppeano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-san-giovanni-battista-oppeano-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -602,6 +700,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-20_sagra_del_patrono_a_san_pietro_in_carian",
+    "title": "Sagra del Patrono a San Pietro in Cariano",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-del-patrono-a-san-pietro-in-cariano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/sagra-patrono-san-pietro-in-cariano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-20_la_bella_addormentata_del_balletto_di_ve",
     "title": "La Bella Addormentata del Balletto di Verona",
     "date": "2026-06-20",
@@ -655,6 +767,34 @@
     "url": "https://www.veronasera.it/eventi/solstizio-eestate-piloton-21-giugno-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/39186359186148/locandina-solstizio-2026.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_murasana_yoga_day",
+    "title": "MurAsana Yoga Day",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/murasana-yoga-day-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_bolca_eco_trail",
+    "title": "Bolca Eco Trail",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bolca-eco-trail-corsa-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -723,6 +863,48 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/parole-sull-acqua-bardolino-19-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_la_verona_sotterranea_e_gli_altri_appunt",
+    "title": "La Verona sotterranea e gli altri appuntamenti archeologici del weekend",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-archeologia-verona-sotterranea-19-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21__vales_bier_fest_",
+    "title": "“Vales Bier Fest”",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/vales-bier-fest-18-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_sagra_di_san_giovanni_battista_al_castel",
+    "title": "Sagra di San Giovanni Battista al Castello di San Giovanni Ilarione",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-san-giovanni-battista-19-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -798,6 +980,48 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-21_murasana_yoga_day_2026",
+    "title": "MurAsana Yoga Day 2026",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/murasana/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/murasana-yoga-day-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-21_decima_edizione_del_palio_degli_gnocchi_",
+    "title": "Decima edizione del Palio degli gnocchi della Lessinia",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/palio-degli-gnocchi-della-lessinia/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/palio-gnocchi-lessinia-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-21__nonne_squillo_nel_cortile_di_sant_eufem",
+    "title": "“Nonne squillo” nel cortile di Sant’Eufemia",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/nonne-squillo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Nonne-squillo-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-23__predator_live_performance_di_caterina_n",
     "title": "\"Predator\" - Live performance di Caterina Notte a Fondazione Meriggio",
     "date": "2026-06-23",
@@ -807,6 +1031,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/predator-live-performance-caterina-notte-23-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-23_corso_collana_uncinetto_e_cristalli",
+    "title": "Corso: collana uncinetto e cristalli",
+    "date": "2026-06-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/corso-collana-uncinetto-cristalli-23-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,6 +1120,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-25_english_conversation_night_with_inlingua",
+    "title": "English conversation night with inlingua Verona",
+    "date": "2026-06-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/english-conversation-night-inlingua-verona-25-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-25__pippi_calzelunghe_",
+    "title": "\"Pippi Calzelunghe\"",
+    "date": "2026-06-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/pippi-calzelunghe-fondazione-aida-25-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-25_le_vicende_di_pippi_calzelunghe_a_forte_",
     "title": "Le vicende di Pippi Calzelunghe a Forte Gisella",
     "date": "2026-06-25",
@@ -924,6 +1190,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-27_giornata_delle_arti_2026_piccoli_filosof",
+    "title": "Giornata delle Arti 2026 Piccoli filosofi e giovani scienziati",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giornata-internazionale-delle-arti/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/GIORNATA-DELLE-ARTI-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-27__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
     "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
     "date": "2026-06-27",
@@ -949,20 +1229,6 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-29__musica_in_piazza_a_malcesine",
-    "title": "\"Musica in Piazza\" a Malcesine",
-    "date": "2026-06-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/musica-in-piazza-malcesine-concerti-1-29-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1162,17 +1428,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "id": "cittadiverona_2026-07-14__il_ventaglio_di_carlo_goldoni_al_cortil",
+    "title": "“Il Ventaglio” di Carlo Goldoni al Cortile Montanari",
     "date": "2026-07-14",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1187,6 +1453,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1414,20 +1694,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
     "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
     "date": "2026-09-20",
@@ -1596,6 +1862,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
+    "title": "“Il ragazzo della via Gluck – Omaggio ad Adriano Celentano”",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/il-ragazzo-della-via-gluck-omaggio-adriano-celentano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/il-ragazzo-della-via-gluck-adriano-celentano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-20_verona_mineral_show",
     "title": "Verona Mineral Show",
     "date": "2026-11-20",
@@ -1622,20 +1902,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2027-04-22_giordana_angi_al_teatro_nuovo_di_verona",
