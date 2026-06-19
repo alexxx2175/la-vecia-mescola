@@ -434,20 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-18__i_tre_porcellini_",
-    "title": "\"I tre porcellini\"",
-    "date": "2026-06-18",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/i-tre-porcellini-fondazione-aida-18-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-18_fumane_in_festa_2026",
     "title": "Fumane in festa 2026",
     "date": "2026-06-18",
@@ -476,20 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-18_aperitivi_con_le_donne_del_vino_al_caff_",
-    "title": "Aperitivi con le donne del vino al Caffè Dante Bistrot di Verona",
-    "date": "2026-06-18",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/aperitivi-donne-vino-caffe-dante-bistrot-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/aperitivi-donne-vino-giugno-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-18_estate_ad_affi",
     "title": "Estate ad Affi",
     "date": "2026-06-18",
@@ -501,20 +473,6 @@
     "url": "https://www.cittadiverona.it/eventi/estate-ad-affi/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/estate-ad-affi-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-18_i_tre_porcellini_a_forte_gisella",
-    "title": "I tre porcellini a Forte Gisella",
-    "date": "2026-06-18",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/i-tre-porcellini-a-forte-gisella/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/07/i-tre-porcellini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -560,20 +518,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-19_festa_delle_fate_a_garda",
-    "title": "Festa delle Fate a Garda",
-    "date": "2026-06-19",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-delle-fate-a-garda/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/la-festa-delle-fate-2026-garda-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-19_mostra_provinciale_la_ciliegia_d_oro_a_t",
     "title": "Mostra provinciale “La Ciliegia d’Oro” a Tregnago",
     "date": "2026-06-19",
@@ -599,6 +543,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-della-croce-bianca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/sagra-croce-bianca-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-19_festa_delle_fate_a_garda",
+    "title": "Festa delle Fate a Garda",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-delle-fate-a-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/la-festa-delle-fate-2026-garda-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -728,6 +686,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-20_musica_e_spettacoli_al_parco_san_giacomo",
+    "title": "Musica e spettacoli al Parco San Giacomo",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-20__notte_in_rosa_a_bovolone",
+    "title": "“Notte in rosa” a Bovolone",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/notte-in-rosa-bovolone/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/notte-in-rosa-bovolone-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-21_solstizio_d_estate_alla_fontana_del_ferr",
     "title": "Solstizio d'Estate alla Fontana del Ferro",
     "date": "2026-06-21",
@@ -770,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-21_palio_degli_gnocchi_della_lessinia",
+    "title": "Palio degli Gnocchi della Lessinia",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/palio-gnocchi-lessinia-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-21_murasana_yoga_day",
     "title": "MurAsana Yoga Day",
     "date": "2026-06-21",
@@ -779,6 +779,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/murasana-yoga-day-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21__mozart_al_tramonto_a_villa_san_vigilio",
+    "title": "“Mozart al tramonto” a Villa San Vigilio",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mozart-tramonto-concerto-villa-san-vigilio-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -854,6 +868,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-21_sagra_di_san_giovanni_battista_al_castel",
+    "title": "Sagra di San Giovanni Battista al Castello di San Giovanni Ilarione",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-san-giovanni-battista-19-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-21_a_bardolino_torna_parole_sull_acqua_",
     "title": "A Bardolino torna \"Parole sull’Acqua\"",
     "date": "2026-06-21",
@@ -896,20 +924,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-21_sagra_di_san_giovanni_battista_al_castel",
-    "title": "Sagra di San Giovanni Battista al Castello di San Giovanni Ilarione",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-san-giovanni-battista-19-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-21_la_festa_delle_fate_a_garda",
     "title": "La Festa delle fate a Garda",
     "date": "2026-06-21",
@@ -947,20 +961,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/fumane-in-festa-18-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-21_gli_scatti_della_veronesit_in_mostra_a_p",
-    "title": "Gli scatti della \"veronesità\" in mostra a Porta Palio",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/veronensis-mostra-fotografia-11-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1064,20 +1064,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-24_far_fil_raccontarsi_e_scrivere_insieme_o",
-    "title": "Far filò – Raccontarsi e scrivere insieme (over 60)",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/far-filo-raccontarsi-scrivere-insieme-over-60-24-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-24_wine_picnic_live_music",
     "title": "Wine picnic & live music",
     "date": "2026-06-24",
@@ -1087,6 +1073,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/wine-picnic-live-music-24-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-24_far_fil_raccontarsi_e_scrivere_insieme_o",
+    "title": "Far filò – Raccontarsi e scrivere insieme (over 60)",
+    "date": "2026-06-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/far-filo-raccontarsi-scrivere-insieme-over-60-24-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1117,6 +1117,20 @@
     "url": "https://www.cittadiverona.it/eventi/wine-picnic-live-music-masi-tenuta-canova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Wine-Picnic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-24_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
+    "date": "2026-06-24",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1159,6 +1173,34 @@
     "url": "https://www.cittadiverona.it/eventi/le-vicende-di-pippi-calzelunghe-a-forte-gisella/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2020/07/pippi-calzelunghe-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-26__il_valore_di_esserci_contro_la_violenza",
+    "title": "\"Il valore di esserci, contro la violenza di genere\"",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/valore-esserci-contro-violenza-genere-roberta-bruzzone-26-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-26_aperitivo_in_vigna_",
+    "title": "Aperitivo in vigna!",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivo-in-vigna-26-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
