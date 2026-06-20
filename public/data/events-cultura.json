@@ -490,20 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-19__musica_sull_acqua_a_corte_dogana",
-    "title": "\"Musica sull’acqua\" a Corte Dogana",
-    "date": "2026-06-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/musica-acqua-corte-dogana-17-19-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-19_castelnuovo_del_garda_celebra_i_160_anni",
     "title": "Castelnuovo del Garda celebra i 160 anni della Bandiera di Oliosi",
     "date": "2026-06-19",
@@ -616,20 +602,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-20_visita_guidata_alla_casa_museo_miniscalc",
-    "title": "Visita guidata alla Casa Museo MiniscalchiEerizzo e alla mostra \"Una principessa a palazzo. Marianna Erizzo\"",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-20-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-20_forest_bathing_in_lessinia",
     "title": "Forest bathing in Lessinia",
     "date": "2026-06-20",
@@ -639,6 +611,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/forest-bathing-lessinia-20-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-20_visita_guidata_alla_casa_museo_miniscalc",
+    "title": "Visita guidata alla Casa Museo MiniscalchiEerizzo e alla mostra \"Una principessa a palazzo. Marianna Erizzo\"",
+    "date": "2026-06-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-20-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -714,6 +700,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-21_palio_degli_gnocchi_della_lessinia",
+    "title": "Palio degli Gnocchi della Lessinia",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/palio-gnocchi-lessinia-21-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/67568979638108/locandina-2026-palio-degli-gnocchi-della-lessinia.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-21_solstizio_d_estate_alla_fontana_del_ferr",
     "title": "Solstizio d'Estate alla Fontana del Ferro",
     "date": "2026-06-21",
@@ -732,13 +732,13 @@
     "title": "“Squaranta!”, mostra dei sapori, delle tradizioni e delle eccellenze della Val Squaranto",
     "date": "2026-06-21",
     "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/squaranta-festa-mostra-sapori-val-squaranto-20-21-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/28617536696212/locandina-squaranta-2026.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -746,25 +746,11 @@
     "title": "Solstizio d’estate al Piloton",
     "date": "2026-06-21",
     "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/solstizio-eestate-piloton-21-giugno-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/39186359186148/locandina-solstizio-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-21_palio_degli_gnocchi_della_lessinia",
-    "title": "Palio degli Gnocchi della Lessinia",
-    "date": "2026-06-21",
-    "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/palio-gnocchi-lessinia-21-giugno-2026.html",
+    "url": "https://www.veronasera.it/eventi/solstizio-eestate-piloton-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -933,34 +919,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-delle-fate-garda-19-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-21__turris_antiqua_a_torri_del_benaco",
-    "title": "\"Turris Antiqua\" a Torri del Benaco",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/turris-antiqua-mostra-arte-mercato-13-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-21_fumane_in_festa",
-    "title": "Fumane in festa",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fumane-in-festa-18-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1232,6 +1190,90 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-27_contaminazioni_musicali_il_p_a_f_trio_in",
+    "title": "Contaminazioni Musicali: il P.A.F Trio in concerto al Teatro Romano",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paf-trio-concerto-teatro-romano-27-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/48267170078102/paf-trio-2004-foto-raffaella-cavalieri-iguana-press-via-ufficio-stampa-comunicazione-eventi-verona.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-06-27_ventidue_musicisti_e_una_sola_missione_a",
+    "title": "Ventidue musicisti e una sola missione a Bussolengo: riportare in vita l'universo sonoro di Hans Zimmer",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/hans-zimmer-live-show-concerto-27-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-27_visita_guidata_a_verona_sotto_sottoriva_",
+    "title": "Visita guidata a Verona: \"Sotto...Sottoriva\"",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-sotto-sottoriva-27-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-27_open_day_scuola_calcio_a_s_d_polisportiv",
+    "title": "Open day scuola calcio A.s.d. Polisportiva la Vetta",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/open-day-scuola-calcio-a-s-d-polisportiva-la-vetta-27-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-27__viaggio_al_centro_della_terra_",
+    "title": "\"Viaggio al centro della Terra\"",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/viaggio-al-centro-della-terra-27-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-27__un_solo_suono_sotto_la_luna_piena_",
+    "title": "\"Un solo suono sotto la luna piena\"",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/un-solo-suono-sotto-la-luna-piena-27-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-27_giornata_delle_arti_2026_piccoli_filosof",
     "title": "Giornata delle Arti 2026 Piccoli filosofi e giovani scienziati",
     "date": "2026-06-27",
@@ -1260,6 +1302,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-28_sagra_di_san_pietro_e_paolo_a_corso_di_g",
+    "title": "Sagra di San Pietro e Paolo a Corso di Grezzana",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-san-pietro-paolo-corso-grezzana-26-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-28_mercatino_antiquariato_a_valeggio_sul_mi",
     "title": "Mercatino antiquariato a Valeggio sul Mincio",
     "date": "2026-06-28",
@@ -1271,6 +1327,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-29_la_sagra_del_luogo_comune",
+    "title": "La Sagra del luogo comune",
+    "date": "2026-06-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-luogo-comune-negrar-19-29-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1624,20 +1694,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-02_musica_spettacoli_sport_e_socialit_il_mu",
-    "title": "Musica, spettacoli, sport e socialità: il Mura Festival a Verona",
-    "date": "2026-08-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mura-festival-spettacoli-concerti-festa-28-maggio-2-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-06__i_viaggi_di_sindbad_il_marinaio_a_forte",
     "title": "“I viaggi di Sindbad il marinaio” a Forte Gisella",
     "date": "2026-08-06",
@@ -1731,20 +1787,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1848,20 +1890,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-10-15_service_day",
     "title": "Service Day",
     "date": "2026-10-15",
@@ -1888,20 +1916,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
