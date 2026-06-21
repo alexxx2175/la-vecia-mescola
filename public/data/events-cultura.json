@@ -406,20 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-10_commedia_divertente_mi_sposo_mohamed_al_",
-    "title": "Commedia divertente “Mi sposo Mohamed” al Chiostro di Sant’Eufemia",
-    "date": "2026-06-10",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/commedia-divertente-mi-sposo-mohamed/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Mi-sposo-Mohamed-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-17_una_settimana_ricca_di_eventi_al_mura_fe",
     "title": "Una settimana ricca di eventi al Mura Festival",
     "date": "2026-06-17",
@@ -504,20 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-19_mostra_provinciale_la_ciliegia_d_oro_a_t",
-    "title": "Mostra provinciale “La Ciliegia d’Oro” a Tregnago",
-    "date": "2026-06-19",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-provinciale-la-ciliegia-doro/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/mostra-ciliegia-oro-tregnago-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-19_55a_edizione_della_sagra_della_croce_bia",
     "title": "55a edizione della Sagra della Croce Bianca",
     "date": "2026-06-19",
@@ -529,6 +501,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-della-croce-bianca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/sagra-croce-bianca-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-19_mostra_provinciale_la_ciliegia_d_oro_a_t",
+    "title": "Mostra provinciale “La Ciliegia d’Oro” a Tregnago",
+    "date": "2026-06-19",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mostra-provinciale-la-ciliegia-doro/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/mostra-ciliegia-oro-tregnago-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -546,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-19_sagra_del_luogo_comune",
-    "title": "Sagra del Luogo Comune",
-    "date": "2026-06-19",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-del-luogo-comune/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Sagra-del-luogo-comune-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-19_sagra_di_san_giovanni_battista_a_oppeano",
     "title": "Sagra di San Giovanni Battista a Oppeano",
     "date": "2026-06-19",
@@ -574,76 +546,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-20_la_notte_rosa_a_bovolone",
-    "title": "La Notte Rosa a Bovolone",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notte-rosa-festa-bovolone-20-giugno-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/39112136683156/locandina-notte-rosa-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-20_escursioni_a_malga_zocchi_monte_baldo",
-    "title": "Escursioni a Malga Zocchi-Monte Baldo",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/escursioni-malga-zocchi-monte-baldo-20-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-20_forest_bathing_in_lessinia",
-    "title": "Forest bathing in Lessinia",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/forest-bathing-lessinia-20-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-20_visita_guidata_alla_casa_museo_miniscalc",
-    "title": "Visita guidata alla Casa Museo MiniscalchiEerizzo e alla mostra \"Una principessa a palazzo. Marianna Erizzo\"",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-20-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-20_visita_guidata_al_museo_miniscalchi_eriz",
-    "title": "Visita guidata al Museo Miniscalchi-Erizzo e alla mostra “Una principessa a Palazzo”",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Visite guidate",
-    "venue_type": "Visite guidate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/visita-guidata-museo-miniscalchi-erizzo-mostra-una-principessa-a-palazzo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/mostra-una-principessa-a-palazzo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-20_sagra_del_patrono_a_san_pietro_in_carian",
     "title": "Sagra del Patrono a San Pietro in Cariano",
     "date": "2026-06-20",
@@ -655,48 +557,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-del-patrono-a-san-pietro-in-cariano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/sagra-patrono-san-pietro-in-cariano-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-20_la_bella_addormentata_del_balletto_di_ve",
-    "title": "La Bella Addormentata del Balletto di Verona",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/la-bella-addormentata-balletto-a-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/06/la-bella-addormentata-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-20_musica_e_spettacoli_al_parco_san_giacomo",
-    "title": "Musica e spettacoli al Parco San Giacomo",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-20__notte_in_rosa_a_bovolone",
-    "title": "“Notte in rosa” a Bovolone",
-    "date": "2026-06-20",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/notte-in-rosa-bovolone/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/notte-in-rosa-bovolone-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -732,13 +592,13 @@
     "title": "“Squaranta!”, mostra dei sapori, delle tradizioni e delle eccellenze della Val Squaranto",
     "date": "2026-06-21",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/squaranta-festa-mostra-sapori-val-squaranto-20-21-giugno-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/28617536696212/locandina-squaranta-2026.jpg",
     "category": "cultura"
   },
   {
@@ -882,20 +742,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-21_la_verona_sotterranea_e_gli_altri_appunt",
-    "title": "La Verona sotterranea e gli altri appuntamenti archeologici del weekend",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-archeologia-verona-sotterranea-19-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-21__vales_bier_fest_",
     "title": "“Vales Bier Fest”",
     "date": "2026-06-21",
@@ -910,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-21_la_verona_sotterranea_e_gli_altri_appunt",
+    "title": "La Verona sotterranea e gli altri appuntamenti archeologici del weekend",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-archeologia-verona-sotterranea-19-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-21_la_festa_delle_fate_a_garda",
     "title": "La Festa delle fate a Garda",
     "date": "2026-06-21",
@@ -919,6 +779,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-delle-fate-garda-19-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21__turris_antiqua_a_torri_del_benaco",
+    "title": "\"Turris Antiqua\" a Torri del Benaco",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/turris-antiqua-mostra-arte-mercato-13-21-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-21_quattro_giorni_dedicati_al_barbecue_amer",
+    "title": "Quattro giorni dedicati al barbecue americano a Peschiera del Garda",
+    "date": "2026-06-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-bbq-barbecue-peschiera-18-21-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1302,6 +1190,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-28_calaluna_porta_de_andr_a_villa_spinola",
+    "title": "Calaluna porta De André a Villa Spinola",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/calaluna-concerto-omaggio-de-andre-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28__she_moved_through_the_fair_",
+    "title": "\"She moved through the fair\"",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/she-moved-through-the-fair-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-28_sagra_di_san_pietro_e_paolo_a_corso_di_g",
     "title": "Sagra di San Pietro e Paolo a Corso di Grezzana",
     "date": "2026-06-28",
@@ -1327,20 +1243,6 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-29_la_sagra_del_luogo_comune",
-    "title": "La Sagra del luogo comune",
-    "date": "2026-06-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-luogo-comune-negrar-19-29-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1554,20 +1456,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1579,6 +1467,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1916,6 +1818,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
+    "title": "\"Soffitte in piazza\" a Verona",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
