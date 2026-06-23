@@ -448,20 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-19_mostra_provinciale_la_ciliegia_d_oro_a_t",
-    "title": "Mostra provinciale “La Ciliegia d’Oro” a Tregnago",
-    "date": "2026-06-19",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-provinciale-la-ciliegia-doro/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/mostra-ciliegia-oro-tregnago-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-19_sagra_di_san_giovanni_battista_a_oppeano",
     "title": "Sagra di San Giovanni Battista a Oppeano",
     "date": "2026-06-19",
@@ -504,31 +490,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-22_festa_e_mostra_della_ciliegia_d_oro_2026",
-    "title": "Festa e Mostra della “Ciliegia d’Oro 2026”",
-    "date": "2026-06-22",
+    "id": "veronasera_2026-06-23__predator_live_performance_di_caterina_n",
+    "title": "\"Predator\" - Live performance di Caterina Notte a Fondazione Meriggio",
+    "date": "2026-06-23",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-mostra-ciliegia-oro-19-22-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-23__predator_live_performance_di_caterina_n",
-    "title": "\"Predator\" - Live performance di Caterina Notte a Fondazione Meriggio",
-    "date": "2026-06-23",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/predator-live-performance-caterina-notte-23-giugno-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/26268312196047/visita-alla-favolosa-villa-meriggio-e-alla-sua-splendida-collezione-d-arte-2.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -728,6 +700,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-26_malcesine_summer_fest",
+    "title": "Malcesine Summer Fest",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/malcesine-summer-fest/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/malcesine-summer-fest-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-26_antica_fiera_dei_santi_pietro_e_paolo_a_",
+    "title": "Antica Fiera dei Santi Pietro e Paolo a Villafranca di Verona",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-dei-santi-pietro-e-paolo-a-villafranca",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/Antica-Fiera-dei-santi-Pietro-e-Paolo-Villafranca-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-26_tre_serate_di_musica_e_stand_gastronomic",
     "title": "Tre serate di musica e stand gastronomici per la sagra di Bosco Chiesanuova",
     "date": "2026-06-26",
@@ -739,6 +739,20 @@
     "url": "https://www.cittadiverona.it/eventi/tre-serate-di-musica-e-stand-gastronomici-per-la-sagra-di-bosco-chiesanuova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-bosco-chiesanuova-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-26_antica_sagra_del_susino_a_san_pierin_di_",
+    "title": "Antica sagra del Susino a San Pierin di Bovolone",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-del-susino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/antica-sagra-del-susino-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -868,6 +882,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-27_alberto_bertoli_in_concerto_a_villa_veni",
+    "title": "Alberto Bertoli in concerto a Villa Venier",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/alberto-bertoli-concerto-villa-venier/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/alberto-bertoli-concerto-villa-venier-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-28_calaluna_porta_de_andr_a_villa_spinola",
     "title": "Calaluna porta De André a Villa Spinola",
     "date": "2026-06-28",
@@ -966,6 +994,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-30_al_teatro_romano_il_nuovo_tour_di_arisa",
+    "title": "Al Teatro Romano il nuovo tour di Arisa",
+    "date": "2026-06-30",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/arisa-concerto-teatro-romano-30-giugno-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/51914330501105/locandina-concerto-arisa-teatro-romano-2026.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-06-30_crea_la_tua_cintura_in_macram_",
+    "title": "Crea la tua cintura in macramè",
+    "date": "2026-06-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/crea-cintura-macrame-30-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-30_calendario_di_musica_live_a_verona_e_pro",
     "title": "Calendario di musica live a Verona e provincia",
     "date": "2026-06-30",
@@ -991,6 +1047,20 @@
     "url": "https://www.cittadiverona.it/eventi/arisa-al-teatro-romano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/06/arisa-teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-01__opera_sotto_le_stelle_a_san_bonifacio",
+    "title": "“Opera sotto le stelle” a San Bonifacio",
+    "date": "2026-07-01",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/opera-sotto-stelle-san-bonifacio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/opera-sotto-le-stelle-san-bonifacio-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1022,6 +1092,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-03_decima_edizione_corteggiando_in_valdadig",
+    "title": "Decima edizione “Corteggiando in Valdadige”",
+    "date": "2026-07-03",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/corteggiando-in-valdadige/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/corteggiando-in-valdadige-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-03_gianluca_gotto_al_castello_scaligero_di_",
     "title": "Gianluca Gotto al Castello Scaligero di Villafranca",
     "date": "2026-07-03",
@@ -1047,6 +1131,20 @@
     "url": "https://www.cittadiverona.it/eventi/tour-estivo-niccolo-fabi-teatro-romano-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/niccolo_fabi_teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-05__la_luce_e_il_mio_lago_mostra_personale_",
+    "title": "“La luce e il mio lago”, mostra personale di Athos Faccincani a Bardolino",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/la-luce-e-il-mio-lago-mostra-personale-di-athos-faccincani-a-bardolino-dal-20-giugno-al-5-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1400,6 +1498,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-29__e_state_a_sona_musica_teatro_e_divertim",
+    "title": "\"E…state a Sona\": musica, teatro e divertimento in tutte le frazioni",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-06__oro_e_colore_a_malcesine_arrivano_le_op",
     "title": "“Oro e colore”, a Malcesine arrivano le opere di Gustav Klimt",
     "date": "2026-09-06",
@@ -1409,20 +1521,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
