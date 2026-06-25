@@ -448,90 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-24_wine_picnic_live_music",
-    "title": "Wine picnic & live music",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/wine-picnic-live-music-24-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-24_of_new_trolls_a_torri_del_benaco",
-    "title": "Of New Trolls a Torri del Benaco",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/of-new-trolls-concerto-24-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-24_far_fil_raccontarsi_e_scrivere_insieme_o",
-    "title": "Far filò – Raccontarsi e scrivere insieme (over 60)",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/far-filo-raccontarsi-scrivere-insieme-over-60-24-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-24__dialoghi_tra_donne_",
-    "title": "\"Dialoghi tra donne\"",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dialoghi-tra-donne-centerwithoutcentre-24-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-24_wine_picnic_e_live_music_a_masi_tenuta_c",
-    "title": "Wine Picnic e live music a Masi Tenuta Canova",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wine-picnic-live-music-masi-tenuta-canova/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Wine-Picnic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-24_rassegna_culturale_e_state_a_sona_",
-    "title": "Rassegna culturale “E… State a Sona”",
-    "date": "2026-06-24",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-06-25_l_artista_italo_palestinese_t_auml_ra_in",
     "title": "L'artista italo-palestinese T&auml;ra in concerto al Mura Festival",
     "date": "2026-06-25",
@@ -588,6 +504,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-25__halfway_wild_porta_la_musica_elettronic",
+    "title": "“Halfway Wild” porta la musica elettronica e la club culture al Tennis Torricelle",
+    "date": "2026-06-25",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/halfway-wild-porta-musica-elettronica-club-culture-tennis-torricelle/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/HALFWAY-WILD-tonno-club-torricelle-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-25_sesta_edizione_del_festival_gambe_all_ar",
     "title": "Sesta edizione del Festival Gambe all’Aria",
     "date": "2026-06-25",
@@ -599,6 +529,20 @@
     "url": "https://www.cittadiverona.it/eventi/festival-gambe-allaria/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festival-Gambe-All-aria-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-25__teatro_in_corte_nel_borgo_medievale_di_",
+    "title": "“Teatro in Corte” nel borgo medievale di Affi",
+    "date": "2026-06-25",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/teatro-corte-borgo-medievale-affi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/teatro-in-corte-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,6 +602,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-26_english_guided_tour_to_the_miniscalchi_e",
+    "title": "English guided tour to the Miniscalchi-Erizzo Museum and to the temporary exhibition",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/english-guided-tour-miniscalchi-erizzo-museum-26-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-26_malcesine_summer_fest",
     "title": "Malcesine Summer Fest",
     "date": "2026-06-26",
@@ -669,6 +627,20 @@
     "url": "https://www.cittadiverona.it/eventi/malcesine-summer-fest/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/malcesine-summer-fest-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-26_presentazione_del_nuovo_libro_di_filippo",
+    "title": "Presentazione del nuovo libro di Filippo Ferba “Arabel&Aster – Fuga in Egitto”",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/presentazione-nuovo-libro-filippo-ferba-arabelaster-fuga-in-egitto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/arabel-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -700,17 +672,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-26_antica_sagra_del_susino_a_san_pierin_di_",
-    "title": "Antica sagra del Susino a San Pierin di Bovolone",
+    "id": "cittadiverona_2026-06-26_il_festival_urban_orbit_trasforma_verona",
+    "title": "Il festival “Urban orbit” trasforma Verona in un palcoscenico diffuso a cielo aperto",
     "date": "2026-06-26",
     "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-sagra-del-susino/",
+    "url": "https://www.cittadiverona.it/eventi/festival-urban-orbit-trasforma-verona-palcoscenico-diffuso-cielo-aperto/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/antica-sagra-del-susino-2026-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/urban-orbit-street-theatre-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -725,6 +697,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-san-pietro-e-paolo-a-corso-di-grezzana/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-di-san-pietro-e-paolo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-06-26_antica_sagra_del_susino_a_san_pierin_di_",
+    "title": "Antica sagra del Susino a San Pierin di Bovolone",
+    "date": "2026-06-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-del-susino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/antica-sagra-del-susino-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -812,6 +798,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-06-27_monia_the_saints_band_in_concerto_allo_s",
+    "title": "Monia & the saints band in concerto allo Stone Rose: serata revival anni '70 e '80",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/monia-the-saints-band-concerto-27-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-06-27__un_solo_suono_sotto_la_luna_piena_",
     "title": "\"Un solo suono sotto la luna piena\"",
     "date": "2026-06-27",
@@ -868,17 +868,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-27_alberto_bertoli_in_concerto_a_villa_veni",
-    "title": "Alberto Bertoli in concerto a Villa Venier",
+    "id": "cittadiverona_2026-06-27__queer_e_ora_oltre_l_orgoglio_al_mura_fe",
+    "title": "“Queer e Ora: Oltre l’Orgoglio” al Mura Festival",
     "date": "2026-06-27",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Feste",
+    "venue_type": "Feste",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/alberto-bertoli-concerto-villa-venier/",
+    "url": "https://www.cittadiverona.it/eventi/queer-e-ora/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/alberto-bertoli-concerto-villa-venier-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Queer-e-Ora-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -896,6 +896,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-06-27_alberto_bertoli_in_concerto_a_villa_veni",
+    "title": "Alberto Bertoli in concerto a Villa Venier",
+    "date": "2026-06-27",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/alberto-bertoli-concerto-villa-venier/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/alberto-bertoli-concerto-villa-venier-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-06-27_p_a_f_trio_al_teatro_romano_di_verona",
     "title": "P.A.F. Trio al Teatro Romano di Verona",
     "date": "2026-06-27",
@@ -907,6 +921,48 @@
     "url": "https://www.cittadiverona.it/eventi/p-a-f-trio-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/P.A.F.-TRIO-teatro-romano-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28_mercato_antiquariato_e_modernariato_vale",
+    "title": "Mercato Antiquariato e modernariato Valeggio sul Mincio",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mercato-antiquariato-modernariato-valeggio-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28_festival_dei_colori_e_aquiloni_a_torri_d",
+    "title": "Festival dei Colori e Aquiloni a Torri del Benaco",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festival-colori-aquiloni-torri-benaco-27-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28_visita_guidata_alla_casa_museo_miniscalc",
+    "title": "Visita guidata alla Casa Museo Miniscalchi-Erizzo e alla mostra temporanea",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -933,6 +989,48 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/she-moved-through-the-fair-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28_sagra_di_bosco_chiesanuova",
+    "title": "Sagra di Bosco Chiesanuova",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-bosco-chiesanuova-26-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28_malcesine_summer_fest",
+    "title": "Malcesine Summer Fest",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/malcesine-summer-fest-26-28-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-06-28_festa_della_birra_ad_albar_di_costermano",
+    "title": "Festa della Birra ad Albarè di Costermano sul Garda",
+    "date": "2026-06-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-birra-albare-26-28-giugno-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -980,20 +1078,6 @@
     "category": "concerti_pop"
   },
   {
-    "id": "veronasera_2026-06-29__musica_in_piazza_a_malcesine",
-    "title": "\"Musica in Piazza\" a Malcesine",
-    "date": "2026-06-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/musica-in-piazza-malcesine-concerti-1-29-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-29_un_mese_di_teatro_e_proiezioni_a_la_cort",
     "title": "Un mese di teatro e proiezioni a “La corte dell’Astra”",
     "date": "2026-06-29",
@@ -1034,6 +1118,20 @@
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/51914330501105/locandina-concerto-arisa-teatro-romano-2026.jpg",
     "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-06-30_escursione_nella_natura_luna_piena_al_mo",
+    "title": "Escursione nella natura: \"Luna piena al Monte Torla\"",
+    "date": "2026-06-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/luna-piena-monte-torla-viandanti-diversi-30-giugno-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-06-30_crea_la_tua_cintura_in_macram_",
@@ -1092,6 +1190,20 @@
     "category": "concerti_pop"
   },
   {
+    "id": "cittadiverona_2026-07-01_terza_edizione_del_festival_diffuso_smar",
+    "title": "Terza edizione del Festival Diffuso “SMart”",
+    "date": "2026-07-01",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-01__opera_sotto_le_stelle_a_san_bonifacio",
     "title": "“Opera sotto le stelle” a San Bonifacio",
     "date": "2026-07-01",
@@ -1106,17 +1218,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-01_terza_edizione_del_festival_diffuso_smar",
-    "title": "Terza edizione del Festival Diffuso “SMart”",
-    "date": "2026-07-01",
+    "id": "veronasera_2026-07-02__il_principe_felice_",
+    "title": "\"Il principe felice\"",
+    "date": "2026-07-02",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/il-principe-felice-fondazione-aida-2-luglio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1176,6 +1288,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-04_a_bardolino_arriva_la_notte_gialla_con_e",
+    "title": "A Bardolino arriva la “Notte gialla” con eccellenze a km zero, gastronomia e musica live",
+    "date": "2026-07-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/a-bardolino-arriva-notte-gialla-eccellenze-km-zero-gastronomia-musica-live/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/notte-gialla-bardolino-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-04_il_tour_estivo_di_niccol_fabi_approda_al",
     "title": "Il tour estivo di Niccolò Fabi approda al Teatro Romano di Verona",
     "date": "2026-07-04",
@@ -1187,20 +1313,6 @@
     "url": "https://www.cittadiverona.it/eventi/tour-estivo-niccolo-fabi-teatro-romano-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/niccolo_fabi_teatro-romano-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-05__la_luce_e_il_mio_lago_mostra_personale_",
-    "title": "“La luce e il mio lago”, mostra personale di Athos Faccincani a Bardolino",
-    "date": "2026-07-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-luce-e-il-mio-lago-mostra-personale-di-athos-faccincani-a-bardolino-dal-20-giugno-al-5-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1257,6 +1369,20 @@
     "url": "https://www.cittadiverona.it/eventi/sigfrido-ranucci-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/sigfrido-ranucci-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-10_festa_di_santa_toscana_al_parco_della_pr",
+    "title": "Festa di Santa Toscana al Parco della Provianda",
+    "date": "2026-07-10",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-santa-toscana-parco-della-provianda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/festa-di-santa-toscana-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1551,20 +1677,6 @@
     "url": "https://www.cittadiverona.it/eventi/giovanni-caccamo-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giovanni-Caccamo-Verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-29__e_state_a_sona_musica_teatro_e_divertim",
-    "title": "\"E…state a Sona\": musica, teatro e divertimento in tutte le frazioni",
-    "date": "2026-08-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
