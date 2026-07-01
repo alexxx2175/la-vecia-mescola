@@ -392,20 +392,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-26_antica_sagra_del_susino_a_san_pierin_di_",
-    "title": "Antica sagra del Susino a San Pierin di Bovolone",
-    "date": "2026-06-26",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-sagra-del-susino/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/antica-sagra-del-susino-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-28_commedia_musicale_in_due_atti_quel_2_giu",
     "title": "Commedia musicale in due atti “Quel 2 giugno del ’46” al Chiostro di Santa Maria in Organo",
     "date": "2026-06-28",
@@ -448,76 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-30_al_teatro_romano_il_nuovo_tour_di_arisa",
-    "title": "Al Teatro Romano il nuovo tour di Arisa",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/arisa-concerto-teatro-romano-30-giugno-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/51914330501105/locandina-concerto-arisa-teatro-romano-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-06-30_escursione_nella_natura_luna_piena_al_mo",
-    "title": "Escursione nella natura: \"Luna piena al Monte Torla\"",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/luna-piena-monte-torla-viandanti-diversi-30-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-30_crea_la_tua_cintura_in_macram_",
-    "title": "Crea la tua cintura in macramè",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/crea-cintura-macrame-30-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-06-30_antica_sagra_del_susino",
-    "title": "Antica Sagra del Susino",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/antica-sagra-susino-26-30-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-06-30_calendario_di_musica_live_a_verona_e_pro",
-    "title": "Calendario di musica live a Verona e provincia",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-30__il_medico_per_forza_di_moli_re_al_chios",
     "title": "“Il medico per forza” di Molière al chiostro di Sant’Eufemia",
     "date": "2026-06-30",
@@ -532,32 +448,18 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-30_arisa_al_teatro_romano_di_verona",
-    "title": "Arisa al Teatro Romano di Verona",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/arisa-al-teatro-romano/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/06/arisa-teatro-romano-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-01_i_nomadi_in_concerto_a_verona",
     "title": "I Nomadi in concerto a Verona",
     "date": "2026-07-01",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/nomadi-concerto-teatro-romano-1-luglio-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/59338870445360/locandina-concerto-nomadi-live-2026.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-07-01_a_san_bonifacio_torna_il_festival_profum",
@@ -574,17 +476,31 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-01__opera_sotto_le_stelle_a_san_bonifacio",
-    "title": "“Opera sotto le stelle” a San Bonifacio",
+    "id": "veronasera_2026-07-01_karaoke_live_andfriends_band",
+    "title": "Karaoke live // @andfriends Band",
     "date": "2026-07-01",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-1-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-01_musica_e_spettacoli_al_parco_san_giacomo",
+    "title": "Musica e spettacoli al Parco San Giacomo",
+    "date": "2026-07-01",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/opera-sotto-stelle-san-bonifacio/",
+    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/opera-sotto-le-stelle-san-bonifacio-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -602,17 +518,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-01_musica_e_spettacoli_al_parco_san_giacomo",
-    "title": "Musica e spettacoli al Parco San Giacomo",
+    "id": "cittadiverona_2026-07-01__opera_sotto_le_stelle_a_san_bonifacio",
+    "title": "“Opera sotto le stelle” a San Bonifacio",
     "date": "2026-07-01",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
+    "url": "https://www.cittadiverona.it/eventi/opera-sotto-stelle-san-bonifacio/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/opera-sotto-le-stelle-san-bonifacio-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -798,6 +714,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-04_a_san_pietro_in_cariano_lo_spettacolo_mi",
+    "title": "A San Pietro in Cariano lo spettacolo “Mi sposo Mohamed”",
+    "date": "2026-07-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teatro-mi-sposo-mohamed-4-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-04_tornano_jessy_kole_dance_machine",
+    "title": "Tornano Jessy Kole & Dance Machine",
+    "date": "2026-07-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/jessy-kole-dance-machine-concerto-4-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-04_trekking_naturalistico_aperitivo_in_alpe",
     "title": "Trekking naturalistico & aperitivo in alpeggio",
     "date": "2026-07-04",
@@ -821,6 +765,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/deaf-kaki-chumpy-concerto-4-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-04_speak_and_astro_aperitivo_linguistico_ta",
+    "title": "Speak and Astro | Aperitivo linguistico + talk astrologico + dj-set",
+    "date": "2026-07-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/speak-and-astro-aperitivo-linguistico-4-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,6 +840,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-05__aperipesca_sul_ponte_tra_bussolengo_e_p",
+    "title": "“Aperipesca sul Ponte” tra Bussolengo e Pescantina",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperipesca-sul-ponte-festa-4-5-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-05_festival_dell_handmade_i_nuovi_creativi",
+    "title": "Festival dell' Handmade - I Nuovi Creativi",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festival-dell-handmade-nuovi-creativi-4-5-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-05_corteggiando_in_valdadige_tre_giorni_di_",
     "title": "Corteggiando in Valdadige: tre giorni di festa a Brentino Belluno",
     "date": "2026-07-05",
@@ -891,6 +877,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/corteggiando-valdadige-festa-3-5-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-05_forte_gisella_in_danza",
+    "title": "Forte Gisella in Danza",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/forte-gisella-in-danza-3-5-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1064,6 +1064,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-08_les_farfadais_a_villa_venier",
+    "title": "Les Farfadais a Villa Venier",
+    "date": "2026-07-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/les-farfadais-villa-venier-8-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-08_sigfrido_ranucci_al_castello_scaligero_d",
+    "title": "Sigfrido Ranucci al Castello Scaligero di Villafranca di Verona: “Diario di un trapezista”",
+    "date": "2026-07-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sigfrido-ranucci-castello-scaligero-diario-trapezista-8-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-08_sigfrido_ranucci_al_castello_scaligero_d",
     "title": "Sigfrido Ranucci al Castello Scaligero di Villafranca",
     "date": "2026-07-08",
@@ -1232,6 +1260,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-16__midsummer_sogno_di_un_gioco_di_mezza_es",
+    "title": "“Midsummer. Sogno di un gioco di mezza estate” per l’Estate Teatrale Veronese",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/midsummer-sogno-gioco-mezza-estate/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/midsummer-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-07-17_vinitaly_and_the_city_calabria_in_wine",
     "title": "Vinitaly and the City Calabria in Wine",
     "date": "2026-07-17",
@@ -1358,20 +1400,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-05_smart_festival_diffuso_a_san_martino_buo",
-    "title": "SMart Festival Diffuso a San Martino Buon Albergo",
-    "date": "2026-08-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/smart-festival-diffuso-san-martino-buon-albergo-1-luglio-5-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-06__i_viaggi_di_sindbad_il_marinaio_a_forte",
     "title": "“I viaggi di Sindbad il marinaio” a Forte Gisella",
     "date": "2026-08-06",
@@ -1479,20 +1507,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
