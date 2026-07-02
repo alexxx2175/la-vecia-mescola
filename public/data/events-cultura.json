@@ -448,87 +448,31 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-01_i_nomadi_in_concerto_a_verona",
-    "title": "I Nomadi in concerto a Verona",
+    "id": "cittadiverona_2026-07-01_una_settimana_ricca_di_eventi_al_mura_fe",
+    "title": "Una settimana ricca di eventi al Mura Festival",
     "date": "2026-07-01",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/nomadi-concerto-teatro-romano-1-luglio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/weekend-mura-festival/",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/59338870445360/locandina-concerto-nomadi-live-2026.jpg",
-    "category": "concerti_pop"
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/weekend-mura-festival-600x338.jpg",
+    "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-01_a_san_bonifacio_torna_il_festival_profum",
-    "title": "A San Bonifacio torna il Festival Profumo d’Opera",
-    "date": "2026-07-01",
+    "id": "veronasera_2026-07-02_la_storyville_jazz_band_in_concerto_a_vi",
+    "title": "La Storyville Jazz Band in concerto a Villa Venier",
+    "date": "2026-07-02",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/concerto-festival-profumo-opera-1-luglio-2026.html",
+    "url": "https://www.veronasera.it/eventi/storyville-jazz-band-concerto-villa-venier-2-luglio-2026.html",
     "buy_url": null,
     "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-01_karaoke_live_andfriends_band",
-    "title": "Karaoke live // @andfriends Band",
-    "date": "2026-07-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-1-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-01_musica_e_spettacoli_al_parco_san_giacomo",
-    "title": "Musica e spettacoli al Parco San Giacomo",
-    "date": "2026-07-01",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-01_terza_edizione_del_festival_diffuso_smar",
-    "title": "Terza edizione del Festival Diffuso “SMart”",
-    "date": "2026-07-01",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-01__opera_sotto_le_stelle_a_san_bonifacio",
-    "title": "“Opera sotto le stelle” a San Bonifacio",
-    "date": "2026-07-01",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/opera-sotto-stelle-san-bonifacio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/opera-sotto-le-stelle-san-bonifacio-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -616,6 +560,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-03_debutto_live_per_i_rebel_ages_al_lessini",
+    "title": "Debutto live per i Rebel Ages al Lessinia Beer Fest",
+    "date": "2026-07-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rebel-ages-lessinia-beer-fest-3-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-03__una_razza_in_estinzione_a_bussolegno_l_",
     "title": "\"Una razza in estinzione\": a Bussolegno l'omaggio a Giorgio Gaber che ha girato l'Italia",
     "date": "2026-07-03",
@@ -641,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/corteggiando-in-valdadige/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/corteggiando-in-valdadige-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-03_lido_campanello_street_food",
+    "title": "Lido Campanello Street Food",
+    "date": "2026-07-03",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/lido-campanello-street-food/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Street-food-Campanello-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -812,6 +784,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-04__giulietta_vs_shakespeare_musical_pop_al",
+    "title": "“Giulietta VS Shakespeare, Musical Pop” al Chiostro di Santa Maria in Organo",
+    "date": "2026-07-04",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giulietta-vs-shakespeare-musical-pop/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Giulietta-VS-Shakespeare-musical-pop-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-04_il_tour_estivo_di_niccol_fabi_approda_al",
     "title": "Il tour estivo di Niccolò Fabi approda al Teatro Romano di Verona",
     "date": "2026-07-04",
@@ -823,6 +809,20 @@
     "url": "https://www.cittadiverona.it/eventi/tour-estivo-niccolo-fabi-teatro-romano-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/niccolo_fabi_teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-05_verona_antiquaria_torna_a_san_zeno_tra_v",
+    "title": "Verona Antiquaria torna a San Zeno tra vintage, antiquariato, modernariato e collezionismo",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/verona-antiquaria-san-zeno-mercatino-5-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -896,34 +896,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-05_a_verona_il_festival_paratod_s",
-    "title": "A Verona il Festival Paratod@s",
-    "date": "2026-07-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festival-paratodas-festa-25-giugno-5-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-05__la_luce_e_il_mio_lago_mostra_personale_",
-    "title": "“La luce e il mio lago”, mostra personale di Athos Faccincani a Bardolino",
-    "date": "2026-07-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-luce-e-il-mio-lago-mostra-personale-di-athos-faccincani-a-bardolino-dal-20-giugno-al-5-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-05__romeo_e_giulietta_la_passeggiata_teatra",
     "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
     "date": "2026-07-05",
@@ -975,6 +947,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/simona-molinari-concerto-teatro-romano-6-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-06__somma_park_market_a_villa_venier",
+    "title": "“Somma Park Market” a Villa Venier",
+    "date": "2026-07-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/somma-park-market-festa-5-6-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1103,6 +1089,34 @@
     "url": "https://www.cittadiverona.it/eventi/sigfrido-ranucci-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/sigfrido-ranucci-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-09_i_litfiba_tornano_insieme_per_celebrare_",
+    "title": "I Litfiba tornano insieme per celebrare i quarant'anni del loro miglior disco: “17 Re”, il concerto a Villafranca di Verona",
+    "date": "2026-07-09",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/litfiba-concerto-17-re-villafranca-festival-9-luglio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/14945566629783/locandina-concerto-litfiba-2026-villafranca-di-verona.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-07-09__chicco_di_grano_",
+    "title": "\"Chicco di grano\"",
+    "date": "2026-07-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/chicco-di-grano-fondazione-aida-9-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1330,6 +1344,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
+    "title": "Quarta edizione del Garda Festival",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
     "title": "Fiorella Mannoia a Villafranca di Verona",
     "date": "2026-07-24",
@@ -1481,20 +1509,6 @@
     "url": "https://www.cittadiverona.it/eventi/giovanni-caccamo-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giovanni-Caccamo-Verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-29__e_state_a_sona_musica_teatro_e_divertim",
-    "title": "\"E…state a Sona\": musica, teatro e divertimento in tutte le frazioni",
-    "date": "2026-08-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
