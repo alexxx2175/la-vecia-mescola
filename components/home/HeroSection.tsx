@@ -1,23 +1,20 @@
 "use client";
 
-import Image from "next/image";
 import Link from "next/link";
-import { motion, useScroll, useTransform, AnimatePresence } from "framer-motion";
-import { useRef, useState, useEffect } from "react";
+import { motion, useScroll, useTransform } from "framer-motion";
+import { useRef } from "react";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
 
 const QUAY_EASE = [0.22, 1, 0.36, 1] as const;
 
-const HERO_IMAGES = [
-  "/images/tavola-elegante-rosa-rossa-cristalli-affresco-la-vecia-mescola.jpg",
-  "/images/sala-principale-travi-vista-lampadari-muro-pietra-la-vecia-mescola.jpg",
-];
+const HERO_POSTER =
+  "/images/sala-principale-travi-vista-lampadari-muro-pietra-la-vecia-mescola.jpg";
+const HERO_VIDEO = "/videos/la-vecia-mescola-hero.mp4";
 
 export function HeroSection() {
   const { lang } = useSiteLanguage();
   const ref = useRef<HTMLElement>(null);
-  const [current, setCurrent] = useState(0);
   const { scrollYProgress } = useScroll({
     target: ref,
     offset: ["start start", "end start"],
@@ -25,41 +22,26 @@ export function HeroSection() {
   const scale = useTransform(scrollYProgress, [0, 0.4], [1, 1.08]);
   const y = useTransform(scrollYProgress, [0, 0.5], [0, 60]);
 
-  useEffect(() => {
-    const timer = setInterval(() => {
-      setCurrent((prev) => (prev + 1) % HERO_IMAGES.length);
-    }, 6000);
-    return () => clearInterval(timer);
-  }, []);
-
   return (
     <section ref={ref} className="relative z-10 flex min-h-svh items-center justify-center overflow-hidden">
-      {/* Hero image — parallax: scala e si sposta leggermente con lo scroll */}
+      {/* Hero video — parallax: scala e si sposta leggermente con lo scroll */}
       <div className="absolute inset-0 z-0">
         <motion.div
           style={{ scale, y }}
           className="absolute inset-0"
         >
-          <AnimatePresence initial={false}>
-            <motion.div
-              key={current}
-              initial={{ opacity: 0 }}
-              animate={{ opacity: 1 }}
-              exit={{ opacity: 0 }}
-              transition={{ duration: 1.5, ease: QUAY_EASE }}
-              className="absolute inset-0"
-            >
-              <Image
-                src={HERO_IMAGES[current]}
-                alt="La Vecia Mescola — Cucina veneta nel cuore di Verona"
-                fill
-                priority={current === 0}
-                quality={75}
-                className="object-cover"
-                sizes="100vw"
-              />
-            </motion.div>
-          </AnimatePresence>
+          <video
+            className="absolute inset-0 h-full w-full object-cover"
+            autoPlay
+            muted
+            loop
+            playsInline
+            preload="auto"
+            poster={HERO_POSTER}
+            aria-label="La Vecia Mescola — Cucina veneta nel cuore di Verona"
+          >
+            <source src={HERO_VIDEO} type="video/mp4" />
+          </video>
         </motion.div>
       </div>
 
