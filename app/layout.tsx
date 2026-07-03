@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     template: "%s — La Vecia Mescola",
   },
   description:
-    "La Vecia Mescola — trattoria storica nel cuore di Verona dal centro storico. Pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand. A 2 minuti dall'Arena di Verona. Prenota su WhatsApp.",
+    "La Vecia Mescola — trattoria storica nel centro storico di Verona. Pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand. A 2 minuti dall'Arena di Verona. Prenota su WhatsApp.",
   keywords: [
     "ristorante Verona",
     "cucina veneta",
@@ -65,10 +65,7 @@ export const metadata: Metadata = {
     images: ["/og-image.jpg"],
   },
   alternates: {
-    languages: {
-      "it-IT": "https://www.laveciamescola.com",
-      "en-US": "https://www.laveciamescola.com/en",
-    },
+    canonical: "https://www.laveciamescola.com",
   },
   icons: {
     icon: "/favicon.png",
@@ -92,6 +89,11 @@ const jsonLd = {
   image: "https://www.laveciamescola.com/og-image.jpg",
   url: "https://www.laveciamescola.com",
   telephone: "+393928699275",
+  sameAs: [
+    "https://www.instagram.com/laveciamescola",
+    "https://www.facebook.com/people/La-Vecia-Mescola/100046353020148/",
+    "https://www.tripadvisor.it/Restaurant_Review-g187871-d3746880-Reviews-La_Vecia_Mescola_Dell_Oste-Verona_Province_of_Verona_Veneto.html",
+  ],
   menu: "https://www.laveciamescola.com/menu",
   address: {
     "@type": "PostalAddress",
