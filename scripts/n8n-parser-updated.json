@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "instanceId": "la-vecia-mescola-events-parser",
+    "templateId": "custom-parser-2026"
+  },
+  "nodes": [
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://www.veronafiere.it/calendario-fiere/calendario-italia-2026/",
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": false
+            }
+          }
+        }
+      },
+      "name": "Fetch Veronafiere",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        250,
+        300
+      ],
+      "id": "fetch-veronafiere"
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://www.veronasera.it/eventi/tipo/concerti/",
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": false
+            }
+          }
+        }
+      },
+      "name": "Fetch Veronasera",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        250,
+        500
+      ],
+      "id": "fetch-veronasera"
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://www.cittadiverona.it/eventi/",
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": false
+            }
+          }
+        }
+      },
+      "name": "Fetch Cittadiverona",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [
+        250,
+        700
+      ],
+      "id": "fetch-cittadiverona"
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "// Tag each source\nconst items = $input.all();\n\n// Detect source from URL in the original request\nreturn items.map(item => {\n  const url = item.json?.url || '';\n  let source = 'unknown';\n  if (url.includes('veronafiere')) source = 'veronafiere';\n  else if (url.includes('veronasera')) source = 'veronasera';\n  else if (url.includes('cittadiverona')) source = 'cittadiverona';\n  return { json: { data: item.json?.data || JSON.stringify(item.json), source } };\n});"
+      },
+      "name": "Tag Sources",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        500,
+        500
+      ],
+      "id": "tag-sources"
+    },
+    {
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "/**\n * N8N \"Parse NEW Sources\" node — JavaScript (Code node)\n *\n * Fixed parsers for veronafiere.it, veronasera.it, cittadiverona.it\n * based on real HTML structure inspected 2026-04-08.\n *\n * Expects 3 input items from HTTP Request nodes, each with:\n *   - $json.data  → raw HTML string\n *   - $json.source → one of \"veronafiere\", \"veronasera\", \"cittadiverona\"\n *\n * Outputs: array of event objects with shape:\n *   { id, title, date, time, type, venue_type, location, source, url, buy_url, image, category }\n *\n * To use in N8N:\n *   1. Create a Code node (JavaScript)\n *   2. Paste the contents of the `jsCode` string below\n *   3. Connect the 3 HTTP Request nodes as inputs\n */\n\n// ─── Italian month utilities ────────────────────────────────────────────────\n\nconst ITALIAN_MONTHS = {\n  gennaio: \"01\", febbraio: \"02\", marzo: \"03\", aprile: \"04\",\n  maggio: \"05\", giugno: \"06\", luglio: \"07\", agosto: \"08\",\n  settembre: \"09\", ottobre: \"10\", novembre: \"11\", dicembre: \"12\",\n};\n\nfunction italianMonthToNum(month) {\n  return ITALIAN_MONTHS[month.toLowerCase().trim()] || null;\n}\n\n/**\n * Parse Italian date text like \"4 Gennaio 2026\" → \"2026-01-04\"\n */\nfunction parseItalianDate(text) {\n  if (!text) return null;\n  const cleaned = text.replace(/\\s+/g, \" \").trim();\n  const m = cleaned.match(/(\\d{1,2})\\s+([A-Za-zÀ-ú]+)\\s+(\\d{4})/);\n  if (!m) return null;\n  const day = m[1].padStart(2, \"0\");\n  const month = italianMonthToNum(m[2]);\n  const year = m[3];\n  if (!month) return null;\n  return `${year}-${month}-${day}`;\n}\n\n/**\n * Decode common HTML entities\n */\nfunction decodeEntities(str) {\n  return str\n    .replace(/&#039;/g, \"'\")\n    .replace(/&quot;/g, '\"')\n    .replace(/&amp;/g, \"&\")\n    .replace(/&lt;/g, \"<\")\n    .replace(/&gt;/g, \">\")\n    .replace(/&rsquo;/g, \"\\u2019\")\n    .replace(/&lsquo;/g, \"\\u2018\")\n    .replace(/&rdquo;/g, \"\\u201D\")\n    .replace(/&ldquo;/g, \"\\u201C\")\n    .replace(/&hellip;/g, \"\\u2026\")\n    .replace(/&ndash;/g, \"\\u2013\")\n    .replace(/&mdash;/g, \"\\u2014\")\n    .replace(/&egrave;/g, \"è\")\n    .replace(/&eacute;/g, \"é\")\n    .replace(/&agrave;/g, \"à\")\n    .replace(/&ograve;/g, \"ò\")\n    .replace(/&ugrave;/g, \"ù\")\n    .replace(/&igrave;/g, \"ì\")\n    .replace(/&#\\d+;/g, (match) => {\n      const code = parseInt(match.replace(/&#|;/g, \"\"), 10);\n      return String.fromCharCode(code);\n    });\n}\n\nfunction stripTags(html) {\n  return html.replace(/<[^>]+>/g, \"\").replace(/\\s+/g, \" \").trim();\n}\n\nfunction makeId(source, date, title) {\n  const slug = (title || \"\")\n    .toLowerCase()\n    .replace(/[^a-z0-9]+/g, \"_\")\n    .substring(0, 40);\n  return `${source}_${date}_${slug}`;\n}\n\n// ─── VERONAFIERE parser ─────────────────────────────────────────────────────\n// URL: https://www.veronafiere.it/calendario-fiere/calendario-italia-2026/\n//\n// HTML structure:\n//   <div class=\"calendario__event ...\">\n//     <div class=\"calendario__eventWrapper\">\n//       <div class=\"calendario__event__head\">\n//         <span class=\"calendario__event__dates\">23-25<small>Gennaio</small></span>\n//       </div>\n//       <div class=\"calendario__event__detail\">\n//         <a class=\"calendario__event__detail__link\" href=\"...\">\n//           <h4 class=\"calendario__event__title\">Motor Bike Expo</h4>\n//           <p class=\"calendario__event__description\">...</p>\n//         </a>\n//       </div>\n//     </div>\n//   </div>\n\nfunction parseVeronafiere(html) {\n  const events = [];\n  const YEAR = \"2026\";\n\n  // Match each calendario__event block\n  const eventBlocks =\n    html.match(\n      /<div[^>]*class=\"[^\"]*calendario__event\\b[^\"]*\"[^>]*>[\\s\\S]*?<\\/div>\\s*<\\/div>\\s*<\\/div>/gi\n    ) || [];\n\n  for (const block of eventBlocks) {\n    // Extract title\n    const titleMatch = block.match(\n      /<h4[^>]*class=\"[^\"]*calendario__event__title[^\"]*\"[^>]*>([\\s\\S]*?)<\\/h4>/i\n    );\n    if (!titleMatch) continue;\n    const title = stripTags(titleMatch[1]);\n    if (!title) continue;\n\n    // Extract date: \"23-25<small>Gennaio</small>\"\n    const datesMatch = block.match(\n      /<span[^>]*class=\"[^\"]*calendario__event__dates[^\"]*\"[^>]*>([\\s\\S]*?)<\\/span>/i\n    );\n    let date = null;\n    if (datesMatch) {\n      const datesHtml = datesMatch[1];\n      // Day(s): first number(s) before <small>\n      const dayMatch = datesHtml.match(/(\\d{1,2})/);\n      // Month: inside <small>\n      const monthMatch = datesHtml.match(/<small>([\\s\\S]*?)<\\/small>/i);\n      if (dayMatch && monthMatch) {\n        const day = dayMatch[1].padStart(2, \"0\");\n        const monthNum = italianMonthToNum(stripTags(monthMatch[1]));\n        if (monthNum) {\n          date = `${YEAR}-${monthNum}-${day}`;\n        }\n      }\n    }\n    if (!date) continue;\n\n    // Extract URL\n    const urlMatch = block.match(\n      /<a[^>]*class=\"[^\"]*calendario__event__detail__link[^\"]*\"[^>]*href=\"([^\"]+)\"/i\n    );\n    const url = urlMatch ? urlMatch[1] : \"https://www.veronafiere.it/calendario-fiere/calendario-italia-2026/\";\n\n    // Extract description (optional)\n    const descMatch = block.match(\n      /<p[^>]*class=\"[^\"]*calendario__event__description[^\"]*\"[^>]*>([\\s\\S]*?)<\\/p>/i\n    );\n    const description = descMatch ? stripTags(descMatch[1]) : \"\";\n\n    events.push({\n      id: makeId(\"veronafiere\", date, title),\n      title: decodeEntities(title),\n      date,\n      time: \"\",\n      type: description || \"Fiera\",\n      venue_type: \"Fiera\",\n      location: \"Veronafiere — Viale del Lavoro 8, Verona\",\n      source: \"veronafiere.it\",\n      url,\n      buy_url: null,\n      image: null,\n      category: \"fiere\",\n    });\n  }\n\n  return events;\n}\n\n// ─── VERONASERA parser ──────────────────────────────────────────────────────\n// URL: https://www.veronasera.it/eventi/tipo/concerti/  (or /eventi/)\n//\n// HTML structure:\n//   <article class=\"c-card u-flex u-column\">\n//     <figure ...>\n//       <span class=\"c-card__kicker c-card__kicker--cultura\">Concerti</span>\n//       <a href=\"/eventi/johnny-marr-concerto-teatro-romano-16-luglio-2026.html\">\n//         <img src=\"...\" alt=\"...\" title=\"...\">\n//       </a>\n//     </figure>\n//     <div class=\"c-card__content ...\">\n//       <header>\n//         <a href=\"/eventi/johnny-marr-concerto-teatro-romano-16-luglio-2026.html\">\n//           <h2 class=\"c-card__heading ...\">Title</h2>\n//         </a>\n//       </header>\n//     </div>\n//   </article>\n//\n// Date is NOT in the listing — extract from URL slug:\n//   /eventi/ligabue-concerto-arena-verona-22-settembre-2026.html\n//   → DD=22, month=settembre, YYYY=2026\n\nfunction parseVeronasera(html) {\n  const events = [];\n  const BASE = \"https://www.veronasera.it\";\n\n  // Match article.c-card blocks\n  const articles =\n    html.match(/<article[^>]*class=\"[^\"]*c-card[^\"]*\"[^>]*>[\\s\\S]*?<\\/article>/gi) || [];\n\n  for (const article of articles) {\n    // Extract title from c-card__heading\n    const headingMatch = article.match(\n      /<h2[^>]*class=\"[^\"]*c-card__heading[^\"]*\"[^>]*>([\\s\\S]*?)<\\/h2>/i\n    );\n    if (!headingMatch) continue;\n    const title = decodeEntities(stripTags(headingMatch[1]));\n    if (!title) continue;\n\n    // Extract first href (event URL)\n    const hrefMatch = article.match(/href=\"(\\/eventi\\/[^\"]+\\.html)\"/i);\n    if (!hrefMatch) continue;\n    const relUrl = hrefMatch[1];\n    const url = `${BASE}${relUrl}`;\n\n    // Extract date from URL slug\n    // Pattern: DD-monthname-YYYY.html at the end of the URL\n    const dateSlugMatch = relUrl.match(/(\\d{1,2})-([a-z]+)-(\\d{4})\\.html$/i);\n    let date = null;\n    if (dateSlugMatch) {\n      const day = dateSlugMatch[1].padStart(2, \"0\");\n      const monthNum = italianMonthToNum(dateSlugMatch[2]);\n      const year = dateSlugMatch[3];\n      if (monthNum) {\n        date = `${year}-${monthNum}-${day}`;\n      }\n    }\n    // If date can't be extracted from URL, skip (we can't create a valid event)\n    if (!date) continue;\n\n    // Extract category badge from c-card__kicker\n    const kickerMatch = article.match(\n      /<span[^>]*class=\"[^\"]*c-card__kicker[^\"]*\"[^>]*>([\\s\\S]*?)<\\/span>/i\n    );\n    const badge = kickerMatch ? stripTags(kickerMatch[1]) : \"\";\n\n    // Category mapping: \"Concerti\" or concert-like → concerti_pop, else → cultura\n    const isConcert = /concert/i.test(badge);\n    const category = isConcert ? \"concerti_pop\" : \"cultura\";\n    const type = badge || \"Evento\";\n\n    // Extract image (optional)\n    const imgMatch = article.match(/<img[^>]*src=\"([^\"]+)\"[^>]*>/i);\n    const image = imgMatch ? (imgMatch[1].startsWith(\"//\") ? `https:${imgMatch[1]}` : imgMatch[1]) : null;\n\n    events.push({\n      id: makeId(\"veronasera\", date, title),\n      title,\n      date,\n      time: \"\",\n      type,\n      venue_type: type,\n      location: \"Verona\",\n      source: \"veronasera.it\",\n      url,\n      buy_url: null,\n      image,\n      category,\n    });\n  }\n\n  return events;\n}\n\n// ─── CITTADIVERONA parser ───────────────────────────────────────────────────\n// URL: https://www.cittadiverona.it/eventi/\n//\n// HTML structure:\n//   <article class=\"post lsvr_event post-73627 has-post-thumbnail\">\n//     <div class=\"post__inner\">\n//       <header class=\"post__header\">\n//         <p class=\"post__thumbnail\">\n//           <a href=\"...\"><img src=\"...\" /></a>\n//         </p>\n//       </header>\n//       <div class=\"post__content\">\n//         <p class=\"lsvr-pressville-post-grid__post-badge\">\n//           <span class=\"lsvr-pressville-post-grid__post-badge-categories\">\n//             <a class=\"post__category-link\">Mostre</a>\n//           </span>\n//         </p>\n//         <p class=\"post__date\">\n//           4 Gennaio 2026\n//           <time datetime=\"2026-12-04T19:00:00+01:00\"> > 4 Dicembre 2026</time>\n//         </p>\n//         <h2 class=\"post__title\">\n//           <a href=\"...\">Title</a>\n//         </h2>\n//       </div>\n//     </div>\n//   </article>\n\nfunction parseCittadiverona(html) {\n  const events = [];\n\n  // Match article.lsvr_event blocks\n  const articles =\n    html.match(/<article[^>]*class=\"[^\"]*lsvr_event[^\"]*\"[^>]*>[\\s\\S]*?<\\/article>/gi) || [];\n\n  for (const article of articles) {\n    // Extract title from .post__title a\n    const titleMatch = article.match(\n      /<h2[^>]*class=\"[^\"]*post__title[^\"]*\"[^>]*>\\s*<a[^>]*href=\"([^\"]*)\"[^>]*>([\\s\\S]*?)<\\/a>/i\n    );\n    if (!titleMatch) continue;\n    const url = titleMatch[1];\n    const title = decodeEntities(stripTags(titleMatch[2]));\n    if (!title) continue;\n\n    // Extract date — try <time datetime=\"...\"> first\n    let date = null;\n    const timeMatch = article.match(/<time[^>]*datetime=\"([^\"]+)\"/i);\n    if (timeMatch) {\n      // datetime is ISO: \"2026-12-04T19:00:00+01:00\" — but this is the END date\n      // The start date is the text before <time>\n    }\n\n    // Extract start date from .post__date text (before <time>)\n    const dateBlockMatch = article.match(\n      /<p[^>]*class=\"[^\"]*post__date[^\"]*\"[^>]*>([\\s\\S]*?)(?:<time|<\\/p>)/i\n    );\n    if (dateBlockMatch) {\n      const dateText = stripTags(dateBlockMatch[1]);\n      date = parseItalianDate(dateText);\n    }\n\n    // Fallback: parse from <time datetime> if start date failed\n    if (!date && timeMatch) {\n      const iso = timeMatch[1];\n      const isoDateMatch = iso.match(/^(\\d{4}-\\d{2}-\\d{2})/);\n      if (isoDateMatch) date = isoDateMatch[1];\n    }\n\n    if (!date) continue;\n\n    // Extract category from .post__category-link\n    const catMatch = article.match(\n      /<a[^>]*class=\"[^\"]*post__category-link[^\"]*\"[^>]*>([\\s\\S]*?)<\\/a>/i\n    );\n    const categoryLabel = catMatch ? stripTags(catMatch[1]) : \"Evento\";\n\n    // Extract image (optional)\n    const imgMatch = article.match(\n      /<p[^>]*class=\"[^\"]*post__thumbnail[^\"]*\"[^>]*>[\\s\\S]*?<img[^>]*src=\"([^\"]+)\"/i\n    );\n    const image = imgMatch ? imgMatch[1] : null;\n\n    events.push({\n      id: makeId(\"cittadiverona\", date, title),\n      title,\n      date,\n      time: \"\",\n      type: categoryLabel,\n      venue_type: categoryLabel,\n      location: \"Verona\",\n      source: \"cittadiverona.it\",\n      url,\n      buy_url: null,\n      image,\n      category: \"cultura\",\n    });\n  }\n\n  return events;\n}\n\n// ─── Main dispatcher ────────────────────────────────────────────────────────\n// This is what runs inside the N8N Code node.\n// Each input item should have $json.data (HTML) and $json.source (string).\n\nfunction parseAllSources(items) {\n  const allEvents = [];\n\n  for (const item of items) {\n    const html = item.json?.data || item.json?.html || \"\";\n    const source = (item.json?.source || \"\").toLowerCase();\n\n    if (!html) continue;\n\n    let parsed = [];\n    if (source === \"veronafiere\") {\n      parsed = parseVeronafiere(html);\n    } else if (source === \"veronasera\") {\n      parsed = parseVeronasera(html);\n    } else if (source === \"cittadiverona\") {\n      parsed = parseCittadiverona(html);\n    }\n\n    allEvents.push(...parsed);\n  }\n\n  // Deduplicate by id\n  const seen = new Set();\n  const unique = [];\n  for (const evt of allEvents) {\n    if (!seen.has(evt.id)) {\n      seen.add(evt.id);\n      unique.push(evt);\n    }\n  }\n\n  // Sort by date ascending\n  unique.sort((a, b) => a.date.localeCompare(b.date));\n\n  return unique;\n}\n\n// ─── N8N Code node entry point ──────────────────────────────────────────────\n// Paste everything above + the block below into an N8N Code node.\n//\n// const results = parseAllSources($input.all());\n// return results.map(evt => ({ json: evt }));\n\n// ─── N8N entry point ─────────────────────────────────────────────────────\nconst results = parseAllSources($input.all());\nreturn results.map(evt => ({ json: evt }));\n"
+      },
+      "name": "Parse NEW Sources",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        750,
+        500
+      ],
+      "id": "parse-new-sources"
+    }
+  ],
+  "connections": {
+    "Fetch Veronafiere": {
+      "main": [
+        [
+          {
+            "node": "Tag Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Veronasera": {
+      "main": [
+        [
+          {
+            "node": "Tag Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Fetch Cittadiverona": {
+      "main": [
+        [
+          {
+            "node": "Tag Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Tag Sources": {
+      "main": [
+        [
+          {
+            "node": "Parse NEW Sources",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}
