@@ -490,118 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-04_niccol_fabi_in_concerto_a_verona",
-    "title": "Niccolò Fabi in concerto a Verona",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/niccolo-fabi-concerto-teatro-romano-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_gio_evan_musica_e_poesia_sotto_le_stelle",
-    "title": "Gio Evan, musica e poesia sotto le stelle al Castello Scaligero di Villafranca",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/gio-evan-concerto-extra-terreste-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_a_bardolino_arriva_la_notte_gialla_2026_",
-    "title": "A Bardolino arriva la \"Notte Gialla 2026\": eccellenze a km zero, gastronomia e grande musica",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notte-gialla-festa-bardolino-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_a_san_pietro_in_cariano_lo_spettacolo_mi",
-    "title": "A San Pietro in Cariano lo spettacolo “Mi sposo Mohamed”",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-mi-sposo-mohamed-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_trekking_naturalistico_aperitivo_in_alpe",
-    "title": "Trekking naturalistico & aperitivo in alpeggio",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/trekking-naturalistico-aperitivo-alpeggio-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_tornano_jessy_kole_dance_machine",
-    "title": "Tornano Jessy Kole & Dance Machine",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/jessy-kole-dance-machine-concerto-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_deaf_kaki_chumpy_live",
-    "title": "Deaf Kaki Chumpy live",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/deaf-kaki-chumpy-concerto-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-04_speak_and_astro_aperitivo_linguistico_ta",
-    "title": "Speak and Astro | Aperitivo linguistico + talk astrologico + dj-set",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/speak-and-astro-aperitivo-linguistico-4-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-04_104a_edizione_dell_antica_fiera_di_valeg",
     "title": "104a edizione dell’Antica Fiera di Valeggio sul Mincio",
     "date": "2026-07-04",
@@ -630,20 +518,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-04_a_bardolino_arriva_la_notte_gialla_con_e",
-    "title": "A Bardolino arriva la “Notte gialla” con eccellenze a km zero, gastronomia e musica live",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/a-bardolino-arriva-notte-gialla-eccellenze-km-zero-gastronomia-musica-live/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/notte-gialla-bardolino-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-04__aperitivo_sul_ponte_a_pescantina",
     "title": "“Aperitivo sul ponte” a Pescantina",
     "date": "2026-07-04",
@@ -658,34 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-04_rassegna_culturale_e_state_a_sona_",
-    "title": "Rassegna culturale “E… State a Sona”",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-04_musica_e_spettacoli_al_parco_san_giacomo",
-    "title": "Musica e spettacoli al Parco San Giacomo",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-04__giulietta_vs_shakespeare_musical_pop_al",
     "title": "“Giulietta VS Shakespeare, Musical Pop” al Chiostro di Santa Maria in Organo",
     "date": "2026-07-04",
@@ -697,20 +543,6 @@
     "url": "https://www.cittadiverona.it/eventi/giulietta-vs-shakespeare-musical-pop/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Giulietta-VS-Shakespeare-musical-pop-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-04_il_tour_estivo_di_niccol_fabi_approda_al",
-    "title": "Il tour estivo di Niccolò Fabi approda al Teatro Romano di Verona",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/tour-estivo-niccolo-fabi-teatro-romano-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/niccolo_fabi_teatro-romano-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -770,6 +602,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-05__bhaishayaguru_buddha_della_medicina_l_a",
+    "title": "\"Bhaishayaguru – Buddha della medicina: l'antica tecnica di guarigione\"",
+    "date": "2026-07-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bhaishayaguru-buddha-della-medicina-5-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-05__la_via_del_mandala_",
     "title": "\"La via del mandala\"",
     "date": "2026-07-05",
@@ -784,15 +630,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-05__bhaishayaguru_buddha_della_medicina_l_a",
-    "title": "\"Bhaishayaguru – Buddha della medicina: l'antica tecnica di guarigione\"",
+    "id": "veronasera_2026-07-05_lido_campanello_street_food",
+    "title": "Lido Campanello Street Food",
     "date": "2026-07-05",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/bhaishayaguru-buddha-della-medicina-5-luglio-2026.html",
+    "url": "https://www.veronasera.it/eventi/lido-campanello-street-food-3-5-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -812,15 +658,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-05_lido_campanello_street_food",
-    "title": "Lido Campanello Street Food",
+    "id": "veronasera_2026-07-05_forte_gisella_in_danza",
+    "title": "Forte Gisella in Danza",
     "date": "2026-07-05",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/lido-campanello-street-food-3-5-luglio-2026.html",
+    "url": "https://www.veronasera.it/eventi/forte-gisella-in-danza-3-5-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -919,6 +765,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/somma-park-market-festa-5-6-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-06_antica_fiera_di_valeggio",
+    "title": "Antica Fiera di Valeggio",
+    "date": "2026-07-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/antica-fiera-valeggio-4-6-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1246,20 +1106,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-11__respiri_di_luce_meditazione_al_tramonto",
-    "title": "\"Respiri di luce: meditazione al tramonto\"",
-    "date": "2026-07-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/respiri-luce-meditazione-tramonto-11-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-11_britwall_british_festival_al_mura_festiv",
     "title": "Britwall - British Festival al Mura Festival",
     "date": "2026-07-11",
@@ -1269,6 +1115,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/britwall-british-fesival-al-mura-festival-l-11-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-11__respiri_di_luce_meditazione_al_tramonto",
+    "title": "\"Respiri di luce: meditazione al tramonto\"",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/respiri-luce-meditazione-tramonto-11-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1330,6 +1190,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-12_i_blue_in_concerto_a_villafranca_per_il_",
+    "title": "I Blue in concerto a Villafranca per il \"25th Anniversary Tour – Estate Italiana\"",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/blue-concerto-castello-scaligero-villafranca-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-12_ornella_vanoni_storia_di_una_diva",
+    "title": "Ornella Vanoni: storia di una diva",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ornella-vanoni-storia-di-una-diva-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-12__a_bug_s_life_megaminimondo_",
+    "title": "\"A bug's life. Megaminimondo\"",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/a-bug-s-life-megaminimondo-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-12_i_blue_celebrano_venticinque_anni_di_suc",
     "title": "I Blue celebrano venticinque anni di successi al Castello Scaligero di Villafranca",
     "date": "2026-07-12",
@@ -1358,20 +1260,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
     "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
     "date": "2026-07-14",
@@ -1383,6 +1271,20 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1481,6 +1383,20 @@
     "url": "https://www.cittadiverona.it/eventi/angelina-mango-teatro-romano-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/angelina-mango-nina-canta-nei-teatri-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-18__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
+    "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
+    "date": "2026-07-18",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1666,6 +1582,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-06__oro_e_colore_a_malcesine_arrivano_le_op",
+    "title": "“Oro e colore”, a Malcesine arrivano le opere di Gustav Klimt",
+    "date": "2026-09-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-19_open_day_all_accademia_martinelli",
     "title": "Open Day all’Accademia Martinelli",
     "date": "2026-09-19",
@@ -1818,6 +1748,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
+    "title": "\"Soffitte in piazza\" a Verona",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
