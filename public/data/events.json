@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-07-05_la_traviata",
-    "title": "La Traviata",
-    "date": "2026-07-05",
-    "time": "21:15",
-    "type": "Opera",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/la-traviata/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730655&amp;tcode=vt0017687",
-    "image": null
-  },
-  {
     "id": "arena_2026-07-09_la_traviata",
     "title": "La Traviata",
     "date": "2026-07-09",
