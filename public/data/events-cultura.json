@@ -406,34 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-30__il_medico_per_forza_di_moli_re_al_chios",
-    "title": "“Il medico per forza” di Molière al chiostro di Sant’Eufemia",
-    "date": "2026-06-30",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-medico-per-forza-moliere/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/medico-per-forza-la-pocostabile-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-04_104a_edizione_dell_antica_fiera_di_valeg",
-    "title": "104a edizione dell’Antica Fiera di Valeggio sul Mincio",
-    "date": "2026-07-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiera-di-valeggio-sul-mincio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/antica-fiera-di-valeggio-sul-mincio-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-04__giulietta_vs_shakespeare_musical_pop_al",
     "title": "“Giulietta VS Shakespeare, Musical Pop” al Chiostro di Santa Maria in Organo",
     "date": "2026-07-04",
@@ -459,90 +431,6 @@
     "url": "https://www.cittadiverona.it/eventi/festival-urban-orbit-trasforma-verona-palcoscenico-diffuso-cielo-aperto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/urban-orbit-street-theatre-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-06_the_lumineers_tornano_live_in_italia_uni",
-    "title": "The Lumineers tornano live in Italia: unica data all’Arena di Verona",
-    "date": "2026-07-06",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/the-lumineers-concerto-arena-verona-6-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/22952583962304/the-lumineers-foto-ufficio-stampa-eventi-verona-srl.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-06_simona_molinari_porta_il_kairos_tour_al_",
-    "title": "Simona Molinari porta il “Kairos Tour” al Teatro Romano di Verona con special guest Raphael Gualazzi",
-    "date": "2026-07-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/simona-molinari-concerto-teatro-romano-6-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-06_antica_fiera_di_valeggio",
-    "title": "Antica Fiera di Valeggio",
-    "date": "2026-07-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/antica-fiera-valeggio-4-6-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-06_sagra_dei_fioi_di_michellorie",
-    "title": "Sagra dei Fioi di Michellorie",
-    "date": "2026-07-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-dei-fioi-michellorie-2-6-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-06_the_lumineers_all_arena_di_verona",
-    "title": "The Lumineers all’Arena di Verona",
-    "date": "2026-07-06",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/the-lumineers-a-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/07/The-Lumineers-concerto-Arena-Verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-06_simona_molinari_al_teatro_romano_di_vero",
-    "title": "Simona Molinari al Teatro Romano di Verona",
-    "date": "2026-07-06",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/simona-molinari-a-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/simona-molinari-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -574,20 +462,6 @@
     "category": "concerti_pop"
   },
   {
-    "id": "veronasera_2026-07-07_bagno_di_suoni_solidale_per_il_progetto_",
-    "title": "Bagno di suoni solidale per il progetto Teach me \"Riportiamoli a scuola\"",
-    "date": "2026-07-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/bagno-suoni-solidale-progetto-teach-me-7-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-07_crea_il_tuo_gioiello_in_macram_",
     "title": "Crea il tuo gioiello in macramè",
     "date": "2026-07-07",
@@ -597,6 +471,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/crea-gioiello-macrame-7-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-07_bagno_di_suoni_solidale_per_il_progetto_",
+    "title": "Bagno di suoni solidale per il progetto Teach me \"Riportiamoli a scuola\"",
+    "date": "2026-07-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bagno-suoni-solidale-progetto-teach-me-7-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -728,18 +616,32 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-09_festa_della_contea_a_sandr_",
+    "title": "Festa della Contea a Sandrà",
+    "date": "2026-07-09",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-contea-sandra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-della-contea-sandra-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-10__god_is_not_your_babysitter_il_maestro_g",
     "title": "“God Is Not Your Babysitter”, il maestro Goran Bregović in concerto a Villafranca di Verona",
     "date": "2026-07-10",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/goran-bregovic-concerto-castello-scaligero-villafranca-10-luglio-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/22289142200352/locandina-goran-bregovic-villafranca-di-verona-2026-eventi-verona.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-07-10__chamber_orchestra_concert_band_a_villa_",
@@ -980,6 +882,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-13_la_festa_dei_bigoli_a_negrar_di_valpolic",
+    "title": "La Festa dei Bigoli a Negrar di Valpolicella",
+    "date": "2026-07-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-bigoli-negrar-valpolicella-9-13-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-14_marco_masini_live_al_castello_scaligero_",
+    "title": "Marco Masini live al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/marco-masini-concerto-villafranca-festival-14-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-14__il_ventaglio_di_carlo_goldoni_al_cortil",
     "title": "“Il Ventaglio” di Carlo Goldoni al Cortile Montanari",
     "date": "2026-07-14",
@@ -1019,6 +949,34 @@
     "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14__avari_il_nuovo_spettacolo_di_micromega_",
+    "title": "“Avari”, il nuovo spettacolo di Micromega al chiostro di S. Maria in Organo",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/avari-micromega/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/avari-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-16_sagra_di_santa_maria_maddalena_a_castelc",
+    "title": "Sagra di Santa Maria Maddalena a Castelcerino",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-santa-maria-maddalena-a-castelcerino-soave/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/07/sagra-santa-maria-maddalena-castelcerino-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1092,6 +1050,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-07-17_fiera_del_tartufo_veneto_a_ferrara_di_mo",
+    "title": "Fiera del tartufo Veneto a Ferrara di Monte Baldo",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-tartufo-veneto-ferrara-monte-baldo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/fiera-del-tartufo-veneto-ferrara-di-monte-baldo-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-17_festa_dell_ospite_di_fosse",
     "title": "Festa dell’Ospite di Fosse",
     "date": "2026-07-17",
@@ -1145,6 +1117,20 @@
     "url": "https://www.cittadiverona.it/eventi/nek-concerto-villafranca-festival-2026/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/nek-hits-live-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_sagra_patronale_di_sant_anna_e_san_giaco",
+    "title": "Sagra Patronale di Sant’Anna e San Giacomo a Isola della Scala",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-patronale-di-santanna-e-san-giacomo-a-isola-della-scala/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/07/sagra-san-giacomo-e-santa-anna-isola-della-scala-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1353,6 +1339,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
+    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
+    "date": "2026-09-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
