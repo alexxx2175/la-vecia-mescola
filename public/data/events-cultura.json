@@ -434,62 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-07_i_duran_duran_tornano_in_italia_un_conce",
-    "title": "I Duran Duran tornano in Italia: un concerto imperdibile all'Arena di Verona",
-    "date": "2026-07-07",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/duran-duran-concerto-arena-verona-7-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/7550075960055/locandina-concerto-duran-duran-arena-di-verona-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-07_the_darkness_live_al_castello_scaligero_",
-    "title": "The Darkness live al Castello Scaligero di Villafranca",
-    "date": "2026-07-07",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/the-darkness-concerto-castello-scaligero-villafranca-7-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38102731263681/locandina-the-darkness-eventi-verona-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-07_crea_il_tuo_gioiello_in_macram_",
-    "title": "Crea il tuo gioiello in macramè",
-    "date": "2026-07-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/crea-gioiello-macrame-7-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-07_bagno_di_suoni_solidale_per_il_progetto_",
-    "title": "Bagno di suoni solidale per il progetto Teach me \"Riportiamoli a scuola\"",
-    "date": "2026-07-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/bagno-suoni-solidale-progetto-teach-me-7-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-07_13a_edizione_di_bridge_film_festival_nel",
     "title": "13a edizione di “Bridge Film Festival” nel quartiere Filippini",
     "date": "2026-07-07",
@@ -574,6 +518,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-08_terza_edizione_del_festival_diffuso_smar",
+    "title": "Terza edizione del Festival Diffuso “SMart”",
+    "date": "2026-07-08",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-08_sigfrido_ranucci_al_castello_scaligero_d",
     "title": "Sigfrido Ranucci al Castello Scaligero di Villafranca",
     "date": "2026-07-08",
@@ -602,6 +560,20 @@
     "category": "concerti_pop"
   },
   {
+    "id": "veronasera_2026-07-09_profeti_in_patria_racconto_in_nove_tappe",
+    "title": "Profeti in patria: racconto in nove tappe dell’arte veronese",
+    "date": "2026-07-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/profeti-patria-racconto-arte-veronese-9-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-09__chicco_di_grano_",
     "title": "\"Chicco di grano\"",
     "date": "2026-07-09",
@@ -627,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-contea-sandra/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-della-contea-sandra-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-09__i_gioved_di_luglio_a_san_bonifacio",
+    "title": "“I Giovedì di Luglio” a San Bonifacio",
+    "date": "2026-07-09",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giovedi-luglio-san-bonifacio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Municipio-San-Bonifacio-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -798,6 +784,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-11_i_canone_inverso_live_allo_stone_rose",
+    "title": "I Canone Inverso live allo Stone Rose",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/canone-inverso-concerto-stone-rose-11-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-11_white_monkey_open_air",
     "title": "White Monkey Open Air",
     "date": "2026-07-11",
@@ -809,6 +809,20 @@
     "url": "https://www.cittadiverona.it/eventi/white-monkey-open-air/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/white-monkey-open-air-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-11_merysse_acoustic_live_al_parco_san_giaco",
+    "title": "Merysse Acoustic Live al Parco San Giacomo",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-merysse/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Merysse-acoustic-live-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -830,14 +844,14 @@
     "title": "I Blue in concerto a Villafranca per il \"25th Anniversary Tour – Estate Italiana\"",
     "date": "2026-07-12",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/blue-concerto-castello-scaligero-villafranca-12-luglio-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54576537246451/locandina-2026-blue-25th-anniversary-tour-estate-italiana.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-07-12_ornella_vanoni_storia_di_una_diva",
@@ -863,6 +877,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/a-bug-s-life-megaminimondo-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-12_visita_guidata_a_palazzo_miniscalchi_e_a",
+    "title": "Visita guidata a Palazzo Miniscalchi e alla mostra temporanea",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-mostra-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-12_escursione_in_lessinia_orientale_acqua_b",
+    "title": "Escursione in Lessinia orientale: acqua, biodiversità e \"Anguane\"",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-lessinia-orientale-12-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -900,14 +942,14 @@
     "title": "Marco Masini live al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/marco-masini-concerto-villafranca-festival-14-luglio-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/58268111801823/marco-masini-foto-ufficio-stampa-comunicazione-eventi-verona.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "cittadiverona_2026-07-14__il_ventaglio_di_carlo_goldoni_al_cortil",
@@ -921,20 +963,6 @@
     "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -952,6 +980,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
+    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-14__avari_il_nuovo_spettacolo_di_micromega_",
     "title": "“Avari”, il nuovo spettacolo di Micromega al chiostro di S. Maria in Organo",
     "date": "2026-07-14",
@@ -966,17 +1008,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-16_sagra_di_santa_maria_maddalena_a_castelc",
-    "title": "Sagra di Santa Maria Maddalena a Castelcerino",
-    "date": "2026-07-16",
+    "id": "veronasera_2026-07-15_meet_greet_con_fody_fabrics",
+    "title": "Meet & greet con Fody Fabrics",
+    "date": "2026-07-15",
     "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-santa-maria-maddalena-a-castelcerino-soave/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/meet-greet-fody-fabrics-15-luglio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/07/sagra-santa-maria-maddalena-castelcerino-2026-600x338.jpeg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -991,6 +1033,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-16_sagra_di_santa_maria_maddalena_a_castelc",
+    "title": "Sagra di Santa Maria Maddalena a Castelcerino",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-santa-maria-maddalena-a-castelcerino-soave/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/07/sagra-santa-maria-maddalena-castelcerino-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1103,6 +1159,20 @@
     "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-19_pala_family_fest_al_palaghiaccio_di_bosc",
+    "title": "Pala Family Fest al Palaghiaccio di Bosco Chiesanuova",
+    "date": "2026-07-19",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/pala-family-fest/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Pala-Family-Fest-2026-600x338.jpg",
     "category": "cultura"
   },
   {
