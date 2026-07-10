@@ -420,20 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-05_il_festival_urban_orbit_trasforma_verona",
-    "title": "Il festival “Urban orbit” trasforma Verona in un palcoscenico diffuso a cielo aperto",
-    "date": "2026-07-05",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-urban-orbit-trasforma-verona-palcoscenico-diffuso-cielo-aperto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/urban-orbit-street-theatre-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-07_13a_edizione_di_bridge_film_festival_nel",
     "title": "13a edizione di “Bridge Film Festival” nel quartiere Filippini",
     "date": "2026-07-07",
@@ -462,48 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-09_i_litfiba_tornano_insieme_per_celebrare_",
-    "title": "I Litfiba tornano insieme per celebrare i quarant'anni del loro miglior disco: “17 Re”, il concerto a Villafranca di Verona",
-    "date": "2026-07-09",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/litfiba-concerto-17-re-villafranca-festival-9-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/14945566629783/locandina-concerto-litfiba-2026-villafranca-di-verona.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-09_profeti_in_patria_racconto_in_nove_tappe",
-    "title": "Profeti in patria: racconto in nove tappe dell’arte veronese",
-    "date": "2026-07-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/profeti-patria-racconto-arte-veronese-9-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-09__chicco_di_grano_",
-    "title": "\"Chicco di grano\"",
-    "date": "2026-07-09",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/chicco-di-grano-fondazione-aida-9-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-09_torna_la_festa_dei_bigoli_a_mazzano_di_n",
     "title": "Torna la Festa dei bigoli a Mazzano di Negrar",
     "date": "2026-07-09",
@@ -518,17 +462,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-09__i_gioved_di_luglio_a_san_bonifacio",
-    "title": "“I Giovedì di Luglio” a San Bonifacio",
+    "id": "cittadiverona_2026-07-09_la_rassegna_costellazioni_invade_piazza_",
+    "title": "La rassegna “Costellazioni” invade Piazza Bra nell’Estate Teatrale Veronese",
     "date": "2026-07-09",
     "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/giovedi-luglio-san-bonifacio/",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-costellazioni-piazza-bra-estate-teatrale-veronese/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Municipio-San-Bonifacio-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Costellazioni-Babilonia-Teatri-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -543,6 +487,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-contea-sandra/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-della-contea-sandra-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-09_sagra_della_madonna_del_carmine_a_verone",
+    "title": "Sagra della Madonna del Carmine a Veronella",
+    "date": "2026-07-09",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-carmine-veronella/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-madonna-del-carmine-veronella-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -588,20 +546,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-10_virtual_run_5_30_a_brenzone_sul_garda",
-    "title": "Virtual run 5.30 a Brenzone sul Garda",
-    "date": "2026-07-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/virtual-run-5-30-brenzone-sul-garda-10-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-10_festa_dell_agola_e_madonna_della_salute",
     "title": "Festa dell'agola e Madonna della Salute",
     "date": "2026-07-10",
@@ -611,6 +555,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-agola-madonna-salute-10-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-10_virtual_run_5_30_a_brenzone_sul_garda",
+    "title": "Virtual run 5.30 a Brenzone sul Garda",
+    "date": "2026-07-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/virtual-run-5-30-brenzone-sul-garda-10-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -770,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-11_weekend_della_tradizione_a_san_zeno_di_m",
+    "title": "Weekend della Tradizione a San Zeno di Montagna",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/weekend-della-tradizione-san-zeno-di-montagna/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/weekend-della-tradizione-san-zeno-di-montagna-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-11_white_monkey_open_air",
     "title": "White Monkey Open Air",
     "date": "2026-07-11",
@@ -812,6 +784,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-11_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-11_commedia_in_dialetto_veneto_fradei_corte",
+    "title": "Commedia in dialetto veneto “Fradei cortei” a Villa Rubinelli",
+    "date": "2026-07-11",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/commedia-dialetto-veneto-fradei-cortei/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/fradei-cortei-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-11_l_omaggio_sinfonico_mio_padre_con_andrea",
     "title": "L’omaggio sinfonico “È mio padre” con Andrea Morricone a Villafranca",
     "date": "2026-07-11",
@@ -835,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/blue-concerto-castello-scaligero-villafranca-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-12_la_dusika_danish_youth_symphony_orchestr",
+    "title": "La Dusika - Danish Youth Symphony Orchestra in concerto a Malcesine",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/dusika-danish-youth-symphony-orchestra-concerto-12-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,20 +896,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-12_escursione_in_lessinia_orientale_acqua_b",
-    "title": "Escursione in Lessinia orientale: acqua, biodiversità e \"Anguane\"",
-    "date": "2026-07-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/escursione-lessinia-orientale-12-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-12_offline_in_vigna_workshop_relax_tra_i_vi",
     "title": "Offline in vigna | Workshop & relax tra i vigneti della Valpolicella",
     "date": "2026-07-12",
@@ -910,6 +910,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-12_escursione_in_lessinia_orientale_acqua_b",
+    "title": "Escursione in Lessinia orientale: acqua, biodiversità e \"Anguane\"",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-lessinia-orientale-12-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-12__ornella_vanoni_storia_di_una_diva_al_la",
+    "title": "“Ornella Vanoni – Storia di una diva” al Lazzaretto di Verona",
+    "date": "2026-07-12",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ornella-vanoni-storia-di-una-diva/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Ornella-Vanoni-Storia-di-una-diva-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-12_i_blue_celebrano_venticinque_anni_di_suc",
     "title": "I Blue celebrano venticinque anni di successi al Castello Scaligero di Villafranca",
     "date": "2026-07-12",
@@ -921,20 +949,6 @@
     "url": "https://www.cittadiverona.it/eventi/blue-celebrano-venticinque-anni-successi-castello-scaligero-villafranca/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/BLUE-25th-Anniversary-Tour-Estate-Italiana-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-13_la_festa_dei_bigoli_a_negrar_di_valpolic",
-    "title": "La Festa dei Bigoli a Negrar di Valpolicella",
-    "date": "2026-07-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-bigoli-negrar-valpolicella-9-13-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -966,20 +980,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
     "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-14",
@@ -1005,6 +1005,20 @@
     "url": "https://www.cittadiverona.it/eventi/avari-micromega/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/avari-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
+    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
+    "date": "2026-07-14",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1079,7 +1093,7 @@
   },
   {
     "id": "cittadiverona_2026-07-16_lo_spettacolo_un_brutto_bruttissimo_anat",
-    "title": "Lo spettacolo “Un brutto bruttissimo anatroccolo” al Castello di Montorio",
+    "title": "Lo spettacolo “Un brutto bruttissimo anatroccolo” a Forte Gisella",
     "date": "2026-07-16",
     "time": "",
     "type": "Teatro",
@@ -1120,6 +1134,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-16_johnny_marr_al_teatro_romano_di_verona",
+    "title": "Johnny Marr al Teatro Romano di Verona",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/johnny-marr-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Johnny-Marr-Verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-07-17_vinitaly_and_the_city_calabria_in_wine",
     "title": "Vinitaly and the City Calabria in Wine",
     "date": "2026-07-17",
@@ -1132,6 +1160,48 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-07-17_angelina_mango_in_concerto_a_verona",
+    "title": "Angelina Mango in concerto a Verona",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/angelina-mango-concerto-teatro-romano-17-luglio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/15818331244112/angelina-mango-locandina-concerto-2026-ufficio-stampa-eventi-verona-srl.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-07-17_massimo_cacciari_ospite_della_rassegna_c",
+    "title": "Massimo Cacciari ospite della rassegna \"Cavalo sotto le stelle\"",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/massimo-cacciari-cavalo-sotto-stelle-europa-17-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-17_aperitivo_inclusivo_con_fody_fabrics",
+    "title": "Aperitivo inclusivo con Fody Fabrics",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivo-inclusivo-fody-fabrics-17-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-07-17_fiera_del_tartufo_veneto_a_ferrara_di_mo",
@@ -1190,6 +1260,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-19__noi_andiamo_a_tutta_birra_a_colognola_a",
+    "title": "“Noi Andiamo a Tutta Birra” a Colognola ai Colli",
+    "date": "2026-07-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/noi-andiamo-tutta-birra-colognola-ai-colli-festa-17-19-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-19_pala_family_fest_al_palaghiaccio_di_bosc",
     "title": "Pala Family Fest al Palaghiaccio di Bosco Chiesanuova",
     "date": "2026-07-19",
@@ -1232,20 +1316,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
-    "title": "Quarta edizione del Garda Festival",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
     "title": "Fiorella Mannoia a Villafranca di Verona",
     "date": "2026-07-24",
@@ -1257,6 +1327,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
+    "title": "Quarta edizione del Garda Festival",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
