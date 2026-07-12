@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-07-11_la_bohème",
-    "title": "La Bohème",
-    "date": "2026-07-11",
-    "time": "21:15",
-    "type": "Opera",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/la-boheme/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730648&amp;tcode=vt0017687",
-    "image": null
-  },
-  {
     "id": "arena_2026-07-12_nabucco",
     "title": "Nabucco",
     "date": "2026-07-12",
