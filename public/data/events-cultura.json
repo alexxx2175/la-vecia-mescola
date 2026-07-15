@@ -392,20 +392,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-06-21_il_conservatorio_e_f_dall_abaco_di_veron",
-    "title": "Il Conservatorio \"E.F. Dall'Abaco\" di Verona presenta \"I Concerti del Chiostro\"",
-    "date": "2026-06-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/concerti-chiostro-conservatorio-21-giugno-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-06-29_un_mese_di_teatro_e_proiezioni_a_la_cort",
     "title": "Un mese di teatro e proiezioni a “La corte dell’Astra”",
     "date": "2026-06-29",
@@ -448,48 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-14_marco_masini_live_al_castello_scaligero_",
-    "title": "Marco Masini live al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/marco-masini-concerto-villafranca-festival-14-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/58268111801823/marco-masini-foto-ufficio-stampa-comunicazione-eventi-verona.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-14_a_san_zeno_di_montagna_l_incontro_oltre_",
-    "title": "A San Zeno di Montagna l'incontro \"Oltre il silenzio: diritti, parità e la lotta contro la violenza sulle donne\"",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/incontro-oltre-silenzio-diritti-parita-donne-14-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-14_festa_della_solidariet_a_correzzo",
-    "title": "Festa della Solidarietà a Correzzo",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-solidarieta-correzzo-10-14-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14__il_ventaglio_di_carlo_goldoni_al_cortil",
     "title": "“Il Ventaglio” di Carlo Goldoni al Cortile Montanari",
     "date": "2026-07-14",
@@ -515,34 +459,6 @@
     "url": "https://www.cittadiverona.it/eventi/avari-micromega/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/avari-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-14_concerto_di_marco_masini_al_castello_sca",
-    "title": "Concerto di Marco Masini al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-marco-masini-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/marco-masini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-14_goran_bregovi_e_la_wedding_and_funeral_o",
-    "title": "Goran Bregović e la “Wedding and Funeral Orchestra” al Castello Scaligero di Villafranca",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/goran-bregovic-wedding-and-funeral-orchestra-castello-scaligero-villafranca/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/06/Goran-Bregovic-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,6 +574,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-16_palo_della_cuccagna_del_cadenon_a_lazise",
+    "title": "Palo della Cuccagna del Cadenon a Lazise",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/palio-della-cuccagna-del-cadenon/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/07/palo-della-cuccagna-del-cadenon-lazise-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-16__teatro_in_corte_nel_borgo_medievale_di_",
     "title": "“Teatro in Corte” nel borgo medievale di Affi",
     "date": "2026-07-16",
@@ -760,13 +690,13 @@
     "title": "Massimo Cacciari ospite della rassegna \"Cavalo sotto le stelle\"",
     "date": "2026-07-17",
     "time": "",
-    "type": "Incontri",
-    "venue_type": "Incontri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/massimo-cacciari-cavalo-sotto-stelle-europa-17-luglio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34590752901461/locandina-massimo-cacciari-a-cavalo.jpeg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -798,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-17_festa_della_madonna_del_carmine_a_cavaio",
+    "title": "Festa della Madonna del Carmine a Cavaion Veronese",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-madonna-del-carmine-a-cavaion-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-madonna-del-carmine-cavaion-veronese-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-17_festa_dell_ospite_di_fosse",
     "title": "Festa dell’Ospite di Fosse",
     "date": "2026-07-17",
@@ -809,6 +753,34 @@
     "url": "https://www.cittadiverona.it/eventi/festa-ospite-fosse/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-ospite-fosse-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-17_antica_sagra_della_madonna_del_carmelo_a",
+    "title": "Antica sagra della Madonna del Carmelo a Nogara",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-madonna-carmelo-nogara/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/sagra-madonna-del-carmelo-a-nogara-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-17_festival_son_r_al_centro_culturale_6_mag",
+    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1008,15 +980,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-21_a_veronella_la_sagra_della_madonna_del_c",
-    "title": "A Veronella la Sagra della Madonna del Carmine",
-    "date": "2026-07-21",
+    "id": "veronasera_2026-07-22_nek_in_concerto_al_castello_scaligero_di",
+    "title": "Nek in concerto al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-22",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/nek-hits-live-concerto-castello-villafranca-22-luglio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/5213225424372/nek-foto-ufficio-stampa-eventi-verona-srl.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-07-22_green_party_in_vigneto",
+    "title": "Green party in vigneto",
+    "date": "2026-07-22",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-madonna-carmine-veronella-9-21-luglio-2026.html",
+    "url": "https://www.veronasera.it/eventi/green-party-vigneto-tenuta-canova-22-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1145,20 +1131,6 @@
     "url": "https://www.cittadiverona.it/eventi/il-ladro-di-sole/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/il-ladro-di-sole-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-31_corte_dell_astra_un_mese_di_teatro_e_cin",
-    "title": "Corte dell’Astra: un mese di teatro e cinema all’aperto",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corte-cinema-astra-film-spettacolo-29-giugno-31-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1311,20 +1283,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
-    "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
-    "date": "2026-09-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/urban-orbit-spetacoli-26-giugno-12-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
