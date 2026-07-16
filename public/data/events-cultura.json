@@ -462,17 +462,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-15_meet_greet_con_fody_fabrics",
-    "title": "Meet & greet con Fody Fabrics",
+    "id": "cittadiverona_2026-07-15_3_serate_di_musica_dal_vivo_al_mura_fest",
+    "title": "3 serate di musica dal vivo al Mura Festival",
     "date": "2026-07-15",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/meet-greet-fody-fabrics-15-luglio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/serate-musica-dal-vivo-mura-festival/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Ella-codesta-a-Mura-Festival-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -742,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-17_festival_son_r_al_centro_culturale_6_mag",
+    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
+    "date": "2026-07-17",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-17_festa_dell_ospite_di_fosse",
     "title": "Festa dell’Ospite di Fosse",
     "date": "2026-07-17",
@@ -767,20 +781,6 @@
     "url": "https://www.cittadiverona.it/eventi/antica-sagra-madonna-carmelo-nogara/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/sagra-madonna-del-carmelo-a-nogara-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-17_festival_son_r_al_centro_culturale_6_mag",
-    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -812,6 +812,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-18_la_follia_come_atto_di_libert_a_cerea_co",
+    "title": "La follia come atto di libertà a Cerea con \"Zona Franca\"",
+    "date": "2026-07-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/zona-franca-cerea-18-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-18_party_summer_vibes_e_cuccagna_sul_porto",
     "title": "Party summer vibes e cuccagna sul porto",
     "date": "2026-07-18",
@@ -821,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/party-summer-vibes-festa-cuccagna-18-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-18__il_baito_e_i_suoi_attrezzi_a_salaorno_e",
+    "title": "\"Il baito e i suoi attrezzi a Salaorno\", escursione guidata tra antiche contrade cimbre",
+    "date": "2026-07-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-baito-18-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -966,20 +994,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-20_festa_dell_antica_pieve_a_cologna_veneta",
-    "title": "Festa dell’Antica Pieve a Cologna Veneta",
-    "date": "2026-07-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-antica-pieve-baldaria-16-20-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-22_nek_in_concerto_al_castello_scaligero_di",
     "title": "Nek in concerto al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-22",
@@ -1050,20 +1064,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
-    "title": "Fiorella Mannoia a Villafranca di Verona",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
     "title": "Quarta edizione del Garda Festival",
     "date": "2026-07-24",
@@ -1075,6 +1075,20 @@
     "url": "https://www.cittadiverona.it/eventi/garda-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
+    "title": "Fiorella Mannoia a Villafranca di Verona",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1103,20 +1117,6 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-27_festa_de_l_unit_di_verona_quinzano",
-    "title": "Festa de l’Unità di Verona - Quinzano",
-    "date": "2026-07-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-unita-pd-10-27-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1269,20 +1269,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
