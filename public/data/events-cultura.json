@@ -448,20 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-15_3_serate_di_musica_dal_vivo_al_mura_fest",
-    "title": "3 serate di musica dal vivo al Mura Festival",
-    "date": "2026-07-15",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/serate-musica-dal-vivo-mura-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Ella-codesta-a-Mura-Festival-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-16_il_festival_urban_orbit_trasforma_verona",
     "title": "Il festival “Urban orbit” trasforma Verona in un palcoscenico diffuso a cielo aperto",
     "date": "2026-07-16",
@@ -476,20 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-16_festa_dell_antica_pieve_a_cologna_veneta",
-    "title": "Festa dell’antica Pieve a Cologna Veneta",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-16_sagra_di_santa_maria_maddalena_a_castelc",
     "title": "Sagra di Santa Maria Maddalena a Castelcerino",
     "date": "2026-07-16",
@@ -501,6 +473,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-santa-maria-maddalena-a-castelcerino-soave/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/07/sagra-santa-maria-maddalena-castelcerino-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-16_festa_dell_antica_pieve_a_cologna_veneta",
+    "title": "Festa dell’antica Pieve a Cologna Veneta",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -560,48 +546,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-07-17_angelina_mango_in_concerto_a_verona",
-    "title": "Angelina Mango in concerto a Verona",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/angelina-mango-concerto-teatro-romano-17-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/15818331244112/angelina-mango-locandina-concerto-2026-ufficio-stampa-eventi-verona-srl.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-17_massimo_cacciari_ospite_della_rassegna_c",
-    "title": "Massimo Cacciari ospite della rassegna \"Cavalo sotto le stelle\"",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/massimo-cacciari-cavalo-sotto-stelle-europa-17-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-17_aperitivo_inclusivo_con_fody_fabrics",
-    "title": "Aperitivo inclusivo con Fody Fabrics",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivo-inclusivo-fody-fabrics-17-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-17_fiera_del_tartufo_veneto_a_ferrara_di_mo",
     "title": "Fiera del tartufo Veneto a Ferrara di Monte Baldo",
     "date": "2026-07-17",
@@ -627,20 +571,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-della-madonna-del-carmine-a-cavaion-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-madonna-del-carmine-cavaion-veronese-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-17_festival_son_r_al_centro_culturale_6_mag",
-    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -683,20 +613,6 @@
     "url": "https://www.cittadiverona.it/eventi/noi-andiamo-a-tutta-birra/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/noi-andiamo-a-tutta-birra-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-17_angelina_mango_al_teatro_romano_di_veron",
-    "title": "Angelina Mango al Teatro Romano di Verona",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/angelina-mango-teatro-romano-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/angelina-mango-nina-canta-nei-teatri-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -812,20 +728,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-18_commedia_colpo_di_fulmine_a_dossobuono",
-    "title": "Commedia “Colpo di Fulmine?” a Dossobuono",
-    "date": "2026-07-18",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/commedia-colpo-di-fulmine/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/commedia-colpo-di-fulmine-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-18_evento_teatrale_musicale_il_fuggitivo_da",
     "title": "Evento teatrale-musicale “Il fuggitivo. Dal monte alla miniera” a Velo Veronese",
     "date": "2026-07-18",
@@ -837,6 +739,20 @@
     "url": "https://www.cittadiverona.it/eventi/evento-teatrale-musicale-il-fuggitivo-dal-monte-alla-miniera/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/il-fuggitivo-dal-monte-alla-miniera-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-18_commedia_colpo_di_fulmine_a_dossobuono",
+    "title": "Commedia “Colpo di Fulmine?” a Dossobuono",
+    "date": "2026-07-18",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/commedia-colpo-di-fulmine/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/commedia-colpo-di-fulmine-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -980,20 +896,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-22_sagra_di_santa_maria_maddalena_a_travenz",
-    "title": "Sagra di Santa Maria Maddalena a Travenzuolo",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-santa-maria-maddalena-travenzuolo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-santa-maria-maddalena-travenzuolo-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-22_green_party_in_vigneto_a_masi_tenuta_can",
     "title": "Green Party in Vigneto a Masi Tenuta Canova",
     "date": "2026-07-22",
@@ -1005,6 +907,20 @@
     "url": "https://www.cittadiverona.it/eventi/green-party-vigneto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Green-Party-in-vigneto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-22_sagra_di_santa_maria_maddalena_a_travenz",
+    "title": "Sagra di Santa Maria Maddalena a Travenzuolo",
+    "date": "2026-07-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-santa-maria-maddalena-travenzuolo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-santa-maria-maddalena-travenzuolo-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1078,6 +994,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
+    "title": "Fiorella Mannoia a Villafranca di Verona",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
     "title": "Quarta edizione del Garda Festival",
     "date": "2026-07-24",
@@ -1092,17 +1022,31 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
-    "title": "Fiorella Mannoia a Villafranca di Verona",
-    "date": "2026-07-24",
+    "id": "veronasera_2026-07-25_daniele_silvestri_in_concerto_al_teatro_",
+    "title": "Daniele Silvestri in concerto al Teatro Romano",
+    "date": "2026-07-25",
     "time": "",
     "type": "Concerti",
     "venue_type": "Concerti",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/daniele-silvestri-concerto-teatro-romano-25-luglio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/2296288854044/daniele-silvestri-foto-albert-d-andrea-via-ufficio-stampa-comunicazione-eventi-verona.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-07-25_enrico_nigiotti_in_concerto_al_castello_",
+    "title": "Enrico Nigiotti in concerto al Castello Scaligero di Villafranca di Verona",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/enrico-nigiotti-concerto-villafranca-verona-25-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
