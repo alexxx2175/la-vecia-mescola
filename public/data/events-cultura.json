@@ -420,20 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-14__il_ventaglio_di_carlo_goldoni_al_cortil",
-    "title": "“Il Ventaglio” di Carlo Goldoni al Cortile Montanari",
-    "date": "2026-07-14",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14__avari_il_nuovo_spettacolo_di_micromega_",
     "title": "“Avari”, il nuovo spettacolo di Micromega al chiostro di S. Maria in Organo",
     "date": "2026-07-14",
@@ -459,6 +445,20 @@
     "url": "https://www.cittadiverona.it/eventi/festival-urban-orbit-trasforma-verona-palcoscenico-diffuso-cielo-aperto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/urban-orbit-street-theatre-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-16_festa_dell_antica_pieve_a_cologna_veneta",
+    "title": "Festa dell’antica Pieve a Cologna Veneta",
+    "date": "2026-07-16",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -490,48 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-16_festa_dell_antica_pieve_a_cologna_veneta",
-    "title": "Festa dell’antica Pieve a Cologna Veneta",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-16_palo_della_cuccagna_del_cadenon_a_lazise",
-    "title": "Palo della Cuccagna del Cadenon a Lazise",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/palio-della-cuccagna-del-cadenon/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/07/palo-della-cuccagna-del-cadenon-lazise-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-16__midsummer_sogno_di_un_gioco_di_mezza_es",
-    "title": "“Midsummer. Sogno di un gioco di mezza estate” per l’Estate Teatrale Veronese",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/midsummer-sogno-gioco-mezza-estate/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/midsummer-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-07-17_vinitaly_and_the_city_calabria_in_wine",
     "title": "Vinitaly and the City Calabria in Wine",
     "date": "2026-07-17",
@@ -544,20 +502,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "cittadiverona_2026-07-17_fiera_del_tartufo_veneto_a_ferrara_di_mo",
-    "title": "Fiera del tartufo Veneto a Ferrara di Monte Baldo",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiera-tartufo-veneto-ferrara-monte-baldo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/fiera-del-tartufo-veneto-ferrara-di-monte-baldo-2026-600x338.jpeg",
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-07-17_festa_della_madonna_del_carmine_a_cavaio",
@@ -588,132 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-17_festa_dell_ospite_di_fosse",
-    "title": "Festa dell’Ospite di Fosse",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-ospite-fosse/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-ospite-fosse-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-17_terza_edizione_di_noi_andiamo_a_tutta_bi",
-    "title": "Terza edizione di “Noi andiamo a tutta birra” a Colognola ai Colli",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/noi-andiamo-a-tutta-birra/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/noi-andiamo-a-tutta-birra-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-18_week_end_in_musica_al_mura_festival",
-    "title": "Week-end in musica al Mura Festival",
-    "date": "2026-07-18",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/week-end-musica-mura-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/the-foolz-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-19_pala_family_fest_2026_palaghiaccio_di_bo",
-    "title": "Pala Family Fest 2026 | Palaghiaccio di Bosco Chiesanuova",
-    "date": "2026-07-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/pala-family-fest-palaghiaccio-bosco-chiesanuova-19-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-19__le_origini_di_rover_veronese_il_primo_i",
-    "title": "\"Le origini di Roveré Veronese, il primo insediamento cimbro\"",
-    "date": "2026-07-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/passeggiata-origini-rovere-veronese-insediamento-cimbro-19-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-19_viaggio_nella_biodiversit_del_monte_bald",
-    "title": "Viaggio nella biodiversità del Monte Baldo",
-    "date": "2026-07-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/viaggio-biodiversita-monte-baldo-19-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-19__noi_andiamo_a_tutta_birra_a_colognola_a",
-    "title": "“Noi Andiamo a Tutta Birra” a Colognola ai Colli",
-    "date": "2026-07-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/noi-andiamo-tutta-birra-colognola-ai-colli-festa-17-19-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-19_pala_family_fest_al_palaghiaccio_di_bosc",
-    "title": "Pala Family Fest al Palaghiaccio di Bosco Chiesanuova",
-    "date": "2026-07-19",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/pala-family-fest/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Pala-Family-Fest-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-19__niente_di_privato_omaggio_a_giorgio_gab",
-    "title": "“Niente di privato”, omaggio a Giorgio Gaber al Parco ai Cotoni",
-    "date": "2026-07-19",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/niente-di-privato-omaggio-giorgio-gaber/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/niente-di-privato-omaggio-a-gaber-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-20_festa_dell_antica_pieve_a_cologna_veneta",
     "title": "Festa dell’Antica Pieve a Cologna Veneta",
     "date": "2026-07-20",
@@ -728,6 +546,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-20_fiera_del_tartufo_veneto_a_ferrara_di_mo",
+    "title": "Fiera del Tartufo Veneto a Ferrara di Monte Baldo",
+    "date": "2026-07-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fiera-regionale-tartufo-veneto-17-20-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-21_a_veronella_la_sagra_della_madonna_del_c",
     "title": "A Veronella la Sagra della Madonna del Carmine",
     "date": "2026-07-21",
@@ -737,6 +569,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sagra-madonna-carmine-veronella-9-21-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-21_la_sagra_di_santa_maria_maddalena_a_cast",
+    "title": "La Sagra di Santa Maria Maddalena a Castelcerino di Soave",
+    "date": "2026-07-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-santa-maria-maddalena-castelcerino-16-21-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -770,20 +616,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-22_sagra_di_santa_maria_maddalena_a_travenz",
-    "title": "Sagra di Santa Maria Maddalena a Travenzuolo",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-santa-maria-maddalena-travenzuolo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-santa-maria-maddalena-travenzuolo-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-22_green_party_in_vigneto_a_masi_tenuta_can",
     "title": "Green Party in Vigneto a Masi Tenuta Canova",
     "date": "2026-07-22",
@@ -795,6 +627,20 @@
     "url": "https://www.cittadiverona.it/eventi/green-party-vigneto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Green-Party-in-vigneto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-22_sagra_di_santa_maria_maddalena_a_travenz",
+    "title": "Sagra di Santa Maria Maddalena a Travenzuolo",
+    "date": "2026-07-22",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-santa-maria-maddalena-travenzuolo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-santa-maria-maddalena-travenzuolo-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -868,20 +714,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
-    "title": "Quarta edizione del Garda Festival",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
     "title": "Fiorella Mannoia a Villafranca di Verona",
     "date": "2026-07-24",
@@ -893,6 +725,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
+    "title": "Quarta edizione del Garda Festival",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -980,6 +826,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-27_madame_live_al_castello_scaligero_di_vil",
+    "title": "Madame live al Castello Scaligero di Villafranca",
+    "date": "2026-07-27",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/madame-concerto-castello-scaligero-villafranca-verona-27-luglio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/58063013932781/locandina-madame-live-2026-2.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "veronasera_2026-07-27_festa_de_l_unit_di_verona_quinzano",
     "title": "Festa de l’Unità di Verona - Quinzano",
     "date": "2026-07-27",
@@ -1005,6 +865,20 @@
     "url": "https://www.cittadiverona.it/eventi/il-ladro-di-sole/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/il-ladro-di-sole-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-31_corte_dell_astra_un_mese_di_teatro_e_cin",
+    "title": "Corte dell’Astra: un mese di teatro e cinema all’aperto",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/corte-cinema-astra-film-spettacolo-29-giugno-31-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1157,6 +1031,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
+    "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
+    "date": "2026-09-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/urban-orbit-spetacoli-26-giugno-12-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
