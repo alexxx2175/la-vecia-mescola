@@ -434,34 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-16_il_festival_urban_orbit_trasforma_verona",
-    "title": "Il festival “Urban orbit” trasforma Verona in un palcoscenico diffuso a cielo aperto",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-urban-orbit-trasforma-verona-palcoscenico-diffuso-cielo-aperto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/urban-orbit-street-theatre-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-16_festa_dell_antica_pieve_a_cologna_veneta",
-    "title": "Festa dell’antica Pieve a Cologna Veneta",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-della-trebbiatura-a-cologna-veneta",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/festa-antica-pieve-baldaria-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-16_sagra_di_santa_maria_maddalena_a_castelc",
     "title": "Sagra di Santa Maria Maddalena a Castelcerino",
     "date": "2026-07-16",
@@ -473,20 +445,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-santa-maria-maddalena-a-castelcerino-soave/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/07/sagra-santa-maria-maddalena-castelcerino-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-16_sagra_de_san_polinar_2026_a_lugo_di_grez",
-    "title": "Sagra de San Polinar 2026 a Lugo di Grezzana",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-de-san-polinar/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/sagra-di-san-polinar-lugo-di-grezzana-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -504,20 +462,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-07-17_festa_della_madonna_del_carmine_a_cavaio",
-    "title": "Festa della Madonna del Carmine a Cavaion Veronese",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-della-madonna-del-carmine-a-cavaion-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-madonna-del-carmine-cavaion-veronese-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-17_antica_sagra_della_madonna_del_carmelo_a",
     "title": "Antica sagra della Madonna del Carmelo a Nogara",
     "date": "2026-07-17",
@@ -532,31 +476,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-20_festa_dell_antica_pieve_a_cologna_veneta",
-    "title": "Festa dell’Antica Pieve a Cologna Veneta",
+    "id": "cittadiverona_2026-07-20_yoann_bourgeois_art_company_con_the_infi",
+    "title": "Yoann Bourgeois Art Company con “The Infinite Approach” al Teatro Romano di Verona",
     "date": "2026-07-20",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-antica-pieve-baldaria-16-20-luglio-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/yoann-bourgeois-art-company-the-infinite-approach-verona/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-20_fiera_del_tartufo_veneto_a_ferrara_di_mo",
-    "title": "Fiera del Tartufo Veneto a Ferrara di Monte Baldo",
-    "date": "2026-07-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-regionale-tartufo-veneto-17-20-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/YOANN-BOURGEOIS-ART-COMPANY-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -644,6 +574,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-22_terza_edizione_del_festival_diffuso_smar",
+    "title": "Terza edizione del Festival Diffuso “SMart”",
+    "date": "2026-07-22",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-22_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
+    "date": "2026-07-22",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-22_nek_in_concerto_per_il_villafranca_festi",
     "title": "Nek in concerto per il Villafranca Festival 2026",
     "date": "2026-07-22",
@@ -655,6 +613,48 @@
     "url": "https://www.cittadiverona.it/eventi/nek-concerto-villafranca-festival-2026/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/nek-hits-live-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-23__i_gioved_di_luglio_a_san_bonifacio",
+    "title": "“I Giovedì di Luglio” a San Bonifacio",
+    "date": "2026-07-23",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giovedi-luglio-san-bonifacio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Municipio-San-Bonifacio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-23_festa_di_sant_anna_a_calmasino_di_bardol",
+    "title": "Festa di Sant’Anna a Calmasino di Bardolino",
+    "date": "2026-07-23",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-di-sant-anna-a-calmasino-di-bardolino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/07/festa-di-santa-anna-calmasino-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-23__estate_al_castello_a_castel_d_azzano",
+    "title": "“Estate al Castello” a Castel d’Azzano",
+    "date": "2026-07-23",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/estate-castello-castel-d-azzano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/estate-al-castello-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -700,6 +700,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-24_festival_son_r_al_centro_culturale_6_mag",
+    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-24_sagra_patronale_di_sant_anna_e_san_giaco",
     "title": "Sagra Patronale di Sant’Anna e San Giacomo a Isola della Scala",
     "date": "2026-07-24",
@@ -714,17 +728,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
-    "title": "Fiorella Mannoia a Villafranca di Verona",
+    "id": "cittadiverona_2026-07-24_musica_e_spettacoli_al_parco_san_giacomo",
+    "title": "Musica e spettacoli al Parco San Giacomo",
     "date": "2026-07-24",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
+    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -739,6 +753,20 @@
     "url": "https://www.cittadiverona.it/eventi/garda-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
+    "title": "Fiorella Mannoia a Villafranca di Verona",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -854,6 +882,76 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-28_crea_il_tuo_gioiello_mare_in_resina",
+    "title": "Crea il tuo gioiello mare in resina",
+    "date": "2026-07-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/crea-gioiello-mare-resina-28-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-28__libera_la_mia_musica_fuori_dall_iran_a_",
+    "title": "\"Libera, la mia musica fuori dall’Iran\": a Fondazione Meriggio un concerto dedicato alla libertà delle donne iraniane",
+    "date": "2026-07-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/libera-la-mia-musica-fuori-dall-iran-concerto-28-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-28_la_sagra_di_santa_maria_maddalena_a_trev",
+    "title": "La Sagra di Santa Maria Maddalena a Trevenzuolo",
+    "date": "2026-07-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-santa-maria-maddalena-trevenzuolo-22-28-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-30_fiera_montebaldina_a_caprino_veronese",
+    "title": "Fiera Montebaldina a Caprino Veronese",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-montebaldina-a-caprino-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/fiera-montebaldina-caprino-veronese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-30_festa_e_fiera_di_san_gaetano_a_san_pietr",
+    "title": "Festa e fiera di San Gaetano a San Pietro di Morubio",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-fiera-san-gaetano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/sagra-san-gaetano-san-pietro-di-morubio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-30__il_ladro_di_sole_a_forte_gisella",
     "title": "“Il ladro di sole” a Forte Gisella",
     "date": "2026-07-30",
@@ -893,6 +991,20 @@
     "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-01_rassegna_di_danza_contemporanea_fuori_ro",
+    "title": "Rassegna di danza contemporanea “Fuori rotta – Negrar in danza”",
+    "date": "2026-08-01",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-danza-contemporanea-fuori-rotta-negrar-danza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Fuori-Rotta-Negrar-in-Danza-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1050,17 +1162,45 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-12_maria_pia_timo_in_enciclopia_a_caldiero",
+    "title": "Maria Pia Timo in “Enciclopia” a Caldiero",
+    "date": "2026-09-12",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/maria-pia-timo-enciclopia/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/maria-pia-timo-settembre-caldierese-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-19_open_day_all_accademia_martinelli",
     "title": "Open Day all’Accademia Martinelli",
+    "date": "2026-09-19",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/open-day-accademia-martinelli/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/open-day-accademia-martinelli-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-19__emozioni_tu_chiamale_se_vuoi_al_parco_d",
+    "title": "“Emozioni… tu chiamale se vuoi” al Parco delle Terme di Giunone",
     "date": "2026-09-19",
     "time": "",
     "type": "Concerti",
     "venue_type": "Concerti",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/open-day-accademia-martinelli/",
+    "url": "https://www.cittadiverona.it/eventi/emozioni-tu-chiamale-se-vuoi/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/open-day-accademia-martinelli-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Tu-chiamale-se-vuoi-emozioni-600x338.jpg",
     "category": "cultura"
   },
   {
