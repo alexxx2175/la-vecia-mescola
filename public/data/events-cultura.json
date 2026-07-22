@@ -406,20 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-09_sagra_della_madonna_del_carmine_a_verone",
-    "title": "Sagra della Madonna del Carmine a Veronella",
-    "date": "2026-07-09",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-carmine-veronella/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-madonna-del-carmine-veronella-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-14__avari_il_nuovo_spettacolo_di_micromega_",
     "title": "“Avari”, il nuovo spettacolo di Micromega al chiostro di S. Maria in Organo",
     "date": "2026-07-14",
@@ -431,20 +417,6 @@
     "url": "https://www.cittadiverona.it/eventi/avari-micromega/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/avari-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-16_sagra_di_santa_maria_maddalena_a_castelc",
-    "title": "Sagra di Santa Maria Maddalena a Castelcerino",
-    "date": "2026-07-16",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-santa-maria-maddalena-a-castelcerino-soave/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/07/sagra-santa-maria-maddalena-castelcerino-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -460,62 +432,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "cittadiverona_2026-07-17_antica_sagra_della_madonna_del_carmelo_a",
-    "title": "Antica sagra della Madonna del Carmelo a Nogara",
-    "date": "2026-07-17",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-sagra-madonna-carmelo-nogara/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/sagra-madonna-del-carmelo-a-nogara-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-20_yoann_bourgeois_art_company_con_the_infi",
-    "title": "Yoann Bourgeois Art Company con “The Infinite Approach” al Teatro Romano di Verona",
-    "date": "2026-07-20",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/yoann-bourgeois-art-company-the-infinite-approach-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/YOANN-BOURGEOIS-ART-COMPANY-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-21_a_veronella_la_sagra_della_madonna_del_c",
-    "title": "A Veronella la Sagra della Madonna del Carmine",
-    "date": "2026-07-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-madonna-carmine-veronella-9-21-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-21_la_sagra_di_santa_maria_maddalena_a_cast",
-    "title": "La Sagra di Santa Maria Maddalena a Castelcerino di Soave",
-    "date": "2026-07-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-santa-maria-maddalena-castelcerino-16-21-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronasera_2026-07-22_nek_in_concerto_al_castello_scaligero_di",
@@ -613,6 +529,20 @@
     "url": "https://www.cittadiverona.it/eventi/nek-concerto-villafranca-festival-2026/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/nek-hits-live-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-23_english_conversation_night_with_inlingua",
+    "title": "English conversation night with inlingua Verona",
+    "date": "2026-07-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/english-conversation-night-inlingua-verona-23-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -728,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-24_165_fiera_agricola_e_festa_patronale_di_",
+    "title": "165° Fiera Agricola e Festa Patronale di Sant’Anna d’Alfaedo",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-agricola-festa-patronale-sant-anna-d-alfaedo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Fiera-Agricola-e-Festa-Patronale-di-Sant-Anna-d-Alfaedo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-24_musica_e_spettacoli_al_parco_san_giacomo",
     "title": "Musica e spettacoli al Parco San Giacomo",
     "date": "2026-07-24",
@@ -798,6 +742,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-25_principe_history_90s_vigo_di_legnago",
+    "title": "Principe History 90s Vigo di Legnago",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/principe-history-90s-vigo-legnago-25-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-25_il_groove_dei_mine_strong_allo_stone_ros",
+    "title": "Il groove dei Mine.Strong allo Stone Rose",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/groove-mine-strong-stone-rose-25-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-25_notte_rosa_a_torri_del_benaco",
+    "title": "Notte rosa a Torri del Benaco",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/notte-rosa-a-torri-del-benaco/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/notter-rosa-a-torri-del-benaco-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-25_daniele_silvestri_in_un_live_acustico_al",
     "title": "Daniele Silvestri in un live acustico al Teatro Romano di Verona",
     "date": "2026-07-25",
@@ -809,6 +795,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-di-daniele-silvestri-a-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/03/daniele-silvestri-teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-26_escursione_tra_bosco_chiesanuova_e_val_d",
+    "title": "Escursione tra Bosco Chiesanuova e Val di Porro con visita all'azienda Le erbe di Cenise",
+    "date": "2026-07-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-bosco-chiesanuova-val-di-porro-26-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -905,20 +905,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/libera-la-mia-musica-fuori-dall-iran-concerto-28-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-28_la_sagra_di_santa_maria_maddalena_a_trev",
-    "title": "La Sagra di Santa Maria Maddalena a Trevenzuolo",
-    "date": "2026-07-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-santa-maria-maddalena-trevenzuolo-22-28-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1050,12 +1036,26 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-08-12_aperitivo_d_estate_festa_a_colori",
+    "title": "Aperitivo d’estate: festa a colori",
+    "date": "2026-08-12",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/aperitivo-d-estate-festa-colori/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Aperitivo-estivo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-18__paganini_paradise_superlive_immersive_c",
     "title": "“Paganini Paradise – Superlive Immersive Concert” all’Arena di Verona",
     "date": "2026-08-18",
     "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
     "location": "Verona",
     "source": "cittadiverona.it",
     "url": "https://www.cittadiverona.it/eventi/paganini-paradise-superlive-immersive-concert-arena-verona/",
@@ -1089,6 +1089,34 @@
     "url": "https://www.cittadiverona.it/eventi/storia-cipi/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Cipi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-27__teatro_in_corte_nel_borgo_medievale_di_",
+    "title": "“Teatro in Corte” nel borgo medievale di Affi",
+    "date": "2026-08-27",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/teatro-corte-borgo-medievale-affi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/teatro-in-corte-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-28_passeggiate_tra_vigne_e_uliveti_a_bardol",
+    "title": "Passeggiate tra vigne e uliveti a Bardolino",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/passeggiate-vigne-uliveti-bardolino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Passeggiate_tra_vigne_e_uliveti-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1143,20 +1171,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
-    "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
-    "date": "2026-09-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/urban-orbit-spetacoli-26-giugno-12-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
