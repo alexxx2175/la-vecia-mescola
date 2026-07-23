@@ -434,48 +434,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-07-22_nek_in_concerto_al_castello_scaligero_di",
-    "title": "Nek in concerto al Castello Scaligero di Villafranca di Verona",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/nek-hits-live-concerto-castello-villafranca-22-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/5213225424372/nek-foto-ufficio-stampa-eventi-verona-srl.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-22_green_party_in_vigneto",
-    "title": "Green party in vigneto",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/green-party-vigneto-tenuta-canova-22-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-22_green_party_in_vigneto_a_masi_tenuta_can",
-    "title": "Green Party in Vigneto a Masi Tenuta Canova",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/green-party-vigneto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/Green-Party-in-vigneto-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-22_sagra_di_santa_maria_maddalena_a_travenz",
     "title": "Sagra di Santa Maria Maddalena a Travenzuolo",
     "date": "2026-07-22",
@@ -490,45 +448,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-22_terza_edizione_del_festival_diffuso_smar",
-    "title": "Terza edizione del Festival Diffuso “SMart”",
+    "id": "cittadiverona_2026-07-22_3_serate_di_musica_dal_vivo_al_mura_fest",
+    "title": "3 serate di musica dal vivo al Mura Festival",
     "date": "2026-07-22",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
+    "url": "https://www.cittadiverona.it/eventi/serate-musica-dal-vivo-mura-festival/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-22_rassegna_culturale_e_state_a_sona_",
-    "title": "Rassegna culturale “E… State a Sona”",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-22_nek_in_concerto_per_il_villafranca_festi",
-    "title": "Nek in concerto per il Villafranca Festival 2026",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/nek-concerto-villafranca-festival-2026/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/nek-hits-live-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/03/IMG_1562-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -557,6 +487,20 @@
     "url": "https://www.cittadiverona.it/eventi/giovedi-luglio-san-bonifacio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Municipio-San-Bonifacio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-23_sagra_di_san_giacomo_a_rivalta_veronese",
+    "title": "Sagra di San Giacomo a Rivalta Veronese",
+    "date": "2026-07-23",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-san-giacomo-rivalta-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-di-san-giacomo-rivalta-veronese-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -616,6 +560,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-24_tre_serate_tra_jazz_lucio_dalla_e_ritmi_",
+    "title": "Tre serate tra jazz, Lucio Dalla e ritmi latini al Mura Festival",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerti-mura-festival-22-24-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-24_festa_degli_gnocchi_di_malga_a_valdiporr",
     "title": "Festa degli Gnocchi di Malga a Valdiporro",
     "date": "2026-07-24",
@@ -630,20 +588,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_festival_son_r_al_centro_culturale_6_mag",
-    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_sagra_patronale_di_sant_anna_e_san_giaco",
     "title": "Sagra Patronale di Sant’Anna e San Giacomo a Isola della Scala",
     "date": "2026-07-24",
@@ -655,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-patronale-di-santanna-e-san-giacomo-a-isola-della-scala/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2022/07/sagra-san-giacomo-e-santa-anna-isola-della-scala-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_festival_son_r_al_centro_culturale_6_mag",
+    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -686,20 +644,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
-    "title": "Quarta edizione del Garda Festival",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
     "title": "Fiorella Mannoia a Villafranca di Verona",
     "date": "2026-07-24",
@@ -711,6 +655,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
+    "title": "Quarta edizione del Garda Festival",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -812,6 +770,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-26_due_giornate_tra_preistoria_laboratori_e",
+    "title": "Due giornate tra preistoria, laboratori e visite guidate al Museo paleontologico e preistorico di Sant'Anna d'Alfaedo",
+    "date": "2026-07-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/preistoria-laboratori-visite-guidate-museo-paleontologico-25-26-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-26_garda_festival_2026_i_musici_piccinniani",
     "title": "Garda Festival 2026: I Musici Piccinniani",
     "date": "2026-07-26",
@@ -821,6 +793,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/garda-festival-i-musici-piccinniani-26-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-26_la_festa_d_estate_a_castelnuovo_del_gard",
+    "title": "La Festa d'Estate a Castelnuovo del Garda",
+    "date": "2026-07-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-estate-castelnuovo-24-26-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,6 +868,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-27_momix_al_teatro_romano_di_verona_con_bot",
+    "title": "Momix al Teatro Romano di Verona con “Botanica – Season 2”",
+    "date": "2026-07-27",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/momix-al-teatro-romano-di-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/07/momix-teatro-romano-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-28_crea_il_tuo_gioiello_mare_in_resina",
     "title": "Crea il tuo gioiello mare in resina",
     "date": "2026-07-28",
@@ -910,6 +910,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-30_andrea_pennacchi_a_villa_ciresola_alieni",
+    "title": "Andrea Pennacchi a Villa Ciresola: “Alieni in laguna”",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/andrea-pennacchi-alieni-in-laguna-30-luglio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/57840627057913/alieni_in_laguna-andrea-pennacchi-locandina-2026.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-30_una_notte_tra_libri_e_stelle_a_fondazion",
+    "title": "Una notte tra libri e stelle: a Fondazione Meriggio torna il Library Party",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/libri-stelle-fondazione-meriggio-library-party-30-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-30_fiera_montebaldina_a_caprino_veronese",
     "title": "Fiera Montebaldina a Caprino Veronese",
     "date": "2026-07-30",
@@ -921,6 +949,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiera-montebaldina-a-caprino-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/fiera-montebaldina-caprino-veronese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-30_serata_dedicata_al_mondo_del_vino_il_tuo",
+    "title": "Serata dedicata al mondo del vino “Il tuo vino è ottimo. Online, chi lo sa?”",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/serata-mondo-vino-vino-ottimo-online-chi-lo-sa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/serata-dedicata-al-mondo-del-vino-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -949,20 +991,6 @@
     "url": "https://www.cittadiverona.it/eventi/il-ladro-di-sole/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/il-ladro-di-sole-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-31_corte_dell_astra_un_mese_di_teatro_e_cin",
-    "title": "Corte dell’Astra: un mese di teatro e cinema all’aperto",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corte-cinema-astra-film-spettacolo-29-giugno-31-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1019,6 +1047,20 @@
     "url": "https://www.cittadiverona.it/eventi/viaggi-sindbad-marinaio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/I-viaggi-di-Sindbad-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-07_il_nuovo_festival_musicale_musicalbrolo_",
+    "title": "Il nuovo festival musicale “MusicalBrolo” debutta a Castelnuovo del Garda",
+    "date": "2026-08-07",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-musicale-musicalbrolo-castelnuovo-del-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Dirotta-su-Cuba-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1106,6 +1148,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-27__jim_e_il_pirata_ispirato_al_celebre_rom",
+    "title": "“Jim e il pirata” ispirato al celebre romanzo L’isola del tesoro a l’Arena Dim",
+    "date": "2026-08-27",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/jim-pirata-ispirato-celebre-romanzo-isola-del-tesoro/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Jim-e-il-pirata-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-28_passeggiate_tra_vigne_e_uliveti_a_bardol",
     "title": "Passeggiate tra vigne e uliveti a Bardolino",
     "date": "2026-08-28",
@@ -1117,6 +1173,20 @@
     "url": "https://www.cittadiverona.it/eventi/passeggiate-vigne-uliveti-bardolino/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Passeggiate_tra_vigne_e_uliveti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-28_tre_giorni_di_degustazioni_mostre_e_musi",
+    "title": "Tre giorni di degustazioni, mostre e musica con “Il Bardolino Freddo”",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/il-bardolino-freddo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Bardolino-Freddo-2026-600x338.jpg",
     "category": "cultura"
   },
   {
