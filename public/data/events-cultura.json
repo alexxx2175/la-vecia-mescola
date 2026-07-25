@@ -420,6 +420,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-07-21_serate_forti_serata_arte_",
+    "title": "Serate Forti: \"Serata arte\"",
+    "date": "2026-07-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/serate-forti-serata-arte-21-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-22_sagra_di_santa_maria_maddalena_a_travenz",
     "title": "Sagra di Santa Maria Maddalena a Travenzuolo",
     "date": "2026-07-22",
@@ -431,20 +445,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-santa-maria-maddalena-travenzuolo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/sagra-santa-maria-maddalena-travenzuolo-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-22_3_serate_di_musica_dal_vivo_al_mura_fest",
-    "title": "3 serate di musica dal vivo al Mura Festival",
-    "date": "2026-07-22",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/serate-musica-dal-vivo-mura-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/03/IMG_1562-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -476,48 +476,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-24_fiorella_mannoia_al_castello_scaligero_d",
-    "title": "Fiorella Mannoia al Castello Scaligero di Villafranca omaggia Fabrizio De André e Ivano Fossati",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiorella-mannoia-anime-salve-concerto-24-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38710601134393/locandina-fiorella-mannoia-canta-fabrizio-e-ivano-anime-salve-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-24_garda_festival_2026_jacopo_taddei_e_fili",
-    "title": "Garda Festival 2026: Jacopo Taddei e Filippo Farinelli",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/garda-festival-jacopo-taddei-filippo-farinelli-24-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-24_tre_serate_tra_jazz_lucio_dalla_e_ritmi_",
-    "title": "Tre serate tra jazz, Lucio Dalla e ritmi latini al Mura Festival",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/concerti-mura-festival-22-24-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_festa_degli_gnocchi_di_malga_a_valdiporr",
     "title": "Festa degli Gnocchi di Malga a Valdiporro",
     "date": "2026-07-24",
@@ -546,20 +504,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_festival_son_r_al_centro_culturale_6_mag",
-    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_165_fiera_agricola_e_festa_patronale_di_",
     "title": "165° Fiera Agricola e Festa Patronale di Sant’Anna d’Alfaedo",
     "date": "2026-07-24",
@@ -574,17 +518,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_musica_e_spettacoli_al_parco_san_giacomo",
-    "title": "Musica e spettacoli al Parco San Giacomo",
+    "id": "cittadiverona_2026-07-24_commedia_brillante_a_i_uto_tre_sono_trop",
+    "title": "Commedia brillante “A.I.UTO – Tre sono troppe” al chiostro di S. Maria in Organo",
     "date": "2026-07-24",
     "time": "",
     "type": "Teatro",
     "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
+    "url": "https://www.cittadiverona.it/eventi/commedia-brillante-a-i-uto-tre-sono-troppe/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aiuto-tre-sono-troppe-commedia-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -602,20 +546,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-24_fiorella_mannoia_a_villafranca_di_verona",
-    "title": "Fiorella Mannoia a Villafranca di Verona",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiorella-mannoia-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Fiorella-Mannoia-Anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-25_daniele_silvestri_in_concerto_al_teatro_",
     "title": "Daniele Silvestri in concerto al Teatro Romano",
     "date": "2026-07-25",
@@ -630,6 +560,20 @@
     "category": "concerti_pop"
   },
   {
+    "id": "veronasera_2026-07-25_la_notte_rosa_a_torri_del_benaco",
+    "title": "La Notte Rosa a Torri del Benaco",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/notte-rosa-festa-torri-del-benaco-25-luglio-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34998317290502/castello-scaligero-torri-del-benaco-foto-ufficio-stampa-turris-antiqua.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-25_enrico_nigiotti_in_concerto_al_castello_",
     "title": "Enrico Nigiotti in concerto al Castello Scaligero di Villafranca di Verona",
     "date": "2026-07-25",
@@ -639,20 +583,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/enrico-nigiotti-concerto-villafranca-verona-25-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-25_la_notte_rosa_a_torri_del_benaco",
-    "title": "La Notte Rosa a Torri del Benaco",
-    "date": "2026-07-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notte-rosa-festa-torri-del-benaco-25-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -756,6 +686,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-25_daniele_silvestri_in_un_live_acustico_al",
+    "title": "Daniele Silvestri in un live acustico al Teatro Romano di Verona",
+    "date": "2026-07-25",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-di-daniele-silvestri-a-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/03/daniele-silvestri-teatro-romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-25__rivalsalieri_il_salieri_secondo_castell",
     "title": "“Rivalsalieri”, il Salieri secondo Castelletti a Villa Piccoli",
     "date": "2026-07-25",
@@ -770,17 +714,31 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-25_daniele_silvestri_in_un_live_acustico_al",
-    "title": "Daniele Silvestri in un live acustico al Teatro Romano di Verona",
-    "date": "2026-07-25",
+    "id": "veronasera_2026-07-26_mercato_antiquariato_e_modernariato_vale",
+    "title": "Mercato Antiquariato e modernariato Valeggio sul Mincio",
+    "date": "2026-07-26",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-di-daniele-silvestri-a-verona/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mercato-antiquariato-modernariato-valeggio-26-luglio-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/03/daniele-silvestri-teatro-romano-600x338.jpg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-26_silent_party_e_omaggio_a_giorgio_gaber_n",
+    "title": "Silent Party e omaggio a Giorgio Gaber nel fine settimana al Mura Festival",
+    "date": "2026-07-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerto-gaber-silent-party-mura-festival-25-26-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -849,6 +807,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-estate-castelnuovo-24-26-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-26__pacengo_inn_fest_",
+    "title": "“Pacengo Inn Fest”",
+    "date": "2026-07-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/pacengo-inn-fest-24-26-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1050,6 +1022,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-07-31_grigliata_e_musica_sotto_le_stelle",
+    "title": "Grigliata e musica sotto le stelle",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/grigliata-musica-sotto-stelle-sangue-blues-31-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-31__cena_sotto_le_stelle_",
     "title": "\"Cena sotto le stelle\"",
     "date": "2026-07-31",
@@ -1092,6 +1078,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-01_visita_guidata_a_verona_il_canale_dell_a",
+    "title": "Visita guidata a Verona: \"Il canale dell'Acqua Morta\"",
+    "date": "2026-08-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-canale-acqua-morta-1-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-01_rassegna_di_danza_contemporanea_fuori_ro",
     "title": "Rassegna di danza contemporanea “Fuori rotta – Negrar in danza”",
     "date": "2026-08-01",
@@ -1103,20 +1103,6 @@
     "url": "https://www.cittadiverona.it/eventi/rassegna-danza-contemporanea-fuori-rotta-negrar-danza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Fuori-Rotta-Negrar-in-Danza-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-02_musica_spettacoli_sport_e_socialit_il_mu",
-    "title": "Musica, spettacoli, sport e socialità: il Mura Festival a Verona",
-    "date": "2026-08-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mura-festival-spettacoli-concerti-festa-28-maggio-2-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
