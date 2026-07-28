@@ -434,34 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-23_sagra_di_san_giacomo_a_rivalta_veronese",
-    "title": "Sagra di San Giacomo a Rivalta Veronese",
-    "date": "2026-07-23",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-san-giacomo-rivalta-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-di-san-giacomo-rivalta-veronese-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-23_festa_di_sant_anna_a_calmasino_di_bardol",
-    "title": "Festa di Sant’Anna a Calmasino di Bardolino",
-    "date": "2026-07-23",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-di-sant-anna-a-calmasino-di-bardolino/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/07/festa-di-santa-anna-calmasino-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_sagra_patronale_di_sant_anna_e_san_giaco",
     "title": "Sagra Patronale di Sant’Anna e San Giacomo a Isola della Scala",
     "date": "2026-07-24",
@@ -501,48 +473,6 @@
     "url": "https://www.cittadiverona.it/eventi/commedia-brillante-a-i-uto-tre-sono-troppe/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aiuto-tre-sono-troppe-commedia-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-27_madame_live_al_castello_scaligero_di_vil",
-    "title": "Madame live al Castello Scaligero di Villafranca",
-    "date": "2026-07-27",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/madame-concerto-castello-scaligero-villafranca-verona-27-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/58063013932781/locandina-madame-live-2026-2.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-07-27_festa_de_l_unit_di_verona_quinzano",
-    "title": "Festa de l’Unità di Verona - Quinzano",
-    "date": "2026-07-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-unita-pd-10-27-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-27_a_calmasino_di_bardolino_la_festa_di_san",
-    "title": "A Calmasino di Bardolino la Festa di Sant'Anna",
-    "date": "2026-07-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-sant-anna-calmasino-23-27-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -602,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-28_la_sagra_di_san_giacomo_e_sant_anna_a_is",
-    "title": "La Sagra di San Giacomo e Sant’Anna a Isola della Scala",
-    "date": "2026-07-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-san-giacomo-sant-anna-24-28-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-28_antico_palio_dei_mussi_a_terrossa_di_ron",
     "title": "Antico Palio dei Mussi a Terrossa di Roncà",
     "date": "2026-07-28",
@@ -625,6 +541,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/antico-palio-mussi-terrossa-ronca-24-28-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-28_la_sagra_di_san_giacomo_e_sant_anna_a_is",
+    "title": "La Sagra di San Giacomo e Sant’Anna a Isola della Scala",
+    "date": "2026-07-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-san-giacomo-sant-anna-24-28-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -655,6 +585,34 @@
     "url": "https://www.veronasera.it/eventi/sagra-santa-maria-maddalena-trevenzuolo-22-28-luglio-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-29_festival_son_r_al_centro_culturale_6_mag",
+    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
+    "date": "2026-07-29",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-29_terza_edizione_del_festival_diffuso_smar",
+    "title": "Terza edizione del Festival Diffuso “SMart”",
+    "date": "2026-07-29",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -725,6 +683,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiera-montebaldina-a-caprino-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/fiera-montebaldina-caprino-veronese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-30__i_gioved_di_luglio_a_san_bonifacio",
+    "title": "“I Giovedì di Luglio” a San Bonifacio",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giovedi-luglio-san-bonifacio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Municipio-San-Bonifacio-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -938,6 +910,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-03_la_fiera_montebaldina_a_caprino_veronese",
+    "title": "La Fiera Montebaldina a Caprino Veronese",
+    "date": "2026-08-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fiera-montebaldina-caprino-veronese-30-luglio-3-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-04_la_sagra_di_canton_a_ronco_all_adige",
     "title": "La Sagra di Canton a Ronco all'Adige",
     "date": "2026-08-04",
@@ -963,6 +949,20 @@
     "url": "https://www.cittadiverona.it/eventi/viaggi-sindbad-marinaio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/I-viaggi-di-Sindbad-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-06_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
+    "date": "2026-08-06",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1036,6 +1036,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-23_mercatino_antiquariato_a_valeggio_sul_mi",
+    "title": "Mercatino antiquariato a Valeggio sul Mincio",
+    "date": "2026-08-23",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-27_la_storia_di_cip_a_forte_gisella",
     "title": "La storia di “Cipì” a Forte Gisella",
     "date": "2026-08-27",
@@ -1103,6 +1117,20 @@
     "url": "https://www.cittadiverona.it/eventi/il-bardolino-freddo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Bardolino-Freddo-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-28__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
+    "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
     "category": "cultura"
   },
   {
