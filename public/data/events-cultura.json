@@ -420,20 +420,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-07-24_commedia_brillante_a_i_uto_tre_sono_trop",
-    "title": "Commedia brillante “A.I.UTO – Tre sono troppe” al chiostro di S. Maria in Organo",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/commedia-brillante-a-i-uto-tre-sono-troppe/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aiuto-tre-sono-troppe-commedia-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
     "title": "Quarta edizione del Garda Festival",
     "date": "2026-07-24",
@@ -445,6 +431,20 @@
     "url": "https://www.cittadiverona.it/eventi/garda-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_commedia_brillante_a_i_uto_tre_sono_trop",
+    "title": "Commedia brillante “A.I.UTO – Tre sono troppe” al chiostro di S. Maria in Organo",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/commedia-brillante-a-i-uto-tre-sono-troppe/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aiuto-tre-sono-troppe-commedia-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -476,31 +476,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-29_festival_son_r_al_centro_culturale_6_mag",
-    "title": "Festival “Sonàr” al Centro Culturale 6 Maggio 1848",
+    "id": "cittadiverona_2026-07-29_mura_festival_chiude_la_settima_edizione",
+    "title": "Mura Festival chiude la settima edizione con una settimana di musica ed eventi",
     "date": "2026-07-29",
     "time": "",
     "type": "Musica dal vivo",
     "venue_type": "Musica dal vivo",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-sonar-centro-culturale-6-maggio-1848/",
+    "url": "https://www.cittadiverona.it/eventi/weekend-mura-festival/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sonar-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-29_terza_edizione_del_festival_diffuso_smar",
-    "title": "Terza edizione del Festival Diffuso “SMart”",
-    "date": "2026-07-29",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festival-diffuso-smart/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/smart-festival-san-martino-buon-albergo-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/weekend-mura-festival-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,17 +644,31 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-30__ecuba_la_guerra_sulle_madri_al_parco_ai",
+    "title": "“Ecuba. La guerra sulle madri” al Parco ai Cotoni di San Giovanni Lupatoto",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ecuba-la-guerra-sulle-madri-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Ecuba-La-guerra-sulle-madri-a-Verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-07-31__la_bigolata_a_san_felice_extra",
     "title": "\"La bigolata\" a San Felice Extra",
     "date": "2026-07-31",
     "time": "",
-    "type": "Cibo e Vino",
-    "venue_type": "Cibo e Vino",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/la-bigolata-festa-31-luglio-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/5225043982497/la-bigolata.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -695,6 +695,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cena-sotto-le-stelle-serego-alighieri-31-luglio-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-07-31_serate_forti_appuntamento_con_la_musica_",
+    "title": "Serate Forti: appuntamento con la musica dei Teal Blue e le mostre d’arte contemporanea",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/serate-forti-concerto-teal-blue-arte-31-luglio-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -756,6 +770,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-31__cena_sotto_le_stelle_nel_parco_delle_st",
+    "title": "“Cena sotto le Stelle” nel parco delle storiche Possessioni Serego Alighieri",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/cena-sotto-le-stelle-nel-parco-delle-storiche-possessioni-serego-alighieri/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/07/Cena-Sotto-Le-Stelle-2-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-31_sagra_di_canton",
     "title": "Sagra di Canton",
     "date": "2026-07-31",
@@ -770,17 +798,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-31__cena_sotto_le_stelle_nel_parco_delle_st",
-    "title": "“Cena sotto le Stelle” nel parco delle storiche Possessioni Serego Alighieri",
-    "date": "2026-07-31",
+    "id": "veronasera_2026-08-01_movieland_the_next_cut_e_sky_parade_",
+    "title": "Movieland: \"The Next Cut\" e \"Sky Parade\"",
+    "date": "2026-08-01",
     "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/cena-sotto-le-stelle-nel-parco-delle-storiche-possessioni-serego-alighieri/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/movieland-the-next-cut-sky-parade-1-agosto-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/07/Cena-Sotto-Le-Stelle-2-600x338.jpg",
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/25555084323663/locandina-the-next-cut-_-sky-parade-movieland-2026.jpg",
     "category": "cultura"
   },
   {
@@ -812,6 +840,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-01_principe_90_s_history_a_terrazzo",
+    "title": "Principe 90’s History a Terrazzo",
+    "date": "2026-08-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/principe-90-history-terrazzo-1-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-01_a_bussolengo_la_festa_d_estate_e_la_most",
     "title": "A Bussolengo la Festa d'Estate e la Mostra Intercomunale delle Pesche",
     "date": "2026-08-01",
@@ -821,20 +863,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-estate-mostra-pesche-bussolengo-23-luglio-1-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-01_garda_festival_2026_4th_lake_garda_inter",
-    "title": "Garda Festival 2026: 4th Lake Garda International Festival",
-    "date": "2026-08-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/garda-festival-24-luglio-1-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,20 +910,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-02__cartoline_dal_mondo_",
-    "title": "\"Cartoline dal mondo\"",
-    "date": "2026-08-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cartoline-dal-mondo-concerto-2-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-02_cisco_live_al_rifugio_podesteria",
     "title": "Cisco live al Rifugio Podesteria",
     "date": "2026-08-02",
@@ -905,6 +919,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cisco-concerto-rifugio-podesteria-2-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-02__cartoline_dal_mondo_",
+    "title": "\"Cartoline dal mondo\"",
+    "date": "2026-08-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cartoline-dal-mondo-concerto-2-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -938,20 +966,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-03_la_fiera_montebaldina_a_caprino_veronese",
-    "title": "La Fiera Montebaldina a Caprino Veronese",
-    "date": "2026-08-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-montebaldina-caprino-veronese-30-luglio-3-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-04_la_sagra_di_canton_a_ronco_all_adige",
     "title": "La Sagra di Canton a Ronco all'Adige",
     "date": "2026-08-04",
@@ -961,6 +975,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sagra-canton-festa-31-luglio-4-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-06__i_viaggi_di_sindbad_il_marinaio_",
+    "title": "\"I viaggi di Sindbad il marinaio\"",
+    "date": "2026-08-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/i-viaggi-di-sindbad-il-marinaio-fondazione-aida-6-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1022,6 +1050,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-08-08_lago_di_garda_in_love_estate_2026",
+    "title": "Lago di Garda in Love Estate 2026",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/lago-di-garda-in-love/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/Lago-in-Love-Lazise-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-10_a_pescantina_torna_l_antica_sagra_di_san",
     "title": "A Pescantina torna l'Antica Sagra di San Lorenzo",
     "date": "2026-08-10",
@@ -1054,8 +1096,8 @@
     "title": "“Paganini Paradise – Superlive Immersive Concert” all’Arena di Verona",
     "date": "2026-08-18",
     "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "cittadiverona.it",
     "url": "https://www.cittadiverona.it/eventi/paganini-paradise-superlive-immersive-concert-arena-verona/",
@@ -1227,20 +1269,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
-    "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
-    "date": "2026-09-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/urban-orbit-spetacoli-26-giugno-12-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
