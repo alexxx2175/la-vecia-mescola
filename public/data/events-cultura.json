@@ -420,20 +420,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
-    "title": "Quarta edizione del Garda Festival",
-    "date": "2026-07-24",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-24_commedia_brillante_a_i_uto_tre_sono_trop",
     "title": "Commedia brillante “A.I.UTO – Tre sono troppe” al chiostro di S. Maria in Organo",
     "date": "2026-07-24",
@@ -445,6 +431,20 @@
     "url": "https://www.cittadiverona.it/eventi/commedia-brillante-a-i-uto-tre-sono-troppe/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aiuto-tre-sono-troppe-commedia-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-24_quarta_edizione_del_garda_festival",
+    "title": "Quarta edizione del Garda Festival",
+    "date": "2026-07-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/garda-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/garda-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -490,62 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-07-30_andrea_pennacchi_a_villa_ciresola_alieni",
-    "title": "Andrea Pennacchi a Villa Ciresola: “Alieni in laguna”",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/andrea-pennacchi-alieni-in-laguna-30-luglio-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/57840627057913/alieni_in_laguna-andrea-pennacchi-locandina-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-30_una_notte_tra_libri_e_stelle_a_fondazion",
-    "title": "Una notte tra libri e stelle: a Fondazione Meriggio torna il Library Party",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/libri-stelle-fondazione-meriggio-library-party-30-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-30_matteo_bussola_a_villa_meriggio_il_30_lu",
-    "title": "Matteo Bussola a Villa Meriggio: il 30 luglio l'incontro con l'autore de \"Il sole nelle pozzanghere\"",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/matteo-bussola-villa-meriggio-30-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-07-30__il_giradischi_grande_musica_dal_passato",
-    "title": "\"Il giradischi\": grande musica dal passato a Palazzo Ca’ Montagna di San Zeno di Montagna",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/il-giradischi-concerto-30-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-07-30_a_malcesine_concerti_festa_patronale_e_l",
     "title": "A Malcesine concerti, festa patronale e la mostra su Klimt",
     "date": "2026-07-30",
@@ -574,34 +518,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-30__i_gioved_di_luglio_a_san_bonifacio",
-    "title": "“I Giovedì di Luglio” a San Bonifacio",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/giovedi-luglio-san-bonifacio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Municipio-San-Bonifacio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-30_serata_dedicata_al_mondo_del_vino_il_tuo",
-    "title": "Serata dedicata al mondo del vino “Il tuo vino è ottimo. Online, chi lo sa?”",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/serata-mondo-vino-vino-ottimo-online-chi-lo-sa/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/serata-dedicata-al-mondo-del-vino-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-30_festa_e_fiera_di_san_gaetano_a_san_pietr",
     "title": "Festa e fiera di San Gaetano a San Pietro di Morubio",
     "date": "2026-07-30",
@@ -616,6 +532,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-30_sagra_di_san_rocco_a_pedemonte",
+    "title": "Sagra di San Rocco a Pedemonte",
+    "date": "2026-07-30",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-san-rocco-pedemonte/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/Sagra-di-San-Rocco-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-30_sagra_di_san_luigi_a_caselle_di_sommacam",
     "title": "Sagra di San Luigi a Caselle di Sommacampagna",
     "date": "2026-07-30",
@@ -627,34 +557,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-san-luigi-caselle-sommacampagna/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/sagra-san-luigi-caselle-di-sommacampagna-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-30__il_ladro_di_sole_a_forte_gisella",
-    "title": "“Il ladro di sole” a Forte Gisella",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-ladro-di-sole/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/il-ladro-di-sole-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-30__ecuba_la_guerra_sulle_madri_al_parco_ai",
-    "title": "“Ecuba. La guerra sulle madri” al Parco ai Cotoni di San Giovanni Lupatoto",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/ecuba-la-guerra-sulle-madri-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Ecuba-La-guerra-sulle-madri-a-Verona-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -756,6 +658,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-07-31_festa_di_fiamene_a_negrar",
+    "title": "Festa di Fiamene a Negrar",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-di-fiamene-a-negrar-2",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/08/festa-di-fiamene-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-31_festa_del_monte_purga_a_velo_veronese",
+    "title": "Festa del Monte Purga a Velo Veronese",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-monte-purga-velo-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/07/Festa-del-Monte-Purga-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-07-31_festa_estiva_del_gruppo_alpini_di_valegg",
     "title": "Festa Estiva del gruppo alpini di Valeggio sul Mincio",
     "date": "2026-07-31",
@@ -770,20 +700,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-31__cena_sotto_le_stelle_nel_parco_delle_st",
-    "title": "“Cena sotto le Stelle” nel parco delle storiche Possessioni Serego Alighieri",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/cena-sotto-le-stelle-nel-parco-delle-storiche-possessioni-serego-alighieri/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/07/Cena-Sotto-Le-Stelle-2-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-31_sagra_di_canton",
     "title": "Sagra di Canton",
     "date": "2026-07-31",
@@ -795,6 +711,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-canton/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-di-canton-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-07-31__cena_sotto_le_stelle_nel_parco_delle_st",
+    "title": "“Cena sotto le Stelle” nel parco delle storiche Possessioni Serego Alighieri",
+    "date": "2026-07-31",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/cena-sotto-le-stelle-nel-parco-delle-storiche-possessioni-serego-alighieri/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/07/Cena-Sotto-Le-Stelle-2-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -882,6 +812,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-01__quasi_quasi_mi_faccio_uno_shampoo_al_ca",
+    "title": "“Quasi quasi mi faccio uno shampoo” al Castello Scaligero di Villafranca",
+    "date": "2026-08-01",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/quasi-quasi-mi-faccio-uno-shampoo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/quasi-quasi-mi-faccio-uno-shampoo-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-02_liberalibri_arriva_in_lessinia_domenica_",
     "title": "LiberaLibri arriva in Lessinia: domenica 2 agosto lo swap party al Branchetto Camping",
     "date": "2026-08-02",
@@ -961,6 +905,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/san-benedetto-in-festa-31-luglio-3-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-03_la_fiera_montebaldina_a_caprino_veronese",
+    "title": "La Fiera Montebaldina a Caprino Veronese",
+    "date": "2026-08-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fiera-montebaldina-caprino-veronese-30-luglio-3-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-04_sagra_di_san_luigi_a_caselle_di_sommacam",
+    "title": "Sagra di San Luigi a Caselle di Sommacampagna",
+    "date": "2026-08-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-san-luigi-caselle-30-luglio-4-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1050,6 +1022,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-08-08__calici_di_stelle_a_monteforte_d_alpone_",
+    "title": "\"Calici di Stelle\": a Monteforte d'Alpone si celebra il Soave tra i sentori del mare",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Cibo e Vino",
+    "venue_type": "Cibo e Vino",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/calici-stelle-vino-soave-7-8-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/29704603011030/locandina-calici-di-stelle-2026.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-08_lago_di_garda_in_love_estate_2026",
     "title": "Lago di Garda in Love Estate 2026",
     "date": "2026-08-08",
@@ -1061,6 +1047,20 @@
     "url": "https://www.cittadiverona.it/eventi/lago-di-garda-in-love/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/Lago-in-Love-Lazise-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-09_a_castelnuovo_del_garda_musicalbrolo_sul",
+    "title": "A Castelnuovo del Garda \"MusicalBrolo\": sul palco anche i Dirotta su Cuba",
+    "date": "2026-08-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/musical-brolo-concerto-7-9-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1397,6 +1397,20 @@
     "url": "https://www.cittadiverona.it/eventi/alfa-arena-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/alfa-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-27_riccardo_cocciante_all_arena_verona",
+    "title": "Riccardo Cocciante all’Arena Verona",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/riccardo-cocciante-arena-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/riccardo-cocciante-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
