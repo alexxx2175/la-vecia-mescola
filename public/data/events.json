@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-07-30_aida_ed._franco_zeffirelli",
-    "title": "Aida Ed. Franco Zeffirelli",
-    "date": "2026-07-30",
-    "time": "21:15",
-    "type": "Opera",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/aida/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730639&amp;tcode=vt0017687",
-    "image": null
-  },
-  {
     "id": "arena_2026-07-31_la_traviata",
     "title": "La Traviata",
     "date": "2026-07-31",
@@ -1271,19 +1258,6 @@
     "source": "arena.it",
     "url": "https://www.arena.it/arena-opera-festival/2027/la-traviata/",
     "buy_url": "https://shop.arena.it/it/event/la-traviata/300735",
-    "image": null
-  },
-  {
-    "id": "arena_2027-08-27_nabucco_|_2027",
-    "title": "Nabucco | 2027",
-    "date": "2027-08-27",
-    "time": "21:00",
-    "type": "Opera",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/2027/nabucco/",
-    "buy_url": "https://shop.arena.it/it/event/nabucco/300716",
     "image": null
   },
   {
