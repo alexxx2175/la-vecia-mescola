@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-07-27_festa_estiva_degli_alpini_a_valeggio_sul",
-    "title": "Festa Estiva degli alpini a Valeggio sul Mincio",
-    "date": "2026-07-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-estiva-alpini-valeggio-25-27-luglio-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-27_momix_al_teatro_romano_di_verona_con_bot",
     "title": "Momix al Teatro Romano di Verona con “Botanica – Season 2”",
     "date": "2026-07-27",
@@ -431,20 +417,6 @@
     "url": "https://www.cittadiverona.it/eventi/momix-al-teatro-romano-di-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2013/07/momix-teatro-romano-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-30_fiera_montebaldina_a_caprino_veronese",
-    "title": "Fiera Montebaldina a Caprino Veronese",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/fiera-montebaldina-a-caprino-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/fiera-montebaldina-caprino-veronese-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -476,20 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-31_festa_di_san_benedetto",
-    "title": "Festa di San Benedetto",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-di-san-benedetto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/san-benedetto-in-festa-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-31_festa_di_fiamene_a_negrar",
     "title": "Festa di Fiamene a Negrar",
     "date": "2026-07-31",
@@ -504,20 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-31_festa_estiva_del_gruppo_alpini_di_valegg",
-    "title": "Festa Estiva del gruppo alpini di Valeggio sul Mincio",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-estiva-gruppo-alpini-valeggio-sul-mincio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/festa-estate-gruppo-alpini-valeggio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-31_sagra_di_canton",
     "title": "Sagra di Canton",
     "date": "2026-07-31",
@@ -529,34 +473,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-canton/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-di-canton-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-03_san_benedetto_in_festa",
-    "title": "San Benedetto in Festa",
-    "date": "2026-08-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/san-benedetto-in-festa-31-luglio-3-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-03_la_fiera_montebaldina_a_caprino_veronese",
-    "title": "La Fiera Montebaldina a Caprino Veronese",
-    "date": "2026-08-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-montebaldina-caprino-veronese-30-luglio-3-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -588,20 +504,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-04_festa_e_fiera_di_san_gaetano_a_san_pietr",
-    "title": "Festa e Fiera di San Gaetano a San Pietro di Morubio",
-    "date": "2026-08-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-e-fiera-di-san-gaetano-a-san-pietro-di-morubio-dal-30-luglio-al-4-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-04_sagra_della_madonna_della_neve_a_san_mar",
     "title": "Sagra della Madonna della Neve a San Martino Buon Albergo",
     "date": "2026-08-04",
@@ -616,6 +518,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-04_festa_e_fiera_di_san_gaetano_a_san_pietr",
+    "title": "Festa e Fiera di San Gaetano a San Pietro di Morubio",
+    "date": "2026-08-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-e-fiera-di-san-gaetano-a-san-pietro-di-morubio-dal-30-luglio-al-4-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-05_89esima_edizione_della_sagra_di_san_lore",
+    "title": "89esima edizione della Sagra di San Lorenzo a Pescantina",
+    "date": "2026-08-05",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-san-lorenzo-pescantina/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/antica-sagra-di-san-lorenzo-pescantina-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-06__i_viaggi_di_sindbad_il_marinaio_",
     "title": "\"I viaggi di Sindbad il marinaio\"",
     "date": "2026-08-06",
@@ -627,6 +557,20 @@
     "url": "https://www.veronasera.it/eventi/i-viaggi-di-sindbad-il-marinaio-fondazione-aida-6-agosto-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-06_progetto_voci_dal_mondo_letture_musica_e",
+    "title": "Progetto “Voci dal Mondo”: letture, musica e laboratori al Parco Santa Teresa",
+    "date": "2026-08-06",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/progetto-voci-dal-mondo-letture-musica-laboratori-parco-santa-teresa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/voci-dal-mondo-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -770,6 +714,48 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-08_festa_dei_cimbri_a_san_mauro_di_saline",
+    "title": "Festa dei Cimbri a San Mauro di Saline",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-cimbri-san-mauro-saline/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-dei-cimbri-san-mauro-di-saline-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-08_rassegna_di_danza_contemporanea_fuori_ro",
+    "title": "Rassegna di danza contemporanea “Fuori rotta – Negrar in danza”",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-danza-contemporanea-fuori-rotta-negrar-danza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Fuori-Rotta-Negrar-in-Danza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-08_rassegna_notti_magiche_a_campo_di_brenzo",
+    "title": "Rassegna “Notti Magiche a Campo” di Brenzone",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-notti-magiche-a-campo-di-brenzone/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/08/notti-magiche-a-campo-brenzone-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-09_xxxvi_festa_dei_cimbri_tzimbartzait_2026",
     "title": "XXXVI Festa dei Cimbri – Tzimbartzait 2026 | Due giorni tra storia, cultura e tradizioni della Lessinia",
     "date": "2026-08-09",
@@ -896,6 +882,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-20_sagra_di_san_bartolomeo_a_villa_bartolom",
+    "title": "Sagra di San Bartolomeo a Villa Bartolomea",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-bartolomeo-a-villa-bartolomea/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/08/sagra-di-san-bartolomeo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-20_le_avventure_della_famiglia_caccapuzza_a",
     "title": "Le avventure della famiglia Caccapuzza a Forte Gisella",
     "date": "2026-08-20",
@@ -907,6 +907,20 @@
     "url": "https://www.cittadiverona.it/eventi/avventure-famiglia-caccapuzza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/famiglia-caccapuzza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-22_musica_e_spettacoli_al_parco_san_giacomo",
+    "title": "Musica e spettacoli al Parco San Giacomo",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1031,6 +1045,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-29__serate_forti_la_notte_tua_vivila_con_ar",
+    "title": "“Serate Forti – La notte è tua. Vivila con arte”",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/serate-palazzo-forti-arte-10-luglio-29-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1314,6 +1342,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
+    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-05_fieracavalli",
