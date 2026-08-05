@@ -420,34 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-07-30_festa_e_fiera_di_san_gaetano_a_san_pietr",
-    "title": "Festa e fiera di San Gaetano a San Pietro di Morubio",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-fiera-san-gaetano/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/sagra-san-gaetano-san-pietro-di-morubio-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-30_sagra_di_san_luigi_a_caselle_di_sommacam",
-    "title": "Sagra di San Luigi a Caselle di Sommacampagna",
-    "date": "2026-07-30",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-san-luigi-caselle-sommacampagna/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/07/sagra-san-luigi-caselle-di-sommacampagna-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-07-31_festa_di_fiamene_a_negrar",
     "title": "Festa di Fiamene a Negrar",
     "date": "2026-07-31",
@@ -459,76 +431,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-di-fiamene-a-negrar-2",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2017/08/festa-di-fiamene-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-31_sagra_di_canton",
-    "title": "Sagra di Canton",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-canton/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/sagra-di-canton-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-04_sagra_di_san_luigi_a_caselle_di_sommacam",
-    "title": "Sagra di San Luigi a Caselle di Sommacampagna",
-    "date": "2026-08-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-san-luigi-caselle-30-luglio-4-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-04_la_sagra_di_canton_a_ronco_all_adige",
-    "title": "La Sagra di Canton a Ronco all'Adige",
-    "date": "2026-08-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-canton-festa-31-luglio-4-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-04_sagra_della_madonna_della_neve_a_san_mar",
-    "title": "Sagra della Madonna della Neve a San Martino Buon Albergo",
-    "date": "2026-08-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-madonna-neve-san-martino-buon-albergo-1-4-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-04_festa_e_fiera_di_san_gaetano_a_san_pietr",
-    "title": "Festa e Fiera di San Gaetano a San Pietro di Morubio",
-    "date": "2026-08-04",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-e-fiera-di-san-gaetano-a-san-pietro-di-morubio-dal-30-luglio-al-4-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -602,6 +504,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-07_chiara_luppi_e_il_trio_soul_inaugurano_i",
+    "title": "Chiara Luppi e il Trio Soul inaugurano il festival \"MusicalBrolo\"",
+    "date": "2026-08-07",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/chiara-luppi-concerto-tro-soul-musicalbrolo-7-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1459609725020/chiara-luppi-foto-ufficio-stampa-daniele-cecchini.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "cittadiverona_2026-08-07_il_nuovo_festival_musicale_musicalbrolo_",
     "title": "Il nuovo festival musicale “MusicalBrolo” debutta a Castelnuovo del Garda",
     "date": "2026-08-07",
@@ -644,17 +560,31 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-08_apertura_serale_delle_torri_del_castello",
+    "title": "Apertura serale delle torri del Castello Scaligero di Valeggio sul Mincio tra musica e brindisi sotto le stelle",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Cibo e Vino",
+    "venue_type": "Cibo e Vino",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/borgo-desideri-castello-valeggio-brindisi-stelle-8-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/57656676173892/castello-torri-rocca-di-valeggio-sul-mincio-foto-veronasera.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-08_trekking_dell_anguria_e_dell_assunta",
     "title": "Trekking dell'anguria e dell'Assunta",
     "date": "2026-08-08",
     "time": "",
-    "type": "Escursioni",
-    "venue_type": "Escursioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/trekking-anguria-assunta-8-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/9542876491768/trekking-dell-anguria-e-dell-assunta-2.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -662,13 +592,13 @@
     "title": "Wine & Bbq in vigna",
     "date": "2026-08-08",
     "time": "",
-    "type": "Cibo e Vino",
-    "venue_type": "Cibo e Vino",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/wine-bbw-in-vigna-8-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/36345474467184/wine-bbw-in-vigna.png",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -686,6 +616,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-08__fiore_di_pietra_",
+    "title": "\"Fiore di pietra\"",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fiore-pietra-passeggiata-8-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-08_i_momix_al_teatro_romano_botanica_season",
     "title": "I Momix al Teatro Romano: \"Botanica – Season 2\"",
     "date": "2026-08-08",
@@ -697,6 +641,20 @@
     "url": "https://www.veronasera.it/eventi/botanica-momix-teatro-romano-27-luglio-8-agosto-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-08_sagra_dell_anguria_e_festa_dell_assunta_",
+    "title": "Sagra dell’anguria e festa dell’assunta di Bure",
+    "date": "2026-08-08",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-dell-anguria-di-bure/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-anguria-e-festa-assunta-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -760,13 +718,13 @@
     "title": "XXXVI Festa dei Cimbri – Tzimbartzait 2026 | Due giorni tra storia, cultura e tradizioni della Lessinia",
     "date": "2026-08-09",
     "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-dei-cimbri-tzimbartzait-8-9-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/6564194571420/xxxvi-festa-dei-cimbri-tzimbartzait-2026-due-giorni-tra-storia-cultura-e-tradizioni-della-lessinia.png",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -851,6 +809,20 @@
     "url": "https://www.veronasera.it/eventi/pescantina-antica-sagra-san-lorenzo-5-10-agosto-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-12__aperitivo_d_estate_a_villa_carrara_bott",
+    "title": "\"Aperitivo d’Estate\" a Villa Carrara Bottagisio",
+    "date": "2026-08-12",
+    "time": "",
+    "type": "Cibo e Vino",
+    "venue_type": "Cibo e Vino",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aperitivo-estate-bardolino-12-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38372511710860/locandina-aperitivo-d-estate-bardolino-2026.jpg",
     "category": "cultura"
   },
   {
