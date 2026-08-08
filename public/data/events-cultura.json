@@ -448,20 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-07_chiara_luppi_e_il_trio_soul_inaugurano_i",
-    "title": "Chiara Luppi e il Trio Soul inaugurano il festival \"MusicalBrolo\"",
-    "date": "2026-08-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/chiara-luppi-concerto-tro-soul-musicalbrolo-7-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-07_serate_forti_primo_appuntamento_con_la_l",
     "title": "Serate Forti | Primo appuntamento con la letteratura: ospiti Angelo Peretti e Beatrice Masini, traduttrice italiana di Harry Potter",
     "date": "2026-08-07",
@@ -471,20 +457,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/serate-forti-angelo-peretti-beatrice-masini-7-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-07_speed_friending_in_english_chat_and_meet",
-    "title": "Speed friending in english | Chat and meet new people",
-    "date": "2026-08-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/speed-friending-english-7-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -858,13 +830,13 @@
     "title": "\"Aperitivo d’Estate\" a Villa Carrara Bottagisio",
     "date": "2026-08-12",
     "time": "",
-    "type": "Cibo e Vino",
-    "venue_type": "Cibo e Vino",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/aperitivo-estate-bardolino-12-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38372511710860/locandina-aperitivo-d-estate-bardolino-2026.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -907,6 +879,34 @@
     "url": "https://www.cittadiverona.it/eventi/degusta-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Degusta-Festival-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-15_ferragosto_al_museo_nicolis",
+    "title": "Ferragosto al Museo Nicolis",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Turismo",
+    "venue_type": "Turismo",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-museo-nicolis-ferragosto-15-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/16747133497198/museo-nicolis-villafranca-verona-bugatti-type-49-foto-ufficio-stampa-museo-nicolis.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-15_calici_d_estate_ferragosto_in_collina",
+    "title": "Calici d'estate - Ferragosto in collina",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/calici-estate-ferragosto-collina-15-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
