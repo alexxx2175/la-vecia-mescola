@@ -406,34 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-07-27_momix_al_teatro_romano_di_verona_con_bot",
-    "title": "Momix al Teatro Romano di Verona con “Botanica – Season 2”",
-    "date": "2026-07-27",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/momix-al-teatro-romano-di-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/07/momix-teatro-romano-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-07-31_festa_di_fiamene_a_negrar",
-    "title": "Festa di Fiamene a Negrar",
-    "date": "2026-07-31",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-di-fiamene-a-negrar-2",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2017/08/festa-di-fiamene-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-05_89esima_edizione_della_sagra_di_san_lore",
     "title": "89esima edizione della Sagra di San Lorenzo a Pescantina",
     "date": "2026-08-05",
@@ -445,20 +417,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-san-lorenzo-pescantina/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/antica-sagra-di-san-lorenzo-pescantina-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-07_serate_forti_primo_appuntamento_con_la_l",
-    "title": "Serate Forti | Primo appuntamento con la letteratura: ospiti Angelo Peretti e Beatrice Masini, traduttrice italiana di Harry Potter",
-    "date": "2026-08-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/serate-forti-angelo-peretti-beatrice-masini-7-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -502,104 +460,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-08-08_apertura_serale_delle_torri_del_castello",
-    "title": "Apertura serale delle torri del Castello Scaligero di Valeggio sul Mincio tra musica e brindisi sotto le stelle",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Cibo e Vino",
-    "venue_type": "Cibo e Vino",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/borgo-desideri-castello-valeggio-brindisi-stelle-8-agosto-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/57656676173892/castello-torri-rocca-di-valeggio-sul-mincio-foto-veronasera.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-08_i_dirotta_su_cuba_live_a_castelnuovo_del",
-    "title": "I Dirotta su Cuba live a Castelnuovo del Garda",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dirotta-su-cuba-concerto-8-agosto-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/11400146150185/dirotta-su-cuba-into-the-gruv-2026-foto-ufficio-stampa-daniele-cecchini.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-08-08_trekking_dell_anguria_e_dell_assunta",
-    "title": "Trekking dell'anguria e dell'Assunta",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/trekking-anguria-assunta-8-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-08_wine_bbq_in_vigna",
-    "title": "Wine & Bbq in vigna",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/wine-bbw-in-vigna-8-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-08__espresso_572_bis_",
-    "title": "\"Espresso 572 bis\"",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/espresso-572-bis-8-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-08_concerto_musicale_nella_splendida_cornic",
-    "title": "Concerto musicale nella splendida cornice dell’Abbazia di Badia Calavena",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/concerto-frammenti-8-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-08__fiore_di_pietra_",
-    "title": "\"Fiore di pietra\"",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiore-pietra-passeggiata-8-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-08-08_sagra_dell_anguria_e_festa_dell_assunta_",
@@ -658,20 +518,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-08_rassegna_di_danza_contemporanea_fuori_ro",
-    "title": "Rassegna di danza contemporanea “Fuori rotta – Negrar in danza”",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-danza-contemporanea-fuori-rotta-negrar-danza/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Fuori-Rotta-Negrar-in-Danza-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-08_rassegna_notti_magiche_a_campo_di_brenzo",
     "title": "Rassegna “Notti Magiche a Campo” di Brenzone",
     "date": "2026-08-08",
@@ -704,14 +550,14 @@
     "title": "MusicalBrolo: Mauro Ottolini & Orchestra Ottovolante",
     "date": "2026-08-09",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/mauro-ottolini-concerto-musicalbrolo-9-agosto-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/68809490903185/mauro-ottolini-foto-di-roberto-cifarelli-via-ufficio-stampa-daniele-cecchini.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-08-09_xxxvi_festa_dei_cimbri_tzimbartzait_2026",
@@ -830,13 +676,13 @@
     "title": "\"Aperitivo d’Estate\" a Villa Carrara Bottagisio",
     "date": "2026-08-12",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Cibo e Vino",
+    "venue_type": "Cibo e Vino",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/aperitivo-estate-bardolino-12-agosto-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38372511710860/locandina-aperitivo-d-estate-bardolino-2026.jpg",
     "category": "cultura"
   },
   {
@@ -910,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-15_a_breonio_la_festa_del_ciclamino",
+    "title": "A Breonio la Festa del Ciclamino",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-ciclamino-breonio-8-10-14-15-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-16_lago_di_garda_in_love_friends",
     "title": "Lago di Garda in Love & Friends",
     "date": "2026-08-16",
@@ -933,6 +793,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-grande-santa-viola-7-16-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-16_sagra_dell_assunta_a_mezzane_di_sotto",
+    "title": "Sagra dell'Assunta a Mezzane di Sotto",
+    "date": "2026-08-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-assunta-mezzane-di-sotto-12-16-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1129,6 +1003,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-29__serate_forti_la_notte_tua_vivila_con_ar",
+    "title": "“Serate Forti – La notte è tua. Vivila con arte”",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/serate-palazzo-forti-arte-10-luglio-29-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1442,6 +1330,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
+    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-05_fieracavalli",
     "title": "Fieracavalli",
     "date": "2026-11-05",
@@ -1524,6 +1426,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
+    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
+    "date": "2026-12-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2027-04-14_maurizio_battista_al_teatro_nuovo_di_ver",
