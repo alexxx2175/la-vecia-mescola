@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-08-05_89esima_edizione_della_sagra_di_san_lore",
-    "title": "89esima edizione della Sagra di San Lorenzo a Pescantina",
-    "date": "2026-08-05",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-san-lorenzo-pescantina/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/antica-sagra-di-san-lorenzo-pescantina-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-07__il_borgo_sotto_le_stelle_a_ferrara_di_m",
     "title": "“Il Borgo sotto le Stelle” a Ferrara di Monte Baldo",
     "date": "2026-08-07",
@@ -476,48 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-08_rassegna_notti_magiche_a_campo_di_brenzo",
-    "title": "Rassegna “Notti Magiche a Campo” di Brenzone",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-notti-magiche-a-campo-di-brenzone/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/08/notti-magiche-a-campo-brenzone-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-10_notti_magiche_a_campo_l_omaggio_alla_mus",
-    "title": "Notti Magiche a Campo: l'omaggio alla musica lirica, Paola Turci e Pippo Pollina",
-    "date": "2026-08-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notti-magiche-campo-concerti-8-10-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-10_a_pescantina_torna_l_antica_sagra_di_san",
-    "title": "A Pescantina torna l'Antica Sagra di San Lorenzo",
-    "date": "2026-08-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/pescantina-antica-sagra-san-lorenzo-5-10-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-12__aperitivo_d_estate_a_villa_carrara_bott",
     "title": "\"Aperitivo d’Estate\" a Villa Carrara Bottagisio",
     "date": "2026-08-12",
@@ -564,13 +508,13 @@
     "title": "\"14 agosto, in attesa dell'Assunta\"",
     "date": "2026-08-14",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-in-attesa-assunta-14-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/20245410619935/14-agosto-in-attesa-dell-assunta.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -698,6 +642,20 @@
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/paganini-paradise-600x338.jpg",
     "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-19_all_arena_di_verona_debutta_paganini_par",
+    "title": "All'Arena di Verona debutta \"Paganini Paradise. Superlive Immersive Concert\" e torna “Viva Vivaldi\"",
+    "date": "2026-08-19",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerti-arena-verona-paganini-paradise-viva-vivaldi-18-19-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/32344424421270/viva-vivaldi-foto-ufficio-stampa-fondazione-arena-di-verona.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "cittadiverona_2026-08-20_sagra_di_san_bartolomeo_a_villa_bartolom",
@@ -877,6 +835,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/serate-palazzo-forti-arte-10-luglio-29-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-29_la_biblioteca_civica_di_verona_ospita_la",
+    "title": "La Biblioteca Civica di Verona ospita la mostra “Bruno Campagnola, volti e luoghi veronesi”",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bruno-campagnola-volti-luoghi-veronesi-23-luglio-29-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
