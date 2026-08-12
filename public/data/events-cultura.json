@@ -490,6 +490,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-12_sagra_dell_assunta_a_mezzane_di_sotto",
+    "title": "Sagra dell’Assunta a Mezzane di Sotto",
+    "date": "2026-08-12",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-dell-assunta-mezzane-sotto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/sagra-assunta-mezzane-di-sotto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-13__due_poeti_in_una_notte_di_mezza_estate_",
+    "title": "\"Due poeti in una notte di mezza estate\": poesia dialettale e visita guidata a Palazzo Ca’ Montagna",
+    "date": "2026-08-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/due-poeti-notte-di-mezza-estate-poesia-dialettale-13-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-13__calici_di_stelle_a_bardolino",
     "title": "\"Calici di Stelle\" a Bardolino",
     "date": "2026-08-13",
@@ -499,6 +527,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/calici-stelle-cantina-guerrieri-rizzardi-24-luglio-13-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-13_antica_sagra_di_san_rocco_a_pesina_di_ca",
+    "title": "Antica Sagra di San Rocco a Pesina di Caprino Veronese",
+    "date": "2026-08-13",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-san-rocco-pesina-caprino-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/antica-sagra-di-san-rocco-pesina-caprino-veronese-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-14_costabella_trekking_panoramico_sul_garda",
+    "title": "Costabella: trekking panoramico sul Garda",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/costabella-trekking-panoramico-garda-14-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -515,6 +571,34 @@
     "url": "https://www.veronasera.it/eventi/visita-in-attesa-assunta-14-agosto-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-14_sagra_dell_assunta_a_selva_di_progno",
+    "title": "Sagra dell’Assunta a Selva di Progno",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-assunta-selva-progno/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-assunta-selva-di-progno-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-14_festa_del_ciclamino_a_breonio",
+    "title": "Festa del Ciclamino a Breonio",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-ciclamino-breonio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-del-ciclamino-breonio-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -546,17 +630,31 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-15_calici_d_estate_ferragosto_in_collina",
-    "title": "Calici d'estate - Ferragosto in collina",
+    "id": "veronasera_2026-08-15_la_motta_new_ospita_a_ferragosto_l_event",
+    "title": "La Motta New ospita a Ferragosto l'evento speciale \"Custoza I Lake It\"",
     "date": "2026-08-15",
     "time": "",
     "type": "Cibo e Vino",
     "venue_type": "Cibo e Vino",
     "location": "Verona",
     "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/custoza-i-lake-ita-vino-la-motta-new-15-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/20058493444662/la-motta-new-custoza-i-lake-i-2026-foto-ufficio-stampa-1.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-15_calici_d_estate_ferragosto_in_collina",
+    "title": "Calici d'estate - Ferragosto in collina",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/calici-estate-ferragosto-collina-15-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/26078150766270/calici-d-estate-ferragosto-in-collina.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -569,6 +667,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-ciclamino-breonio-8-10-14-15-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-15_festa_dei_gnocchi_sbatui_con_la_fioreta_",
+    "title": "Festa dei Gnocchi Sbatui con la Fioreta a Bosco Chiesanuova",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-dei-gnocchi-sbatui-con-la-fioreta-a-bosco-chiesanuova/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Festa-dei-gnocchi-sbatui-con-la-fioreta-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-16_san_rocco_music_festival_a_bussolengo",
+    "title": "San Rocco Music Festival a Bussolengo",
+    "date": "2026-08-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/san-rocco-music-festival-bussolengo-16-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -630,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-17_le_stelle_della_lirica_al_parco_sigurt_",
+    "title": "Le stelle della lirica al Parco Sigurtà",
+    "date": "2026-08-17",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/stelle-lirica-parco-sigurta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Stelle-della-Lirica-parco-sigurta-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-18__paganini_paradise_superlive_immersive_c",
     "title": "“Paganini Paradise – Superlive Immersive Concert” all’Arena di Verona",
     "date": "2026-08-18",
@@ -683,6 +823,20 @@
     "url": "https://www.cittadiverona.it/eventi/avventure-famiglia-caccapuzza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/famiglia-caccapuzza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-22_merysse_in_concerto_a_432_hz_al_parco_sa",
+    "title": "Merysse in concerto a 432 Hz al Parco San Giacomo",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-merysse/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Merysse-acoustic-live-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -798,6 +952,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-28_serata_di_degustazione_e_concerto_a_lume",
+    "title": "Serata di degustazione e concerto a lume di candela",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/serata-degustazione-concerto-lume-candela/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Note-a-lume-di-candela-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-28_giovanni_caccamo_al_teatro_romano_di_ver",
     "title": "Giovanni Caccamo al Teatro Romano di Verona",
     "date": "2026-08-28",
@@ -840,17 +1008,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-29_la_biblioteca_civica_di_verona_ospita_la",
-    "title": "La Biblioteca Civica di Verona ospita la mostra “Bruno Campagnola, volti e luoghi veronesi”",
+    "id": "cittadiverona_2026-08-29_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
     "date": "2026-08-29",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/bruno-campagnola-volti-luoghi-veronesi-23-luglio-29-agosto-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -882,6 +1050,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-01_un_settembre_da_non_perdere_al_teatro_ro",
+    "title": "Un settembre da non perdere al Teatro Romano",
+    "date": "2026-09-01",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/settembre-perdere-teatro-romano/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Settembre-2026-al-Teatro-Romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-03_progetto_voci_dal_mondo_letture_musica_e",
+    "title": "Progetto “Voci dal Mondo”: letture, musica e laboratori al Parco Santa Teresa",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/progetto-voci-dal-mondo-letture-musica-laboratori-parco-santa-teresa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/voci-dal-mondo-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-06__oro_e_colore_a_malcesine_arrivano_le_op",
     "title": "“Oro e colore”, a Malcesine arrivano le opere di Gustav Klimt",
     "date": "2026-09-06",
@@ -907,6 +1103,20 @@
     "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-06_fiera_del_miele_nuovo_e_dei_prodotti_loc",
+    "title": "Fiera del miele nuovo e dei prodotti locali a Molina",
+    "date": "2026-09-06",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-miele-nuovo-prodotti-locali/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/Fiera-del-miele-e-dei-prodotti-nuovi-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -989,20 +1199,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_bianco_e_ne",
-    "title": "Alla Gam di Verona la mostra “Bianco e Nero - Elogio del limite | opere dalle collezioni veronesi”",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/bianco-nero-elogio-limite-arte-mostra-gam-11-giugno-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1185,20 +1381,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
-    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
