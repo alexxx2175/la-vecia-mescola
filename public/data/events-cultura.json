@@ -462,34 +462,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-12__aperitivo_d_estate_a_villa_carrara_bott",
-    "title": "\"Aperitivo d’Estate\" a Villa Carrara Bottagisio",
-    "date": "2026-08-12",
-    "time": "",
-    "type": "Cibo e Vino",
-    "venue_type": "Cibo e Vino",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivo-estate-bardolino-12-agosto-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38372511710860/locandina-aperitivo-d-estate-bardolino-2026.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-12_aperitivo_d_estate_festa_a_colori",
-    "title": "Aperitivo d’estate: festa a colori",
-    "date": "2026-08-12",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/aperitivo-d-estate-festa-colori/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Aperitivo-estivo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-12_sagra_dell_assunta_a_mezzane_di_sotto",
     "title": "Sagra dell’Assunta a Mezzane di Sotto",
     "date": "2026-08-12",
@@ -518,20 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-13__calici_di_stelle_a_bardolino",
-    "title": "\"Calici di Stelle\" a Bardolino",
-    "date": "2026-08-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/calici-stelle-cantina-guerrieri-rizzardi-24-luglio-13-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-13_antica_sagra_di_san_rocco_a_pesina_di_ca",
     "title": "Antica Sagra di San Rocco a Pesina di Caprino Veronese",
     "date": "2026-08-13",
@@ -543,6 +501,20 @@
     "url": "https://www.cittadiverona.it/eventi/antica-sagra-san-rocco-pesina-caprino-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/antica-sagra-di-san-rocco-pesina-caprino-veronese-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-14_escursione_serale_a_campofontana_stelle_",
+    "title": "Escursione serale a Campofontana: \"Stelle cadenti, un monte di desideri\"",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-stelle-cadenti-campofontana-14-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -588,20 +560,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-14_festa_del_ciclamino_a_breonio",
-    "title": "Festa del Ciclamino a Breonio",
-    "date": "2026-08-14",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-ciclamino-breonio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-del-ciclamino-breonio-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-14_degusta_festival_a_bovolone",
     "title": "Degusta Festival a Bovolone",
     "date": "2026-08-14",
@@ -613,6 +571,20 @@
     "url": "https://www.cittadiverona.it/eventi/degusta-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Degusta-Festival-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-14_festa_del_ciclamino_a_breonio",
+    "title": "Festa del Ciclamino a Breonio",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-ciclamino-breonio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-del-ciclamino-breonio-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,6 +630,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-15__festa_dei_gnocchi_sbatui_con_la_fioreta",
+    "title": "\"Festa dei gnocchi sbatui con la fioreta\" a Bosco Chiesanuova",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-gnocchi-sbatui-fioreta-bosco-chiesanuova-15-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-15_a_garda_il_palio_delle_contrade",
+    "title": "A Garda il Palio delle Contrade",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/palio-contrade-festa-garda-13-15-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-15_a_breonio_la_festa_del_ciclamino",
     "title": "A Breonio la Festa del Ciclamino",
     "date": "2026-08-15",
@@ -690,11 +690,39 @@
     "title": "San Rocco Music Festival a Bussolengo",
     "date": "2026-08-16",
     "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/san-rocco-music-festival-bussolengo-16-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/36345932182146/san-rocco-music-festival-locandina-2026.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-16_la_via_del_mandala_corso_base_con_shanti",
+    "title": "La via del mandala – Corso base con Shanti Tozzi",
+    "date": "2026-08-16",
+    "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/san-rocco-music-festival-bussolengo-16-agosto-2026.html",
+    "url": "https://www.veronasera.it/eventi/mandala-corso-base-16-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-16_a_selva_di_progno_torna_la_sagra_dell_as",
+    "title": "A Selva di Progno torna la Sagra dell’Assunta",
+    "date": "2026-08-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-assunta-selva-di-progno-14-16-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -798,6 +826,34 @@
     "category": "concerti_pop"
   },
   {
+    "id": "veronasera_2026-08-20__le_avventure_della_famiglia_caccapuzza_",
+    "title": "\"Le avventure della famiglia Caccapuzza\"",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/le-avventure-della-famiglia-caccapuzza-fondazione-aida-20-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-20__poetry_slam_sfida_di_poesie_a_colpi_di_",
+    "title": "\"Poetry slam\": sfida di poesie a colpi di versi a Palazzo Ca’ Montagna di San Zeno",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/poetry-slam-sfida-poesie-20-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-20_sagra_di_san_bartolomeo_a_villa_bartolom",
     "title": "Sagra di San Bartolomeo a Villa Bartolomea",
     "date": "2026-08-20",
@@ -851,6 +907,20 @@
     "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-23_a_bovolone_il_degusta_festival_",
+    "title": "A Bovolone il \"Degusta Festival\"",
+    "date": "2026-08-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/degusta-festival-bovolone-14-16-21-23-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -989,20 +1059,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-29__serate_forti_la_notte_tua_vivila_con_ar",
-    "title": "“Serate Forti – La notte è tua. Vivila con arte”",
-    "date": "2026-08-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/serate-palazzo-forti-arte-10-luglio-29-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1468,20 +1524,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2027-04-14_maurizio_battista_al_teatro_nuovo_di_ver",
