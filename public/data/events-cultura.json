@@ -1,19 +1,5 @@
 [
   {
-    "id": "cittadiverona_2026-01-04_mostra_nella_luce_del_lago_di_fernando_p",
-    "title": "Mostra “Nella luce del lago” di Fernando Pietropoli",
-    "date": "2026-01-04",
-    "time": "",
-    "type": "Mostre",
-    "venue_type": "Mostre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mostra-nella-luce-del-lago-di-fernando-pietropoli/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/IMG_2065-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-01-23_motor_bike_expo",
     "title": "Motor Bike Expo",
     "date": "2026-01-23",
@@ -476,17 +462,31 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-13__due_poeti_in_una_notte_di_mezza_estate_",
-    "title": "\"Due poeti in una notte di mezza estate\": poesia dialettale e visita guidata a Palazzo Ca’ Montagna",
+    "id": "cittadiverona_2026-08-13_palio_delle_contrade_a_garda",
+    "title": "Palio delle Contrade a Garda",
     "date": "2026-08-13",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/due-poeti-notte-di-mezza-estate-poesia-dialettale-13-agosto-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/palio-delle-contrade-a-garda/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/08/palio-contrade-a-garda-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-13_sagra_dell_assunta_di_montorio_veronese",
+    "title": "Sagra dell’Assunta di Montorio Veronese",
+    "date": "2026-08-13",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-dell-assunta-di-montorio-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-assunta-montorio-veronese-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -546,6 +546,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-14_freemusicproject_live_alla_sagra_dell_an",
+    "title": "FreeMusicProject live alla Sagra dell'anguria di Bure",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/freemusicproject-live-sagra-anguria-bure-14-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-14_speed_friending_fai_nuove_conoscenze",
+    "title": "Speed friending | Fai nuove conoscenze",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/speed-friending-14-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-14_sagra_dell_assunta_a_selva_di_progno",
     "title": "Sagra dell’Assunta a Selva di Progno",
     "date": "2026-08-14",
@@ -560,20 +588,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-14_degusta_festival_a_bovolone",
-    "title": "Degusta Festival a Bovolone",
-    "date": "2026-08-14",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/degusta-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Degusta-Festival-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-14_festa_del_ciclamino_a_breonio",
     "title": "Festa del Ciclamino a Breonio",
     "date": "2026-08-14",
@@ -585,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-ciclamino-breonio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/festa-del-ciclamino-breonio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-14_degusta_festival_a_bovolone",
+    "title": "Degusta Festival a Bovolone",
+    "date": "2026-08-14",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/degusta-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Degusta-Festival-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -639,6 +667,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-gnocchi-sbatui-fioreta-bosco-chiesanuova-15-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-15_carmina_burana_turandot_e_aida_per_il_we",
+    "title": "Carmina Burana, Turandot e Aida per il weekend di Ferragosto all'Arena di Verona",
+    "date": "2026-08-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/carmina-burana-aida-turandot-arena-13-15-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -700,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-16_a_ferragosto_si_respira_vita_sul_monte_m",
+    "title": "A Ferragosto si respira vita sul Monte Mamaor",
+    "date": "2026-08-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ferragosto-mamaor-festa-15-16-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-16_la_via_del_mandala_corso_base_con_shanti",
     "title": "La via del mandala – Corso base con Shanti Tozzi",
     "date": "2026-08-16",
@@ -723,6 +779,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sagra-assunta-selva-di-progno-14-16-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-16__estate_alpina_a_peschiera_del_garda",
+    "title": "\"Estate Alpina\" a Peschiera del Garda",
+    "date": "2026-08-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/estate-alpina-festa-14-16-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-16_lido_ronchi_in_festa_antica_festa_di_san",
+    "title": "Lido Ronchi in Festa: Antica Festa di San Rocco a Castelnuovo del Garda",
+    "date": "2026-08-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/lido-ronchi-festa-san-rocco-14-16-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -756,15 +840,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-16_sagra_dell_assunta_a_mezzane_di_sotto",
-    "title": "Sagra dell'Assunta a Mezzane di Sotto",
+    "id": "veronasera_2026-08-16_ferragosto_per_le_vie_di_san_zeno_di_mon",
+    "title": "Ferragosto per le vie di San Zeno di Montagna",
     "date": "2026-08-16",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-assunta-mezzane-di-sotto-12-16-agosto-2026.html",
+    "url": "https://www.veronasera.it/eventi/ferragosto-san-zeno-montagna-13-16-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -781,6 +865,20 @@
     "url": "https://www.veronasera.it/eventi/sagra-anguria-festa-assunta-8-17-agosto-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-17_mostra_nella_luce_del_lago_di_fernando_p",
+    "title": "Mostra “Nella luce del lago” di Fernando Pietropoli",
+    "date": "2026-08-17",
+    "time": "",
+    "type": "Mostre",
+    "venue_type": "Mostre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mostra-nella-luce-del-lago-di-fernando-pietropoli/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/IMG_2065-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -854,6 +952,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-20_paint_gelato_workshop_creativo_di_pittur",
+    "title": "Paint & gelato | Workshop creativo di pittura alla gelateria Il Mustacchio",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paint-gelato-workshop-creativo-20-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-20_sagra_di_san_bartolomeo_a_villa_bartolom",
     "title": "Sagra di San Bartolomeo a Villa Bartolomea",
     "date": "2026-08-20",
@@ -879,6 +991,20 @@
     "url": "https://www.cittadiverona.it/eventi/avventure-famiglia-caccapuzza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/famiglia-caccapuzza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-21_alterego_vs_principe_a_villa_bartolomea",
+    "title": "Alterego vs Principe a Villa Bartolomea",
+    "date": "2026-08-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/principe-alterego-villa-bartolomea-21-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -910,15 +1036,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-23_a_bovolone_il_degusta_festival_",
-    "title": "A Bovolone il \"Degusta Festival\"",
+    "id": "veronasera_2026-08-23_il_palio_delle_mura_a_peschiera_del_gard",
+    "title": "Il Palio delle Mura a Peschiera del Garda",
     "date": "2026-08-23",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/degusta-festival-bovolone-14-16-21-23-agosto-2026.html",
+    "url": "https://www.veronasera.it/eventi/palio-mura-peschiera-del-garda-21-23-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-23_erb_beer_fest",
+    "title": "Erbè Beer Fest",
+    "date": "2026-08-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/erbe-beer-fest-21-23-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1064,6 +1204,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-29__musica_a_palazzo_danze_e_musiche_rinasc",
+    "title": "“Musica a Palazzo”: danze e musiche rinascimentali a Castelnuovo del Garda",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/musica-palazzo-castelnuovo-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/giardino-torre-castelnuovo-del-garda-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-29_rassegna_culturale_e_state_a_sona_",
     "title": "Rassegna culturale “E… State a Sona”",
     "date": "2026-08-29",
@@ -1148,20 +1302,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-06_fiera_del_miele_nuovo_e_dei_prodotti_loc",
     "title": "Fiera del miele nuovo e dei prodotti locali a Molina",
     "date": "2026-09-06",
@@ -1173,20 +1313,6 @@
     "url": "https://www.cittadiverona.it/eventi/fiera-miele-nuovo-prodotti-locali/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/Fiera-del-miele-e-dei-prodotti-nuovi-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
-    "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
-    "date": "2026-09-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/urban-orbit-spetacoli-26-giugno-12-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1426,20 +1552,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
-    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-05_fieracavalli",
