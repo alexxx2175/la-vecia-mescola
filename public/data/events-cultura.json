@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-08-08_sagra_dell_anguria_e_festa_dell_assunta_",
-    "title": "Sagra dell’anguria e festa dell’assunta di Bure",
-    "date": "2026-08-08",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-dell-anguria-di-bure/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-anguria-e-festa-assunta-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-14_degusta_festival_a_bovolone",
     "title": "Degusta Festival a Bovolone",
     "date": "2026-08-14",
@@ -434,20 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-17_a_bure_la_sagra_dell_anguria_e_festa_del",
-    "title": "A Bure la Sagra dell’Anguria e Festa dell’Assunta",
-    "date": "2026-08-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-anguria-festa-assunta-8-17-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-17_mostra_nella_luce_del_lago_di_fernando_p",
     "title": "Mostra “Nella luce del lago” di Fernando Pietropoli",
     "date": "2026-08-17",
@@ -459,20 +431,6 @@
     "url": "https://www.cittadiverona.it/eventi/mostra-nella-luce-del-lago-di-fernando-pietropoli/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/IMG_2065-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-17_le_stelle_della_lirica_al_parco_sigurt_",
-    "title": "Le stelle della lirica al Parco Sigurtà",
-    "date": "2026-08-17",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/stelle-lirica-parco-sigurta/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Stelle-della-Lirica-parco-sigurta-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -518,20 +476,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-20__poetry_slam_sfida_di_poesie_a_colpi_di_",
-    "title": "\"Poetry slam\": sfida di poesie a colpi di versi a Palazzo Ca’ Montagna di San Zeno",
-    "date": "2026-08-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/poetry-slam-sfida-poesie-20-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-20_paint_gelato_workshop_creativo_di_pittur",
     "title": "Paint & gelato | Workshop creativo di pittura alla gelateria Il Mustacchio",
     "date": "2026-08-20",
@@ -541,6 +485,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/paint-gelato-workshop-creativo-20-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-20__poetry_slam_sfida_di_poesie_a_colpi_di_",
+    "title": "\"Poetry slam\": sfida di poesie a colpi di versi a Palazzo Ca’ Montagna di San Zeno",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/poetry-slam-sfida-poesie-20-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -578,13 +536,13 @@
     "title": "Alterego vs Principe a Villa Bartolomea",
     "date": "2026-08-21",
     "time": "",
-    "type": "Disco&amp;Feste",
-    "venue_type": "Disco&amp;Feste",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/principe-alterego-villa-bartolomea-21-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/21779657517941/principe-alterego-villa-bartolomea.png",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -644,20 +602,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-22_offline_in_vigna_workshop_relax_tra_i_vi",
-    "title": "Offline in vigna | Workshop & relax tra i vigneti della Valpolicella",
-    "date": "2026-08-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/offline-in-vigna-workshop-relax-22-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-22_orquesta_goto_y_cumbia_live_a_castelnuov",
     "title": "Orquesta Goto y Cumbia live a Castelnuovo del Garda",
     "date": "2026-08-22",
@@ -667,6 +611,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/orquesta-goto-y-cumbia-concerto-22-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-22_offline_in_vigna_workshop_relax_tra_i_vi",
+    "title": "Offline in vigna | Workshop & relax tra i vigneti della Valpolicella",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/offline-in-vigna-workshop-relax-22-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -686,17 +644,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-22_merysse_in_concerto_a_432_hz_al_parco_sa",
-    "title": "Merysse in concerto a 432 Hz al Parco San Giacomo",
+    "id": "cittadiverona_2026-08-22_festa_d_estate_con_musica_dal_vivo_al_ri",
+    "title": "Festa d’estate con musica dal vivo al Ristorante alla Campagna",
     "date": "2026-08-22",
     "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/concerto-merysse/",
+    "url": "https://www.cittadiverona.it/eventi/festa-estate-musica-vivo-ristorante-campagna/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Merysse-acoustic-live-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/festa-estate-ristorante-campagna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -711,6 +669,20 @@
     "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-22_merysse_in_concerto_a_432_hz_al_parco_sa",
+    "title": "Merysse in concerto a 432 Hz al Parco San Giacomo",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/concerto-merysse/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Merysse-acoustic-live-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -823,6 +795,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-26__zorba_il_greco_al_teatro_romano",
+    "title": "“Zorba il greco” al Teatro Romano",
+    "date": "2026-08-26",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/zorba-il-greco-teatro-romano-25-26-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/56822553313722/zorba-il-greco-foto-ufficio-stampa-fondazione-arena-di-verona-3.jpg",
     "category": "cultura"
   },
   {
@@ -952,17 +938,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-29_rassegna_culturale_e_state_a_sona_",
-    "title": "Rassegna culturale “E… State a Sona”",
+    "id": "veronasera_2026-08-29__serate_forti_la_notte_tua_vivila_con_ar",
+    "title": "“Serate Forti – La notte è tua. Vivila con arte”",
     "date": "2026-08-29",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/serate-palazzo-forti-arte-10-luglio-29-agosto-2026.html",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -977,6 +963,20 @@
     "url": "https://www.cittadiverona.it/eventi/musica-palazzo-castelnuovo-garda/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/giardino-torre-castelnuovo-del-garda-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-29_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1426,20 +1426,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2027-04-14_maurizio_battista_al_teatro_nuovo_di_ver",
