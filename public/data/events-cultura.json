@@ -434,20 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-18__paganini_paradise_superlive_immersive_c",
-    "title": "“Paganini Paradise – Superlive Immersive Concert” all’Arena di Verona",
-    "date": "2026-08-18",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/paganini-paradise-superlive-immersive-concert-arena-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/paganini-paradise-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-19_all_arena_di_verona_debutta_paganini_par",
     "title": "All'Arena di Verona debutta \"Paganini Paradise. Superlive Immersive Concert\" e torna “Viva Vivaldi\"",
     "date": "2026-08-19",
@@ -546,29 +532,43 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-22_visita_guidata_al_giardino_giusti_il_rin",
-    "title": "Visita guidata al Giardino Giusti: il Rinascimento segreto di Verona, tra grotte, labirinti e natura",
-    "date": "2026-08-22",
+    "id": "veronasera_2026-08-21__kung_fu_panda_per_bambini",
+    "title": "\"Kung Fu Panda\" per bambini",
+    "date": "2026-08-21",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-giardino-giusti-22-agosto-2026.html",
+    "url": "https://www.veronasera.it/eventi/kung-fu-panda-bambini-21-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/53641168294778/giardino-giusti-verona-foto-davide-papetti-2.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-22_la_festa_dell_estate_con_musica_dal_vivo",
-    "title": "La Festa dell'estate con musica dal vivo",
+    "id": "veronasera_2026-08-22_superego_carlo_poddighe_live_al_lazzaret",
+    "title": "Superego - Carlo Poddighe live al Lazzaretto di Verona",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/superego-carlo-poddighe-concerto-lazzaretto-22-agosto-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/953237402081/superego-carlo-poddighe-al-lazzaretto-di-verona-2.png",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-08-22_visita_guidata_al_giardino_giusti_il_rin",
+    "title": "Visita guidata al Giardino Giusti: il Rinascimento segreto di Verona, tra grotte, labirinti e natura",
     "date": "2026-08-22",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-estate-concerto-duo-benaco-22-agosto-2026.html",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-giardino-giusti-22-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -583,6 +583,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-casa-giulietta-22-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-22_la_festa_dell_estate_con_musica_dal_vivo",
+    "title": "La Festa dell'estate con musica dal vivo",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-estate-concerto-duo-benaco-22-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -812,6 +826,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-26__gestire_l_ansia_nella_vita_quotidiana_r",
+    "title": "\"Gestire l'ansia nella vita quotidiana\" | Respirazione consapevole e meditazione a Verona",
+    "date": "2026-08-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/gestire-ansia-vita-quotidiana-26-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-27_la_storia_di_cip_a_forte_gisella",
     "title": "La storia di “Cipì” a Forte Gisella",
     "date": "2026-08-27",
@@ -938,17 +966,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-29__serate_forti_la_notte_tua_vivila_con_ar",
-    "title": "“Serate Forti – La notte è tua. Vivila con arte”",
+    "id": "cittadiverona_2026-08-29_rassegna_culturale_e_state_a_sona_",
+    "title": "Rassegna culturale “E… State a Sona”",
     "date": "2026-08-29",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/serate-palazzo-forti-arte-10-luglio-29-agosto-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -963,20 +991,6 @@
     "url": "https://www.cittadiverona.it/eventi/musica-palazzo-castelnuovo-garda/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/giardino-torre-castelnuovo-del-garda-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-29_rassegna_culturale_e_state_a_sona_",
-    "title": "Rassegna culturale “E… State a Sona”",
-    "date": "2026-08-29",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-culturale-e-state-a-sona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/07/estate-a-sona-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1019,6 +1033,20 @@
     "url": "https://www.cittadiverona.it/eventi/settembre-perdere-teatro-romano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Settembre-2026-al-Teatro-Romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-03__sunset_experience_aperitivo_al_tramonto",
+    "title": "“Sunset Experience”: aperitivo al tramonto al Monteleone21",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sunset-experience-aperitivo-tramonto-monteleone21/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/M21-SunsetExperience-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1328,20 +1356,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
-    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-05_fieracavalli",
