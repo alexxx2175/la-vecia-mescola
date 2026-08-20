@@ -434,20 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-19_all_arena_di_verona_debutta_paganini_par",
-    "title": "All'Arena di Verona debutta \"Paganini Paradise. Superlive Immersive Concert\" e torna “Viva Vivaldi\"",
-    "date": "2026-08-19",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/concerti-arena-verona-paganini-paradise-viva-vivaldi-18-19-agosto-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/32344424421270/viva-vivaldi-foto-ufficio-stampa-fondazione-arena-di-verona.jpg",
-    "category": "concerti_pop"
-  },
-  {
     "id": "veronasera_2026-08-20__le_avventure_della_famiglia_caccapuzza_",
     "title": "\"Le avventure della famiglia Caccapuzza\"",
     "date": "2026-08-20",
@@ -462,20 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-20_paint_gelato_workshop_creativo_di_pittur",
-    "title": "Paint & gelato | Workshop creativo di pittura alla gelateria Il Mustacchio",
-    "date": "2026-08-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/paint-gelato-workshop-creativo-20-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-20__poetry_slam_sfida_di_poesie_a_colpi_di_",
     "title": "\"Poetry slam\": sfida di poesie a colpi di versi a Palazzo Ca’ Montagna di San Zeno",
     "date": "2026-08-20",
@@ -485,6 +457,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/poetry-slam-sfida-poesie-20-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-20_paint_gelato_workshop_creativo_di_pittur",
+    "title": "Paint & gelato | Workshop creativo di pittura alla gelateria Il Mustacchio",
+    "date": "2026-08-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paint-gelato-workshop-creativo-20-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -546,6 +532,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-21_palio_delle_mura_a_peschiera_del_garda",
+    "title": "Palio delle Mura a Peschiera del Garda",
+    "date": "2026-08-21",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/palio-delle-mura-a-peschiera-del-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/palio-delle-mura-peschiera-del-garda-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-21_antica_sagra_di_san_bartolomeo_ad_illasi",
+    "title": "Antica Sagra di San Bartolomeo ad Illasi",
+    "date": "2026-08-21",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-di-san-bartolomeo-ad-illasi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Sagra-di-San-Bartolomeo-ad-Illasi-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-08-22_superego_carlo_poddighe_live_al_lazzaret",
     "title": "Superego - Carlo Poddighe live al Lazzaretto di Verona",
     "date": "2026-08-22",
@@ -564,13 +578,13 @@
     "title": "Visita guidata al Giardino Giusti: il Rinascimento segreto di Verona, tra grotte, labirinti e natura",
     "date": "2026-08-22",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Turismo",
+    "venue_type": "Turismo",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-giardino-giusti-22-agosto-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/53641168294778/giardino-giusti-verona-foto-davide-papetti-2.jpg",
     "category": "cultura"
   },
   {
@@ -616,20 +630,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-22_orquesta_goto_y_cumbia_live_a_castelnuov",
-    "title": "Orquesta Goto y Cumbia live a Castelnuovo del Garda",
-    "date": "2026-08-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/orquesta-goto-y-cumbia-concerto-22-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-22_offline_in_vigna_workshop_relax_tra_i_vi",
     "title": "Offline in vigna | Workshop & relax tra i vigneti della Valpolicella",
     "date": "2026-08-22",
@@ -639,6 +639,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/offline-in-vigna-workshop-relax-22-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-22_orquesta_goto_y_cumbia_live_a_castelnuov",
+    "title": "Orquesta Goto y Cumbia live a Castelnuovo del Garda",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/orquesta-goto-y-cumbia-concerto-22-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -672,20 +686,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-22_musica_e_spettacoli_al_parco_san_giacomo",
-    "title": "Musica e spettacoli al Parco San Giacomo",
-    "date": "2026-08-22",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-22_merysse_in_concerto_a_432_hz_al_parco_sa",
     "title": "Merysse in concerto a 432 Hz al Parco San Giacomo",
     "date": "2026-08-22",
@@ -697,6 +697,20 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-merysse/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/Merysse-acoustic-live-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-22_musica_e_spettacoli_al_parco_san_giacomo",
+    "title": "Musica e spettacoli al Parco San Giacomo",
+    "date": "2026-08-22",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -765,6 +779,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/erbe-beer-fest-21-23-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-08-23_la_festa_dell_ospite_a_lazise",
+    "title": "La Festa dell'Ospite a Lazise",
+    "date": "2026-08-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-ospite-lazise-21-23-agosto-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -840,6 +868,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-08-27__cip_",
+    "title": "\"Cipì\"",
+    "date": "2026-08-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cipi-fondazione-aida-27-agosto-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-27_la_storia_di_cip_a_forte_gisella",
     "title": "La storia di “Cipì” a Forte Gisella",
     "date": "2026-08-27",
@@ -910,6 +952,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-28_festa_del_tartufo_nero_del_monte_baldo",
+    "title": "Festa del Tartufo Nero del Monte Baldo",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-tartufo-nero-del-baldo-2",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/festa-del-tartufo-nero-del-monte-baldo-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-28__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
     "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
     "date": "2026-08-28",
@@ -963,6 +1019,20 @@
     "url": "https://www.veronasera.it/eventi/estate-a-sona-spettacoli-concerti-24-giugno-29-agosto-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-29_notte_bianca_a_villafranca_di_verona",
+    "title": "Notte Bianca a Villafranca di Verona",
+    "date": "2026-08-29",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/notte-bianca-a-villafranca",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/notte-bianca-villafranca-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1106,6 +1176,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-10_antica_fiera_di_san_tomaso_a_bonavigo",
+    "title": "Antica Fiera di San Tomaso a Bonavigo",
+    "date": "2026-09-10",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-san-tomaso/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/09/antica-fiera-di-san-tomaso-bonavigo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
     "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
     "date": "2026-09-12",
@@ -1134,12 +1218,40 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-15_3_giornate_di_prova_gratuite_per_provare",
+    "title": "3 giornate di prova gratuite per provare il metodo Feldenkrais",
+    "date": "2026-09-15",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/3-giornate-di-prova-gratuite-per-provare-il-metodo-feldenkrais/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2020/09/METODO-FELDENKRAIS.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-18_sagra_della_madonna_addolorata_a_isola_r",
+    "title": "Sagra della Madonna Addolorata a Isola Rizza",
+    "date": "2026-09-18",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-a-isola-rizza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/madonna-addolorata-isola-rizza-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-19_open_day_all_accademia_martinelli",
     "title": "Open Day all’Accademia Martinelli",
     "date": "2026-09-19",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
     "url": "https://www.cittadiverona.it/eventi/open-day-accademia-martinelli/",
