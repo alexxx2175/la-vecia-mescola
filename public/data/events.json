@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-08-19_viva_vivaldi._the_four_seasons",
-    "title": "Viva Vivaldi. The Four Seasons Immersive Concert",
-    "date": "2026-08-19",
-    "time": "21:30",
-    "type": "Concerto",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/viva-vivaldi/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730681&amp;tcode=vt0017687",
-    "image": null
-  },
-  {
     "id": "arena_2026-08-20_nabucco",
     "title": "Nabucco",
     "date": "2026-08-20",
