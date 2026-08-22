@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-08-21_turandot",
-    "title": "Turandot",
-    "date": "2026-08-21",
-    "time": "21:00",
-    "type": "Opera",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/turandot/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730677&amp;tcode=vt0017687",
-    "image": null
-  },
-  {
     "id": "arena_2026-08-22_la_traviata",
     "title": "La Traviata",
     "date": "2026-08-22",
@@ -205,6 +192,19 @@
     "source": "arena.it",
     "url": "https://www.arena.it/arena-opera-festival/la-traviata/",
     "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730663&amp;tcode=vt0017687",
+    "image": null
+  },
+  {
+    "id": "arena_2026-10-04_verona_international_piano_com",
+    "title": "Verona International Piano Competition 2026",
+    "date": "2026-10-04",
+    "time": "17:00",
+    "type": "Concerto",
+    "venue_type": "Teatro Filarmonico",
+    "location": "Teatro Filarmonico",
+    "source": "arena.it",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/2026-verona-international-piano-competition/",
+    "buy_url": "https://shop.arena.it/it/event/verona-piano-competition-2026/298232",
     "image": null
   },
   {
