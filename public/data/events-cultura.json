@@ -434,34 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-21_antica_sagra_di_san_bartolomeo_ad_illasi",
-    "title": "Antica Sagra di San Bartolomeo ad Illasi",
-    "date": "2026-08-21",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-sagra-di-san-bartolomeo-ad-illasi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Sagra-di-San-Bartolomeo-ad-Illasi-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-24_antica_sagra_di_san_bartolomeo_a_illasi",
-    "title": "Antica Sagra di San Bartolomeo a Illasi",
-    "date": "2026-08-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/antica-sagra-san-bartolomeo-illasi-21-24-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-25_a_sant_anastasia_fa_tappa_la_scuola_esti",
     "title": "A Sant'Anastasia fa tappa la Scuola estiva internazionale in studi danteschi",
     "date": "2026-08-25",
@@ -606,14 +578,14 @@
     "title": "Giovanni Caccamo live al Teatro Romano: ospiti Elisa e Patty Pravo",
     "date": "2026-08-28",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giovanni-caccamo-concerto-teatro-romano-28-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/57361698963233/locandina-giovanni-caccamo-live-al-teatro-romano-2026-eventi-verona-srl.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-08-28_al_conservatorio_di_verona_bass_is_best_",
@@ -812,20 +784,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-29_visita_guidata_al_giardino_giusti_il_rin",
-    "title": "Visita guidata al Giardino Giusti: il Rinascimento segreto di Verona, tra grotte, labirinti e natura",
-    "date": "2026-08-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-giardino-giusti-29-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-08-29_un_caff_con_maria_callas_e_giovanni_zena",
     "title": "Un caffè con Maria Callas e Giovanni Zenatello",
     "date": "2026-08-29",
@@ -942,14 +900,14 @@
     "title": "“Infinito - Estate 2026”, il nuovo tour di Raf arriva al Teatro Romano",
     "date": "2026-08-30",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/raf-concerto-teatro-romano-30-agosto-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/27500884850583/raf-foto-ufficio-stampa-comunicazione-daniele-mignardi-promopressagency.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-08-30_festa_di_fine_estate_a_valeggio_sul_minc",
@@ -1062,6 +1020,34 @@
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
     "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-01_rtl_102_5_power_hits_estate_all_arena_di",
+    "title": "Rtl 102.5 Power Hits Estate all'Arena di Verona",
+    "date": "2026-09-01",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rtl-102-5-power-hits-estate-concerto-1-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/68767029076517/power-hits-estate-rtl102-5-ennevifoto-foto-via-ufficio-stampa-parole-e-dintorni.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-09-01_carmen_consoli_in_concerto_a_villafranca",
+    "title": "Carmen Consoli in concerto a Villafranca di Verona: \"D come dannate ingenue\"",
+    "date": "2026-09-01",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/carmen-consoli-concerto-villafranca-verona-1-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/17780645221528/locandina-carmen-consoli-d-come-dannate-ingenue-2026.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "cittadiverona_2026-09-01_carmen_consoli_al_castello_scaligero_di_",
