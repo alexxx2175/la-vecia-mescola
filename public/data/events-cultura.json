@@ -420,34 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-20_sagra_di_san_bartolomeo_a_villa_bartolom",
-    "title": "Sagra di San Bartolomeo a Villa Bartolomea",
-    "date": "2026-08-20",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-bartolomeo-a-villa-bartolomea/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/08/sagra-di-san-bartolomeo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-08-25_a_sant_anastasia_fa_tappa_la_scuola_esti",
-    "title": "A Sant'Anastasia fa tappa la Scuola estiva internazionale in studi danteschi",
-    "date": "2026-08-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/scuola-estiva-internazionale-studi-danteschi-25-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-25__zorba_il_greco_al_teatro_romano_di_vero",
     "title": "“Zorba il Greco” al Teatro Romano di Verona",
     "date": "2026-08-25",
@@ -529,6 +501,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-san-massimo-a-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/sagra-patrono-san-massimo-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-27_festa_del_cavallo_a_cherubine_di_cerea",
+    "title": "Festa del Cavallo a Cherubine di Cerea",
+    "date": "2026-08-27",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-cavallo-a-cerea/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/08/festa-del-cavallo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -630,6 +616,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-28_antica_fiera_di_sommacampagna",
+    "title": "Antica Fiera di Sommacampagna",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-sommacampagna/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Antica-Fiera-di-Sommacampagna-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-28_passeggiate_tra_vigne_e_uliveti_a_bardol",
     "title": "Passeggiate tra vigne e uliveti a Bardolino",
     "date": "2026-08-28",
@@ -658,31 +658,45 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-28_festa_scozzese_a_bussolengo",
-    "title": "Festa Scozzese a Bussolengo",
+    "id": "cittadiverona_2026-08-28__la_fiera_della_polenta_presente_al_bard",
+    "title": "“La Fiera della Polenta” presente al “Bardolino freddo”",
     "date": "2026-08-28",
     "time": "",
     "type": "Sagre",
     "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-scozzese-a-bussolengo/",
+    "url": "https://www.cittadiverona.it/eventi/la-fiera-della-polenta-presente-bardolino-freddo/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/festa-scozzese-bussolengo-2026-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Polenta-e-baccala-600x338.jpg",
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-28_festa_del_tartufo_nero_del_monte_baldo",
-    "title": "Festa del Tartufo Nero del Monte Baldo",
+    "id": "cittadiverona_2026-08-28_34_festa_dei_funghi_e_del_tartufo_a_rove",
+    "title": "34ª Festa dei Funghi e del Tartufo a Roverè Veronese",
     "date": "2026-08-28",
     "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-del-tartufo-nero-del-baldo-2",
+    "url": "https://www.cittadiverona.it/eventi/festa-funghi-tartufo-rovere-veronese/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/festa-del-tartufo-nero-del-monte-baldo-2026-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Festa-dei-Funghi-e-del-Tartufo-rovere-veronese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-28_sagra_di_san_luigi_a_sandr_",
+    "title": "Sagra di San Luigi a Sandrà",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-luigi-a-sandra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Sagra-di-San-Luigi-Sandra-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -700,12 +714,40 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-08-28_festa_del_tartufo_nero_del_monte_baldo",
+    "title": "Festa del Tartufo Nero del Monte Baldo",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-tartufo-nero-del-baldo-2",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/festa-del-tartufo-nero-del-monte-baldo-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-28_festa_scozzese_a_bussolengo",
+    "title": "Festa Scozzese a Bussolengo",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-scozzese-a-bussolengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/festa-scozzese-bussolengo-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-08-28_serata_di_degustazione_e_concerto_a_lume",
     "title": "Serata di degustazione e concerto a lume di candela",
     "date": "2026-08-28",
     "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
     "url": "https://www.cittadiverona.it/eventi/serata-degustazione-concerto-lume-candela/",
@@ -1040,14 +1082,14 @@
     "title": "Carmen Consoli in concerto a Villafranca di Verona: \"D come dannate ingenue\"",
     "date": "2026-09-01",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/carmen-consoli-concerto-villafranca-verona-1-settembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/17780645221528/locandina-carmen-consoli-d-come-dannate-ingenue-2026.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-09-01_carmen_consoli_al_castello_scaligero_di_",
@@ -1075,6 +1117,34 @@
     "url": "https://www.cittadiverona.it/eventi/settembre-perdere-teatro-romano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Settembre-2026-al-Teatro-Romano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-02_all_arena_di_verona_tornano_i_future_hit",
+    "title": "All'Arena di Verona tornano i Future Hits Live di Radio Zeta",
+    "date": "2026-09-02",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/future-hits-live-concerto-radio-zeta-arena-verona-2-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/12157372225592/concerto-arena-di-verona-foto-veronasera-2.jpg",
+    "category": "concerti_pop"
+  },
+  {
+    "id": "cittadiverona_2026-09-03__fuori_di_zucca_al_forte_degenfeld_di_pa",
+    "title": "“Fuori di Zucca” al Forte Degenfeld di Pastrengo",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fuori-di-zucca-forte-degenfeld-pastrengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/fuori-di-zucca-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1148,6 +1218,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-04__quando_la_musica_diventa_cinema_a_caste",
+    "title": "“Quando la musica diventa cinema”: a Castelnuovo del Garda le colonne sonore del ’900",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/quando-musica-diventa-cinema-castelnuovo-garda-colonne-sonore-900/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/torre-viscontea-castelnuovo-del-garda-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-04__diego_basso_plays_queen_al_teatro_roman",
     "title": "“Diego Basso Plays Queen” al Teatro Romano",
     "date": "2026-09-04",
@@ -1171,20 +1255,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1316,20 +1386,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-20_concerto_dei_negramaro_in_arena",
     "title": "Concerto dei Negramaro in Arena",
     "date": "2026-09-20",
@@ -1383,6 +1439,20 @@
     "url": "https://www.cittadiverona.it/eventi/alfa-arena-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/alfa-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-26_festival_della_ceramica_2026",
+    "title": "Festival della ceramica 2026",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-della-ceramica/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Festival-della-Ceramica-2026-1-600x338.jpg",
     "category": "cultura"
   },
   {
