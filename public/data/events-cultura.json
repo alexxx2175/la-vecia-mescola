@@ -434,20 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-08-27__cip_",
-    "title": "\"Cipì\"",
-    "date": "2026-08-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cipi-fondazione-aida-27-agosto-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-27_sagra_di_san_massimo_a_verona",
     "title": "Sagra di San Massimo a Verona",
     "date": "2026-08-27",
@@ -473,48 +459,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-del-cavallo-a-cerea/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/08/festa-del-cavallo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-27_la_storia_di_cip_a_forte_gisella",
-    "title": "La storia di “Cipì” a Forte Gisella",
-    "date": "2026-08-27",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/storia-cipi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/05/Cipi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-27__teatro_in_corte_nel_borgo_medievale_di_",
-    "title": "“Teatro in Corte” nel borgo medievale di Affi",
-    "date": "2026-08-27",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/teatro-corte-borgo-medievale-affi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/teatro-in-corte-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-27__jim_e_il_pirata_ispirato_al_celebre_rom",
-    "title": "“Jim e il pirata” ispirato al celebre romanzo L’isola del tesoro a l’Arena Dim",
-    "date": "2026-08-27",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/jim-pirata-ispirato-celebre-romanzo-isola-del-tesoro/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/Jim-e-il-pirata-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,20 +602,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-08-28_festa_del_tartufo_nero_del_monte_baldo",
-    "title": "Festa del Tartufo Nero del Monte Baldo",
-    "date": "2026-08-28",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-del-tartufo-nero-del-baldo-2",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/festa-del-tartufo-nero-del-monte-baldo-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-28__sorsi_al_chiaro_di_luna_alla_tenuta_cor",
     "title": "“Sorsi al Chiaro di Luna” alla Tenuta Corte Adami",
     "date": "2026-08-28",
@@ -683,6 +613,20 @@
     "url": "https://www.cittadiverona.it/eventi/sorsi-chiaro-luna-tenuta-corte-adami/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/sorsi-al-chiaro-di-luna-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-08-28_festa_del_tartufo_nero_del_monte_baldo",
+    "title": "Festa del Tartufo Nero del Monte Baldo",
+    "date": "2026-08-28",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-tartufo-nero-del-baldo-2",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/festa-del-tartufo-nero-del-monte-baldo-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1092,20 +1036,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-03__sunset_experience_aperitivo_al_tramonto",
-    "title": "“Sunset Experience”: aperitivo al tramonto al Monteleone21",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sunset-experience-aperitivo-tramonto-monteleone21/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/M21-SunsetExperience-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-03__fuori_di_zucca_al_forte_degenfeld_di_pa",
     "title": "“Fuori di Zucca” al Forte Degenfeld di Pastrengo",
     "date": "2026-09-03",
@@ -1117,6 +1047,20 @@
     "url": "https://www.cittadiverona.it/eventi/fuori-di-zucca-forte-degenfeld-pastrengo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/fuori-di-zucca-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-03__sunset_experience_aperitivo_al_tramonto",
+    "title": "“Sunset Experience”: aperitivo al tramonto al Monteleone21",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sunset-experience-aperitivo-tramonto-monteleone21/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/M21-SunsetExperience-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1176,6 +1120,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-04_sagra_di_raldon_a_san_giovanni_lupatoto",
+    "title": "Sagra di Raldon a San Giovanni Lupatoto",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-raldon-a-san-giovanni-lupatoto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/09/sagra-di-raldon-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-04__quando_la_musica_diventa_cinema_a_caste",
     "title": "“Quando la musica diventa cinema”: a Castelnuovo del Garda le colonne sonore del ’900",
     "date": "2026-09-04",
@@ -1201,20 +1159,6 @@
     "url": "https://www.cittadiverona.it/eventi/diego-basso-plays-queen/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Diego-Basso-Plays-Queen-teatro-romano-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__oro_e_colore_a_malcesine_arrivano_le_op",
-    "title": "“Oro e colore”, a Malcesine arrivano le opere di Gustav Klimt",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1257,6 +1201,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-uva-monteforte-d-alpone/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/festa-uva-monteforte-alpone-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-10_festa_di_santa_croce_2026",
+    "title": "Festa di Santa Croce 2026",
+    "date": "2026-09-10",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-di-santa-croce/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Festa-di-Santa-Croce-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1470,6 +1428,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-29_umberto_galimberti_al_teatro_romano_di_v",
+    "title": "Umberto Galimberti al Teatro Romano di Verona",
+    "date": "2026-09-29",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/umberto-galimberti-a-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/04/Umberto-Galimberti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-10-07_solar_storage_live_show",
     "title": "Solar & Storage Live Show",
     "date": "2026-10-07",
@@ -1594,6 +1566,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "cittadiverona_2026-11-22_fabio_concato_al_teatro_nuovo_di_verona",
+    "title": "Fabio Concato al Teatro Nuovo di Verona",
+    "date": "2026-11-22",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fabio-concato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/12/Fabio-Concato-600x338.jpg",
+    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-25_job_orienta",
