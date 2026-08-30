@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-08-29_la_traviata",
-    "title": "La Traviata",
-    "date": "2026-08-29",
-    "time": "21:00",
-    "type": "Opera",
-    "venue_type": "Arena Opera Festival",
-    "location": "Arena di Verona",
-    "source": "arena.it",
-    "url": "https://www.arena.it/arena-opera-festival/la-traviata/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=12730661&amp;tcode=vt0017687",
-    "image": null
-  },
-  {
     "id": "arena_2026-08-30_aida_ed._franco_zeffirelli",
     "title": "Aida Ed. Franco Zeffirelli",
     "date": "2026-08-30",
