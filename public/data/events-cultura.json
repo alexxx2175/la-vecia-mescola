@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-08-27_sagra_di_san_massimo_a_verona",
-    "title": "Sagra di San Massimo a Verona",
-    "date": "2026-08-27",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-massimo-a-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/sagra-patrono-san-massimo-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-08-27_festa_del_cavallo_a_cherubine_di_cerea",
     "title": "Festa del Cavallo a Cherubine di Cerea",
     "date": "2026-08-27",
@@ -432,34 +418,6 @@
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/08/festa-del-cavallo-600x338.jpg",
     "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-08-28_antica_fiera_di_sommacampagna",
-    "title": "Antica Fiera di Sommacampagna",
-    "date": "2026-08-28",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-sommacampagna/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Antica-Fiera-di-Sommacampagna-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-02_all_arena_di_verona_tornano_i_future_hit",
-    "title": "All'Arena di Verona tornano i Future Hits Live di Radio Zeta",
-    "date": "2026-09-02",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/future-hits-live-concerto-radio-zeta-arena-verona-2-settembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/12157372225592/concerto-arena-di-verona-foto-veronasera-2.jpg",
-    "category": "concerti_pop"
   },
   {
     "id": "cittadiverona_2026-09-02_sagra_di_san_zeno_a_roverchiara",
@@ -546,6 +504,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-03__sunset_experience_aperitivo_al_tramonto",
+    "title": "“Sunset Experience”: aperitivo al tramonto al Monteleone21",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sunset-experience-aperitivo-tramonto-monteleone21/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/M21-SunsetExperience-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-03_sagra_madonna_del_popolo_di_ca_di_david",
     "title": "Sagra Madonna del Popolo di Ca’ di David",
     "date": "2026-09-03",
@@ -571,20 +543,6 @@
     "url": "https://www.cittadiverona.it/eventi/fuori-di-zucca-forte-degenfeld-pastrengo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/fuori-di-zucca-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-03__sunset_experience_aperitivo_al_tramonto",
-    "title": "“Sunset Experience”: aperitivo al tramonto al Monteleone21",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sunset-experience-aperitivo-tramonto-monteleone21/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/M21-SunsetExperience-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -690,13 +648,13 @@
     "title": "Dj Antoine, Cristian Marchi, Molella e Luca Lazza al Gardaland Stars Night",
     "date": "2026-09-05",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Disco&amp;Feste",
+    "venue_type": "Disco&amp;Feste",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/gardaland-stars-night-5-settembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/52975005483695/gardaland-stars-night-27.jpg",
     "category": "cultura"
   },
   {
@@ -725,6 +683,20 @@
     "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-5-settembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-05_il_talent_legnaghese_salieri_in_rock_no_",
+    "title": "Il talent legnaghese “Salieri in Rock – no Digit” al Teatro Salieri",
+    "date": "2026-09-05",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/talent-legnaghese-salieri-in-rock-no-digit-teatro-salieri/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Salieri-in-Rock-–-no-Digit-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -807,20 +779,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__r_estate_in_5_al_parco_san_giacomo_un_e",
-    "title": "\"R-Estate in 5^\": al Parco San Giacomo un’estate di musica, spettacoli e divertimento",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/r-estate-5-spettacolo-concerto-31-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -966,17 +924,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-12_a_verona_il_festival_di_teatro_urbano_ur",
-    "title": "A Verona il festival di teatro urbano \"Urban Orbit\"",
-    "date": "2026-09-12",
+    "id": "cittadiverona_2026-09-11__not_t_e_in_valpantena_tra_le_colline_ve",
+    "title": "“Not(t)e in Valpantena” tra le colline Veronesi",
+    "date": "2026-09-11",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/urban-orbit-spetacoli-26-giugno-12-settembre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/notte-in-valpantena-colline-veronesi/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/notte-in-valpantena-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1075,6 +1033,20 @@
     "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-20_scopri_il_territorio_in_cuffia_con_narra",
+    "title": "Scopri il territorio in cuffia con “Narrando Castelnuovo”",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Visite guidate",
+    "venue_type": "Visite guidate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/scopri-territorio-cuffia-narrando-castelnuovo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/narrando-castelnuovo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1271,6 +1243,20 @@
     "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-11_borsa_scambio_giocattoli_d_epoca_e_autom",
+    "title": "Borsa Scambio Giocattoli d’Epoca e Automodelli",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Fiere",
+    "venue_type": "Fiere",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/borsa-scambio-giocattoli-d-epoca-e-automodelli",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/02/Giocattoli-di-legno-meta-900-600x338.jpeg",
     "category": "cultura"
   },
   {
