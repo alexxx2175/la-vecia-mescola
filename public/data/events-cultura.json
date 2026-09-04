@@ -364,20 +364,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-06-18_estate_ad_affi",
-    "title": "Estate ad Affi",
-    "date": "2026-06-18",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/estate-ad-affi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/estate-ad-affi-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-07-17_vinitaly_and_the_city_calabria_in_wine",
     "title": "Vinitaly and the City Calabria in Wine",
     "date": "2026-07-17",
@@ -420,6 +406,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-02_settembre_colognese_2026",
+    "title": "Settembre Colognese 2026",
+    "date": "2026-09-02",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/settembre-colognese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/settembre-colognese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-02_sagra_di_san_zeno_a_roverchiara",
     "title": "Sagra di San Zeno a Roverchiara",
     "date": "2026-09-02",
@@ -448,17 +448,31 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-03__monteleone21_sunset_experience_",
-    "title": "\"Monteleone21 sunset experience\"",
+    "id": "cittadiverona_2026-09-03_sagra_madonna_della_cintura_a_grezzana",
+    "title": "Sagra Madonna della cintura a Grezzana",
     "date": "2026-09-03",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/monteleone21-sunset-experience-3-settembre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-della-cintura-grezzana-2022/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Sagra-Madonna-della-Cintura-di-Grezzana-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-03__riso_co_le_nose_fiera_di_nogara",
+    "title": "“Riso co’ le Nose” Fiera di Nogara",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-riso-co-le-nose/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/riso-e-nose-Fiera-di-Nogara-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -476,20 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-03_sagra_madonna_della_cintura_a_grezzana",
-    "title": "Sagra Madonna della cintura a Grezzana",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-della-cintura-grezzana-2022/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Sagra-Madonna-della-Cintura-di-Grezzana-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-03_sagra_di_settimo_di_pescantina_2026",
     "title": "Sagra di Settimo di Pescantina 2026",
     "date": "2026-09-03",
@@ -501,20 +501,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-settimo-di-pescantina-festa-di-settembre/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/sagra-di-settimo-di-pescantina-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-03__sunset_experience_aperitivo_al_tramonto",
-    "title": "“Sunset Experience”: aperitivo al tramonto al Monteleone21",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sunset-experience-aperitivo-tramonto-monteleone21/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/M21-SunsetExperience-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -546,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-03_progetto_voci_dal_mondo_letture_musica_e",
-    "title": "Progetto “Voci dal Mondo”: letture, musica e laboratori al Parco Santa Teresa",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/progetto-voci-dal-mondo-letture-musica-laboratori-parco-santa-teresa/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/voci-dal-mondo-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-04_magico_mondo_del_cosplay_al_parco_giardi",
     "title": "Magico Mondo del Cosplay al Parco Giardino Sigurtà",
     "date": "2026-09-04",
@@ -571,6 +543,34 @@
     "url": "https://www.cittadiverona.it/eventi/magico-mondo-del-cosplay/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/08/magico-mondo-del-cosplay-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-04_sagra_san_pio_x_in_festa",
+    "title": "Sagra San Pio X in Festa",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-san-pio-x-in-festa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/San-Pio-X-in-festa-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-04__gin_tonic_festival_al_parco_ottocento",
+    "title": "“Gin & Tonic Festival” al Parco Ottocento",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/gin-tonic-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/gin-tonic-festival-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -602,6 +602,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-04_sagra_di_povegliano_veronese",
+    "title": "Sagra di Povegliano Veronese",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-povegliano-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-povegliano-veronese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-04_sagra_di_raldon_a_san_giovanni_lupatoto",
     "title": "Sagra di Raldon a San Giovanni Lupatoto",
     "date": "2026-09-04",
@@ -613,6 +627,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-raldon-a-san-giovanni-lupatoto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/09/sagra-di-raldon-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-04_festa_de_l_anara_a_gazzo_veronese",
+    "title": "Festa de l’Anara a Gazzo Veronese",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-de-l-anara-gazzo-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/festa-de-l-anara-gazzo-veronese-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -798,6 +826,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-06_mercatino_dell_antiquariato_a_verona_in_",
+    "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
+    "date": "2026-09-06",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/verona-antiquaria-settembre-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-06_fiera_del_miele_nuovo_e_dei_prodotti_loc",
     "title": "Fiera del miele nuovo e dei prodotti locali a Molina",
     "date": "2026-09-06",
@@ -809,6 +851,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiera-miele-nuovo-prodotti-locali/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/Fiera-del-miele-e-dei-prodotti-nuovi-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-06_musica_e_spettacoli_al_parco_san_giacomo",
+    "title": "Musica e spettacoli al Parco San Giacomo",
+    "date": "2026-09-06",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/musica-e-spettacoli-al-parco-san-giacomo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/06/Parco-San-Giacomo2-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -865,6 +921,20 @@
     "url": "https://www.cittadiverona.it/eventi/corso-tai-chi-quan-energia-movimento/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Tai-Chi-quan-corsi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-09_sagra_de_l_anara_pitanara_a_tarmassia",
+    "title": "Sagra de l’Anara Pitanara a Tarmassia",
+    "date": "2026-09-09",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-de-l-anara-pitanara-a-tarmassia",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/sagra-anara-pitanara-tarmassia-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1022,20 +1092,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-20_scopri_il_territorio_in_cuffia_con_narra",
     "title": "Scopri il territorio in cuffia con “Narrando Castelnuovo”",
     "date": "2026-09-20",
@@ -1159,6 +1215,20 @@
     "url": "https://www.cittadiverona.it/eventi/umberto-galimberti-a-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2013/04/Umberto-Galimberti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-30_calendario_di_musica_live_a_verona_e_pro",
+    "title": "Calendario di musica live a Verona e provincia",
+    "date": "2026-09-30",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
     "category": "cultura"
   },
   {
