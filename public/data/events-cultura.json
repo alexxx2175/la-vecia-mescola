@@ -504,20 +504,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-03_sagra_madonna_del_popolo_di_ca_di_david",
-    "title": "Sagra Madonna del Popolo di Ca’ di David",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-popolo-ca-di-david/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/sagra-di-cadidavid-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-03__fuori_di_zucca_al_forte_degenfeld_di_pa",
     "title": "“Fuori di Zucca” al Forte Degenfeld di Pastrengo",
     "date": "2026-09-03",
@@ -529,6 +515,20 @@
     "url": "https://www.cittadiverona.it/eventi/fuori-di-zucca-forte-degenfeld-pastrengo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/fuori-di-zucca-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-03_sagra_madonna_del_popolo_di_ca_di_david",
+    "title": "Sagra Madonna del Popolo di Ca’ di David",
+    "date": "2026-09-03",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-popolo-ca-di-david/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/sagra-di-cadidavid-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -588,20 +588,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-04_sagra_della_parrocchia_cristo_risorto",
-    "title": "Sagra della Parrocchia Cristo Risorto",
-    "date": "2026-09-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-parrocchia-cristo-risorto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/festa-cristo-risorto-bussolengo-2026-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-04_sagra_di_povegliano_veronese",
     "title": "Sagra di Povegliano Veronese",
     "date": "2026-09-04",
@@ -613,6 +599,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-povegliano-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-povegliano-veronese-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-04_sagra_della_parrocchia_cristo_risorto",
+    "title": "Sagra della Parrocchia Cristo Risorto",
+    "date": "2026-09-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-parrocchia-cristo-risorto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/festa-cristo-risorto-bussolengo-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -644,45 +644,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-04__quando_la_musica_diventa_cinema_a_caste",
-    "title": "“Quando la musica diventa cinema”: a Castelnuovo del Garda le colonne sonore del ’900",
-    "date": "2026-09-04",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/quando-musica-diventa-cinema-castelnuovo-garda-colonne-sonore-900/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/torre-viscontea-castelnuovo-del-garda-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-04__diego_basso_plays_queen_al_teatro_roman",
-    "title": "“Diego Basso Plays Queen” al Teatro Romano",
-    "date": "2026-09-04",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/diego-basso-plays-queen/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/08/Diego-Basso-Plays-Queen-teatro-romano-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-05_dj_antoine_cristian_marchi_molella_e_luc",
     "title": "Dj Antoine, Cristian Marchi, Molella e Luca Lazza al Gardaland Stars Night",
     "date": "2026-09-05",
     "time": "",
-    "type": "Disco&amp;Feste",
-    "venue_type": "Disco&amp;Feste",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/gardaland-stars-night-5-settembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/52975005483695/gardaland-stars-night-27.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -793,20 +765,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/abbazia-aperta-visita-6-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-06__oro_e_colore_a_malcesine_arrivano_le_op",
-    "title": "“Oro e colore”, a Malcesine arrivano le opere di Gustav Klimt",
-    "date": "2026-09-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1005,6 +963,48 @@
     "url": "https://www.cittadiverona.it/eventi/notte-in-valpantena-colline-veronesi/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/notte-in-valpantena-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-12_vincenzo_salemme_in_e_fuori_nevica_al_te",
+    "title": "Vincenzo Salemme in \"...e fuori nevica\" al Teatro Romano",
+    "date": "2026-09-12",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/vincenzo-salemme-e-fuori-nevica-teatro-romano-12-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/42854077217892/locandina-vincenzo-salemme-2026-daniele-mignardi-promopressagenc.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-12_roberto_cacciapaglia_in_concerto_a_grezz",
+    "title": "Roberto Cacciapaglia in concerto a Grezzana per il Soglia Festival",
+    "date": "2026-09-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/roberto-cacciapaglia-concerto-grezzana-12-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-12_maria_pia_timo_in_enciclopia_",
+    "title": "Maria Pia Timo in \"Enciclopia\"",
+    "date": "2026-09-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/maria-pia-timo-enciclopia-fondazione-aida-12-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1302,20 +1302,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-11_borsa_scambio_giocattoli_d_epoca_e_autom",
     "title": "Borsa Scambio Giocattoli d’Epoca e Automodelli",
     "date": "2026-10-11",
@@ -1356,20 +1342,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
