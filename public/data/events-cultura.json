@@ -644,48 +644,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-05_dj_antoine_cristian_marchi_molella_e_luc",
-    "title": "Dj Antoine, Cristian Marchi, Molella e Luca Lazza al Gardaland Stars Night",
-    "date": "2026-09-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/gardaland-stars-night-5-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-05__la_contea_tra_i_salici_a_sona",
-    "title": "\"La contea tra i salici\" a Sona",
-    "date": "2026-09-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contea-tra-salici-evento-fantasy-5-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-05_visita_guidata_alla_casa_museo_miniscalc",
-    "title": "Visita guidata alla Casa museo Miniscalchi-Erizzo e alla mostra temporanea",
-    "date": "2026-09-05",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/visita-guidata-casa-museo-miniscalchi-erizzo-5-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-05_il_talent_legnaghese_salieri_in_rock_no_",
     "title": "Il talent legnaghese “Salieri in Rock – no Digit” al Teatro Salieri",
     "date": "2026-09-05",
@@ -770,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-06__oro_e_colore_a_malcesine_arrivano_le_op",
+    "title": "“Oro e colore”, a Malcesine arrivano le opere di Gustav Klimt",
+    "date": "2026-09-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/oro-colore-mostra-arte-gustav-klimt-23-maggio-6-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-06_mercatino_dell_antiquariato_a_povegliano",
     "title": "Mercatino dell’antiquariato a Povegliano Veronese",
     "date": "2026-09-06",
@@ -830,14 +802,14 @@
     "title": "Il \"Sacro Tour\" di Serena Brancale arriva a Verona",
     "date": "2026-09-07",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/serena-brancale-concerto-teatro-romano-7-settembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/65695351412296/locandina-serena-brancale-sacro-tour-2026-eventi-verona.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-09-07_corso_shaolin_kungu_fu_",
@@ -1019,6 +991,20 @@
     "url": "https://www.cittadiverona.it/eventi/maria-pia-timo-enciclopia/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/maria-pia-timo-settembre-caldierese-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-13_fiera_dello_sport_di_caldiero",
+    "title": "Fiera dello Sport di Caldiero",
+    "date": "2026-09-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fiera-dello-sport-caldiero-13-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1342,6 +1328,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
+    "title": "\"Soffitte in piazza\" a Verona",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
