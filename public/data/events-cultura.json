@@ -420,20 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-02__la_galzega_del_riso_a_minerbe",
-    "title": "“La Galzega del Riso” a Minerbe",
-    "date": "2026-09-02",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/la-galzega-del-riso-a-minerbe/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/07/la-galzega-del-riso-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-03__riso_co_le_nose_fiera_di_nogara",
     "title": "“Riso co’ le Nose” Fiera di Nogara",
     "date": "2026-09-03",
@@ -445,34 +431,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-del-riso-co-le-nose/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/riso-e-nose-Fiera-di-Nogara-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-03_sagra_madonna_della_cintura_a_grezzana",
-    "title": "Sagra Madonna della cintura a Grezzana",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-della-cintura-grezzana-2022/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Sagra-Madonna-della-Cintura-di-Grezzana-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-03_sagra_di_settimo_di_pescantina_2026",
-    "title": "Sagra di Settimo di Pescantina 2026",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-settimo-di-pescantina-festa-di-settembre/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/sagra-di-settimo-di-pescantina-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -518,20 +476,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-04_sagra_di_povegliano_veronese",
-    "title": "Sagra di Povegliano Veronese",
-    "date": "2026-09-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-povegliano-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/sagra-povegliano-veronese-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-04_sagra_di_raldon_a_san_giovanni_lupatoto",
     "title": "Sagra di Raldon a San Giovanni Lupatoto",
     "date": "2026-09-04",
@@ -557,34 +501,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-de-l-anara-gazzo-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/festa-de-l-anara-gazzo-veronese-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-07_il_sacro_tour_di_serena_brancale_arriva_",
-    "title": "Il \"Sacro Tour\" di Serena Brancale arriva a Verona",
-    "date": "2026-09-07",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/serena-brancale-concerto-teatro-romano-7-settembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/65695351412296/locandina-serena-brancale-sacro-tour-2026-eventi-verona.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "cittadiverona_2026-09-07_corso_shaolin_kungu_fu_",
-    "title": "Corso “Shaolin Kungu Fu”",
-    "date": "2026-09-07",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/corso-shaolin-kungu-fu/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/SHAOLIN-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -672,6 +588,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-11_festambiente_verona_il_festival_nazional",
+    "title": "Festambiente Verona, il festival ​nazionale di Legambiente",
+    "date": "2026-09-11",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festambiente-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/Festambiente-Verona-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-11_festa_della_vendemmia_da_masi_tenuta_can",
     "title": "Festa della Vendemmia da Masi Tenuta Canova",
     "date": "2026-09-11",
@@ -683,6 +613,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-della-vendemmia-alla-masi-tenuta-canova/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/08/Festa-della-vendemmia-Masi-Tenuta-Canova-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-11_festa_del_custoza",
+    "title": "Festa del Custoza",
+    "date": "2026-09-11",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-custoza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/il-custoza-in-festa-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -774,11 +718,39 @@
     "title": "Fiera dello Sport di Caldiero",
     "date": "2026-09-13",
     "time": "",
+    "type": "Fiere",
+    "venue_type": "Fiere",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fiera-dello-sport-caldiero-13-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/62205716828450/fiera-dello-sport-di-caldiero-18-edizione-2.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-13_festa_dello_sport_alle_terme_di_giunone_",
+    "title": "Festa dello Sport alle Terme di Giunone di Caldiero",
+    "date": "2026-09-13",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-dello-sport-caldiero/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Festa-dello-Sport-Caldiero-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-15_corso_di_macram_a_tema_vendemmia",
+    "title": "Corso di macramè a tema vendemmia",
+    "date": "2026-09-15",
+    "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-dello-sport-caldiero-13-settembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/corso-macrame-vendemmia-15-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -991,6 +963,20 @@
     "url": "https://www.cittadiverona.it/eventi/alfa-arena-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/alfa-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-26_giornata_nazionale_abio",
+    "title": "Giornata Nazionale Abio",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/giornata-nazionale-abio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/09/festa-nazionale-abio-a-verona-600x338.jpeg",
     "category": "cultura"
   },
   {
