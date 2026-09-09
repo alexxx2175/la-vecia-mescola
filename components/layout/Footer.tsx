@@ -6,6 +6,7 @@ import { Logo } from "@/components/ui/Logo";
 import { motion } from "framer-motion";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { useLocalePath } from "@/lib/use-locale-path";
 
 const NAV_LINKS = [
   { href: "/#concept", num: "01", labelKey: "concept" as const },
@@ -23,6 +24,7 @@ const NAV_LINKS = [
  */
 export function Footer() {
   const { lang } = useSiteLanguage();
+  const { to } = useLocalePath();
 
   return (
     <footer className="relative z-10 border-t border-[#2C2420]/10 bg-[#E5D3CE]">
@@ -78,7 +80,7 @@ export function Footer() {
             </h3>
             <nav className="flex flex-col gap-1 text-sm">
               {NAV_LINKS.map((link) => (
-                <Link key={link.href} href={link.href} className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">
+                <Link key={link.href} href={to(link.href)} className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">
                   {link.num} {t(translations.nav[link.labelKey], lang)}
                 </Link>
               ))}

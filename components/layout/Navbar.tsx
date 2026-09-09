@@ -8,6 +8,8 @@ import { Logo } from "@/components/ui/Logo";
 import { motion, AnimatePresence } from "framer-motion";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { useLocalePath } from "@/lib/use-locale-path";
+import { stripLocale } from "@/data/locales";
 
 const NAV_LINKS = [
   { href: "/#concept", num: "01", labelKey: "concept" as const },
@@ -25,8 +27,9 @@ export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
   // Solo la home ha un hero scuro sotto la navbar: altrove il testo deve essere scuro fin da subito
-  const forceScrolled = pathname !== "/";
+  const forceScrolled = stripLocale(pathname ?? "/") !== "/";
   const { lang } = useSiteLanguage();
+  const { to } = useLocalePath();
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -69,7 +72,7 @@ export function Navbar() {
             {NAV_LINKS.map((link) => (
               <Link
                 key={link.href}
-                href={link.href}
+                href={to(link.href)}
                 className={`group relative px-2 py-2 text-[11px] font-medium uppercase tracking-[0.25em] transition-all duration-300 lg:text-xs lg:tracking-[0.3em] ${
                   scrolled || forceScrolled
                     ? "text-[#2C2420]/90 hover:text-[#B8962E]"
@@ -158,7 +161,7 @@ export function Navbar() {
                     transition={{ delay: 0.05 + i * 0.04, duration: 0.3 }}
                   >
                     <Link
-                      href={link.href}
+                      href={to(link.href)}
                       onClick={() => setMobileOpen(false)}
                       className="flex min-h-[48px] items-center gap-2 border-l-2 border-transparent px-6 py-3 text-sm uppercase tracking-widest text-[#2C2420]/80 transition-all hover:border-[#B8962E] hover:text-[#B8962E]"
                     >

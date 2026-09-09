@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import { useLocalePath } from "@/lib/use-locale-path";
 
 interface LogoProps {
   /** Variante chiara (bianco) per hero/navbar trasparente */
@@ -12,6 +13,7 @@ interface LogoProps {
 }
 
 export function Logo({ variant = "dark", className = "", asLink = true }: LogoProps) {
+  const { to } = useLocalePath();
   const textColor = variant === "light" ? "text-white" : "text-[#5C2C2C]";
   const content = (
     <span
@@ -25,7 +27,7 @@ export function Logo({ variant = "dark", className = "", asLink = true }: LogoPr
   if (asLink) {
     return (
       <Link
-        href="/"
+        href={to("/")}
         className="flex items-center transition-opacity hover:opacity-90"
         aria-label="La Vecia Mescola — Torna alla home"
       >

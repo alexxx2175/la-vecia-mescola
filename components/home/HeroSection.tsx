@@ -6,6 +6,7 @@ import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion
 import { useEffect, useRef, useState } from "react";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { useLocalePath } from "@/lib/use-locale-path";
 
 const HERO_POSTER =
   "/images/sala-principale-travi-vista-lampadari-muro-pietra-la-vecia-mescola.jpg";
@@ -48,6 +49,7 @@ function useDeferredVideo(enabled: boolean): boolean {
 }
 
 export function HeroSection() {
+  const { to } = useLocalePath();
   const { lang } = useSiteLanguage();
   const prefersReduced = useReducedMotion();
   const ref = useRef<HTMLElement>(null);
@@ -115,7 +117,7 @@ export function HeroSection() {
         >
           <span className="h-px w-12 bg-white/50" />
           <Link
-            href="/menu"
+            href={to("/menu")}
             className="inline-flex min-h-[48px] items-center text-sm font-medium uppercase tracking-[0.35em] text-white transition-colors duration-300 hover:text-white/90"
           >
             {t(translations.hero.cta, lang)}

@@ -5,6 +5,7 @@ import { Clock, MapPin } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { useLocalePath } from "@/lib/use-locale-path";
 
 type TeaserEvent = {
   title: string;
@@ -36,6 +37,7 @@ const WHATSAPP_URL = "https://wa.me/393928699275";
 
 /** Riceve gli eventi già caricati lato server: il teaser è nell'HTML iniziale. */
 export function EventsTeaserSection({ events }: { events: TeaserEvent[] }) {
+  const { to } = useLocalePath();
   const { lang } = useSiteLanguage();
 
   if (events.length === 0) return null;
@@ -79,7 +81,7 @@ export function EventsTeaserSection({ events }: { events: TeaserEvent[] }) {
 
         <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center sm:gap-6">
           <Link
-            href="/arena"
+            href={to("/arena")}
             className="inline-flex min-h-[48px] items-center rounded-sm border border-[#B8962E]/40 px-6 py-3 text-sm font-semibold uppercase tracking-wider text-[#B8962E] transition-colors hover:bg-[#B8962E]/10"
           >
             {t(translations.events_teaser.cta, lang)}

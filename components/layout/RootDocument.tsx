@@ -20,7 +20,9 @@ const lato = Lato({
   display: "swap",
 });
 
-export type SiteLocale = "it" | "en" | "de";
+import type { Locale } from "@/data/locales";
+
+export type SiteLocale = Locale;
 
 /**
  * Documento HTML condiviso dai tre root layout. L'attributo `lang` cambia per
@@ -43,7 +45,7 @@ export function RootDocument({
       className={`${playfair.variable} ${lato.variable} h-full antialiased`}
     >
       <body className="relative min-h-full flex flex-col bg-[#EBD9D4] text-[#2C2420]">
-        <ConditionalChrome>{children}</ConditionalChrome>
+        <ConditionalChrome lang={lang}>{children}</ConditionalChrome>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(restaurantJsonLd) }}

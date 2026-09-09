@@ -7,6 +7,7 @@ import { useRef } from "react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { useLocalePath } from "@/lib/use-locale-path";
 
 type MenuPreviewItem = {
   key: string;
@@ -153,6 +154,7 @@ function FallingMenuCard({
   index: number;
   progress: MotionValue<number>;
 }) {
+  const { to } = useLocalePath();
   // Caduta in sequenza ma allineamento comune quando la sezione è "in focus"
   const alignAt = 0.54;
   const start = 0.18 + index * 0.07;
@@ -160,7 +162,7 @@ function FallingMenuCard({
 
   return (
     <Link
-      href={`/menu#${item.key}`}
+      href={to(`/menu#${item.key}`)}
       className="block rounded-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-[#B8962E] focus-visible:ring-offset-2 focus-visible:ring-offset-[#EBD9D4]"
       aria-label={`Apri il menu: ${item.alt}`}
     >
@@ -184,6 +186,7 @@ function FallingMenuCard({
 }
 
 export function MenuSection() {
+  const { to } = useLocalePath();
   const { lang } = useSiteLanguage();
   const sectionRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
@@ -214,7 +217,7 @@ export function MenuSection() {
         <ScrollReveal delay={0.2}>
           <div className="mt-10 text-left md:text-center">
             <Link
-              href="/menu"
+              href={to("/menu")}
               className="inline-block text-sm font-semibold uppercase tracking-[0.22em] text-[#2C2420] transition-colors hover:text-[#B8962E]"
             >
               {t(translations.menuSection.cta, lang)}

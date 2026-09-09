@@ -1,7 +1,9 @@
 "use client";
 
-import { createContext, useContext, useSyncExternalStore, type ReactNode } from "react";
+import { createContext, useContext, type ReactNode } from "react";
+import { usePathname, useRouter } from "next/navigation";
 import type { SiteLang } from "@/data/translations";
+import { ARENA_LOCALES, localePath, stripLocale } from "@/data/locales";
 
 type SiteLanguageContextType = {
   lang: SiteLang;
@@ -14,36 +16,36 @@ const SiteLanguageContext = createContext<SiteLanguageContextType>({
 });
 
 const STORAGE_KEY = "site-lang";
-const listeners = new Set<() => void>();
 
-function readStoredLang(): SiteLang {
-  try {
-    return (localStorage.getItem(STORAGE_KEY) as SiteLang | null) ?? "it";
-  } catch {
-    return "it";
-  }
-}
+/**
+ * La lingua è determinata dall'URL (route group per lingua), quindi ogni
+ * versione ha una pagina propria indicizzabile. Cambiare lingua significa
+ * navigare alla stessa pagina nell'altra lingua.
+ */
+export function SiteLanguageProvider({
+  lang,
+  children,
+}: {
+  lang: SiteLang;
+  children: ReactNode;
+}) {
+  const router = useRouter();
+  const pathname = usePathname();
 
-function subscribe(onChange: () => void) {
-  listeners.add(onChange);
-  window.addEventListener("storage", onChange);
-  return () => {
-    listeners.delete(onChange);
-    window.removeEventListener("storage", onChange);
-  };
-}
-
-export function SiteLanguageProvider({ children }: { children: ReactNode }) {
-  // Server: sempre "it" (HTML indicizzabile in italiano); client: lingua salvata.
-  const lang = useSyncExternalStore(subscribe, readStoredLang, () => "it" as SiteLang);
-
-  const setLang = (l: SiteLang) => {
+  const setLang = (next: SiteLang) => {
     try {
-      localStorage.setItem(STORAGE_KEY, l);
+      localStorage.setItem(STORAGE_KEY, next);
     } catch {
-      // storage non disponibile: la lingua resta quella di default
+      // storage non disponibile: la navigazione funziona comunque
     }
-    listeners.forEach((cb) => cb());
+    if (next === lang) return;
+    const base = stripLocale(pathname);
+    const target =
+      base === "/arena" && !ARENA_LOCALES.includes(next)
+        ? localePath(next, "/")
+        : localePath(next, base);
+    const hash = typeof window !== "undefined" ? window.location.hash : "";
+    router.push(`${target}${hash}`);
   };
 
   return (

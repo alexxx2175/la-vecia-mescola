@@ -2,6 +2,8 @@
 
 import { useState, useSyncExternalStore } from "react";
 import { useIsClient } from "@/lib/use-client-value";
+import { useSiteLanguage } from "@/context/SiteLanguageContext";
+import { arenaPath } from "@/data/locales";
 import { motion } from "framer-motion";
 import { ChevronDown, ChevronUp, CalendarDays } from "lucide-react";
 import Link from "next/link";
@@ -132,7 +134,8 @@ function categoryFromHash(): MenuCategoryKey {
 }
 
 export function MenuPage({ menuData }: MenuPageProps) {
-  const [lang, setLang] = useState<Language>("it");
+  // Lingua dall'URL (/{lang}/menu): il cambio lingua naviga alla versione tradotta
+  const { lang, setLang } = useSiteLanguage();
   // L'hash dell'URL è l'unica fonte di verità per la categoria attiva
   // (server: "antipasti", così l'HTML iniziale è deterministico).
   const activeCategory = useSyncExternalStore(
@@ -183,7 +186,7 @@ export function MenuPage({ menuData }: MenuPageProps) {
     <div className="flex min-h-screen flex-col bg-[#EBD9D4]">
       {/* Language toggle — fixed bottom-left */}
       <div className="fixed bottom-6 left-6 z-[100]">
-        <LanguageToggle lang={lang} onLangChange={setLang} />
+        <LanguageToggle lang={lang as Language} onLangChange={(l) => setLang(l)} />
       </div>
 
       <main className="flex-1 pb-8 pt-20">
@@ -271,7 +274,7 @@ export function MenuPage({ menuData }: MenuPageProps) {
             {UI_TEXT.events_banner_title[lang]}
           </p>
           <Link
-            href="/arena"
+            href={arenaPath(lang)}
             className="mt-5 inline-flex min-h-[48px] items-center rounded-sm border border-[#B8962E]/40 px-6 py-3 text-sm font-semibold uppercase tracking-wider text-[#B8962E] transition-colors hover:bg-[#B8962E]/10"
           >
             {UI_TEXT.events_banner_cta[lang]}

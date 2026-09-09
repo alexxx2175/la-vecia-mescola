@@ -303,3 +303,24 @@ Ja, wir haben jeden Abend geöffnet, auch an Opern- und Konzertnächten. An Vors
 - Romantisches Restaurant Verona
 - Amarone Risotto Verona
 - Geheimtipp Restaurant Verona
+
+---
+
+## Pagine per lingua / Localized pages
+
+Home, menu e contatti sono disponibili in dieci lingue, ognuna a un URL proprio (hreflang collegati):
+
+| Lingua | Home | Menu | Contatti |
+|---|---|---|---|
+| Italiano | https://www.laveciamescola.com/ | https://www.laveciamescola.com/menu | https://www.laveciamescola.com/contatti |
+| English | https://www.laveciamescola.com/en | https://www.laveciamescola.com/en/menu | https://www.laveciamescola.com/en/contatti |
+| Deutsch | https://www.laveciamescola.com/de | https://www.laveciamescola.com/de/menu | https://www.laveciamescola.com/de/contatti |
+| Español | https://www.laveciamescola.com/es | https://www.laveciamescola.com/es/menu | https://www.laveciamescola.com/es/contatti |
+| Français | https://www.laveciamescola.com/fr | https://www.laveciamescola.com/fr/menu | https://www.laveciamescola.com/fr/contatti |
+| Português | https://www.laveciamescola.com/pt | https://www.laveciamescola.com/pt/menu | https://www.laveciamescola.com/pt/contatti |
+| Română | https://www.laveciamescola.com/ro | https://www.laveciamescola.com/ro/menu | https://www.laveciamescola.com/ro/contatti |
+| Русский | https://www.laveciamescola.com/ru | https://www.laveciamescola.com/ru/menu | https://www.laveciamescola.com/ru/contatti |
+| 中文 | https://www.laveciamescola.com/zh | https://www.laveciamescola.com/zh/menu | https://www.laveciamescola.com/zh/contatti |
+| 日本語 | https://www.laveciamescola.com/ja | https://www.laveciamescola.com/ja/menu | https://www.laveciamescola.com/ja/contatti |
+
+Calendario eventi a Verona: italiano https://www.laveciamescola.com/arena · English https://www.laveciamescola.com/en/arena · Deutsch https://www.laveciamescola.com/de/arena

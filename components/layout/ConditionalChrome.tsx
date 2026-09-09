@@ -10,10 +10,18 @@ import { RotatingReserveBadge } from "@/components/ui/RotatingReserveBadge";
 import { VerticalSocialNav } from "@/components/ui/VerticalSocialNav";
 import { SiteLanguageToggle } from "./SiteLanguageToggle";
 import { SiteLanguageProvider } from "@/context/SiteLanguageContext";
-export function ConditionalChrome({ children }: { children: React.ReactNode }) {
+import { stripLocale, type Locale } from "@/data/locales";
+
+export function ConditionalChrome({
+  lang,
+  children,
+}: {
+  lang: Locale;
+  children: React.ReactNode;
+}) {
   const pathname = usePathname();
   const isLuxuryPage = pathname?.startsWith("/quay");
-  const isMenuPage = pathname === "/menu";
+  const isMenuPage = stripLocale(pathname ?? "/") === "/menu";
 
   if (isLuxuryPage) {
     return (
@@ -24,7 +32,7 @@ export function ConditionalChrome({ children }: { children: React.ReactNode }) {
   }
 
   return (
-    <SiteLanguageProvider>
+    <SiteLanguageProvider lang={lang}>
       <FloatingGrapes />
       <CustomCursor />
       <RotatingReserveBadge />

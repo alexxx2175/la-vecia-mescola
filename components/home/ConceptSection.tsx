@@ -7,12 +7,14 @@ import { ParallaxImage } from "@/components/ui/ParallaxImage";
 import { ScrollingDecoText } from "@/components/ui/ScrollingDecoText";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { useLocalePath } from "@/lib/use-locale-path";
 
 /**
  * Layout Quay House: immagine verticale a sx (sopra), testo decorativo scorre sotto
  * all'ingresso si legge, scrollando va sotto l'immagine
  */
 export function ConceptSection() {
+  const { to } = useLocalePath();
   const { lang } = useSiteLanguage();
   return (
     <section id="concept" className="relative min-h-[110vh] overflow-hidden bg-[#EBD9D4] py-8 lg:py-12">
@@ -60,7 +62,7 @@ export function ConceptSection() {
               {t(translations.concept.subtitle, lang)}
             </p>
             <Link
-              href="/#gallery"
+              href={to("/#gallery")}
               className="mt-4 inline-block text-sm font-semibold uppercase tracking-[0.2em] text-[#B8962E] transition-colors hover:text-[#8B4513]"
             >
               {t(translations.concept.gallery, lang)}

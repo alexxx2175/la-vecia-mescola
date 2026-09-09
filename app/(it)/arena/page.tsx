@@ -8,6 +8,7 @@ import { ARENA_FAQ_IT, faqJsonLd } from "@/data/faq";
 import { loadArenaEvents, loadCulturaEvents } from "@/lib/events";
 import { breadcrumbJsonLd, buildEventListSchema } from "@/lib/events-shared";
 import { SITE_URL, baseMetadata } from "@/lib/site";
+import { ARENA_LOCALES, hreflangMap } from "@/data/locales";
 
 // ISR: la pagina si rigenera al massimo ogni ora con i JSON aggiornati dal cron.
 export const revalidate = 3600;
@@ -35,12 +36,7 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: PAGE_URL,
-    languages: {
-      it: PAGE_URL,
-      en: `${SITE_URL}/en/arena`,
-      de: `${SITE_URL}/de/arena`,
-      "x-default": PAGE_URL,
-    },
+    languages: hreflangMap("/arena", ARENA_LOCALES),
   },
   openGraph: {
     ...baseMetadata.openGraph,
