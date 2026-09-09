@@ -1,6 +1,7 @@
 "use client";
 
 import { type ReactNode, useRef, useEffect, useState } from "react";
+import { useIsClient } from "@/lib/use-client-value";
 import { motion, useReducedMotion } from "framer-motion";
 
 type RevealVariant = "fadeUp" | "fadeLeft" | "fadeRight" | "zoomIn" | "slideFromBottom" | "slideFromBottomOvershoot" | "slideFromBottomOvershootPast";
@@ -62,13 +63,9 @@ export function ScrollReveal({
   const prefersReduced = useReducedMotion();
   const ref = useRef<HTMLDivElement>(null);
   const [inView, setInView] = useState(false);
-  const [mounted, setMounted] = useState(false);
+  // Server + primo render client: div semplice (nessuno stile motion) per evitare mismatch di idratazione
+  const mounted = useIsClient();
   const v = variantMap[variant];
-
-  // Defer client-only render to avoid hydration mismatch (server has no motion styles)
-  useEffect(() => {
-    setMounted(true);
-  }, []);
 
   useEffect(() => {
     if (!mounted || prefersReduced || !ref.current) return;

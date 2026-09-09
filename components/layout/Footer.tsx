@@ -44,9 +44,9 @@ export function Footer() {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
+            <h3 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
               {t(translations.footer.contatti, lang)}
-            </h4>
+            </h3>
             <div className="flex items-start gap-3 text-sm text-[#2C2420]/90">
               <MapPin size={18} className="mt-0.5 shrink-0" />
               <span>Vicolo Chiodo 4, 37121 Verona (VR)</span>
@@ -61,9 +61,9 @@ export function Footer() {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
+            <h3 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
               {t(translations.footer.orari, lang)}
-            </h4>
+            </h3>
             <div className="space-y-1 text-sm text-[#2C2420]/90">
               <p>{t(translations.footer.lun, lang)}: 12:00–23:30</p>
               <p>{t(translations.footer.mar_gio, lang)}: 12:00–22:30</p>
@@ -73,9 +73,9 @@ export function Footer() {
           </div>
 
           <div className="space-y-4">
-            <h4 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
+            <h3 className="text-sm font-semibold uppercase tracking-widest text-[#B8962E]">
               {t(translations.footer.naviga, lang)}
-            </h4>
+            </h3>
             <nav className="flex flex-col gap-1 text-sm">
               {NAV_LINKS.map((link) => (
                 <Link key={link.href} href={link.href} className="text-[#2C2420]/80 transition-colors hover:text-[#2C2420]">

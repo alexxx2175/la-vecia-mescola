@@ -71,7 +71,9 @@ export function CulturaEventsSection({ events }: { events: CulturaEvent[] }) {
   const [expanded, setExpanded] = useState(false);
 
   const now = new Date();
-  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const todayMs = new Date(now.getFullYear(), now.getMonth(), now.getDate()).getTime();
+  // Oggetto stabile finché non cambia il giorno: utilizzabile nelle dipendenze dei memo
+  const today = useMemo(() => new Date(todayMs), [todayMs]);
 
   // All future events sorted
   const allFuture = useMemo(() => {
@@ -82,7 +84,7 @@ export function CulturaEventsSection({ events }: { events: CulturaEvent[] }) {
       .filter((x) => x.d.getTime() >= today.getTime())
       .sort((a, b) => a.d.getTime() - b.d.getTime())
       .map((x) => x.e);
-  }, [events, today.getTime()]);
+  }, [events, today]);
 
   // Unique sources for filter
   const sources = useMemo(() => {
@@ -115,7 +117,7 @@ export function CulturaEventsSection({ events }: { events: CulturaEvent[] }) {
       const d = parseDate(e.date);
       return d && d.getTime() <= cutoff.getTime();
     });
-  }, [allFuture, period, today.getTime()]);
+  }, [allFuture, period, today]);
 
   // Apply source filter
   const filtered = useMemo(() => {

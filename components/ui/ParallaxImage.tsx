@@ -1,7 +1,8 @@
 "use client";
 
 import { motion, useScroll, useTransform, useReducedMotion } from "framer-motion";
-import { useRef, useState, useEffect, type ReactNode } from "react";
+import { useMediaQuery } from "@/lib/use-client-value";
+import { useRef, type ReactNode } from "react";
 
 interface ParallaxImageProps {
   children: ReactNode;
@@ -22,11 +23,7 @@ export function ParallaxImage({
 }: ParallaxImageProps) {
   const ref = useRef<HTMLDivElement>(null);
   const prefersReduced = useReducedMotion();
-  const [isTouchDevice, setIsTouchDevice] = useState(false);
-
-  useEffect(() => {
-    setIsTouchDevice(window.matchMedia("(pointer: coarse)").matches);
-  }, []);
+  const isTouchDevice = useMediaQuery("(pointer: coarse)");
 
   const { scrollYProgress } = useScroll({
     target: ref,

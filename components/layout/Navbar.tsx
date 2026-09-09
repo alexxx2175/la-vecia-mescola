@@ -24,7 +24,8 @@ export function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const pathname = usePathname();
-  const forceScrolled = pathname === "/arena";
+  // Solo la home ha un hero scuro sotto la navbar: altrove il testo deve essere scuro fin da subito
+  const forceScrolled = pathname !== "/";
   const { lang } = useSiteLanguage();
 
   useEffect(() => {
@@ -47,7 +48,7 @@ export function Navbar() {
   return (
     <>
       <motion.header
-        initial={{ y: -100, opacity: 0 }}
+        initial={false}
         animate={{ y: 0, opacity: 1 }}
         transition={{ duration: 0.8, ease: [0.25, 0.1, 0.25, 1] }}
         className={`fixed top-0 left-0 right-0 z-40 transition-all duration-500 ${

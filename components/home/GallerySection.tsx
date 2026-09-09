@@ -49,11 +49,9 @@ const galleryCards = [
 function FlipCard({
   front,
   back,
-  i,
 }: {
   front: { src: string; alt: string };
   back: { src: string; alt: string };
-  i: number;
 }) {
   return (
     <ParallaxImage speed={0.1} className="group relative aspect-[3/4] overflow-hidden">
@@ -67,7 +65,7 @@ function FlipCard({
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-105"
               sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
-              priority={i < 3}
+              loading="lazy"
             />
             <div className="absolute inset-0 bg-black/0 transition-colors duration-500 group-hover:bg-black/10" />
           </div>
@@ -118,7 +116,7 @@ export function GallerySection() {
                 delay={i * 0.05}
                 duration={0.85}
               >
-                <FlipCard front={card.front} back={card.back} i={i} />
+                <FlipCard front={card.front} back={card.back} />
               </ScrollReveal>
             </div>
           ))}

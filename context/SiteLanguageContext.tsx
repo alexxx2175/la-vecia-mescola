@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useContext, useState, useEffect, type ReactNode } from "react";
+import { createContext, useContext, useSyncExternalStore, type ReactNode } from "react";
 import type { SiteLang } from "@/data/translations";
 
 type SiteLanguageContextType = {
@@ -13,17 +13,37 @@ const SiteLanguageContext = createContext<SiteLanguageContextType>({
   setLang: () => {},
 });
 
-export function SiteLanguageProvider({ children }: { children: ReactNode }) {
-  const [lang, setLangState] = useState<SiteLang>("it");
+const STORAGE_KEY = "site-lang";
+const listeners = new Set<() => void>();
 
-  useEffect(() => {
-    const saved = localStorage.getItem("site-lang") as SiteLang | null;
-    if (saved) setLangState(saved);
-  }, []);
+function readStoredLang(): SiteLang {
+  try {
+    return (localStorage.getItem(STORAGE_KEY) as SiteLang | null) ?? "it";
+  } catch {
+    return "it";
+  }
+}
+
+function subscribe(onChange: () => void) {
+  listeners.add(onChange);
+  window.addEventListener("storage", onChange);
+  return () => {
+    listeners.delete(onChange);
+    window.removeEventListener("storage", onChange);
+  };
+}
+
+export function SiteLanguageProvider({ children }: { children: ReactNode }) {
+  // Server: sempre "it" (HTML indicizzabile in italiano); client: lingua salvata.
+  const lang = useSyncExternalStore(subscribe, readStoredLang, () => "it" as SiteLang);
 
   const setLang = (l: SiteLang) => {
-    setLangState(l);
-    localStorage.setItem("site-lang", l);
+    try {
+      localStorage.setItem(STORAGE_KEY, l);
+    } catch {
+      // storage non disponibile: la lingua resta quella di default
+    }
+    listeners.forEach((cb) => cb());
   };
 
   return (

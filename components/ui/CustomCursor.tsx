@@ -2,13 +2,15 @@
 
 import { useEffect, useState, useCallback } from "react";
 import { motion, useReducedMotion } from "framer-motion";
+import { useMediaQuery } from "@/lib/use-client-value";
 
 export function CustomCursor() {
   const [position, setPosition] = useState({ x: -100, y: -100 });
   const [hovering, setHovering] = useState(false);
-  const [active, setActive] = useState(false);
   const [visible, setVisible] = useState(false);
   const prefersReduced = useReducedMotion();
+  // Cursore custom solo con puntatore preciso e senza "riduci movimento"
+  const active = useMediaQuery("(pointer: fine)") && !prefersReduced;
 
   const onMouseMove = useCallback((e: MouseEvent) => {
     setPosition({ x: e.clientX, y: e.clientY });
@@ -20,12 +22,7 @@ export function CustomCursor() {
   }, []);
 
   useEffect(() => {
-    // Disable custom cursor for reduced motion or touch devices
-    if (prefersReduced) return;
-    const mq = window.matchMedia("(pointer: fine)");
-    if (!mq.matches) return;
-
-    setActive(true);
+    if (!active) return;
     document.documentElement.style.cursor = "none";
 
     window.addEventListener("mousemove", onMouseMove, { passive: true });
@@ -54,7 +51,7 @@ export function CustomCursor() {
       document.removeEventListener("mouseover", onOver);
       document.removeEventListener("mouseout", onOut);
     };
-  }, [prefersReduced, onMouseMove, onMouseLeave]);
+  }, [active, onMouseMove, onMouseLeave]);
 
   if (!active) return null;
 

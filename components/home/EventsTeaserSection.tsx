@@ -1,13 +1,10 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Clock, MapPin } from "lucide-react";
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
-
-type RawEvent = Record<string, unknown>;
 
 type TeaserEvent = {
   title: string;
@@ -15,10 +12,6 @@ type TeaserEvent = {
   type: string;
   location: string;
 };
-
-function asString(v: unknown): string {
-  return typeof v === "string" ? v : "";
-}
 
 function parseDate(value: string): Date | null {
   if (!value) return null;
@@ -41,47 +34,9 @@ function formatDate(value: string): string {
 
 const WHATSAPP_URL = "https://wa.me/393928699275";
 
-export function EventsTeaserSection() {
+/** Riceve gli eventi già caricati lato server: il teaser è nell'HTML iniziale. */
+export function EventsTeaserSection({ events }: { events: TeaserEvent[] }) {
   const { lang } = useSiteLanguage();
-  const [events, setEvents] = useState<TeaserEvent[]>([]);
-
-  useEffect(() => {
-    let active = true;
-    async function load() {
-      try {
-        const res = await fetch("/api/events", { cache: "no-store" });
-        if (!res.ok) return;
-        const json: unknown = await res.json();
-        if (!Array.isArray(json)) return;
-
-        const now = new Date();
-        const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-
-        const parsed = json
-          .map((raw: RawEvent) => {
-            const title = asString(raw.title) || asString(raw.name) || asString(raw.event);
-            const date = asString(raw.date) || asString(raw.data) || asString(raw.startDate);
-            const type = asString(raw.type) || asString(raw.genre) || asString(raw.category) || "Evento";
-            const location = asString(raw.location) || asString(raw.venue) || "Verona";
-            if (!title || !date) return null;
-            return { title, date, type, location };
-          })
-          .filter((e): e is TeaserEvent => Boolean(e))
-          .map((e) => ({ e, d: parseDate(e.date) }))
-          .filter((x): x is { e: TeaserEvent; d: Date } => Boolean(x.d))
-          .filter((x) => x.d.getTime() >= today.getTime())
-          .sort((a, b) => a.d.getTime() - b.d.getTime())
-          .slice(0, 3)
-          .map((x) => x.e);
-
-        if (active) setEvents(parsed);
-      } catch {
-        // silently fail — teaser is non-critical
-      }
-    }
-    load();
-    return () => { active = false; };
-  }, []);
 
   if (events.length === 0) return null;
 

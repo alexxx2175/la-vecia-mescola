@@ -37,8 +37,7 @@ export function DishCard({ item, lang }: DishCardProps) {
   return (
     <motion.article
       layout
-      initial={{ opacity: 0, y: 8 }}
-      animate={{ opacity: 1, y: 0 }}
+      initial={false}
       whileHover={{
         x: 4,
         transition: { duration: 0.2, ease: "easeOut" },
