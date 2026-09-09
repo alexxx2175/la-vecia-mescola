@@ -392,34 +392,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-09-02_settembre_colognese_2026",
-    "title": "Settembre Colognese 2026",
-    "date": "2026-09-02",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/settembre-colognese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/settembre-colognese-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-02_sagra_di_san_zeno_a_roverchiara",
-    "title": "Sagra di San Zeno a Roverchiara",
-    "date": "2026-09-02",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-zeno-a-roverchiara/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/Sagra-di-San-Zeno-roverchiara-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-03__riso_co_le_nose_fiera_di_nogara",
     "title": "“Riso co’ le Nose” Fiera di Nogara",
     "date": "2026-09-03",
@@ -431,20 +403,6 @@
     "url": "https://www.cittadiverona.it/eventi/festa-del-riso-co-le-nose/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/riso-e-nose-Fiera-di-Nogara-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-03_sagra_madonna_del_popolo_di_ca_di_david",
-    "title": "Sagra Madonna del Popolo di Ca’ di David",
-    "date": "2026-09-03",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-madonna-popolo-ca-di-david/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/sagra-di-cadidavid-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -487,34 +445,6 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-di-raldon-a-san-giovanni-lupatoto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/09/sagra-di-raldon-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-04_festa_de_l_anara_a_gazzo_veronese",
-    "title": "Festa de l’Anara a Gazzo Veronese",
-    "date": "2026-09-04",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/festa-de-l-anara-gazzo-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/festa-de-l-anara-gazzo-veronese-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-08_corso_resina_e_fiori_veri",
-    "title": "Corso resina e fiori veri",
-    "date": "2026-09-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-resina-fiori-8-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -585,6 +515,20 @@
     "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-san-tomaso/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/09/antica-fiera-di-san-tomaso-bonavigo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-10__i_tre_porcellini_all_arena_dim_di_sandr",
+    "title": "“I tre porcellini” all’Arena DIM di Sandrà",
+    "date": "2026-09-10",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/i-tre-porcellini/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/07/i-tre-porcellini-600x338.jpg",
     "category": "cultura"
   },
   {
