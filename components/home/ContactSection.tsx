@@ -6,7 +6,7 @@ import { ScrollReveal } from "@/components/ui/ScrollReveal";
 
 /**
  * Sezione Contatti — stile Quay House
- * Orari continuato: Lun 12–23:30, Mar–Gio 12–22:30, Ven–Sab 12–23, Dom 12–22
+ * Orari continuato: Lun–Gio 12–22:30, Ven–Sab 12–23, Dom 12–22
  */
 export function ContactSection() {
   return (
@@ -56,7 +56,7 @@ export function ContactSection() {
               <p className="text-sm font-semibold uppercase tracking-wider text-[#2C2420]/70">
                 Orari
               </p>
-              <p className="mt-2">Lun: 12:00–23:30</p>
+              <p className="mt-2">Lun–Gio: 12:00–22:30</p>
               <p>Mar–Gio: 12:00–22:30</p>
               <p>Ven–Sab: 12:00–23:00</p>
               <p>Dom: 12:00–22:00</p>

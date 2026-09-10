@@ -76,8 +76,7 @@ export function Footer() {
               {t(translations.footer.orari, lang)}
             </h3>
             <div className="space-y-1 text-sm text-[#2C2420]/90">
-              <p>{t(translations.footer.lun, lang)}: 12:00–23:30</p>
-              <p>{t(translations.footer.mar_gio, lang)}: 12:00–22:30</p>
+              <p>{t(translations.footer.lun_gio, lang)}: 12:00–22:30</p>
               <p>{t(translations.footer.ven_sab, lang)}: 12:00–23:00</p>
               <p>{t(translations.footer.dom, lang)}: 12:00–22:00</p>
             </div>

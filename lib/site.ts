@@ -11,8 +11,7 @@ export const WHATSAPP_URL = "https://wa.me/393928699275";
 export const GA_ID = "G-94TZMX9LMF";
 
 export const OPENING_HOURS = [
-  { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday"], opens: "12:00", closes: "23:30" },
-  { "@type": "OpeningHoursSpecification", dayOfWeek: ["Tuesday", "Wednesday", "Thursday"], opens: "12:00", closes: "22:30" },
+  { "@type": "OpeningHoursSpecification", dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday"], opens: "12:00", closes: "22:30" },
   { "@type": "OpeningHoursSpecification", dayOfWeek: ["Friday", "Saturday"], opens: "12:00", closes: "23:00" },
   { "@type": "OpeningHoursSpecification", dayOfWeek: ["Sunday"], opens: "12:00", closes: "22:00" },
 ] as const;

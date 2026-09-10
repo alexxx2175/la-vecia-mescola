@@ -160,6 +160,7 @@ export const translations = {
     naviga: { it: "Naviga", en: "Navigate", es: "Navegar", de: "Navigation", ru: "Навигация", ro: "Navigare", zh: "导航", ja: "ナビゲーション", fr: "Navigation", pt: "Navegação" },
     seguici: { it: "Seguici su Instagram", en: "Follow us on Instagram", es: "Síguenos en Instagram", de: "Folgen Sie uns auf Instagram", ru: "Подписывайтесь в Instagram", ro: "Urmărește-ne pe Instagram", zh: "在Instagram上关注我们", ja: "Instagramでフォロー", fr: "Suivez-nous sur Instagram", pt: "Siga-nos no Instagram" },
     lun: { it: "Lun", en: "Mon", es: "Lun", de: "Mo", ru: "Пн", ro: "Lun", zh: "周一", ja: "月", fr: "Lun", pt: "Seg" },
+    lun_gio: { it: "Lun–Gio", en: "Mon–Thu", es: "Lun–Jue", de: "Mo–Do", ru: "Пн–Чт", ro: "Lun–Joi", zh: "周一至周四", ja: "月〜木", fr: "Lun–Jeu", pt: "Seg–Qui" },
     mar_gio: { it: "Mar–Gio", en: "Tue–Thu", es: "Mar–Jue", de: "Di–Do", ru: "Вт–Чт", ro: "Mar–Joi", zh: "周二至周四", ja: "火〜木", fr: "Mar–Jeu", pt: "Ter–Qui" },
     ven_sab: { it: "Ven–Sab", en: "Fri–Sat", es: "Vie–Sáb", de: "Fr–Sa", ru: "Пт–Сб", ro: "Vin–Sâm", zh: "周五至周六", ja: "金〜土", fr: "Ven–Sam", pt: "Sex–Sáb" },
     dom: { it: "Dom", en: "Sun", es: "Dom", de: "So", ru: "Вс", ro: "Dum", zh: "周日", ja: "日", fr: "Dim", pt: "Dom" },

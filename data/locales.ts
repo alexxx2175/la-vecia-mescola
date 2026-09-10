@@ -106,7 +106,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "Where can I try Amarone risotto in Verona?", a: "Our Amarone risotto is made with Vialone Nano IGP rice slowly cooked with Amarone della Valpolicella DOCG, Treviso radicchio and Venetian cheese fondue. It costs €18 per person, minimum 2 people, and is the restaurant's signature dish." },
       { q: "Is there a romantic restaurant in Verona's old town?", a: "Yes. La Vecia Mescola is known for its intimate atmosphere: exposed brick, frescoes, soft lighting and attentive service, in the city of Romeo and Juliet. Perfect for anniversaries and special dinners." },
       { q: "Where can I eat homemade fresh pasta in Verona?", a: "At La Vecia Mescola the pasta is made in-house every day: bigoli, pappardelle, tagliolini, lasagne and filled caramelle, with selected flours and fresh local eggs." },
-      { q: "How do I book a table?", a: "Send a WhatsApp message to +39 392 869 9275 or call the same number. We are open every day: Monday 12:00–23:30, Tuesday to Thursday 12:00–22:30, Friday and Saturday 12:00–23:00, Sunday 12:00–22:00. On Arena show nights we recommend booking in advance." },
+      { q: "How do I book a table?", a: "Send a WhatsApp message to +39 392 869 9275 or call the same number. We are open every day: Monday to Thursday 12:00–22:30, Friday and Saturday 12:00–23:00, Sunday 12:00–22:00. On Arena show nights we recommend booking in advance." },
     ],
   },
   de: {
@@ -133,7 +133,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "Wo gibt es Amarone-Risotto in Verona?", a: "Unser Amarone-Risotto wird aus Vialone-Nano-Reis IGP zubereitet, langsam mit Amarone della Valpolicella DOCG, Radicchio aus Treviso und venezianischer Käsefondue gegart. Es kostet 18 € pro Person, mindestens 2 Personen, und ist das Signature-Gericht des Hauses." },
       { q: "Gibt es ein romantisches Restaurant in der Altstadt von Verona?", a: "Ja. La Vecia Mescola ist bekannt für seine intime Atmosphäre: Sichtziegel, Fresken, gedämpftes Licht und aufmerksamer Service, mitten in der Stadt von Romeo und Julia. Perfekt für Jahrestage und besondere Abende." },
       { q: "Wo bekommt man hausgemachte frische Pasta in Verona?", a: "Bei La Vecia Mescola wird die Pasta jeden Tag im Haus gemacht: Bigoli, Pappardelle, Tagliolini, Lasagne und gefüllte Caramelle, aus ausgewähltem Mehl und frischen Eiern aus der Region." },
-      { q: "Wie reserviere ich einen Tisch?", a: "Schreiben Sie eine WhatsApp-Nachricht an +39 392 869 9275 oder rufen Sie dieselbe Nummer an. Geöffnet täglich: Montag 12:00–23:30, Dienstag bis Donnerstag 12:00–22:30, Freitag und Samstag 12:00–23:00, Sonntag 12:00–22:00. An Vorstellungsabenden in der Arena empfehlen wir eine frühzeitige Reservierung." },
+      { q: "Wie reserviere ich einen Tisch?", a: "Schreiben Sie eine WhatsApp-Nachricht an +39 392 869 9275 oder rufen Sie dieselbe Nummer an. Geöffnet täglich: Montag bis Donnerstag 12:00–22:30, Freitag und Samstag 12:00–23:00, Sonntag 12:00–22:00. An Vorstellungsabenden in der Arena empfehlen wir eine frühzeitige Reservierung." },
     ],
   },
   es: {
@@ -160,7 +160,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "¿Dónde probar el risotto al Amarone en Verona?", a: "Nuestro risotto al Amarone se prepara con arroz Vialone Nano IGP cocinado lentamente con Amarone della Valpolicella DOCG, radicchio de Treviso y fondue véneta. Cuesta 18 € por persona, mínimo 2 personas, y es el plato emblema del restaurante." },
       { q: "¿Hay un restaurante romántico en el casco antiguo de Verona?", a: "Sí. La Vecia Mescola es conocida por su ambiente íntimo: ladrillo visto, frescos, luz tenue y servicio atento, en la ciudad de Romeo y Julieta. Perfecto para aniversarios y cenas especiales." },
       { q: "¿Dónde comer pasta fresca casera en Verona?", a: "En La Vecia Mescola la pasta se hace en casa cada día: bigoli, pappardelle, tagliolini, lasaña y caramelle rellenas, con harinas seleccionadas y huevos frescos de la zona." },
-      { q: "¿Cómo reservo una mesa?", a: "Envía un mensaje de WhatsApp al +39 392 869 9275 o llama al mismo número. Abrimos todos los días: lunes 12:00–23:30, de martes a jueves 12:00–22:30, viernes y sábado 12:00–23:00, domingo 12:00–22:00. Las noches de espectáculo en la Arena recomendamos reservar con antelación." },
+      { q: "¿Cómo reservo una mesa?", a: "Envía un mensaje de WhatsApp al +39 392 869 9275 o llama al mismo número. Abrimos todos los días: de lunes a jueves 12:00–22:30, viernes y sábado 12:00–23:00, domingo 12:00–22:00. Las noches de espectáculo en la Arena recomendamos reservar con antelación." },
     ],
   },
   fr: {
@@ -187,7 +187,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "Où goûter le risotto à l'Amarone à Vérone ?", a: "Notre risotto à l'Amarone est préparé avec du riz Vialone Nano IGP cuit lentement avec de l'Amarone della Valpolicella DOCG, du radicchio de Trévise et une fondue de fromage vénitienne. Il coûte 18 € par personne, minimum 2 personnes, et c'est le plat signature de la maison." },
       { q: "Y a-t-il un restaurant romantique dans le centre historique de Vérone ?", a: "Oui. La Vecia Mescola est connue pour son atmosphère intime : briques apparentes, fresques, lumière tamisée et service attentionné, dans la ville de Roméo et Juliette. Parfait pour un anniversaire ou un dîner spécial." },
       { q: "Où manger des pâtes fraîches maison à Vérone ?", a: "À La Vecia Mescola, les pâtes sont faites maison chaque jour : bigoli, pappardelle, tagliolini, lasagnes et caramelle farcies, avec des farines sélectionnées et des œufs frais de la région." },
-      { q: "Comment réserver une table ?", a: "Envoyez un message WhatsApp au +39 392 869 9275 ou appelez le même numéro. Ouvert tous les jours : lundi 12h–23h30, du mardi au jeudi 12h–22h30, vendredi et samedi 12h–23h, dimanche 12h–22h. Les soirs de spectacle aux Arènes, nous conseillons de réserver à l'avance." },
+      { q: "Comment réserver une table ?", a: "Envoyez un message WhatsApp au +39 392 869 9275 ou appelez le même numéro. Ouvert tous les jours : du lundi au jeudi 12h–22h30, vendredi et samedi 12h–23h, dimanche 12h–22h. Les soirs de spectacle aux Arènes, nous conseillons de réserver à l'avance." },
     ],
   },
   pt: {
@@ -214,7 +214,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "Onde provar o risotto ao Amarone em Verona?", a: "O nosso risotto ao Amarone é feito com arroz Vialone Nano IGP cozinhado lentamente com Amarone della Valpolicella DOCG, radicchio de Treviso e fondue de queijo véneta. Custa 18 € por pessoa, mínimo 2 pessoas, e é o prato emblemático da casa." },
       { q: "Há um restaurante romântico no centro histórico de Verona?", a: "Sim. O La Vecia Mescola é conhecido pelo ambiente íntimo: tijolo à vista, frescos, luz suave e serviço atento, na cidade de Romeu e Julieta. Perfeito para aniversários e jantares especiais." },
       { q: "Onde comer massa fresca caseira em Verona?", a: "No La Vecia Mescola a massa é feita em casa todos os dias: bigoli, pappardelle, tagliolini, lasanha e caramelle recheadas, com farinhas selecionadas e ovos frescos da região." },
-      { q: "Como reservo uma mesa?", a: "Envie uma mensagem de WhatsApp para +39 392 869 9275 ou ligue para o mesmo número. Abrimos todos os dias: segunda 12:00–23:30, terça a quinta 12:00–22:30, sexta e sábado 12:00–23:00, domingo 12:00–22:00. Nas noites de espetáculo na Arena recomendamos reservar com antecedência." },
+      { q: "Como reservo uma mesa?", a: "Envie uma mensagem de WhatsApp para +39 392 869 9275 ou ligue para o mesmo número. Abrimos todos os dias: segunda a quinta 12:00–22:30, sexta e sábado 12:00–23:00, domingo 12:00–22:00. Nas noites de espetáculo na Arena recomendamos reservar com antecedência." },
     ],
   },
   ro: {
@@ -241,7 +241,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "Unde pot gusta risotto cu Amarone în Verona?", a: "Risotto-ul nostru cu Amarone se prepară din orez Vialone Nano IGP gătit lent cu Amarone della Valpolicella DOCG, radicchio de Treviso și fondue de brânză venețiană. Costă 18 € de persoană, minimum 2 persoane, și este preparatul emblematic al restaurantului." },
       { q: "Există un restaurant romantic în centrul vechi al Veronei?", a: "Da. La Vecia Mescola este cunoscut pentru atmosfera intimă: cărămidă aparentă, fresce, lumină difuză și servire atentă, în orașul lui Romeo și Julieta. Perfect pentru aniversări și cine speciale." },
       { q: "Unde pot mânca paste proaspete de casă în Verona?", a: "La La Vecia Mescola pastele se fac în casă în fiecare zi: bigoli, pappardelle, tagliolini, lasagna și caramelle umplute, din făinuri selecționate și ouă proaspete locale." },
-      { q: "Cum rezerv o masă?", a: "Trimite un mesaj pe WhatsApp la +39 392 869 9275 sau sună la același număr. Suntem deschiși zilnic: luni 12:00–23:30, marți–joi 12:00–22:30, vineri și sâmbătă 12:00–23:00, duminică 12:00–22:00. În serile cu spectacol la Arenă recomandăm rezervarea din timp." },
+      { q: "Cum rezerv o masă?", a: "Trimite un mesaj pe WhatsApp la +39 392 869 9275 sau sună la același număr. Suntem deschiși zilnic: luni–joi 12:00–22:30, vineri și sâmbătă 12:00–23:00, duminică 12:00–22:00. În serile cu spectacol la Arenă recomandăm rezervarea din timp." },
     ],
   },
   ru: {
@@ -268,7 +268,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "Где попробовать ризотто с Амароне в Вероне?", a: "Наше ризотто с Амароне готовят из риса Vialone Nano IGP, медленно томлёного с вином Amarone della Valpolicella DOCG, радиккио из Тревизо и венетским сырным фондю. Стоимость 18 € с человека, минимум 2 персоны. Это фирменное блюдо ресторана." },
       { q: "Есть ли романтический ресторан в старом городе Вероны?", a: "Да. La Vecia Mescola известна своей уютной атмосферой: открытая кирпичная кладка, фрески, мягкий свет и внимательный сервис в городе Ромео и Джульетты. Идеально для годовщин и особых ужинов." },
       { q: "Где поесть домашнюю свежую пасту в Вероне?", a: "В La Vecia Mescola пасту делают своими руками каждый день: биголи, паппарделле, тальолини, лазанья и фаршированные карамелле из отборной муки и свежих местных яиц." },
-      { q: "Как забронировать столик?", a: "Напишите в WhatsApp на номер +39 392 869 9275 или позвоните по нему же. Мы открыты ежедневно: понедельник 12:00–23:30, вторник–четверг 12:00–22:30, пятница и суббота 12:00–23:00, воскресенье 12:00–22:00. В вечера спектаклей на Арене советуем бронировать заранее." },
+      { q: "Как забронировать столик?", a: "Напишите в WhatsApp на номер +39 392 869 9275 или позвоните по нему же. Мы открыты ежедневно: понедельник–четверг 12:00–22:30, пятница и суббота 12:00–23:00, воскресенье 12:00–22:00. В вечера спектаклей на Арене советуем бронировать заранее." },
     ],
   },
   zh: {
@@ -295,7 +295,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "在维罗纳哪里可以品尝阿玛罗尼烩饭？", a: "我们的阿玛罗尼烩饭选用 Vialone Nano IGP 大米，以 Amarone della Valpolicella DOCG 葡萄酒慢煮，配特雷维索菊苣和威尼托奶酪浓汁。每位18欧元，两人起点，是餐厅的招牌菜。" },
       { q: "维罗纳老城有浪漫的餐厅吗？", a: "有。La Vecia Mescola 以温馨的氛围著称：裸露砖墙、壁画、柔和灯光和贴心服务，就在罗密欧与朱丽叶之城。非常适合纪念日和特别的晚餐。" },
       { q: "在维罗纳哪里可以吃到手工鲜意面？", a: "La Vecia Mescola 每天在店内手工制作意面：bigoli、pappardelle、tagliolini、千层面和带馅的 caramelle，选用优质面粉和本地新鲜鸡蛋。" },
-      { q: "如何预订餐位？", a: "请发送 WhatsApp 消息至 +39 392 869 9275，或拨打同一号码。每日营业：周一 12:00–23:30，周二至周四 12:00–22:30，周五和周六 12:00–23:00，周日 12:00–22:00。竞技场有演出的晚上建议提前预订。" },
+      { q: "如何预订餐位？", a: "请发送 WhatsApp 消息至 +39 392 869 9275，或拨打同一号码。每日营业：周一至周四 12:00–22:30，周五和周六 12:00–23:00，周日 12:00–22:00。竞技场有演出的晚上建议提前预订。" },
     ],
   },
   ja: {
@@ -322,7 +322,7 @@ export const LOCALE_SEO: Record<Locale, LocaleSeo> = {
       { q: "ヴェローナでアマローネのリゾットが食べられるのは？", a: "当店のアマローネのリゾットは Vialone Nano IGP 米を Amarone della Valpolicella DOCG でじっくり炊き、トレヴィーゾのラディッキオとヴェネト風チーズフォンデュを合わせます。お一人18ユーロ、2名様より。当店の看板料理です。" },
       { q: "ヴェローナ旧市街にロマンチックなレストランはありますか？", a: "はい。La Vecia Mescola は、むき出しのレンガ、フレスコ画、柔らかな照明、行き届いたサービスによる親密な雰囲気で知られています。ロミオとジュリエットの街で、記念日や特別なディナーに最適です。" },
       { q: "ヴェローナで手打ち生パスタが食べられるのは？", a: "La Vecia Mescola では毎日店内でパスタを手打ちしています。ビーゴリ、パッパルデッレ、タリオリーニ、ラザニア、詰め物入りのカラメッレなど、厳選した小麦粉と地元の新鮮な卵を使用しています。" },
-      { q: "テーブルの予約方法は？", a: "WhatsApp（+39 392 869 9275）にメッセージを送るか、同じ番号にお電話ください。毎日営業：月曜 12:00–23:30、火曜〜木曜 12:00–22:30、金曜・土曜 12:00–23:00、日曜 12:00–22:00。アレーナで公演がある夜は事前のご予約をおすすめします。" },
+      { q: "テーブルの予約方法は？", a: "WhatsApp（+39 392 869 9275）にメッセージを送るか、同じ番号にお電話ください。毎日営業：月曜〜木曜 12:00–22:30、金曜・土曜 12:00–23:00、日曜 12:00–22:00。アレーナで公演がある夜は事前のご予約をおすすめします。" },
     ],
   },
 };
