@@ -12,8 +12,15 @@ const nextConfig: NextConfig = {
     minimumCacheTTL: 60,
   },
   async redirects() {
-    // URL del vecchio sito WordPress ancora presenti nell'indice di Google.
     return [
+      // Il dominio tecnico *.vercel.app serve lo stesso sito: lo si reindirizza al dominio canonico.
+      {
+        source: "/:path*",
+        has: [{ type: "host", value: "la-vecia-mescola.vercel.app" }],
+        destination: "https://www.laveciamescola.com/:path*",
+        permanent: true,
+      },
+      // URL del vecchio sito WordPress ancora presenti nell'indice di Google.
       { source: "/menu-di-natale", destination: "/menu", permanent: true },
       { source: "/menu-di-capodanno", destination: "/menu", permanent: true },
       { source: "/gallery", destination: "/#gallery", permanent: true },
