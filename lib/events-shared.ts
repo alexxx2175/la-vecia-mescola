@@ -81,12 +81,27 @@ export function upcoming<T extends { date: string }>(events: T[], limit?: number
 }
 
 /** Indirizzi delle sedi principali per lo schema Event. */
-export const VENUES: Record<string, { name: string; streetAddress: string }> = {
-  "arena di verona": { name: "Arena di Verona", streetAddress: "Piazza Bra 1" },
-  "teatro filarmonico": { name: "Teatro Filarmonico", streetAddress: "Via dei Mutilati 4" },
+type Venue = {
+  name: string;
+  streetAddress: string;
+  organizer?: { name: string; url: string };
+};
+
+const FONDAZIONE_ARENA = { name: "Fondazione Arena di Verona", url: "https://www.arena.it" };
+
+export const VENUES: Record<string, Venue> = {
+  "arena di verona": { name: "Arena di Verona", streetAddress: "Piazza Bra 1", organizer: FONDAZIONE_ARENA },
+  "teatro filarmonico": { name: "Teatro Filarmonico", streetAddress: "Via dei Mutilati 4", organizer: FONDAZIONE_ARENA },
   "teatro romano": { name: "Teatro Romano", streetAddress: "Regaste Redentore 2" },
   "palazzo della gran guardia": { name: "Palazzo della Gran Guardia", streetAddress: "Piazza Bra 1" },
 };
+
+export function eventOrganizerJsonLd(location: string) {
+  const venue = VENUES[location.trim().toLowerCase()];
+  return venue?.organizer
+    ? { organizer: { "@type": "Organization", name: venue.organizer.name, url: venue.organizer.url } }
+    : {};
+}
 
 export function eventPlaceJsonLd(location: string) {
   const key = location.trim().toLowerCase();
@@ -108,6 +123,7 @@ type SchemaEvent = {
   title: string;
   date: string;
   location: string;
+  type?: string;
   url?: string;
   buyUrl?: string;
 };
@@ -120,7 +136,7 @@ export function buildEventListSchema(
 ) {
   const items: SchemaEvent[] = [
     ...upcoming(arena, 20),
-    ...upcoming(cultura, 10).map((e) => ({ title: e.title, date: e.date, location: e.location, url: e.url })),
+    ...upcoming(cultura, 10).map((e) => ({ title: e.title, date: e.date, location: e.location, type: e.type, url: e.url })),
   ].slice(0, 25);
   if (items.length === 0) return null;
 
@@ -136,10 +152,13 @@ export function buildEventListSchema(
       item: {
         "@type": "Event",
         name: ev.title,
+        description: [ev.title, ev.type, ev.location || "Verona"].filter(Boolean).join(" · "),
         startDate: ev.date,
+        endDate: ev.date,
         eventStatus: "https://schema.org/EventScheduled",
         eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",
         location: eventPlaceJsonLd(ev.location),
+        ...eventOrganizerJsonLd(ev.location),
         ...(ev.url ? { url: ev.url } : {}),
         ...(ev.buyUrl
           ? {
