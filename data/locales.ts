@@ -40,6 +40,11 @@ export function localeFromPath(pathname: string): Locale {
   return m && isLocale(m[1]) ? m[1] : DEFAULT_LOCALE;
 }
 
+/** Le informative esistono in italiano e inglese: le altre lingue usano l'inglese. */
+export function legalPath(lang: Locale, path: "/privacy-policy" | "/cookie-policy"): string {
+  return lang === "it" ? path : `/en${path}`;
+}
+
 export function arenaPath(lang: Locale): string {
   return ARENA_LOCALES.includes(lang) ? localePath(lang, "/arena") : "/arena";
 }

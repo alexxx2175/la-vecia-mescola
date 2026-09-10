@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { LEGAL } from "@/data/legal";
 
 export const SITE_URL = "https://www.laveciamescola.com";
 export const RESTAURANT_ID = `${SITE_URL}/#restaurant`;
@@ -35,6 +36,8 @@ export const restaurantJsonLd = {
   "@id": RESTAURANT_ID,
   name: "La Vecia Mescola Dell'Oste",
   alternateName: "La Vecia Mescola",
+  legalName: LEGAL.legalName,
+  vatID: `IT${LEGAL.vat}`,
   description:
     "Trattoria storica nel centro storico di Verona, a 2 minuti dall'Arena. Cucina veneta autentica: pasta fresca fatta in casa, risotto all'Amarone, bistecca Chateaubriand e vini della Valpolicella.",
   url: SITE_URL,

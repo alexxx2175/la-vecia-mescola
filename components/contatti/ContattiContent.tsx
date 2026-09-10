@@ -11,6 +11,7 @@ import {
 import { ScrollReveal } from "@/components/ui/ScrollReveal";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
+import { MapEmbed } from "@/components/ui/MapEmbed";
 
 const DAY_KEYS = [
   "lunedi", "martedi", "mercoledi", "giovedi", "venerdi", "sabato", "domenica",
@@ -41,17 +42,7 @@ export function ContattiContent() {
         <div className="mx-auto max-w-7xl px-6 py-12 lg:px-8">
           <ScrollReveal>
             <div className="overflow-hidden rounded-lg">
-              <iframe
-                title="La Vecia Mescola — Vicolo Chiodo 4, Verona"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2798.1!2d10.9924!3d45.4399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477f5f46a6b5c0e5%3A0x0!2sVicolo+Chiodo+4%2C+37121+Verona+VR!5e0!3m2!1sit!2sit!4v1"
-                width="100%"
-                height="400"
-                style={{ border: 0 }}
-                allowFullScreen
-                loading="lazy"
-                referrerPolicy="no-referrer-when-downgrade"
-                className="w-full"
-              />
+              <MapEmbed lang={lang} />
             </div>
           </ScrollReveal>
         </div>

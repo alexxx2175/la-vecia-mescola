@@ -43,5 +43,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     });
   }
 
+  for (const path of ["/privacy-policy", "/cookie-policy"] as const) {
+    const alternates = {
+      languages: { it: `${SITE_URL}${path}`, en: `${SITE_URL}/en${path}`, "x-default": `${SITE_URL}${path}` },
+    };
+    entries.push({ url: `${SITE_URL}${path}`, lastModified: PAGES_UPDATED, changeFrequency: "yearly", priority: 0.3, alternates });
+    entries.push({ url: `${SITE_URL}/en${path}`, lastModified: PAGES_UPDATED, changeFrequency: "yearly", priority: 0.3, alternates });
+  }
+
   return entries;
 }

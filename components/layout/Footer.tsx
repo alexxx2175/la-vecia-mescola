@@ -7,6 +7,10 @@ import { motion } from "framer-motion";
 import { useSiteLanguage } from "@/context/SiteLanguageContext";
 import { translations, t } from "@/data/translations";
 import { useLocalePath } from "@/lib/use-locale-path";
+import { legalPath } from "@/data/locales";
+import { CONSENT_STRINGS } from "@/data/consent";
+import { LEGAL } from "@/data/legal";
+import { OpenCookiePreferencesButton } from "@/components/ui/OpenCookiePreferencesButton";
 
 const NAV_LINKS = [
   { href: "/#concept", num: "01", labelKey: "concept" as const },
@@ -138,9 +142,25 @@ export function Footer() {
             </a>
           </div>
 
-          <div className="mt-4 text-center text-xs text-[#2C2420]/50">
-            © {new Date().getFullYear()} La Vecia Mescola — Powered by CT Marketing
+          <div className="mt-5 flex flex-wrap items-center justify-center gap-x-3 gap-y-1 text-center text-xs text-[#2C2420]/60">
+            <Link href={legalPath(lang, "/privacy-policy")} className="inline-flex min-h-[44px] items-center transition-colors hover:text-[#B8962E]">
+              {CONSENT_STRINGS[lang].privacy}
+            </Link>
+            <span className="text-[#B8962E]/50">⬧</span>
+            <Link href={legalPath(lang, "/cookie-policy")} className="inline-flex min-h-[44px] items-center transition-colors hover:text-[#B8962E]">
+              {CONSENT_STRINGS[lang].cookie}
+            </Link>
+            <span className="text-[#B8962E]/50">⬧</span>
+            <OpenCookiePreferencesButton
+              label={CONSENT_STRINGS[lang].preferences}
+              className="inline-flex min-h-[44px] items-center text-xs text-[#2C2420]/60 transition-colors hover:text-[#B8962E]"
+            />
           </div>
+
+          <div className="mt-2 text-center text-xs text-[#2C2420]/50">
+            © {new Date().getFullYear()} {LEGAL.legalName} · P.IVA {LEGAL.vat} · REA {LEGAL.rea} · {LEGAL.address}
+          </div>
+          <div className="mt-1 text-center text-xs text-[#2C2420]/40">Powered by CT Marketing</div>
         </div>
       </div>
     </footer>

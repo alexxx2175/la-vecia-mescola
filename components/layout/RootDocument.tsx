@@ -1,10 +1,11 @@
 import type { ReactNode } from "react";
-import Script from "next/script";
-import { preconnect, preload } from "react-dom";
+import { preload } from "react-dom";
 import { Playfair_Display, Lato } from "next/font/google";
 import "@/app/globals.css";
 import { ConditionalChrome } from "@/components/layout/ConditionalChrome";
-import { GA_ID, restaurantJsonLd } from "@/lib/site";
+import { restaurantJsonLd } from "@/lib/site";
+import { CookieBanner } from "@/components/ui/CookieBanner";
+import { GoogleAnalytics } from "@/components/analytics/GoogleAnalytics";
 
 const playfair = Playfair_Display({
   weight: ["400", "500", "600", "700"],
@@ -35,7 +36,6 @@ export function RootDocument({
   lang: SiteLocale;
   children: ReactNode;
 }) {
-  preconnect("https://www.googletagmanager.com");
   // Font del logo e dei titoli hero: è nel percorso critico dell'LCP
   preload("/fonts/E111Viva.ttf", { as: "font", type: "font/ttf", crossOrigin: "anonymous" });
 
@@ -50,16 +50,8 @@ export function RootDocument({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(restaurantJsonLd) }}
         />
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GA_ID}`}
-          strategy="afterInteractive"
-        />
-        <Script id="ga-init" strategy="afterInteractive">
-          {`window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', '${GA_ID}');`}
-        </Script>
+        <CookieBanner lang={lang} />
+        <GoogleAnalytics />
       </body>
     </html>
   );

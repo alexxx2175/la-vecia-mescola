@@ -26,6 +26,7 @@ const nextConfig: NextConfig = {
       { source: "/menu-di-capodanno", destination: "/menu", permanent: true },
       { source: "/gallery", destination: "/#gallery", permanent: true },
       { source: "/feed", destination: "/arena", permanent: true },
+      { source: "/cookie-policy-ue", destination: "/cookie-policy", permanent: true },
     ];
   },
   async headers() {

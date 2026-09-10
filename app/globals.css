@@ -173,3 +173,11 @@ body {
 @media (prefers-reduced-motion: reduce) {
   .hero-fade-up, .hero-video-in { animation: none; }
 }
+
+/* Informative legali */
+.legal-prose ul { list-style: disc; padding-left: 1.4rem; }
+.legal-prose li { margin-top: 0.35rem; }
+.legal-prose a { color: #8F6F1A; text-decoration: underline; text-underline-offset: 3px; }
+.legal-prose table { width: 100%; border-collapse: collapse; font-size: 0.92rem; }
+.legal-prose th, .legal-prose td { text-align: left; vertical-align: top; padding: 0.55rem 0.6rem; border-bottom: 1px solid rgba(44, 36, 32, 0.15); }
+.legal-prose th { font-size: 0.72rem; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(44, 36, 32, 0.65); }
