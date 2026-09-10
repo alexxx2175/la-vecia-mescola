@@ -7,6 +7,7 @@ import { CantinaSection } from "@/components/home/CantinaSection";
 import { ReservationsSection } from "@/components/home/ReservationsSection";
 import { EventsTeaserSection } from "@/components/home/EventsTeaserSection";
 import { GallerySection } from "@/components/home/GallerySection";
+import { ReviewsSection } from "@/components/home/ReviewsSection";
 import { FaqSection } from "@/components/ui/FaqSection";
 import { HOME_FAQ, faqJsonLd } from "@/data/faq";
 import { LOCALE_SEO, type Locale } from "@/data/locales";
@@ -42,6 +43,7 @@ export async function HomeContent({ lang }: { lang: Locale }) {
       <CantinaSection />
       <ReservationsSection />
       <EventsTeaserSection events={teaserEvents} />
+      <ReviewsSection lang={lang} />
       <FaqSection id="faq" items={faq} kicker={seo.faqKicker} title={seo.faqTitle} />
       <GallerySection />
     </>

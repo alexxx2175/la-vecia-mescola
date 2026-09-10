@@ -54,11 +54,20 @@ export function Footer() {
               <span>Vicolo Chiodo 4, 37121 Verona (VR)</span>
             </div>
             <a
-              href="tel:+393928699275"
+              href="tel:+390458036608"
               className="flex min-h-[44px] items-center gap-3 text-sm text-[#2C2420]/90 transition-colors hover:text-[#2C2420]"
             >
               <Phone size={18} className="shrink-0" />
-              +39 392 869 9275
+              +39 045 803 6608
+            </a>
+            <a
+              href="https://wa.me/393928699275"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex min-h-[44px] items-center gap-3 text-sm text-[#2C2420]/90 transition-colors hover:text-[#2C2420]"
+            >
+              <Phone size={18} className="shrink-0" />
+              WhatsApp +39 392 869 9275
             </a>
           </div>
 

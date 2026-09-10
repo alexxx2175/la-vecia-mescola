@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 
 export const SITE_URL = "https://www.laveciamescola.com";
 export const RESTAURANT_ID = `${SITE_URL}/#restaurant`;
+export const LANDLINE_E164 = "+390458036608";
+export const LANDLINE_DISPLAY = "+39 045 803 6608";
+/** Cellulare usato per WhatsApp e prenotazioni. */
 export const PHONE_E164 = "+393928699275";
 export const PHONE_DISPLAY = "+39 392 869 9275";
 export const WHATSAPP_URL = "https://wa.me/393928699275";
@@ -42,8 +45,12 @@ export const restaurantJsonLd = {
     `${SITE_URL}/images/tartare-piatto-gourmet-hero-la-vecia-mescola-verona.jpg`,
   ],
   logo: `${SITE_URL}/images/logo-la-vecia-mescola-ristorante-verona.png`,
-  telephone: PHONE_E164,
+  telephone: LANDLINE_E164,
   email: "info@laveciamescola.com",
+  contactPoint: [
+    { "@type": "ContactPoint", telephone: LANDLINE_E164, contactType: "reservations", availableLanguage: ["Italian", "English", "German"] },
+    { "@type": "ContactPoint", telephone: PHONE_E164, contactType: "reservations", name: "WhatsApp", url: WHATSAPP_URL, availableLanguage: ["Italian", "English", "German"] },
+  ],
   sameAs: [
     "https://www.instagram.com/laveciamescola",
     "https://www.facebook.com/people/La-Vecia-Mescola/100046353020148/",

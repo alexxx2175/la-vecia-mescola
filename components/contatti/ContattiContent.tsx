@@ -88,10 +88,16 @@ export function ContattiContent() {
                   {t(translations.contatti.telefono, lang)}
                 </h2>
                 <a
-                  href="tel:+393928699275"
+                  href="tel:+390458036608"
                   className="inline-flex min-h-[48px] items-center text-xl font-semibold text-[#B8962E] transition-colors hover:text-[#8B4513] sm:text-2xl"
                 >
-                  +39 392 869 9275
+                  +39 045 803 6608
+                </a>
+                <a
+                  href="tel:+393928699275"
+                  className="flex min-h-[44px] items-center text-base text-[#2C2420]/80 transition-colors hover:text-[#B8962E]"
+                >
+                  WhatsApp +39 392 869 9275
                 </a>
               </div>
             </ScrollReveal>
