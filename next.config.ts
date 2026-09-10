@@ -24,6 +24,7 @@ const nextConfig: NextConfig = {
       { source: "/menu-di-natale", destination: "/menu", permanent: true },
       { source: "/menu-di-capodanno", destination: "/menu", permanent: true },
       { source: "/gallery", destination: "/#gallery", permanent: true },
+      { source: "/feed", destination: "/arena", permanent: true },
     ];
   },
   async headers() {
@@ -38,6 +39,8 @@ const nextConfig: NextConfig = {
       { source: "/videos/:path*", headers: [{ key: "Cache-Control", value: THIRTY_DAYS }] },
       { source: "/fonts/:path*", headers: [{ key: "Cache-Control", value: THIRTY_DAYS }] },
       { source: "/(favicon.png|apple-touch-icon.png|og-image.jpg)", headers: [{ key: "Cache-Control", value: THIRTY_DAYS }] },
+      // Chunk JS, CSS e font: Google deve poterli scaricare per il rendering, ma non indicizzarli come documenti.
+      { source: "/_next/static/:path*", headers: [{ key: "X-Robots-Tag", value: "noindex" }] },
     ];
   },
 };
