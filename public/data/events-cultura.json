@@ -434,15 +434,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-16__festa_in_piazza_",
-    "title": "“Festa in Piazza”",
-    "date": "2026-09-16",
+    "id": "veronasera_2026-09-17_a_corte_molon_proseguono_i_concerti_dal_",
+    "title": "A Corte Molon proseguono i concerti dal vivo dei giovani artisti veronesi",
+    "date": "2026-09-17",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-in-piazza-veronetta-16-settembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/giorgia-albanese-philipp-samira-concerti-17-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -487,6 +487,20 @@
     "url": "https://www.veronasera.it/eventi/verona-international-film-festival-15-17-settembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-17_3_giornate_di_prova_gratuite_per_provare",
+    "title": "3 giornate di prova gratuite per provare il metodo Feldenkrais",
+    "date": "2026-09-17",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/3-giornate-di-prova-gratuite-per-provare-il-metodo-feldenkrais/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2020/09/METODO-FELDENKRAIS.jpg",
     "category": "cultura"
   },
   {
@@ -583,6 +597,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/cristina-citton-gioiello-marmo-murales-art-hotel-19-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-19_salieri_in_rock_no_digit",
+    "title": "Salieri in Rock – no Digit",
+    "date": "2026-09-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/salieri-in-rock-no-digit-concerto-rezophonic-19-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -700,20 +728,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20__tra_ville_e_corti_a_bionde_di_salizzole",
-    "title": "\"Tra Ville e Corti\" a Bionde di Salizzole",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tra-ville-corti-bionde-salizzole-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-20_a_san_pietro_in_cariano_torna_la_festa_d",
     "title": "A San Pietro in Cariano torna la Festa della vendemmia",
     "date": "2026-09-20",
@@ -723,6 +737,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-vendemmia-valpolicella-19-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-20__tra_ville_e_corti_a_bionde_di_salizzole",
+    "title": "\"Tra Ville e Corti\" a Bionde di Salizzole",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tra-ville-corti-bionde-salizzole-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -770,20 +798,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_la_festa_dell_uva_di_castelnuovo_del_gar",
-    "title": "La Festa dell’Uva di Castelnuovo del Garda compie 60 anni",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/castelnuovo-del-garda-festa-uva-18-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-20_a_soave_la_festa_dell_uva",
     "title": "A Soave la Festa dell'Uva",
     "date": "2026-09-20",
@@ -793,6 +807,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-uva-soave-18-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-20_la_festa_dell_uva_di_castelnuovo_del_gar",
+    "title": "La Festa dell’Uva di Castelnuovo del Garda compie 60 anni",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/castelnuovo-del-garda-festa-uva-18-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -812,17 +840,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_sagra_patronale_di_buttapietra",
-    "title": "Sagra Patronale di Buttapietra",
+    "id": "cittadiverona_2026-09-20_rievocazione_medievale_a_valeggio_sul_mi",
+    "title": "Rievocazione medievale a Valeggio sul Mincio",
     "date": "2026-09-20",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-patronale-buttapietra-11-20-settembre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rievocazione-medievale-a-valeggio-sul-mincio/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Rievocazione-medievale-Valeggio-sul-Mincio-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -924,6 +952,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-23__strings_synths_viaggio_nel_sound_britan",
+    "title": "“Strings & Synths – Viaggio nel Sound Britannico '80-'90” al Teatro Romano",
+    "date": "2026-09-23",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/strings-synths-concerto-teatro-romano-23-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-23_olio_miele_e_panorami_trekking_e_aperiti",
     "title": "Olio, miele e panorami: trekking e aperitivo bio",
     "date": "2026-09-23",
@@ -977,6 +1019,20 @@
     "url": "https://www.cittadiverona.it/eventi/alfa-arena-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/alfa-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-25_seconda_edizione_dell_oktoberfest_di_van",
+    "title": "Seconda edizione dell’Oktoberfest di Vangadizza",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/oktoberfest-vangadizza/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Oktoberfest-di-Vangadizza-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1216,6 +1272,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "cittadiverona_2026-10-18_camminata_in_rosa_pittarosso_pink_parade",
+    "title": "Camminata in rosa: “Pittarosso Pink Parade” Verona",
+    "date": "2026-10-18",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/camminata-in-rosa-pittarosso-pink-parade-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Pittarosso-Pink-Parade-600x338.jpg",
+    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-11-05_fieracavalli",
