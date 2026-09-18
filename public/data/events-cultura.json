@@ -434,90 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-17_a_corte_molon_proseguono_i_concerti_dal_",
-    "title": "A Corte Molon proseguono i concerti dal vivo dei giovani artisti veronesi",
-    "date": "2026-09-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giorgia-albanese-philipp-samira-concerti-17-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-17_english_conversation_night_with_inlingua",
-    "title": "English conversation night with inlingua Verona",
-    "date": "2026-09-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/english-conversation-night-inlingua-verona-17-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-17_al_caff_dante_cinzia_pilo_presenta_shero",
-    "title": "Al Caffè Dante Cinzia Pilo presenta \"Sheroes\", il libro sulle grandi donne del rock",
-    "date": "2026-09-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/caffe-dante-cinzia-pilo-sheroes-17-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-17_verona_international_film_festival",
-    "title": "Verona International Film Festival",
-    "date": "2026-09-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/verona-international-film-festival-15-17-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-17_3_giornate_di_prova_gratuite_per_provare",
-    "title": "3 giornate di prova gratuite per provare il metodo Feldenkrais",
-    "date": "2026-09-17",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/3-giornate-di-prova-gratuite-per-provare-il-metodo-feldenkrais/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2020/09/METODO-FELDENKRAIS.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-17_serata_di_conversazione_in_inglese",
-    "title": "Serata di conversazione in inglese",
-    "date": "2026-09-17",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/serata-conversazione-in-inglese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/conversazione-in-inglese-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-17_verona_oktoberfest_2026",
     "title": "Verona Oktoberfest 2026",
     "date": "2026-09-17",
@@ -532,6 +448,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-18_piase_festival_a_zevio",
+    "title": "Piase festival a Zevio",
+    "date": "2026-09-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-zevio-18-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-18_tocat_festival_internazionale_dei_giochi",
+    "title": "Tocatì Festival Internazionale dei Giochi di Strada",
+    "date": "2026-09-18",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/tocati-festival-internazionale-dei-giochi-di-strada/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/09/tocati-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-18_festa_dell_uva_di_soave",
+    "title": "Festa dell’Uva di Soave",
+    "date": "2026-09-18",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-dell-uva-di-soave",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/festa-uva-soave-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-18_sagra_della_madonna_addolorata_a_isola_r",
     "title": "Sagra della Madonna Addolorata a Isola Rizza",
     "date": "2026-09-18",
@@ -543,6 +501,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-a-isola-rizza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/madonna-addolorata-isola-rizza-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-18_sagra_di_san_giorgio_in_salici",
+    "title": "Sagra di San Giorgio in Salici",
+    "date": "2026-09-18",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-san-giorgio-salici/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/sagra-san-giorgio-in-salici-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -578,13 +550,13 @@
     "title": "Pablo Trincia debutta in teatro e arriva a Verona con “L’uomo sbagliato - Un’inchiesta dal vivo”",
     "date": "2026-09-19",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/uomo-sbagliato-pablo-trincia-teatro-romano-19-settembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/36330252949406/locandina-pablo-trincia-2026-ufficio-stampa-eventi-verona-srl.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -644,6 +616,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-19_piase_festival_oppeano",
+    "title": "Piase festival Oppeano",
+    "date": "2026-09-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-oppeano-19-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-19_visita_guidata_tematica_sguardi_verso_il",
     "title": "Visita guidata tematica: \"Sguardi verso il cielo. Libri, strumenti e meraviglie dell’astronomia\"",
     "date": "2026-09-19",
@@ -667,6 +653,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/crea-portapianta-macrame-19-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-19__il_bramito_dei_cervi_",
+    "title": "\"Il bramito dei cervi\"",
+    "date": "2026-09-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/passeggiata-bramito-cervi19-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -728,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-20_rievocazione_medievale_al_castello_scali",
+    "title": "Rievocazione medievale al Castello Scaligero di Valeggio sul Mincio",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rievocazione-medievale-castello-scaligero-valeggio-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-20_a_san_pietro_in_cariano_torna_la_festa_d",
     "title": "A San Pietro in Cariano torna la Festa della vendemmia",
     "date": "2026-09-20",
@@ -756,6 +770,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-20_il_festival_musicale_cultura_e_tradizion",
+    "title": "Il Festival Musicale “Cultura e Tradizione” a Bardolino",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festival-musicale-cultura-tradizione-19-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-20_visita_alle_terme_di_giunone_tra_storia_",
     "title": "Visita alle Terme di Giunone: tra storia e benessere",
     "date": "2026-09-20",
@@ -779,6 +807,48 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/workshop-ritratto-fotografia-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-20_piase_festival_a_ronco_all_adige",
+    "title": "Piase festival a Ronco all'Adige",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-ronco-adige-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-20_ossario_di_custoza_giornata_nazionale_de",
+    "title": "Ossario di Custoza - Giornata nazionale dei piccoli musei",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ossario-custoza-giornata-nazionale-piccoli-musei-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-20_gare_nazionali_di_canoa_slalom",
+    "title": "Gare nazionali di canoa slalom",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/gare-nazionali-canoa-slalom-19-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -821,20 +891,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/castelnuovo-del-garda-festa-uva-18-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-20_alla_gam_di_verona_la_mostra_contemporan",
-    "title": "Alla Gam di Verona la mostra \"Contemporaneo Non-Stop. Il respiro della natura - Terra\"",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/contemporaneo-non-stop-respiro-natura-terra-gam-9-ottobre-2025-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1022,6 +1078,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-23__strings_synths_viaggio_nel_sound_britan",
+    "title": "“Strings & Synths”: viaggio nel sound Britannico ’80 – ’90",
+    "date": "2026-09-23",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/strings-synths-viaggio-sound-britannico-80-90/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/strings-synths-viaggio-nel-sound-britannico-80-90-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-25_l_orchestra_del_tomorrowland_arriva_all_",
+    "title": "L'orchestra del Tomorrowland arriva all'Arena di Verona",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/orchestra-tomorrowland-concerto-arena-verona-25-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/27460706576947/locandina-orchestra-tomorrowland-25-settembre-2026-arena-di-verona.jpg",
+    "category": "concerti_pop"
+  },
+  {
     "id": "cittadiverona_2026-09-25_seconda_edizione_dell_oktoberfest_di_van",
     "title": "Seconda edizione dell’Oktoberfest di Vangadizza",
     "date": "2026-09-25",
@@ -1162,17 +1246,17 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
-    "title": "Nicola Porro inaugura “DIM Incontra”",
+    "id": "cittadiverona_2026-10-10_lo_spettacolo_se_no_al_satiro_off_per_l_",
+    "title": "Lo spettacolo “Se.No” al Satiro OFF per l’Ottobre Rosa",
     "date": "2026-10-10",
     "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
+    "url": "https://www.cittadiverona.it/eventi/spettacolo-se-no-satiro-off-ottobre-rosa/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/SE.NO_-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1190,6 +1274,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
+    "title": "Nicola Porro inaugura “DIM Incontra”",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-10-11_borsa_scambio_giocattolo_d_epoca",
     "title": "Borsa scambio giocattolo d'epoca",
     "date": "2026-10-11",
@@ -1202,20 +1300,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-10-11_borsa_scambio_giocattoli_d_epoca_e_autom",
@@ -1313,20 +1397,6 @@
     "url": "https://www.cittadiverona.it/eventi/incontro-dario-fabbri/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/incontro-Dario-Fabbri-Bussolengo-2025-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
