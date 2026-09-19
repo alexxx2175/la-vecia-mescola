@@ -448,20 +448,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-18_piase_festival_a_zevio",
-    "title": "Piase festival a Zevio",
-    "date": "2026-09-18",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/piase-festival-zevio-18-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-18_tocat_festival_internazionale_dei_giochi",
     "title": "Tocatì Festival Internazionale dei Giochi di Strada",
     "date": "2026-09-18",
@@ -602,20 +588,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-19_open_day_accademia_martinelli",
-    "title": "Open day Accademia Martinelli",
-    "date": "2026-09-19",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/open-day-accademia-martinelli-19-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-19_piase_festival_oppeano",
     "title": "Piase festival Oppeano",
     "date": "2026-09-19",
@@ -625,6 +597,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/piase-festival-oppeano-19-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-19_open_day_accademia_martinelli",
+    "title": "Open day Accademia Martinelli",
+    "date": "2026-09-19",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/open-day-accademia-martinelli-19-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -770,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-20__vestiti_con_cura_al_piccolo_rifugio_di_",
+    "title": "“Vestiti con cura” al Piccolo Rifugio di Palazzolo di Sona",
+    "date": "2026-09-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/vestiti-con-cura-piccolo-rifugio-20-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-20_il_festival_musicale_cultura_e_tradizion",
     "title": "Il Festival Musicale “Cultura e Tradizione” a Bardolino",
     "date": "2026-09-20",
@@ -798,20 +798,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_workshop_di_ritratto_a_sona",
-    "title": "Workshop di ritratto a Sona",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/workshop-ritratto-fotografia-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-20_piase_festival_a_ronco_all_adige",
     "title": "Piase festival a Ronco all'Adige",
     "date": "2026-09-20",
@@ -821,20 +807,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/piase-festival-ronco-adige-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-20_ossario_di_custoza_giornata_nazionale_de",
-    "title": "Ossario di Custoza - Giornata nazionale dei piccoli musei",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ossario-custoza-giornata-nazionale-piccoli-musei-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -854,43 +826,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_torna_a_verona_il_tocat_festival_interna",
-    "title": "Torna a Verona il Tocatì - Festival Internazionale dei Giochi in Strada",
+    "id": "veronasera_2026-09-20_workshop_di_ritratto_a_sona",
+    "title": "Workshop di ritratto a Sona",
     "date": "2026-09-20",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tocati-festival-giochi-strada-irlanda-18-20-settembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/workshop-ritratto-fotografia-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-20_a_soave_la_festa_dell_uva",
-    "title": "A Soave la Festa dell'Uva",
+    "id": "veronasera_2026-09-20_ossario_di_custoza_giornata_nazionale_de",
+    "title": "Ossario di Custoza - Giornata nazionale dei piccoli musei",
     "date": "2026-09-20",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-uva-soave-18-20-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-20_la_festa_dell_uva_di_castelnuovo_del_gar",
-    "title": "La Festa dell’Uva di Castelnuovo del Garda compie 60 anni",
-    "date": "2026-09-20",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/castelnuovo-del-garda-festa-uva-18-20-settembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/ossario-custoza-giornata-nazionale-piccoli-musei-20-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1117,6 +1075,34 @@
     "url": "https://www.cittadiverona.it/eventi/oktoberfest-vangadizza/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Oktoberfest-di-Vangadizza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-26_remira_vintage_market_verona",
+    "title": "Remira Vintage Market Verona",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/vintage-market-verona-remira-26-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-26_furin_campanella_dei_sogni_e_del_vento_g",
+    "title": "Furin - Campanella dei sogni e del vento giapponese",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/furin-campanella-sogni-vento-giapponese-26-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
