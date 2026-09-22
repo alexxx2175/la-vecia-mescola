@@ -420,76 +420,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-18_sagra_di_san_giorgio_in_salici",
-    "title": "Sagra di San Giorgio in Salici",
-    "date": "2026-09-18",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-san-giorgio-salici/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/sagra-san-giorgio-in-salici-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-21_una_nessuna_centomila_grande_musica_in_a",
-    "title": "Una Nessuna Centomila, grande musica in Arena contro la violenza sulle donne",
-    "date": "2026-09-21",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/una-nessuna-centomila-arena-21-settembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/3466563775541/una-nessuna-centomila-2026-locandina.jpeg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-09-21_sagra_del_torbolin_a_santa_lucia_ai_mont",
-    "title": "Sagra del Torbolin a Santa Lucia ai Monti",
-    "date": "2026-09-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-torbolin-valeggio-18-21-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-21_sagra_di_san_giorgio_in_salici",
-    "title": "Sagra di San Giorgio in Salici",
-    "date": "2026-09-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-san-giorgio-in-salici-18-21-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-21__una_nessuna_centomila_all_arena_di_vero",
-    "title": "“Una Nessuna Centomila” all’Arena di Verona",
-    "date": "2026-09-21",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/una-nessuna-centomila-in-arena/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/08/una-nessuna-centomila-arena-verona-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-09-22_marmomac",
     "title": "Marmomac",
     "date": "2026-09-22",
@@ -536,14 +466,14 @@
     "title": "Alfa in concerto all’Arena di Verona",
     "date": "2026-09-23",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/alfa-concerto-arena-23-settembre-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38672378828283/locandina-concerto-arena-di-verona-alfa-2026-2.jpg",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-09-23__strings_synths_viaggio_nel_sound_britan",
@@ -952,6 +882,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-04_oktoberfest_a_vangadizza",
+    "title": "Oktoberfest a Vangadizza",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/oktoberfest-vangadizza-festa-25-27-settembre-2-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-05_evento_formativo_la_tua_azienda_cresce_",
     "title": "Evento formativo “La tua azienda cresce?”",
     "date": "2026-10-05",
@@ -1022,20 +966,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
-    "title": "Nicola Porro inaugura “DIM Incontra”",
-    "date": "2026-10-10",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-10__aggiungi_un_posto_a_tavola_all_arena_di",
     "title": "“Aggiungi un posto a tavola” all’Arena di Verona",
     "date": "2026-10-10",
@@ -1047,6 +977,20 @@
     "url": "https://www.cittadiverona.it/eventi/aggiungi-un-posto-a-tavola-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aggiungi-un-posto-a-tavola-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
+    "title": "Nicola Porro inaugura “DIM Incontra”",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
     "category": "cultura"
   },
   {
