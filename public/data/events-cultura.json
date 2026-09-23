@@ -406,20 +406,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-18_sagra_della_madonna_addolorata_a_isola_r",
-    "title": "Sagra della Madonna Addolorata a Isola Rizza",
-    "date": "2026-09-18",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-a-isola-rizza/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/08/madonna-addolorata-isola-rizza-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-09-22_marmomac",
     "title": "Marmomac",
     "date": "2026-09-22",
@@ -432,34 +418,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-09-22_ligabue_in_concerto_all_arena_di_verona",
-    "title": "Ligabue in concerto all'Arena di Verona",
-    "date": "2026-09-22",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ligabue-concerto-arena-verona-22-settembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/37609189071892/luciano-ligabue-foto-maurizio-bresciani-via-ufficio-stampa-luciano-ligabue-parole-dintorni-2026.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-09-22_sagra_madonna_addolorata_a_isola_rizza",
-    "title": "Sagra Madonna Addolorata a Isola Rizza",
-    "date": "2026-09-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-madonna-addolorata-isola-rizza-18-22-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronasera_2026-09-23_alfa_in_concerto_all_arena_di_verona",
@@ -560,6 +518,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-24_a_verona_arriva_il_brindisi_pi_grande_d_",
+    "title": "A Verona arriva il brindisi più grande d'Europa contro il post-vacation blues",
+    "date": "2026-09-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/weroad-brindisi-post-vacation-blues-24-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-24_the_summer_is_over_food_drink_music_part",
+    "title": "The summer is over – Food, drink & music party",
+    "date": "2026-09-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/the-summer-is-over-food-drink-music-party-24-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-24_paint_gelato_workshop_creativo_di_pittur",
+    "title": "Paint & gelato | Workshop creativo di pittura alla gelateria Il Mustacchio",
+    "date": "2026-09-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paint-gelato-workshop-24-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-24__the_summer_is_over_all_osteria_marconi",
     "title": "“The Summer is Over” all’Osteria Marconi",
     "date": "2026-09-24",
@@ -602,6 +602,62 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-25__astroaperitivo_vita_morte_e_sofferenza_",
+    "title": "\"Astroaperitivo | Vita, morte e sofferenza tra spiritualità e filosofia\"",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/astroaperitivo-vita-morte-sofferenza-25-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-25_silent_dating_fai_nuove_conoscenze_senza",
+    "title": "Silent dating | Fai nuove conoscenze senza parlare",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/silent-dating-25-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-25_sagra_di_san_michele_a_vigasio",
+    "title": "Sagra di San Michele a Vigasio",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-michele-a-vigasio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2019/09/festa-di-san-michele-vigasio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-25_sagra_e_fiera_di_san_michele_arcangelo",
+    "title": "Sagra e Fiera di San Michele Arcangelo",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-fiera-san-michele-arcangelo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Sagra-e-Fiera-di-San-Michele-Arcangelo-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-25_seconda_edizione_dell_oktoberfest_di_van",
     "title": "Seconda edizione dell’Oktoberfest di Vangadizza",
     "date": "2026-09-25",
@@ -625,6 +681,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/vintage-market-verona-remira-26-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-26_festa_di_tutti_i_colori_al_parco_santa_t",
+    "title": "Festa di Tutti i Colori al Parco Santa Teresa",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-tutti-colori-parco-santa-teresa-26-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -672,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-26_antica_sagra_di_san_moro_a_san_mauro_di_",
+    "title": "Antica Sagra di San Moro a San Mauro di Saline",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-di-san-moro-san-mauro-di-saline/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/09/antica-sagra-di-san-moro-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-26_giornata_nazionale_abio",
     "title": "Giornata Nazionale Abio",
     "date": "2026-09-26",
@@ -714,6 +798,48 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-09-26_battiti_in_circolo_festival",
+    "title": "Battiti in Circolo Festival",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/battiti-in-circolo-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Battiti-in-circolo-festival-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-26_palio_del_vino_e_dei_sapori_a_negrar",
+    "title": "Palio del Vino e dei Sapori a Negrar",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/palio-del-vino-e-dei-sapori-a-negrar/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/palio-del-vino-e-dei-sapori-negrar-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-26_festa_di_tutti_i_colori_al_parco_santa_t",
+    "title": "Festa di tutti i colori al Parco Santa Teresa",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-tutti-colori-parco-santa-teresa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2020/09/Festa-di-tutti-i-Colori-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-27_riccardo_cocciante_in_concerto_a_verona",
     "title": "Riccardo Cocciante in concerto a Verona",
     "date": "2026-09-27",
@@ -726,6 +852,34 @@
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/10279579039204/riccardo-cocciante-foto-attilio-cusani-via-ufficio-stampa-words-for-you.jpg",
     "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-09-27_palio_del_vino_e_dei_sapori_a_negrar_di_",
+    "title": "Palio del Vino e dei Sapori a Negrar di Valpolicella",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/palio-vino-sapori-negrar-valpolicella-26-27-settembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/18298454376640/a3-palio-dei-sapori.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-27_visite_guidate_gratuite_all_ex_campo_di_",
+    "title": "Visite guidate gratuite all'Ex campo di concentramento di Montorio",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ex-campo-concentramento-montorio-visita-26-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-09-27_mercato_dell_antiquariato_e_modernariato",
@@ -784,6 +938,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-27_escursione_al_ponte_di_veja_e_laboratori",
+    "title": "Escursione al Ponte di Veja e laboratorio \"L'arte con l'ocra\" al Museo paleontologico e preistorico",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-ponte-di-veja-laboratorio-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-27_visita_guidata_speciale_a_palazzo_minisc",
     "title": "Visita guidata speciale a Palazzo Miniscalchi | Da casa a museo: proteggere una memoria",
     "date": "2026-09-27",
@@ -826,6 +994,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-28_anna_foglietta_ospite_in_sala_al_cinema_",
+    "title": "Anna Foglietta ospite in sala al Cinema Kappadue presenta il suo film d'esordio alla regia: “Una storia”",
+    "date": "2026-09-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/una-storia-anna-foglietta-cinema-k2-28-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-28_a_legnago_torna_l_international_salieri_",
     "title": "A Legnago torna l'International Salieri Circus Award",
     "date": "2026-09-28",
@@ -835,20 +1017,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/international-salieri-circus-award-24-28-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-28_una_principessa_a_palazzo_marianna_erizz",
-    "title": "Una principessa a palazzo. Marianna Erizzo | Mostra temporanea al Museo Miniscalchi-Erizzo",
-    "date": "2026-09-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/una-principessa-palazzo-marianna-erizzo-mostra-20-giugno-28-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -882,17 +1050,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-04_oktoberfest_a_vangadizza",
-    "title": "Oktoberfest a Vangadizza",
+    "id": "cittadiverona_2026-10-04__romeo_e_giulietta_la_passeggiata_teatra",
+    "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
     "date": "2026-10-04",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oktoberfest-vangadizza-festa-25-27-settembre-2-4-ottobre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/romeo-e-giulietta-passeggiata-teatralizzata-scopre-verona/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/04/walking-festa-della-donna-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1033,20 +1201,6 @@
     "url": "https://www.cittadiverona.it/eventi/borsa-scambio-giocattoli-d-epoca-e-automodelli",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/02/Giocattoli-di-legno-meta-900-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-13_la_fiera_del_riso_di_isola_della_scala",
-    "title": "La Fiera del Riso di Isola della Scala",
-    "date": "2026-10-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-riso-isola-scala-17-settembre-13-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1218,6 +1372,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-11-21_pink_floyd_history_al_teatro_nuovo_di_ve",
+    "title": "Pink Floyd History al Teatro Nuovo di Verona",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/pink-floyd-history-al-teatro-nuovo-di-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/pink-floyd-history-animal-farm-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-22_fabio_concato_al_teatro_nuovo_di_verona",
     "title": "Fabio Concato al Teatro Nuovo di Verona",
     "date": "2026-11-22",
@@ -1244,6 +1412,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "cittadiverona_2026-11-29__in_grato_con_antonio_ornano_al_teatro_n",
+    "title": "“(In)grato” con Antonio Ornano al Teatro Nuovo di Verona",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antonio-ornano-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/Ornano-IN-Grato-600x338.jpg",
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-12-07_awed_dadda_e_dose_al_teatro_nuovo_di_ver",
@@ -1274,20 +1456,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2027-04-14_maurizio_battista_al_teatro_nuovo_di_ver",
     "title": "Maurizio Battista al Teatro Nuovo di Verona",
     "date": "2027-04-14",
@@ -1313,6 +1481,20 @@
     "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2027-09-29__artistic_minds_",
+    "title": "\"Artistic minds\"",
+    "date": "2027-09-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/artistic-minds-fondazione-aida-28-29-settembre-2027.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   }
 ]
