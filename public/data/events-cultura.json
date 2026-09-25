@@ -420,76 +420,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-09-24__a_riveder_le_stelle_al_forte_gisella",
-    "title": "“A riveder le stelle” al Forte Gisella",
-    "date": "2026-09-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/riveder-stelle-forte-gisella-24-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-24_a_verona_arriva_il_brindisi_pi_grande_d_",
-    "title": "A Verona arriva il brindisi più grande d'Europa contro il post-vacation blues",
-    "date": "2026-09-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/weroad-brindisi-post-vacation-blues-24-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-24_paint_gelato_workshop_creativo_di_pittur",
-    "title": "Paint & gelato | Workshop creativo di pittura alla gelateria Il Mustacchio",
-    "date": "2026-09-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/paint-gelato-workshop-24-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-24_the_summer_is_over_food_drink_music_part",
-    "title": "The summer is over – Food, drink & music party",
-    "date": "2026-09-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/the-summer-is-over-food-drink-music-party-24-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-24__the_summer_is_over_all_osteria_marconi",
-    "title": "“The Summer is Over” all’Osteria Marconi",
-    "date": "2026-09-24",
-    "time": "",
-    "type": "Cene e serate",
-    "venue_type": "Cene e serate",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/the-summer-is-over-osteria-marconi/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/The-Summer-is-Over_Osteria-Marconi_Verona-1-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-09-25_l_orchestra_del_tomorrowland_arriva_all_",
     "title": "L'orchestra del Tomorrowland arriva all'Arena di Verona",
     "date": "2026-09-25",
@@ -513,6 +443,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/karaoke-live-and-friends-band-25-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-25_piase_festival_a_isola_rizza",
+    "title": "Piase festival a Isola Rizza",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-isola-rizza-25-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -543,6 +487,20 @@
     "url": "https://www.veronasera.it/eventi/silent-dating-25-settembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-25_antica_fiera_di_san_michele_a_calmasino",
+    "title": "Antica Fiera di San Michele a Calmasino",
+    "date": "2026-09-25",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-san-michele-a-calmasino-bardolino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/09/antica-fiera-san-michele-calmasino-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -630,6 +588,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-26_il_progetto_oliver_kaufmann_allo_stone_r",
+    "title": "Il progetto Oliver Kaufmann allo Stone Rose",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/oliver-kaufmann-concerto-25-26-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-26_alla_scoperta_del_museo_miniscalchi_eriz",
     "title": "Alla scoperta del Museo Miniscalchi-Erizzo: visita guidata a cura delle studentesse dell'Ites Luigi Einuadi",
     "date": "2026-09-26",
@@ -644,31 +616,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-26_verona_oktoberfest",
-    "title": "Verona Oktoberfest",
+    "id": "veronasera_2026-09-26_piase_festival_a_pal_",
+    "title": "Piase festival a Palù",
     "date": "2026-09-26",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/verona-oktoberfest-festa-concerti-17-26-settembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/piase-festival-palu-26-settembre-2026.html",
     "buy_url": null,
     "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-26_antica_sagra_di_san_moro_a_san_mauro_di_",
-    "title": "Antica Sagra di San Moro a San Mauro di Saline",
-    "date": "2026-09-26",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-sagra-di-san-moro-san-mauro-di-saline/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/09/antica-sagra-di-san-moro-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -683,6 +641,20 @@
     "url": "https://www.cittadiverona.it/eventi/giornata-nazionale-abio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/09/festa-nazionale-abio-a-verona-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-26_antica_sagra_di_san_moro_a_san_mauro_di_",
+    "title": "Antica Sagra di San Moro a San Mauro di Saline",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-sagra-di-san-moro-san-mauro-di-saline/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2014/09/antica-sagra-di-san-moro-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -714,20 +686,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-26_battiti_in_circolo_festival",
-    "title": "Battiti in Circolo Festival",
-    "date": "2026-09-26",
-    "time": "",
-    "type": "Feste",
-    "venue_type": "Feste",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/battiti-in-circolo-festival/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Battiti-in-circolo-festival-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-26_palio_del_vino_e_dei_sapori_a_negrar",
     "title": "Palio del Vino e dei Sapori a Negrar",
     "date": "2026-09-26",
@@ -739,6 +697,20 @@
     "url": "https://www.cittadiverona.it/eventi/palio-del-vino-e-dei-sapori-a-negrar/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/palio-del-vino-e-dei-sapori-negrar-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-26_battiti_in_circolo_festival",
+    "title": "Battiti in Circolo Festival",
+    "date": "2026-09-26",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/battiti-in-circolo-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Battiti-in-circolo-festival-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -826,6 +798,62 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-27_battiti_in_circolo_festival",
+    "title": "Battiti in Circolo Festival",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/battiti-in-circolo-festival-26-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-27_modus_inaugura_la_stagione_con_12_ore_di",
+    "title": "Modus inaugura la stagione con 12 ore di teatro e la versione integrale della serie “Il Pagliaccio”",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teator-modus-il-pagliaccio-maratona-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-27_la_verona_sotterranea_e_gli_altri_appunt",
+    "title": "La Verona sotterranea e gli altri appuntamenti archeologici del weekend",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-archeologia-verona-sotterranea-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-27_visita_culturale_a_san_pietro_di_morubio",
+    "title": "Visita culturale a San Pietro di Morubio",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-culturale-san-pietro-di-morubio-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-27_mercato_dell_antiquariato_e_modernariato",
     "title": "Mercato dell’antiquariato e modernariato a Valeggio sul Mincio",
     "date": "2026-09-27",
@@ -896,6 +924,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-27_piase_festival_a_salizzole",
+    "title": "Piase festival a Salizzole",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-salizzole-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-09-27_visita_guidata_speciale_a_palazzo_minisc",
     "title": "Visita guidata speciale a Palazzo Miniscalchi | Da casa a museo: proteggere una memoria",
     "date": "2026-09-27",
@@ -905,6 +947,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-27_il_bramito_del_cervo_il_richiamo_della_f",
+    "title": "Il bramito del cervo - Il richiamo della foresta",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bramito-cervo-escursione-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-09-27_ottava_edizione_piase_gravel",
+    "title": "Ottava edizione Piase Gravel",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ottava-edizione-piase-gravel-27-settembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -938,6 +1008,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-09-27_antica_fiera_di_san_michele_a_calmasino",
+    "title": "Antica Fiera di San Michele a Calmasino",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/antica-fiera-san-michele-calmasino-25-27-settembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-09-27_mercatino_antiquariato_a_valeggio_sul_mi",
     "title": "Mercatino antiquariato a Valeggio sul Mincio",
     "date": "2026-09-27",
@@ -949,6 +1033,34 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-27_antica_fiera_del_bestiame_a_san_zeno_di_",
+    "title": "Antica Fiera del Bestiame a San Zeno di Montagna",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-fiera-del-bestiame-a-san-zeno-di-montagna/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/09/Antica-Fiera-del-Bestiame-a-San-Zeno-di-Montagna-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-09-27__ottava_in_festa_a_quinto",
+    "title": "“Ottava in festa” a Quinto",
+    "date": "2026-09-27",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ottava-in-festa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/06/Ottava-in-festa-a-quinto-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -980,20 +1092,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-29_sagra_e_fiera_di_san_michele_arcangelo",
-    "title": "Sagra e Fiera di San Michele Arcangelo",
-    "date": "2026-09-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-fiera-san-michele-arcangelo-25-29-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-29_umberto_galimberti_al_teatro_romano_di_v",
     "title": "Umberto Galimberti al Teatro Romano di Verona",
     "date": "2026-09-29",
@@ -1022,15 +1120,43 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-04__notre_dame_de_paris_all_arena_di_verona",
-    "title": "\"Notre Dame de Paris\" all'Arena di Verona",
+    "id": "cittadiverona_2026-10-02__san_vito_beer_fest_prima_edizione_della",
+    "title": "“San Vito Beer Fest”: prima edizione della Festa della Birra a San Vito di Legnago",
+    "date": "2026-10-02",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/san-vito-beer-fest/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/San-Vito-Beer-Fest-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-03_legnago_music_festival",
+    "title": "Legnago Music Festival",
+    "date": "2026-10-03",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/legnago-music-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/legnago-music-festival-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_la_sagra_di_vago_di_lavagno",
+    "title": "La Sagra di Vago di Lavagno",
     "date": "2026-10-04",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notre-dame-de-paris-arena-verona-1-4-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/sagra-lavagno-2-4-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1061,6 +1187,20 @@
     "url": "https://www.cittadiverona.it/eventi/evento-formativo-la-tua-azienda-cresce/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/la-tua-azienda-cresce-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-06_han_garak_l_anima_della_corea_prende_vit",
+    "title": "Han Garak, l’anima della Corea prende Vita al Teatro Stimate",
+    "date": "2026-10-06",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/han-garak-anima-corea-prende-vita/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Han-Garak-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1160,20 +1300,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-10-11_borsa_scambio_giocattoli_d_epoca_e_autom",
