@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-09-25_sagra_e_fiera_di_san_michele_arcangelo",
-    "title": "Sagra e Fiera di San Michele Arcangelo",
-    "date": "2026-09-25",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/sagra-fiera-san-michele-arcangelo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Sagra-e-Fiera-di-San-Michele-Arcangelo-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-09-25_seconda_edizione_dell_oktoberfest_di_van",
     "title": "Seconda edizione dell’Oktoberfest di Vangadizza",
     "date": "2026-09-25",
@@ -445,62 +431,6 @@
     "url": "https://www.cittadiverona.it/eventi/antica-fiera-del-bestiame-a-san-zeno-di-montagna/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2012/09/Antica-Fiera-del-Bestiame-a-San-Zeno-di-Montagna-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-29_la_sagra_de_l_anara_ad_arc_di_pescantina",
-    "title": "La Sagra de l’Anara ad Arcè di Pescantina",
-    "date": "2026-09-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-anara-festa-pescantina-24-29-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-29_sagra_e_fiera_di_san_michele_arcangelo",
-    "title": "Sagra e Fiera di San Michele Arcangelo",
-    "date": "2026-09-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-fiera-san-michele-arcangelo-25-29-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-09-29_open_day_da_manidifata",
-    "title": "Open Day da Manidifata",
-    "date": "2026-09-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/open-day-manidifata-21-29-settembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-29_umberto_galimberti_al_teatro_romano_di_v",
-    "title": "Umberto Galimberti al Teatro Romano di Verona",
-    "date": "2026-09-29",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/umberto-galimberti-a-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/04/Umberto-Galimberti-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -854,20 +784,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
-    "title": "Nicola Porro inaugura “DIM Incontra”",
-    "date": "2026-10-10",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-10__aggiungi_un_posto_a_tavola_all_arena_di",
     "title": "“Aggiungi un posto a tavola” all’Arena di Verona",
     "date": "2026-10-10",
@@ -879,6 +795,20 @@
     "url": "https://www.cittadiverona.it/eventi/aggiungi-un-posto-a-tavola-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aggiungi-un-posto-a-tavola-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
+    "title": "Nicola Porro inaugura “DIM Incontra”",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1134,6 +1064,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-11-15__sans_titre_una_mostra_fotografica_dedic",
+    "title": "“Sans Titre”, una mostra fotografica dedicata all’artista francese Antoine Robin",
+    "date": "2026-11-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/san-titre-mostra-fotografia-antoine-robin-26-settembre-15-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-20_verona_mineral_show",
     "title": "Verona Mineral Show",
     "date": "2026-11-20",
@@ -1285,20 +1229,6 @@
     "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-09-29__artistic_minds_",
-    "title": "\"Artistic minds\"",
-    "date": "2027-09-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/artistic-minds-fondazione-aida-28-29-settembre-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   }
 ]
