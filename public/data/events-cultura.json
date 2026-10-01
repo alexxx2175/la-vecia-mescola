@@ -420,59 +420,31 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-09-27_antica_fiera_del_bestiame_a_san_zeno_di_",
-    "title": "Antica Fiera del Bestiame a San Zeno di Montagna",
-    "date": "2026-09-27",
+    "id": "cittadiverona_2026-10-01_i_giorni_del_miele_a_lazise",
+    "title": "I Giorni del Miele a Lazise",
+    "date": "2026-10-01",
     "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
+    "type": "Fiere",
+    "venue_type": "Fiere",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-fiera-del-bestiame-a-san-zeno-di-montagna/",
+    "url": "https://www.cittadiverona.it/eventi/i-giorni-del-miele-di-lazise/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2012/09/Antica-Fiera-del-Bestiame-a-San-Zeno-di-Montagna-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/09/I-giorni-del-Miele-2026-Lazise-600x338.jpg",
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-09-30_tutti_gli_appuntamenti_del_festival_dell",
-    "title": "Tutti gli appuntamenti del Festival della Bellezza al Teatro Romano",
-    "date": "2026-09-30",
+    "id": "veronasera_2026-10-02_anteprima_del_film_dio_ride_il_regista_g",
+    "title": "Anteprima del film \"Dio ride\". Il regista Giovanni Veronesi ospite al Cinema Kappadue di Verona",
+    "date": "2026-10-02",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festival-bellezza-teatro-romano-24-30-settembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/dio-ride-anteprima-film-cinema-k2-2-ottobre-2026.html",
     "buy_url": null,
     "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-30_calendario_di_musica_live_a_verona_e_pro",
-    "title": "Calendario di musica live a Verona e provincia",
-    "date": "2026-09-30",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-09-30_angelo_peretti_presenta_il_nuovo_libro_a",
-    "title": "Angelo Peretti presenta il nuovo libro al Caffè Dante",
-    "date": "2026-09-30",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/angelo-peretti-presenta-nuovo-libro-caffe-dante/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Angelo-peretti-al-dante-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -490,6 +462,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-02_fiera_del_derlo_a_selva_di_progno",
+    "title": "Fiera del Derlo a Selva di Progno",
+    "date": "2026-10-02",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-del-derlo-a-selva-di-progno/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Fiera-del-Derlo-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-02_sagra_di_san_francesco_a_vago_di_lavagno",
+    "title": "Sagra di San Francesco a Vago di Lavagno",
+    "date": "2026-10-02",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-di-san-francesco-a-vago-di-lavagno/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Sagra-di-San-Francesco-Vago-di-Lavagno-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-02__san_vito_beer_fest_prima_edizione_della",
     "title": "“San Vito Beer Fest”: prima edizione della Festa della Birra a San Vito di Legnago",
     "date": "2026-10-02",
@@ -501,6 +501,20 @@
     "url": "https://www.cittadiverona.it/eventi/san-vito-beer-fest/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/San-Vito-Beer-Fest-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-02_festa_della_mela_di_belfiore",
+    "title": "Festa della Mela di Belfiore",
+    "date": "2026-10-02",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-mela-a-belfiore/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/10/Festa-della-Mela-di-Belfiore-2026-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -522,13 +536,27 @@
     "title": "“Partita per la Solidarietà”",
     "date": "2026-10-03",
     "time": "",
-    "type": "Sport",
-    "venue_type": "Sport",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/partita-perl-a-solidarieta-3-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/29658123172650/partita-per-la-solidarieta.jpeg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-03_festa_di_fine_vendemmia",
+    "title": "Festa di fine vendemmia",
+    "date": "2026-10-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-fine-vendemmia-3-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -602,6 +630,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-04_siamo_umani_arte_al_mamaor",
+    "title": "Siamo umani: arte al Mamaor",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/siamo-umani-arte-monte-mamaor-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1164666013482/monte-mamaor-foto-ufficio-stampa-mamaor.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_escursione_autunno_tra_i_boschi_le_malgh",
+    "title": "Escursione - Autunno tra i boschi, le malghe e le antiche contrade cimbre della Lessinia",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-autunno-lessinia-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_presentazione_del_docufilm_e_del_libro_i",
+    "title": "Presentazione del docufilm e del libro “Il cammino”",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/presentazione-docufilm-libro-il-cammino-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-04_la_sagra_di_vago_di_lavagno",
     "title": "La Sagra di Vago di Lavagno",
     "date": "2026-10-04",
@@ -625,6 +695,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/notre-dame-de-paris-arena-verona-1-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04__i_giorni_del_miele_a_lazise",
+    "title": "\"I Giorni del Miele\" a Lazise",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giorni-miele-festa-mercatino-1-4-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -655,6 +739,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-04_livedog_fest_nel_grande_parco_cinofilo_d",
+    "title": "LiveDog Fest nel grande parco cinofilo di Verona",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/livedog-fest-grande-parco-cinofilo-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/LiveDog-Ottobre-2026-Verona-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -826,6 +924,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-10-11_il_festival_senza_glutine_approda_a_vero",
+    "title": "Il Festival Senza Glutine approda a Verona",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festival-senza-glutine-verona-8-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
     "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
     "date": "2026-10-11",
@@ -865,6 +977,20 @@
     "url": "https://www.cittadiverona.it/eventi/borsa-scambio-giocattoli-d-epoca-e-automodelli",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/02/Giocattoli-di-legno-meta-900-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-12_presentazione_percorso_di_filosofia_atti",
+    "title": "Presentazione “Percorso di Filosofia Attiva”",
+    "date": "2026-10-12",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/percorso-di-filosofia-attiva/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/10/Percorso-di-Filosofia-Attiva-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -949,6 +1075,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-31_calendario_di_musica_live_a_verona_e_pro",
+    "title": "Calendario di musica live a Verona e provincia",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1064,20 +1204,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-11-15__sans_titre_una_mostra_fotografica_dedic",
-    "title": "“Sans Titre”, una mostra fotografica dedicata all’artista francese Antoine Robin",
-    "date": "2026-11-15",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/san-titre-mostra-fotografia-antoine-robin-26-settembre-15-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-11-20_verona_mineral_show",
     "title": "Verona Mineral Show",
     "date": "2026-11-20",
@@ -1187,6 +1313,20 @@
     "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-28_abbadream_abba_tribute_show_al_teatro_nu",
+    "title": "ABBAdream, Abba Tribute Show al Teatro Nuovo",
+    "date": "2026-12-28",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/abbadream-the-ultimate-abba-tribute-show-al-teatro-nuovo",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/abba-dream-2026-verona-1-600x338.jpg",
     "category": "cultura"
   },
   {
