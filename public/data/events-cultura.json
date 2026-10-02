@@ -462,6 +462,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-02_piase_festival_a_minerbe",
+    "title": "Piase festival a Minerbe",
+    "date": "2026-10-02",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-minerbe-2-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-02_fiera_del_derlo_a_selva_di_progno",
     "title": "Fiera del Derlo a Selva di Progno",
     "date": "2026-10-02",
@@ -522,13 +536,27 @@
     "title": "Fucina Culturale Machiavelli ospita lo spettacolo “I dialoghi della Vagina”",
     "date": "2026-10-03",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/dialoghi-vagina-fucina-machiavelli-3-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/38103579932886/i-dialoghi-della-vagina-foto-ufficio-stampa-teatro-al-femminile.jpg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-03_san_vito_beer_fest",
+    "title": "San Vito Beer Fest",
+    "date": "2026-10-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/san-vito-beer-fest-2-3-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -574,15 +602,43 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-03__canestrelli_memoria_circense_tra_italia",
-    "title": "\"Canestrelli – Memoria circense tra Italia e America\"",
+    "id": "veronasera_2026-10-03_c_festa_allo_stone_rose_con_jessy_kole_d",
+    "title": "C'è festa allo Stone Rose con Jessy Kole & Dance Machine",
     "date": "2026-10-03",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/canestrelli-memoria-circense-19-settembre-3-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/stone-rose-concerto-jessy-kole-dance-machine-3-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-03_piase_festival_a_roverchiara",
+    "title": "Piase festival a Roverchiara",
+    "date": "2026-10-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-roverchiara-3-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-03_crea_la_tua_tote_bag_al_museo_laboratori",
+    "title": "Crea la tua tote bag al museo! Laboratorio di stampa per adulti al Museo Miniscalchi-Erizzo",
+    "date": "2026-10-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tote-bag-museo-laboratorio-stampa-3-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -616,17 +672,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-04__una_giornata_al_forte_john_a_montorio_",
-    "title": "\"Una Giornata al Forte John a Montorio\"",
+    "id": "veronasera_2026-10-04_la_giornata_dei_bambini_al_parco_giardin",
+    "title": "La \"Giornata dei Bambini\" al Parco Giardino Sigurtà",
     "date": "2026-10-04",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/giornata-colli-veneti-fort-john-montorio-4-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/giornata-bambini-parco-giardino-sigurta-4-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/750693864477/locandina-2026-3.jpg",
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34864979041616/giornata-dei-bambini-foto-ufficio-stampa-parco-giardino-sigurta.jpg",
     "category": "cultura"
   },
   {
@@ -641,6 +697,34 @@
     "url": "https://www.veronasera.it/eventi/siamo-umani-arte-monte-mamaor-4-ottobre-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1164666013482/monte-mamaor-foto-ufficio-stampa-mamaor.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04__una_giornata_al_forte_john_a_montorio_",
+    "title": "\"Una Giornata al Forte John a Montorio\"",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Turismo",
+    "venue_type": "Turismo",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornata-colli-veneti-fort-john-montorio-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/750693864477/locandina-2026-3.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_piase_festival_a_legnago",
+    "title": "Piase festival a Legnago",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-legnago-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -672,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-04__altri_passi_su_il_cammino_che_piase_",
+    "title": "“Altri passi su il cammino che Piase”",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/altri-passi-cammino-che-piase-3-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-04_la_sagra_di_vago_di_lavagno",
     "title": "La Sagra di Vago di Lavagno",
     "date": "2026-10-04",
@@ -686,15 +784,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-04__notre_dame_de_paris_all_arena_di_verona",
-    "title": "\"Notre Dame de Paris\" all'Arena di Verona",
+    "id": "veronasera_2026-10-04_la_fiera_del_derlo_a_selva_di_progno",
+    "title": "La Fiera del Derlo a Selva di Progno",
     "date": "2026-10-04",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notre-dame-de-paris-arena-verona-1-4-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/fiera-derlo-festa-2-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_festa_della_mela_di_belfiore",
+    "title": "Festa della Mela di Belfiore",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-della-mela-belfiore-2-4-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -714,15 +826,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-04_oktoberfest_a_vangadizza",
-    "title": "Oktoberfest a Vangadizza",
+    "id": "veronasera_2026-10-04__notre_dame_de_paris_all_arena_di_verona",
+    "title": "\"Notre Dame de Paris\" all'Arena di Verona",
     "date": "2026-10-04",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oktoberfest-vangadizza-festa-25-27-settembre-2-4-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/notre-dame-de-paris-arena-verona-1-4-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -739,6 +851,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-04_mercatino_dell_antiquariato_a_verona_in_",
+    "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/verona-antiquaria-ottobre-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -840,6 +966,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-08_festival_verona_senza_glutine_",
+    "title": "Festival “Verona senza glutine”",
+    "date": "2026-10-08",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festival-verona-senza-glutine/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/festival-glutine-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-10-09_artverona",
     "title": "Artverona",
     "date": "2026-10-09",
@@ -852,6 +992,48 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-10-09__lettere_romane_inaugura_la_stagione_tea",
+    "title": "“Lettere Romane” inaugura la stagione teatrale a Bussolengo",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/lettere-romane-teatro-bussolengo-9-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-09__dal_corpo_alla_materia_tra_yoga_e_ceram",
+    "title": "\"Dal corpo alla materia: tra yoga e ceramica\"",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/yoga-ceramica-9-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-09_workshop_lorawan_configurazione_hardware",
+    "title": "Workshop LoRaWAN “Configurazione Hardware Milesight”",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/workshop-lorawan-configurazione-hardware-milesight/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/workshop-600x338.jpg",
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-10-10_mercatino_dell_antiquariato_a_bussolengo",
@@ -947,20 +1129,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-11__verona_fotografia_1956_2026_",
-    "title": "\"Verona Fotografia 1956 - 2026\"",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/verona-fotografia-1956-2026-mostra-26-settembre-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1115,20 +1283,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
-    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1302,20 +1456,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-12-28_abbadream_abba_tribute_show_al_teatro_nu",
     "title": "ABBAdream, Abba Tribute Show al Teatro Nuovo",
     "date": "2026-12-28",
@@ -1327,20 +1467,6 @@
     "url": "https://www.cittadiverona.it/eventi/abbadream-the-ultimate-abba-tribute-show-al-teatro-nuovo",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/abba-dream-2026-verona-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-06_raffaello_galiotto_in_mostra_al_museo_ar",
-    "title": "Raffaello Galiotto in mostra al Museo archeologico al Teatro Romano: \"Pieghe di pietra\"",
-    "date": "2027-01-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/genesi-mostra-museo-archeologico-teatro-romano-22-settembre-2026-6-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
