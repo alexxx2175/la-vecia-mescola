@@ -434,48 +434,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-02_anteprima_del_film_dio_ride_il_regista_g",
-    "title": "Anteprima del film \"Dio ride\". Il regista Giovanni Veronesi ospite al Cinema Kappadue di Verona",
-    "date": "2026-10-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dio-ride-anteprima-film-cinema-k2-2-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-02_karaoke_live_andfriends_band",
-    "title": "Karaoke live // @andfriends band",
-    "date": "2026-10-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-2-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-02_piase_festival_a_minerbe",
-    "title": "Piase festival a Minerbe",
-    "date": "2026-10-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/piase-festival-minerbe-2-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-02_fiera_del_derlo_a_selva_di_progno",
     "title": "Fiera del Derlo a Selva di Progno",
     "date": "2026-10-02",
@@ -532,20 +490,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-03_fucina_culturale_machiavelli_ospita_lo_s",
-    "title": "Fucina Culturale Machiavelli ospita lo spettacolo “I dialoghi della Vagina”",
-    "date": "2026-10-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dialoghi-vagina-fucina-machiavelli-3-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-03_san_vito_beer_fest",
     "title": "San Vito Beer Fest",
     "date": "2026-10-03",
@@ -555,6 +499,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/san-vito-beer-fest-2-3-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-03_fucina_culturale_machiavelli_ospita_lo_s",
+    "title": "Fucina Culturale Machiavelli ospita lo spettacolo “I dialoghi della Vagina”",
+    "date": "2026-10-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/dialoghi-vagina-fucina-machiavelli-3-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -672,6 +630,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-04_valeggio_veste_il_vintage",
+    "title": "Valeggio Veste il Vintage",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/valeggio-veste-vintage-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/18852390303483/locandina-valeggio-veste-il-vintage-2026.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-04_la_giornata_dei_bambini_al_parco_giardin",
     "title": "La \"Giornata dei Bambini\" al Parco Giardino Sigurtà",
     "date": "2026-10-04",
@@ -690,13 +662,13 @@
     "title": "Siamo umani: arte al Mamaor",
     "date": "2026-10-04",
     "time": "",
-    "type": "Manifestazioni",
-    "venue_type": "Manifestazioni",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/siamo-umani-arte-monte-mamaor-4-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1164666013482/monte-mamaor-foto-ufficio-stampa-mamaor.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -704,13 +676,27 @@
     "title": "\"Una Giornata al Forte John a Montorio\"",
     "date": "2026-10-04",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/giornata-colli-veneti-fort-john-montorio-4-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/750693864477/locandina-2026-3.jpg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_market_tra_gli_olivi_a_garda",
+    "title": "Market tra gli Olivi a Garda",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/market-tra-gli-olivi-garda-3-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -742,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-04__altri_passi_su_il_cammino_che_piase_",
+    "title": "“Altri passi su il cammino che Piase”",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/altri-passi-cammino-che-piase-3-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-04_presentazione_del_docufilm_e_del_libro_i",
     "title": "Presentazione del docufilm e del libro “Il cammino”",
     "date": "2026-10-04",
@@ -756,15 +756,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-04__altri_passi_su_il_cammino_che_piase_",
-    "title": "“Altri passi su il cammino che Piase”",
+    "id": "veronasera_2026-10-04_antica_sagra_dell_anara_de_caselon",
+    "title": "Antica Sagra dell'Anara de Caselon",
     "date": "2026-10-04",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/altri-passi-cammino-che-piase-3-4-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/antica-sagra-anara-caselon-2-4-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -807,6 +807,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-della-mela-belfiore-2-4-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-04_wunderkammer_il_festival_letterario_di_n",
+    "title": "Wunderkammer: il festival letterario di Neri Pozza torna a Verona",
+    "date": "2026-10-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/wunderkammer-festival-letterario-neri-pozza-2-4-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1036,6 +1050,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-10_debutta_all_arena_di_verona_lo_spettacol",
+    "title": "Debutta all'Arena di Verona lo spettacolo \"Aggiungi un posto a tavola\"",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/aggiungi-un-posto-a-tavola-arena-verona-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/61854930188976/locandina-aggiungi-un-posto-a-tavola-2026.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-10_il_kob_fest_sbarca_al_colorificio_kroen",
+    "title": "Il Kob Fest sbarca al Colorificio Kroen",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/kob-fest-concerti-colorificio-kroen-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-10_visita_guidata_verona_esoterica_",
+    "title": "Visita guidata: \"Verona esoterica\"",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/verona-esoterica-visita-guidata-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-10_mercatino_dell_antiquariato_a_bussolengo",
     "title": "Mercatino dell’antiquariato a Bussolengo",
     "date": "2026-10-10",
@@ -1162,20 +1218,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-13_la_fiera_del_riso_di_isola_della_scala",
-    "title": "La Fiera del Riso di Isola della Scala",
-    "date": "2026-10-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-riso-isola-scala-17-settembre-13-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-10-15_service_day",
     "title": "Service Day",
     "date": "2026-10-15",
@@ -1257,34 +1299,6 @@
     "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_il_campo_delle_zucche_alla_flover_farm_d",
-    "title": "Il Campo delle Zucche alla Flover Farm di Bussolengo",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/campo-zucche-flover-farm-26-settembre-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
-    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
