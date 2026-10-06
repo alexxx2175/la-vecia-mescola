@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-10-05_evento_formativo_la_tua_azienda_cresce_",
-    "title": "Evento formativo “La tua azienda cresce?”",
-    "date": "2026-10-05",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/evento-formativo-la-tua-azienda-cresce/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/la-tua-azienda-cresce-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-06_han_garak_l_anima_della_corea_prende_vit",
     "title": "Han Garak, l’anima della Corea prende Vita al Teatro Stimate",
     "date": "2026-10-06",
@@ -616,20 +602,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-10__aggiungi_un_posto_a_tavola_all_arena_di",
-    "title": "“Aggiungi un posto a tavola” all’Arena di Verona",
-    "date": "2026-10-10",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/aggiungi-un-posto-a-tavola-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aggiungi-un-posto-a-tavola-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
     "title": "Nicola Porro inaugura “DIM Incontra”",
     "date": "2026-10-10",
@@ -641,6 +613,20 @@
     "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10__aggiungi_un_posto_a_tavola_all_arena_di",
+    "title": "“Aggiungi un posto a tavola” all’Arena di Verona",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/aggiungi-un-posto-a-tavola-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aggiungi-un-posto-a-tavola-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -756,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-13_percorso_borse_macram_",
+    "title": "Percorso \"Borse Macramè\"",
+    "date": "2026-10-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/percorso-borsa-macrame-13-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-13_la_fiera_del_riso_di_isola_della_scala",
     "title": "La Fiera del Riso di Isola della Scala",
     "date": "2026-10-13",
@@ -823,6 +823,20 @@
     "url": "https://www.cittadiverona.it/eventi/camminata-in-rosa-pittarosso-pink-parade-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Pittarosso-Pink-Parade-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-23__la_musica_si_fa_solidariet_al_palazzo_d",
+    "title": "“La musica si fa solidarietà” al Palazzo della Gran Guardia",
+    "date": "2026-10-23",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-musica-si-fa-solidarieta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/la-musica-si-fa-solidarieta-600x338.jpg",
     "category": "cultura"
   },
   {
