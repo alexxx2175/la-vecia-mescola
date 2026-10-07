@@ -462,6 +462,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-07_bla_bla_lab_en_fran_ccedil_ais_conversaz",
+    "title": "Bla bla lab en fran&ccedil;ais | Conversazione in francese",
+    "date": "2026-10-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bla-bla-lab-conversazione-francese-7-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-07_silent_dante",
+    "title": "Silent Dante",
+    "date": "2026-10-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/silent-dante-7-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-08_silent_dante",
+    "title": "Silent Dante",
+    "date": "2026-10-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/silent-dante-8-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-08_festival_verona_senza_glutine_",
     "title": "Festival “Verona senza glutine”",
     "date": "2026-10-08",
@@ -473,6 +515,20 @@
     "url": "https://www.cittadiverona.it/eventi/festival-verona-senza-glutine/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/festival-glutine-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-08__silent_dante_spettacolo_itinerante_sull",
+    "title": "“Silent Dante”… spettacolo itinerante sulle tracce di Dante",
+    "date": "2026-10-08",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/silent-dante-spettacolo-itinerante-tracce-dante/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/07/silent-dante-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -494,13 +550,13 @@
     "title": "“Lettere Romane” inaugura la stagione teatrale a Bussolengo",
     "date": "2026-10-09",
     "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/lettere-romane-teatro-bussolengo-9-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/68663872657710/lettere-romane-foto-paolo-ruffini-via-ufficio-stampa-comune-di-bussolengo.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -532,6 +588,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-09_rassegna_bussolengo_a_teatro_",
+    "title": "Rassegna “Bussolengo a Teatro”",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-bussolengo-a-teatro/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/10/bussolengo-a-teatro-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-10_debutta_all_arena_di_verona_lo_spettacol",
     "title": "Debutta all'Arena di Verona lo spettacolo \"Aggiungi un posto a tavola\"",
     "date": "2026-10-10",
@@ -560,6 +630,20 @@
     "category": "concerti_pop"
   },
   {
+    "id": "veronasera_2026-10-10_ride_south_garda_bike_region",
+    "title": "Ride South Garda Bike Region",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ride-south-garda-bike-region-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-10_visita_guidata_verona_esoterica_",
     "title": "Visita guidata: \"Verona esoterica\"",
     "date": "2026-10-10",
@@ -585,6 +669,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-bussolengo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/bussolengo-antica-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_marcellise_wine_festival",
+    "title": "Marcellise Wine Festival",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/marcellise-wine-festival/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/marcellise-wine-festival-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -658,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-11_marcellise_wine_festival",
+    "title": "Marcellise Wine Festival",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/marcellise-wine-festival-10-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/40364401724028/presentazione-marcellise-wine-festival-foto-ufficio-stampa-comune-di-san-martino-buon-albergo.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-11_nasce_atmosphere_s_una_serata_nel_sound_",
     "title": "Nasce Atmosphere(s): una serata nel sound mediterraneo tra vinile, musica, arte e sapori!",
     "date": "2026-10-11",
@@ -667,6 +779,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/atmospheres-festa-villa-meriggio-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_detective_al_museo_enigmi_indizi_e_tesor",
+    "title": "Detective al museo: enigmi, indizi e tesori | Giornata delle famiglie al museo",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/detective-museo-famiglie-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_escursione_lessinia_d_autunno_fontane_bo",
+    "title": "Escursione - Lessinia d'autunno: fontane, boschi, vaj e leggende",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-lessinia-autunno-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -725,6 +865,34 @@
     "url": "https://www.cittadiverona.it/eventi/borsa-scambio-giocattoli-d-epoca-e-automodelli",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2014/02/Giocattoli-di-legno-meta-900-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-11_arte_e_musica_a_valeggio_sul_mincio_nasc",
+    "title": "Arte e musica a Valeggio sul Mincio: nasce Atmosphere(s) a Villa Meriggio",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Cene e serate",
+    "venue_type": "Cene e serate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/arte-musica-valeggio-sul-mincio-nasce-atmospheres-villa-meriggio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/ATMOSPHERE-villa-meriggio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-11__indagine_su_alda_merini_al_teatro_smera",
+    "title": "“Indagine su Alda Merini” al Teatro Smeraldo",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/indagine-su-alda-merini/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/alda-merini-una-donna-sospesa-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -823,6 +991,34 @@
     "url": "https://www.cittadiverona.it/eventi/camminata-in-rosa-pittarosso-pink-parade-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Pittarosso-Pink-Parade-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-23__i_matin_e_shakespeariani_al_teatro_sati",
+    "title": "“I matinée shakespeariani” al Teatro Satiro OFF",
+    "date": "2026-10-23",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/i-matinee-shakespeariani-teatro-satiro-off/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/matinee-2027-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-23__henry_v_se_vuoi_la_pace_prepara_la_guer",
+    "title": "“Henry V, se vuoi la pace prepara la guerra?” al Teatro Satiro OFF",
+    "date": "2026-10-23",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/henry-v-vuoi-pace-prepara-guerra-teatro-satiro-off/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/HENRY-V-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -980,20 +1176,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-11-15__sans_titre_una_mostra_fotografica_dedic",
-    "title": "“Sans Titre”, una mostra fotografica dedicata all’artista francese Antoine Robin",
-    "date": "2026-11-15",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/san-titre-mostra-fotografia-antoine-robin-26-settembre-15-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-11-20_verona_mineral_show",
     "title": "Verona Mineral Show",
     "date": "2026-11-20",
@@ -1117,48 +1299,6 @@
     "url": "https://www.cittadiverona.it/eventi/abbadream-the-ultimate-abba-tribute-show-al-teatro-nuovo",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/abba-dream-2026-verona-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-12-31__quando_la_luce_ha_il_colore_dei_sogni_m",
-    "title": "“Quando la luce ha il colore dei sogni”, mostra personale di Athos Faccincani",
-    "date": "2026-12-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/athos-faccincani-mostra-pittura-3-ottobre-31-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-06_raffaello_galiotto_in_mostra_al_museo_ar",
-    "title": "Raffaello Galiotto in mostra al Museo archeologico al Teatro Romano: \"Pieghe di pietra\"",
-    "date": "2027-01-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/genesi-mostra-museo-archeologico-teatro-romano-22-settembre-2026-6-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-12_alla_biblioteca_capitolare_di_verona_la_",
-    "title": "Alla Biblioteca Capitolare di Verona la mostra dedicata a Scipione Maffei",
-    "date": "2027-01-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-scipione-maffei-biblioteca-capitolare-1-ottobre-2026-12-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
