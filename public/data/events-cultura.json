@@ -406,20 +406,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-10-06_han_garak_l_anima_della_corea_prende_vit",
-    "title": "Han Garak, l’anima della Corea prende Vita al Teatro Stimate",
-    "date": "2026-10-06",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/han-garak-anima-corea-prende-vita/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Han-Garak-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-10-07_solar_storage_live_show",
     "title": "Solar & Storage Live Show",
     "date": "2026-10-07",
@@ -446,48 +432,6 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
-  },
-  {
-    "id": "veronasera_2026-10-07__han_garak_l_anima_della_corea_prende_vi",
-    "title": "\"Han Garak - L'anima della Corea prende vita\"",
-    "date": "2026-10-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/han-garak-anima-corea-prende-vita-7-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-07_bla_bla_lab_en_fran_ccedil_ais_conversaz",
-    "title": "Bla bla lab en fran&ccedil;ais | Conversazione in francese",
-    "date": "2026-10-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/bla-bla-lab-conversazione-francese-7-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-07_silent_dante",
-    "title": "Silent Dante",
-    "date": "2026-10-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/silent-dante-7-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
   },
   {
     "id": "veronasera_2026-10-08_silent_dante",
@@ -644,6 +588,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-10_giornata_del_contemporaneo_ingresso_grat",
+    "title": "Giornata del Contemporaneo: ingresso gratuito alla Galleria d'Arte Moderna Achille Forti",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornata-contemporaneo-visita-gam-gratis-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-10_visita_guidata_verona_esoterica_",
     "title": "Visita guidata: \"Verona esoterica\"",
     "date": "2026-10-10",
@@ -700,20 +658,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
-    "title": "Nicola Porro inaugura “DIM Incontra”",
-    "date": "2026-10-10",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-10__aggiungi_un_posto_a_tavola_all_arena_di",
     "title": "“Aggiungi un posto a tavola” all’Arena di Verona",
     "date": "2026-10-10",
@@ -725,6 +669,20 @@
     "url": "https://www.cittadiverona.it/eventi/aggiungi-un-posto-a-tavola-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/07/aggiungi-un-posto-a-tavola-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_nicola_porro_inaugura_dim_incontra_",
+    "title": "Nicola Porro inaugura “DIM Incontra”",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/nicola-porro-inaugura-dim-incontra/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Nicola-Porro-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -740,6 +698,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-10-11_giornate_fai_d_autunno_tutte_le_aperture",
+    "title": "Giornate FAI d'autunno: tutte le aperture straordinarie nella provincia di Verona",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Turismo",
+    "venue_type": "Turismo",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giornate-fai-autunno-10-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/32919739561733/locandina-fai-verona-2026.jpeg",
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-10-11__perle_scaligere_da_verona_a_borghetto_t",
@@ -760,13 +732,27 @@
     "title": "Marcellise Wine Festival",
     "date": "2026-10-11",
     "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/marcellise-wine-festival-10-11-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/40364401724028/presentazione-marcellise-wine-festival-foto-ufficio-stampa-comune-di-san-martino-buon-albergo.jpg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_concerto_d_inaugurazione_dell_organo_car",
+    "title": "Concerto d'inaugurazione dell'Organo Carli Opus 53",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerto-inaugurazione-organo-carli-opus-53-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -779,6 +765,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/atmospheres-festa-villa-meriggio-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_piovono_polpette",
+    "title": "Piovono polpette",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piovono-polpette-festa-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_escursione_lessinia_d_autunno_fontane_bo",
+    "title": "Escursione - Lessinia d'autunno: fontane, boschi, vaj e leggende",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-lessinia-autunno-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -798,15 +812,43 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-11_escursione_lessinia_d_autunno_fontane_bo",
-    "title": "Escursione - Lessinia d'autunno: fontane, boschi, vaj e leggende",
+    "id": "veronasera_2026-10-11_cioccolato_in_festa_a_soave",
+    "title": "Cioccolato in Festa a Soave",
     "date": "2026-10-11",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/escursione-lessinia-autunno-11-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/cioccolato-festa-soave-9-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_artverona_l_arte_incontra_il_mercato_il_",
+    "title": "ArtVerona: l’arte incontra il mercato, il collezionismo e la città",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/artverona-veronafiere-9-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_il_gusto_della_colombia_arriva_alle_cort",
+    "title": "Il gusto della Colombia arriva alle Corti Venete",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/gusto-colombia-food-truck-corti-venete-9-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -835,20 +877,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-11__verona_fotografia_1956_2026_",
-    "title": "\"Verona Fotografia 1956 - 2026\"",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/verona-fotografia-1956-2026-mostra-26-settembre-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -893,6 +921,20 @@
     "url": "https://www.cittadiverona.it/eventi/indagine-su-alda-merini/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/alda-merini-una-donna-sospesa-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-12_percorso_di_filosofia_attiva_dai_forma_a",
+    "title": "Percorso di filosofia attiva: “Dai forma al mondo, inizia da te!”",
+    "date": "2026-10-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/percorso-filosofia-12-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -950,6 +992,34 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-10-15_beppe_braida_al_teatro_camploy_con_lo_sp",
+    "title": "Beppe Braida al Teatro Camploy con lo spettacolo “Piano B” a sostegno della ricerca sulla fibrosi cistica",
+    "date": "2026-10-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/beppe-braida-teatro-camploy-15-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-15_workshop_creativo_di_argilla_mini_zucche",
+    "title": "Workshop creativo di argilla | Mini zucche portafortuna",
+    "date": "2026-10-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/workshop-creativo-argilla-mini-zucche-15-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronafiere_2026-10-17_bridal_week_la_fiera_degli_sposi",
@@ -1087,20 +1157,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
-    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1274,20 +1330,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-12-28_abbadream_abba_tribute_show_al_teatro_nu",
     "title": "ABBAdream, Abba Tribute Show al Teatro Nuovo",
     "date": "2026-12-28",
@@ -1327,20 +1369,6 @@
     "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-08-30__la_forma_dello_spazio_marinella_senator",
-    "title": "“La forma dello spazio”: Marinella Senatore a Verona",
-    "date": "2027-08-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-forma-dello-spazio-arte-marinella-senatore-11-ottobre-2026-30-agosto-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   }
 ]
