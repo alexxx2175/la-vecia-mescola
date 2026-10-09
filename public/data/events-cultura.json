@@ -434,17 +434,17 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-08_silent_dante",
-    "title": "Silent Dante",
+    "id": "cittadiverona_2026-10-08_sagra_delle_castagne_e_del_vin_durello_a",
+    "title": "Sagra delle Castagne e del vin Durello a San Giovanni Ilarione",
     "date": "2026-10-08",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/silent-dante-8-ottobre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sagra-delle-castagne-a-san-giovanni-ilarione/",
     "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/10/sagra-castagne-e-vin-durello-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -462,17 +462,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-08__silent_dante_spettacolo_itinerante_sull",
-    "title": "“Silent Dante”… spettacolo itinerante sulle tracce di Dante",
+    "id": "cittadiverona_2026-10-08_festa_della_mela_a_zevio",
+    "title": "Festa della Mela a Zevio",
     "date": "2026-10-08",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/silent-dante-spettacolo-itinerante-tracce-dante/",
+    "url": "https://www.cittadiverona.it/eventi/festa-della-mela-a-zevio/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/07/silent-dante-1-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2016/10/festa-della-mela-2-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -518,6 +518,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-09_piase_festival_a_castagnaro",
+    "title": "Piase Festival a Castagnaro",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-castagnaro-9-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-09_workshop_lorawan_configurazione_hardware",
     "title": "Workshop LoRaWAN “Configurazione Hardware Milesight”",
     "date": "2026-10-09",
@@ -532,6 +546,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-09_cioccolato_in_festa_a_soave",
+    "title": "Cioccolato in Festa a Soave",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/cioccolato-in-festa-a-soave/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/09/Cioccolato-in-festa-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-09_rassegna_bussolengo_a_teatro_",
     "title": "Rassegna “Bussolengo a Teatro”",
     "date": "2026-10-09",
@@ -543,6 +571,34 @@
     "url": "https://www.cittadiverona.it/eventi/rassegna-bussolengo-a-teatro/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/10/bussolengo-a-teatro-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-09_spettacolo_sogno_ma_forse_no_un_gioco_a_",
+    "title": "Spettacolo “Sogno (ma forse no). Un gioco a tre con Pirandello” al Modus",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/spettacolo-sogno-ma-forse-no-un-gioco-a-tre-con-pirandello/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/Matteo-Belli-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-09__ossa_di_carta_inaugura_la_59_stagione_d",
+    "title": "“Ossa di carta” inaugura la 59ª stagione del Teatro Laboratorio",
+    "date": "2026-10-09",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ossa-di-carta/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Isabella-Caserta-Teatro-Scientifico-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -574,20 +630,6 @@
     "category": "concerti_pop"
   },
   {
-    "id": "veronasera_2026-10-10_ride_south_garda_bike_region",
-    "title": "Ride South Garda Bike Region",
-    "date": "2026-10-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ride-south-garda-bike-region-10-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-10_giornata_del_contemporaneo_ingresso_grat",
     "title": "Giornata del Contemporaneo: ingresso gratuito alla Galleria d'Arte Moderna Achille Forti",
     "date": "2026-10-10",
@@ -602,6 +644,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-10_ride_south_garda_bike_region",
+    "title": "Ride South Garda Bike Region",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ride-south-garda-bike-region-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-10_visita_guidata_verona_esoterica_",
     "title": "Visita guidata: \"Verona esoterica\"",
     "date": "2026-10-10",
@@ -611,6 +667,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/verona-esoterica-visita-guidata-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-10_piase_festival_a_villa_bartolomea",
+    "title": "Piase Festival a Villa Bartolomea",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-villa-bartolomea-10-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-10_recitazione_mantra",
+    "title": "Recitazione mantra",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/recitazione-mantra-center-without-centre-10-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -641,6 +725,48 @@
     "url": "https://www.cittadiverona.it/eventi/marcellise-wine-festival/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/marcellise-wine-festival-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_il_medioevo_rivive_al_castello_di_villaf",
+    "title": "Il medioevo rivive al Castello di Villafranca",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/il-medioevo-rivive-a-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/Villafranca-nella-storia-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_bardolino_pop_garden_al_parco_carrara_bo",
+    "title": "Bardolino Pop Garden al Parco Carrara Bottagisio",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/bardolino-pop-garden/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Bardolino-Pop-Garden-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-10_esposizione_a_part_remains_outside_regim",
+    "title": "Esposizione “A Part Remains Outside: Regimes of Tactical Revelation”",
+    "date": "2026-10-10",
+    "time": "",
+    "type": "Mostre",
+    "venue_type": "Mostre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/esposizione-a-part-remains-outside-regimes-of-tactical-revelation/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/A-Part-Remains-Outside-Regimes-of-Tactical-Revelation-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -714,17 +840,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-11__perle_scaligere_da_verona_a_borghetto_t",
-    "title": "\"Perle Scaligere\", da Verona a Borghetto torna il raduno di auto storiche",
+    "id": "veronasera_2026-10-11_villafranca_nella_storia_la_manifestazio",
+    "title": "Villafranca nella Storia: la manifestazione che riporta il medioevo al Castello Scaligero",
     "date": "2026-10-11",
     "time": "",
-    "type": "Auto e moto",
-    "venue_type": "Auto e moto",
+    "type": "Manifestazioni",
+    "venue_type": "Manifestazioni",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/perle-scaligere-raduno-auto-storiche-11-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/villafranca-nella-storia-rievocazione-medioevo-10-11-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/68818926017065/perle-scaligere-auto-storiche-foto-ufficio-stampa-automobile-club-verona.jpg",
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/67281842424750/locandina-villafranca-nella-storia-2026.jpg",
     "category": "cultura"
   },
   {
@@ -737,6 +863,76 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/marcellise-wine-festival-10-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11__perle_scaligere_da_verona_a_borghetto_t",
+    "title": "\"Perle Scaligere\", da Verona a Borghetto torna il raduno di auto storiche",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/perle-scaligere-raduno-auto-storiche-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_bardolino_pop_garden",
+    "title": "Bardolino Pop Garden",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bardolino-pop-garden-10-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_festa_dei_prodotti_del_baldo",
+    "title": "Festa dei Prodotti del Baldo",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-prodotti-baldo-10-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_val_polis_cellae",
+    "title": "Val Polis Cellae",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/val-polis-cellae-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_borsa_scambio_giocattoli_d_epoca_modelli",
+    "title": "Borsa scambio giocattoli d'epoca, modellini, bambole, robot e soldatini",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/borsa-scambio-giocattoli-epoca-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -784,6 +980,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-11_una_domenica_diversa_a_valeggio_dj_set_i",
+    "title": "Una domenica diversa a Valeggio: dj set in vinile, cocktail e food mediterranei",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/valeggio-cocktail-food-dj-mull-blue-mondays-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-11_escursione_lessinia_d_autunno_fontane_bo",
     "title": "Escursione - Lessinia d'autunno: fontane, boschi, vaj e leggende",
     "date": "2026-10-11",
@@ -807,6 +1017,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/detective-museo-famiglie-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_piase_festival_a_terrazzo",
+    "title": "Piase Festival a Terrazzo",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/piase-festival-terrazzo-11-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-11_bubble_art_ceramica_piatto_da_portata",
+    "title": "Bubble art ceramica - Piatto da portata",
+    "date": "2026-10-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bubble-art-ceramica-11-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -840,45 +1078,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-11_il_gusto_della_colombia_arriva_alle_cort",
-    "title": "Il gusto della Colombia arriva alle Corti Venete",
+    "id": "cittadiverona_2026-10-11_lavagno_festival_sport_e_benessere",
+    "title": "Lavagno Festival Sport e Benessere",
     "date": "2026-10-11",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/gusto-colombia-food-truck-corti-venete-9-11-ottobre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/lavagno-festival-sport-e-benessere/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-11_il_festival_senza_glutine_approda_a_vero",
-    "title": "Il Festival Senza Glutine approda a Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festival-senza-glutine-verona-8-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-11__frida_kahlo_a_revolutionary_life_al_tea",
-    "title": "“Frida Kahlo| A Revolutionary Life” al Teatro Ristori di Verona",
-    "date": "2026-10-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/frida-kahlo-a-revolutionary-life-mostra-arte-immersiva-30-maggio-11-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Lavagno-Festival-Sport-e-Benessere-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -966,20 +1176,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-13_la_fiera_del_riso_di_isola_della_scala",
-    "title": "La Fiera del Riso di Isola della Scala",
-    "date": "2026-10-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-riso-isola-scala-17-settembre-13-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-10-15_service_day",
     "title": "Service Day",
     "date": "2026-10-15",
@@ -1022,6 +1218,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-15_beppe_braida_al_camploy_per_sostenere_la",
+    "title": "Beppe Braida al Camploy per sostenere la Fondazione per la Ricerca sulla Fibrosi Cistica",
+    "date": "2026-10-15",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/beppe-braida-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Beppe-Braida-camploy-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-10-17_bridal_week_la_fiera_degli_sposi",
     "title": "Bridal Week - La Fiera degli sposi",
     "date": "2026-10-17",
@@ -1048,6 +1258,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-10-18_nel_cuore_della_citt_torna_hostaria_vero",
+    "title": "Nel cuore della città torna \"Hostaria Verona\"",
+    "date": "2026-10-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/hostaria-verona-festa-vino-16-18-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-10-18_camminata_in_rosa_pittarosso_pink_parade",
@@ -1134,34 +1358,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-01_il_campo_delle_zucche_alla_flover_farm_d",
-    "title": "Il Campo delle Zucche alla Flover Farm di Bussolengo",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/campo-zucche-flover-farm-26-settembre-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
-    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-11-05_fieracavalli",
     "title": "Fieracavalli",
     "date": "2026-11-05",
@@ -1187,20 +1383,6 @@
     "url": "https://www.cittadiverona.it/eventi/incontro-dario-fabbri/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/incontro-Dario-Fabbri-Bussolengo-2025-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-07__soffitte_in_piazza_a_verona",
-    "title": "\"Soffitte in piazza\" a Verona",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/soffitte-in-piazza-mercatino-28-marzo-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
