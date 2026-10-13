@@ -462,48 +462,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-12_percorso_di_filosofia_attiva_dai_forma_a",
-    "title": "Percorso di filosofia attiva: “Dai forma al mondo, inizia da te!”",
-    "date": "2026-10-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/percorso-filosofia-12-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-12_sagra_delle_castagne_e_del_vin_durello",
-    "title": "Sagra delle Castagne e del Vin Durello",
-    "date": "2026-10-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/sagra-castagne-vin-durello-9-12-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-10-12_presentazione_percorso_di_filosofia_atti",
-    "title": "Presentazione “Percorso di Filosofia Attiva”",
-    "date": "2026-10-12",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/percorso-di-filosofia-attiva/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/10/Percorso-di-Filosofia-Attiva-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-13_percorso_borse_macram_",
     "title": "Percorso \"Borse Macramè\"",
     "date": "2026-10-13",
@@ -672,6 +630,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-17_commedia_in_due_atti_l_erba_miracolosa_a",
+    "title": "Commedia in due atti “L’erba miracolosa” a Mezzane di Sotto",
+    "date": "2026-10-17",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/commedia-due-atti-lerba-miracolosa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/erba-miracolosa-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-18_la_giornata_delle_ville_venete_al_giardi",
     "title": "La Giornata delle Ville Venete al Giardino di Pojega",
     "date": "2026-10-18",
@@ -739,6 +711,20 @@
     "url": "https://www.cittadiverona.it/eventi/camminata-in-rosa-pittarosso-pink-parade-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/09/Pittarosso-Pink-Parade-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-20_crea_il_tuo_pipistrello_in_macrame",
+    "title": "Crea il tuo pipistrello in macrame",
+    "date": "2026-10-20",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/crea-pipistrello-macrame-20-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
