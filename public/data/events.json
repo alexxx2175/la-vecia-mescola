@@ -169,6 +169,19 @@
     "image": null
   },
   {
+    "id": "arena_2026-11-21_sinfonie_n._7,_8_|_aspettando_",
+    "title": "Sinfonie n. 7, 8 | Aspettando Beethoven",
+    "date": "2026-11-21",
+    "time": "15:30",
+    "type": "Concerto",
+    "venue_type": "Teatro Filarmonico",
+    "location": "Sala Filarmonica",
+    "source": "arena.it",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/sinfonie-7-8-aspettando-beethoven/",
+    "buy_url": "https://shop.fondazionearena.it/it/event/aspettando-beethoven-sinfonie-n-7-8/293078",
+    "image": null
+  },
+  {
     "id": "arena_2026-11-21_the_dreamers_|_proiezione",
     "title": "The Dreamers | Proiezione",
     "date": "2026-11-21",
@@ -179,19 +192,6 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/the-dreamers-proiezione/",
     "buy_url": "https://shop.fondazionearena.it/it/event/the-dreamers-di-b-bertolucci/288971",
-    "image": null
-  },
-  {
-    "id": "arena_2026-11-21_sinfonie_n._7,_8_|_aspettando_",
-    "title": "Sinfonie n. 7, 8 | Aspettando Beethoven",
-    "date": "2026-11-21",
-    "time": "18:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Sala Filarmonica",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/sinfonie-7-8-aspettando-beethoven/",
-    "buy_url": "https://shop.fondazionearena.it/it/event/aspettando-beethoven-sinfonie-n-7-8/293078",
     "image": null
   },
   {
