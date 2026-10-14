@@ -462,34 +462,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-13_percorso_borse_macram_",
-    "title": "Percorso \"Borse Macramè\"",
-    "date": "2026-10-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/percorso-borsa-macrame-13-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-13_la_fiera_del_riso_di_isola_della_scala",
-    "title": "La Fiera del Riso di Isola della Scala",
-    "date": "2026-10-13",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-riso-isola-scala-17-settembre-13-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-10-15_service_day",
     "title": "Service Day",
     "date": "2026-10-15",
@@ -543,6 +515,20 @@
     "url": "https://www.cittadiverona.it/eventi/beppe-braida-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Beppe-Braida-camploy-verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-16_hostaria_verona_2026",
+    "title": "Hostaria Verona 2026",
+    "date": "2026-10-16",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/hostaria-verona",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/hostaria-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -630,6 +616,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-17_corso_gratuito_sull_assistenza_all_anzia",
+    "title": "Corso gratuito sull’assistenza all’anziano a Verona",
+    "date": "2026-10-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/corso-assistenza-anziano-10-17-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-17_decima_edizione_della_fiera_del_gusto_a_",
+    "title": "Decima edizione della “Fiera del Gusto” a Soave",
+    "date": "2026-10-17",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-del-gusto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/10/fiera-del-gusto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-17_a_castelnuovo_del_garda_una_giornata_in_",
+    "title": "A Castelnuovo del Garda una giornata in bici tra colline e vigneti",
+    "date": "2026-10-17",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/castelnuovo-garda-giornata-bici-colline-vigneti/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Ride-South-Garda-Bike-Region-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-17_commedia_in_due_atti_l_erba_miracolosa_a",
     "title": "Commedia in due atti “L’erba miracolosa” a Mezzane di Sotto",
     "date": "2026-10-17",
@@ -714,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-18_oscar_farinetti_al_caff_dante_bistrot_co",
+    "title": "Oscar Farinetti al Caffè Dante Bistrot con il suo nuovo libro",
+    "date": "2026-10-18",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/oscar-farinetti-caffe-dante-bistrot-nuovo-libro/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Oscar-Farinetti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-20_crea_il_tuo_pipistrello_in_macrame",
     "title": "Crea il tuo pipistrello in macrame",
     "date": "2026-10-20",
@@ -737,6 +779,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sagra-anara-nichesola-15-20-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-21_workshop_creativo_paint_your_tote_bag_po",
+    "title": "Workshop creativo | Paint your tote bag: potato edition",
+    "date": "2026-10-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/workshop-creativo-paint-your-tote-bag-21-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1061,6 +1117,20 @@
     "url": "https://www.cittadiverona.it/eventi/abbadream-the-ultimate-abba-tribute-show-al-teatro-nuovo",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/abba-dream-2026-verona-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-12-31__quando_la_luce_ha_il_colore_dei_sogni_m",
+    "title": "“Quando la luce ha il colore dei sogni”, mostra personale di Athos Faccincani",
+    "date": "2026-12-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/athos-faccincani-mostra-pittura-3-ottobre-31-dicembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
