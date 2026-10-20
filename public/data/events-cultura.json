@@ -588,6 +588,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-20_il_teatro_a_san_martino_buon_albergo_div",
+    "title": "Il teatro a San Martino Buon Albergo diventa uno strumento per educare alla legalità",
+    "date": "2026-10-20",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/teatro-san-martino-buon-albergo-diventa-strumento-educare-legalita/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/La-maestra-e-la-tartaruga-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-21_workshop_creativo_paint_your_tote_bag_po",
     "title": "Workshop creativo | Paint your tote bag: potato edition",
     "date": "2026-10-21",
@@ -599,6 +613,20 @@
     "url": "https://www.veronasera.it/eventi/workshop-creativo-paint-your-tote-bag-21-ottobre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-22__la_prima_mossa_nasce_il_chess_club_univ",
+    "title": "“La prima mossa”: nasce il Chess Club UniVR",
+    "date": "2026-10-22",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/la-prima-mossa-nasce-chess-club-univr/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/la-prima-mossa-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -728,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-24_spazio_vitale_lancia_il_progetto_formati",
+    "title": "Spazio Vitale lancia il progetto formativo “Black Box”",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/spazio-vitale-lancia-progetto-formativo-black-box/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Black-box-Robot-In-Azione-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-25_visita_guidata_al_giardino_di_pojega",
     "title": "Visita guidata al Giardino di Pojega",
     "date": "2026-10-25",
@@ -781,6 +823,48 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-27_donne_in_crescita_coaching_di_gruppo_per",
+    "title": "Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio",
+    "date": "2026-10-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-27-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-27_crea_il_tuo_porta_telefono_in_macram_",
+    "title": "Crea il tuo porta telefono in macramé",
+    "date": "2026-10-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/porta-telefono-macrame-27-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-27_kurt_rosenwinkel_inaugura_la_stagione_ar",
+    "title": "Kurt Rosenwinkel inaugura la stagione artistica 2026/2027 del Teatro Ristori",
+    "date": "2026-10-27",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/kurt-rosenwinkel-inaugura-stagione-artistica-2026-2027-teatro-ristori/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Kurt-Rosenwinkel-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -966,6 +1050,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-12__incontro_con_i_sensi_alla_biblioteca_ca",
+    "title": "“Incontro con i sensi” alla Biblioteca Capitolare",
+    "date": "2026-11-12",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/incontro-sensi-biblioteca-capitolare/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/incontro-con-i-sensi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-14_i_gatti_piu_belli_del_mondo",
     "title": "I gatti piu belli del mondo",
     "date": "2026-11-14",
@@ -1064,6 +1162,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-12-06__regalo_di_natale_a_valeggio_sul_mincio",
+    "title": "“Regalo di Natale” a Valeggio sul Mincio",
+    "date": "2026-12-06",
+    "time": "",
+    "type": "Natale",
+    "venue_type": "Natale",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/regalo-di-natale-a-valeggio-sul-mincio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/regalo-di-natale-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-12-07_awed_dadda_e_dose_al_teatro_nuovo_di_ver",
     "title": "Awed, Dadda e Dose al Teatro Nuovo di Verona",
     "date": "2026-12-07",
@@ -1117,20 +1229,6 @@
     "url": "https://www.cittadiverona.it/eventi/abbadream-the-ultimate-abba-tribute-show-al-teatro-nuovo",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/abba-dream-2026-verona-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-12-31__quando_la_luce_ha_il_colore_dei_sogni_m",
-    "title": "“Quando la luce ha il colore dei sogni”, mostra personale di Athos Faccincani",
-    "date": "2026-12-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/athos-faccincani-mostra-pittura-3-ottobre-31-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
