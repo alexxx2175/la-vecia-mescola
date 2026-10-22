@@ -532,18 +532,18 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-21_workshop_creativo_paint_your_tote_bag_po",
-    "title": "Workshop creativo | Paint your tote bag: potato edition",
-    "date": "2026-10-21",
+    "id": "veronasera_2026-10-22_al_via_la_stagione_concertistica_de_i_vi",
+    "title": "Al via la Stagione Concertistica de I Virtuosi Italiani",
+    "date": "2026-10-22",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/workshop-creativo-paint-your-tote-bag-21-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/elia-cecino-concerto-teatro-ristori-22-ottobre-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/23289472144231/elia-cecino-foto-ufficio-stampa-per-i-virtuosi-italiani.jpeg",
+    "category": "concerti_pop"
   },
   {
     "id": "cittadiverona_2026-10-22__la_prima_mossa_nasce_il_chess_club_univ",
@@ -560,32 +560,46 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-22__ottobre_rosa_a_san_bonifacio",
+    "title": "“Ottobre Rosa” a San Bonifacio",
+    "date": "2026-10-22",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ottobre-rosa-san-bonifacio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/ottobre-in-rosa-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-23_la_musica_si_fa_solidariet_due_serate_ta",
     "title": "La musica si fa solidarietà: due serate, tanta musica e un unico grande obiettivo",
     "date": "2026-10-23",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/la-musica-si-fa-solidarieta-concerto-23-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/6870273496426/la-musica-si-fa-solidarieta-due-serate-tanta-musica-e-un-unico-grande-obiettivo.jpg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-10-23_a_verona_il_sosia_e_una_band_speciale_pe",
     "title": "A Verona il sosia e una band speciale per ricordare Lucio Battisti",
     "date": "2026-10-23",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/lucio-aracri-formula-tre-concerto-tributo-battisti-23-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/63388940184828/a-verona-il-sosia-e-una-band-speciale-per-ricordare-lucio-battisti.png",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-10-23_speed_friending_fai_nuove_amicizie",
@@ -641,6 +655,34 @@
     "url": "https://www.cittadiverona.it/eventi/la-musica-si-fa-solidarieta/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/la-musica-si-fa-solidarieta-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-23__ricordando_un_amico_lucio_battisti_al_t",
+    "title": "“Ricordando un amico… Lucio Battisti” al Teatro Nuovo di San Michele",
+    "date": "2026-10-23",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ricordando-un-amico-lucio-battisti-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Ricordando-un-amico-Lucio-Battisti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-24_musica_e_cinema_al_filarmonico_strictly_",
+    "title": "Musica e Cinema al Filarmonico: \"Strictly Ballroom\"",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Cinema",
+    "venue_type": "Cinema",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teatro-filarmonico-strictly-ballroom-24-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/22136633636417/locandina-22.jpg",
     "category": "cultura"
   },
   {
@@ -728,20 +770,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-24_oktobeerfest_nogara",
-    "title": "Oktobeerfest Nogara",
-    "date": "2026-10-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oktobeerfest-nogara-15-24-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-24_sagra_dei_marroni_a_san_mauro_di_saline",
     "title": "Sagra dei Marroni a San Mauro di Saline",
     "date": "2026-10-24",
@@ -753,6 +781,20 @@
     "url": "https://www.cittadiverona.it/eventi/sagra-dei-marroni-a-san-mauro-di-saline/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2016/10/san-mauro-di-saline-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-24__sabato_paleolitico_al_museo_archeologic",
+    "title": "“Sabato Paleolitico” al Museo Archeologico Nazionale di Verona e al Ponte di Veja",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Visite guidate",
+    "venue_type": "Visite guidate",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sabato-paleolitico-museo-archeologico-nazionale-verona-ponte-di-veja/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/sabato-paleolitico-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -770,6 +812,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-24__sfilata_rosa_a_palazzo_a_malcesine",
+    "title": "“Sfilata rosa a Palazzo” a Malcesine",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Feste",
+    "venue_type": "Feste",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/sfilata-rosa-palazzo-malcesine/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/sfilata-rosa-a-palazzo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-24_fiera_del_pero_trentosso",
     "title": "Fiera del Pero trentosso",
     "date": "2026-10-24",
@@ -784,17 +840,31 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-25_visita_guidata_al_giardino_di_pojega",
-    "title": "Visita guidata al Giardino di Pojega",
+    "id": "veronasera_2026-10-25_visite_guidate_gratuite_all_ex_campo_di_",
+    "title": "Visite guidate gratuite all'ex campo di concentramento di Montorio",
     "date": "2026-10-25",
     "time": "",
     "type": "Turismo",
     "venue_type": "Turismo",
     "location": "Verona",
     "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-ex-campo-concentramento-montorio-24-25-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34215568066676/ex-campo-di-concentramento-di-montorio-foto-ufficio-stampa-comune-di-verona-3.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-25_visita_guidata_al_giardino_di_pojega",
+    "title": "Visita guidata al Giardino di Pojega",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-giardino-di-pojega-25-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54666352993838/giardino-di-pojega-foto-ufficio-stampa-press-guerrieri-rizzardi-4.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -910,6 +980,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-25_il_gruffal_al_teatro_dim",
+    "title": "Il Gruffalò al Teatro Dim",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/il-gruffalo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2021/10/Gruffalo_02-e1633521773438-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-25__le_mille_bolle_incantate_al_teatro_stim",
+    "title": "“Le mille bolle incantate” al Teatro Stimate",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/le-mille-bolle-incantate/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/12/CIRCO-MIRANDA-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-27_donne_in_crescita_coaching_di_gruppo_per",
     "title": "Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio",
     "date": "2026-10-27",
@@ -942,8 +1040,8 @@
     "title": "Kurt Rosenwinkel inaugura la stagione artistica 2026/2027 del Teatro Ristori",
     "date": "2026-10-27",
     "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
     "location": "Verona",
     "source": "cittadiverona.it",
     "url": "https://www.cittadiverona.it/eventi/kurt-rosenwinkel-inaugura-stagione-artistica-2026-2027-teatro-ristori/",
@@ -961,6 +1059,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/casting-call-film-rete-tv-nazionale-28-29-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-29_ri_vestiti_swap_party_di_capi_di_abbigli",
+    "title": "Ri-vestiti! Swap party di capi di abbigliamento",
+    "date": "2026-10-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ri-vestiti-swap-party-abbigliamento-29-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-29_paint_tequila_workshop_di_pittura_hallow",
+    "title": "Paint & Tequila | Workshop di pittura | Halloween Catrina Edition",
+    "date": "2026-10-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paint-tequila-workshop-pittura-halloween-29-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1145,6 +1271,20 @@
     "url": "https://www.cittadiverona.it/eventi/il-ragazzo-della-via-gluck-omaggio-adriano-celentano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/il-ragazzo-della-via-gluck-adriano-celentano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-09_imparare_l_arte_della_pizza_con_il_maest",
+    "title": "Imparare l’arte della pizza con il Maestro Guglielmo Vuolo",
+    "date": "2026-11-09",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/imparare-arte-pizza-maestro-guglielmo-vuolo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Pizzeria_Vuolo_Corso-Milano-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1341,20 +1481,6 @@
     "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-08-30__la_forma_dello_spazio_marinella_senator",
-    "title": "“La forma dello spazio”: Marinella Senatore a Verona",
-    "date": "2027-08-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-forma-dello-spazio-arte-marinella-senatore-11-ottobre-2026-30-agosto-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   }
 ]
