@@ -532,45 +532,17 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-10-22_al_via_la_stagione_concertistica_de_i_vi",
-    "title": "Al via la Stagione Concertistica de I Virtuosi Italiani",
-    "date": "2026-10-22",
+    "id": "veronasera_2026-10-23_gli_spettacoli_in_programma_al_teatro_la",
+    "title": "Gli spettacoli in programma al Teatro Laboratorio di Verona",
+    "date": "2026-10-23",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/elia-cecino-concerto-teatro-ristori-22-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/spettacoli-teatro-laboratorio-22-23-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/23289472144231/elia-cecino-foto-ufficio-stampa-per-i-virtuosi-italiani.jpeg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "cittadiverona_2026-10-22__la_prima_mossa_nasce_il_chess_club_univ",
-    "title": "“La prima mossa”: nasce il Chess Club UniVR",
-    "date": "2026-10-22",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/la-prima-mossa-nasce-chess-club-univr/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/la-prima-mossa-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-10-22__ottobre_rosa_a_san_bonifacio",
-    "title": "“Ottobre Rosa” a San Bonifacio",
-    "date": "2026-10-22",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/ottobre-rosa-san-bonifacio/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/ottobre-in-rosa-600x338.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -686,17 +658,31 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-24_fucina_machiavelli_inaugura_la_nuova_sta",
+    "title": "Fucina Machiavelli inaugura la nuova stagione di teatro con “Alonso: Don Chisciotte tra reale e virtuale”",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/fucina-machiavelli-alonso-don-chisciotte-reale-virtuale-24-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-24_sabato_paleolitico_il_24_ottobre_una_gio",
     "title": "Sabato paleolitico: il 24 ottobre una giornata tra archeologia, arte preistorica e nuove scoperte al Ponte di Veja",
     "date": "2026-10-24",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sabato-paleolitico-24-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/5650614724962/sabato-paleolitico-il-24-ottobre-una-giornata-tra-archeologia-arte-preistorica-e-nuove-scoperte-al-ponte-di-veja.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -756,6 +742,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-24_spazio_vitale_lancia_il_progetto_formati",
+    "title": "Spazio Vitale lancia il progetto formativo \"Black Box\"",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/spazio-vitale-black-box-24-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-24_acquerello_villains",
     "title": "Acquerello & villains",
     "date": "2026-10-24",
@@ -798,6 +798,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-24__zuccaland_il_festival_d_autunno_a_villa",
+    "title": "“Zuccaland”, il festival d’autunno a Villafranca",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/zuccaland-festival-autunno-villafranca/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/zuccaland-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-24_spazio_vitale_lancia_il_progetto_formati",
     "title": "Spazio Vitale lancia il progetto formativo “Black Box”",
     "date": "2026-10-24",
@@ -826,6 +840,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-24__alonso_don_chisciotte_reale_virtuale_in",
+    "title": "“Alonso: Don Chisciotte reale virtuale” inaugura la nuova stagione di Fucina Machiavelli",
+    "date": "2026-10-24",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/alonso-don-chisciotte-reale-virtuale-fucina-machiavelli/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Alonso-Nina-in-vespa-Elia-Pinna-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-24_fiera_del_pero_trentosso",
     "title": "Fiera del Pero trentosso",
     "date": "2026-10-24",
@@ -851,6 +879,48 @@
     "url": "https://www.veronasera.it/eventi/visita-ex-campo-concentramento-montorio-24-25-ottobre-2026.html",
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34215568066676/ex-campo-di-concentramento-di-montorio-foto-ufficio-stampa-comune-di-verona-3.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-25_mercato_dell_antiquariato_e_modernariato",
+    "title": "Mercato dell’antiquariato e modernariato a Valeggio sul Mincio",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mercato-antiquariato-modernariato-valeggio-25-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54457538473995/mercato-dell-antiquariato-e-modernariato-a-valeggio-sul-mincio.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-25_a_san_mauro_di_saline_la_55_ordf_sagra_d",
+    "title": "A San Mauro di Saline la 55&ordf; Sagra dei Marroni",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sagra-marroni-festa-san-mauro-saline-24-25-ottobre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/35604763911002/locandina-2026-12.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-25__un_ora_di_musica_con_il_musicologo_raff",
+    "title": "“Un’ora di musica” con il musicologo Raffaele Napoli per la nuova rassegna del Quartetto Maffei",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/raffaele-napoli-quartetto-maffei-25-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -924,20 +994,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-25__una_gonna_tutta_tua_dalla_forma_del_cor",
-    "title": "\"Una gonna tutta tua - Dalla forma del corpo alla scelta dei tessuti, scopri la gonna che parla di te!\"",
-    "date": "2026-10-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/una-gonna-tutta-tua-25-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-25__i_giganti_della_val_fraselle_un_viaggio",
     "title": "\"I giganti della Val Fraselle - Un viaggio tra i monumenti verdi della Lessinia\"",
     "date": "2026-10-25",
@@ -947,6 +1003,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/passeggiata-val-fraselle-lessinia-25-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-25__una_gonna_tutta_tua_dalla_forma_del_cor",
+    "title": "\"Una gonna tutta tua - Dalla forma del corpo alla scelta dei tessuti, scopri la gonna che parla di te!\"",
+    "date": "2026-10-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/una-gonna-tutta-tua-25-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1050,6 +1120,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-28_serata_d_autore_con_luca_mercalli_al_tea",
+    "title": "Serata d’Autore con Luca Mercalli al Teatro Ristori",
+    "date": "2026-10-28",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/serata-autore-luca-mercalli-teatro-ristori/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Luca-Mercalli-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-29_casting_call_per_film_rete_tv_nazionale_",
     "title": "Casting call per film rete tv nazionale presso Studiocinema Verona",
     "date": "2026-10-29",
@@ -1059,6 +1143,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/casting-call-film-rete-tv-nazionale-28-29-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-29_una_pizza_per_l_india_progetto_teach_me_",
+    "title": "Una pizza per l'India - Progetto Teach Me \"Riportiamoli a scuola\"",
+    "date": "2026-10-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/una-pizza-per-india-progetto-teach-me-29-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1092,6 +1190,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-30_workshop_creativo_di_argilla_portacandel",
+    "title": "Workshop creativo di argilla | Portacandele/ portaincensi di Halloween",
+    "date": "2026-10-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/workshop-creativo-argilla-30-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-31_calendario_di_musica_live_a_verona_e_pro",
     "title": "Calendario di musica live a Verona e provincia",
     "date": "2026-10-31",
@@ -1103,6 +1215,20 @@
     "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-31_halloween_sulle_torri_del_castello_di_va",
+    "title": "Halloween sulle torri del castello di Valeggio",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/halloween-torri-castello-valeggio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/halloween-sulle-torri-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1143,34 +1269,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/campo-zucche-flover-farm-26-settembre-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
-    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_al_museo_di_storia_naturale_di_verona_la",
-    "title": "Al Museo di Storia naturale di Verona la mostra fotografica \"Microrganismi straordinari\"",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/al-museo-di-storia-naturale-di-verona-la-mostra-fotografica-microrganismi-straordinari-dal-9-luglio-all-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1241,20 +1339,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/zuccaland-festival-autunno-villafranca-di-verona-24-ottobre-8-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-08_la_fiera_della_polenta_a_vigasio",
-    "title": "La Fiera della Polenta a Vigasio",
-    "date": "2026-11-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-della-polenta-vigasio-15-ottobre-8-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1428,20 +1512,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-12-28_abbadream_abba_tribute_show_al_teatro_nu",
     "title": "ABBAdream, Abba Tribute Show al Teatro Nuovo",
     "date": "2026-12-28",
@@ -1453,6 +1523,34 @@
     "url": "https://www.cittadiverona.it/eventi/abbadream-the-ultimate-abba-tribute-show-al-teatro-nuovo",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/abba-dream-2026-verona-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2027-01-09_de_andr_la_storia_al_teatro_nuovo_di_ver",
+    "title": "De André – La Storia al Teatro Nuovo di Verona",
+    "date": "2027-01-09",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/de-andre-la-storia-al-teatro-nuovo-di-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/de-andre-storia-anime-salve-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2027-01-16_verona_suona_amy_winehouse",
+    "title": "Verona suona Amy Winehouse",
+    "date": "2027-01-16",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/verona-suona-amy-winehouse/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/amy-winehouse-verona-600x338.jpg",
     "category": "cultura"
   },
   {
