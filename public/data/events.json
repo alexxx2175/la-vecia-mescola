@@ -1,31 +1,5 @@
 [
   {
-    "id": "arena_2026-10-24_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-10-24",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540414&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-10-24_strictly_ballroom_|_proiezione",
-    "title": "Strictly Ballroom | Proiezione",
-    "date": "2026-10-24",
-    "time": "18:00",
-    "type": "Proiezione",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/strictly-ballroom-proiezione/",
-    "buy_url": "https://shop.fondazionearena.it/it/event/strictly-ballroom-di-b-luhrmann/288970",
-    "image": null
-  },
-  {
     "id": "arena_2026-10-25_jeu_de_cartes_|_amelia_al_ball",
     "title": "Jeu de Cartes | Amelia al ballo",
     "date": "2026-10-25",
