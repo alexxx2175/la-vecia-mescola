@@ -546,76 +546,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-27_il_grande_jazz_al_teatro_ristori_di_vero",
-    "title": "Il grande jazz al Teatro Ristori di Verona: Kurt Rosenwinkel in concerto",
-    "date": "2026-10-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/kurt-rosenwinkel-concerto-teatro-ristori-27-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-27_verona_piano_festival_al_teatro_dim_giul",
-    "title": "Verona Piano Festival al Teatro Dim: Giulio Tampalini alla chitarra e Susanna Pagano al pianoforte",
-    "date": "2026-10-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/verona-piano-festival-teatro-dim-27-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-27_donne_in_crescita_coaching_di_gruppo_per",
-    "title": "Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio",
-    "date": "2026-10-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-27-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-27_crea_il_tuo_porta_telefono_in_macram_",
-    "title": "Crea il tuo porta telefono in macramé",
-    "date": "2026-10-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/porta-telefono-macrame-27-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-10-27_kurt_rosenwinkel_inaugura_la_stagione_ar",
-    "title": "Kurt Rosenwinkel inaugura la stagione artistica 2026/2027 del Teatro Ristori",
-    "date": "2026-10-27",
-    "time": "",
-    "type": "Halloween",
-    "venue_type": "Halloween",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/kurt-rosenwinkel-inaugura-stagione-artistica-2026-2027-teatro-ristori/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Kurt-Rosenwinkel-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-28_incontro_con_luca_mercalli_la_crisi_clim",
     "title": "Incontro con Luca Mercalli: “La crisi climatica è tra noi: ignorarla o affrontarla?”",
     "date": "2026-10-28",
@@ -655,6 +585,20 @@
     "url": "https://www.veronasera.it/eventi/speak-and-spritz-halloween-edition-aperitivo-linguistico-28-ottobre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-28_incontro_pubblico_quando_lo_stato_usa_la",
+    "title": "Incontro pubblico “Quando lo Stato usa la forza” all’Università di Verona",
+    "date": "2026-10-28",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/incontro-pubblico-quando-stato-usa-forza-universita-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Quando-lo-Stato-usa-la-forza-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -714,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-29__deledda_cenere_e_le_canzoni_della_rivol",
+    "title": "\"Deledda. Cenere e le canzoni della rivoluzione silenziosa\" al Teatro Ristori di Verona",
+    "date": "2026-10-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/deledda-cenere-teatro-ristori-29-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-29_paint_tequila_workshop_di_pittura_hallow",
     "title": "Paint & Tequila | Workshop di pittura | Halloween Catrina Edition",
     "date": "2026-10-29",
@@ -723,6 +681,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/paint-tequila-workshop-pittura-halloween-29-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-30_viii_strada_live_al_damage_inc_di_san_gi",
+    "title": "VIII Strada live al Damage Inc di San Giovanni Lupatoto",
+    "date": "2026-10-30",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/VIII-strada-concerto-damage-inc-30-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -784,6 +756,20 @@
     "category": "concerti_pop"
   },
   {
+    "id": "veronasera_2026-10-31_halloween_party_a_verona_in_santa_toscan",
+    "title": "Halloween Party a Verona in Santa Toscana",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/halloween-party-santa-toscana-festa-31-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-31_halloween_in_cantina_monteci_torna_la_ce",
     "title": "Halloween in Cantina Monteci: torna la cena con delitto",
     "date": "2026-10-31",
@@ -826,20 +812,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-31_halloween_party_dj_set",
-    "title": "Halloween party - Dj set",
-    "date": "2026-10-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/halloween-party-dj-set-marcel-31-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-31_visita_guidata_al_palazzo_dei_mutilati_a",
     "title": "Visita guidata al Palazzo dei Mutilati a Verona",
     "date": "2026-10-31",
@@ -849,6 +821,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-dei-mutilati-31-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-31_halloween_party_dj_set",
+    "title": "Halloween party - Dj set",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/halloween-party-dj-set-marcel-31-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -868,15 +854,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-31_halloween_karaoke_live_andfriends_band",
-    "title": "Halloween Karaoke live // @andfriends band",
+    "id": "veronasera_2026-10-31__i_segreti_del_bosco_escursione_tra_less",
+    "title": "\"I segreti del bosco\" – Escursione tra Lessinia veronese e trentina",
     "date": "2026-10-31",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-31-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/segreti-bosco-escursione-lessinia-veronese-trentina-31-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -896,15 +882,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-31__i_segreti_del_bosco_escursione_tra_less",
-    "title": "\"I segreti del bosco\" – Escursione tra Lessinia veronese e trentina",
+    "id": "veronasera_2026-10-31_halloween_karaoke_live_andfriends_band",
+    "title": "Halloween Karaoke live // @andfriends band",
     "date": "2026-10-31",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/segreti-bosco-escursione-lessinia-veronese-trentina-31-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-31-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -952,6 +938,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-31_laboratorio_tra_stampa_e_pittura_al_muse",
+    "title": "Laboratorio tra stampa e pittura al Museo Miniscalchi-Erizzo",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/laboratorio-stampa-pittura-museo-miniscalchi-erizzo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/laboratorio-stampa-e-pittura-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-31__la_notte_delle_streghe_a_lugagnano",
     "title": "“La Notte delle Streghe” a Lugagnano",
     "date": "2026-10-31",
@@ -994,6 +994,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-01__mercato_creativo_d_autunno_a_lazise",
+    "title": "\"Mercato Creativo d’Autunno\" a Lazise",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mercato-creativo-autunno-lazise-31-ottobre-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-01__sulle_orme_del_tamburino_",
     "title": "\"Sulle orme del Tamburino\"",
     "date": "2026-11-01",
@@ -1003,6 +1017,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sulle-orme-del-tamburino-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-01__rainer_l_indicibile_al_teatro_modus",
+    "title": "“Rainer. L’indicibile” al Teatro Modus",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rainer-indicibile-teatro-modus-30-ottobre-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1031,20 +1059,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/campo-zucche-flover-farm-26-settembre-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
-    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1092,6 +1106,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-03__cosa_vale_chi_conta_dialoghi_multidisci",
+    "title": "\"Cosa vale, chi conta?\", dialoghi multidisciplinari 4&deg; incontro",
+    "date": "2026-11-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/cosa-vale-chi-conta-dialoghi-multidisciplinari-3-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-03_gioiello_in_resina_e_fiori_veri",
     "title": "Gioiello in resina e fiori veri",
     "date": "2026-11-03",
@@ -1101,6 +1129,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/gioiello-resina-3-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-03__costellazioni_familiari_",
+    "title": "\"Costellazioni familiari\"",
+    "date": "2026-11-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/costellazioni-familiari-center-without-centre-3-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1159,6 +1201,20 @@
     "url": "https://www.cittadiverona.it/eventi/roots-adige-terra-gustare-viaggio-teatro-sapori-territorio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/roots-terre-da-gustare-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-07_rassegna_atti_unici_a_sona",
+    "title": "Rassegna “Atti Unici” a Sona",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-atti-unici-sona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/rassegna-atti-unici-a-sona-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1232,6 +1288,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-11-19_dialogo_tra_filosofia_e_scienza_con_ipaz",
+    "title": "Dialogo tra Filosofia e Scienza con Ipazia e Leonardo da Vinci",
+    "date": "2026-11-19",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/dialogo-filosofia-scienza-ipazia-leonardo-da-vinci/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/dialogo-filosofia-scienza-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-20_verona_mineral_show",
     "title": "Verona Mineral Show",
     "date": "2026-11-20",
@@ -1246,20 +1316,6 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
-    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
-    "date": "2026-11-21",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-21_pink_floyd_history_al_teatro_nuovo_di_ve",
     "title": "Pink Floyd History al Teatro Nuovo di Verona",
     "date": "2026-11-21",
@@ -1271,6 +1327,20 @@
     "url": "https://www.cittadiverona.it/eventi/pink-floyd-history-al-teatro-nuovo-di-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/pink-floyd-history-animal-farm-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
+    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
     "category": "cultura"
   },
   {
