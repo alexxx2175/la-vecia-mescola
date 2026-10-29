@@ -546,76 +546,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-28_incontro_con_luca_mercalli_la_crisi_clim",
-    "title": "Incontro con Luca Mercalli: “La crisi climatica è tra noi: ignorarla o affrontarla?”",
-    "date": "2026-10-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/luca-mercalli-crisi-climatica-teatro-ristori-28-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-28__fare_citt_con_la_cultura_",
-    "title": "\"Fare città con la cultura\"",
-    "date": "2026-10-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fare-citta-con-la-cultura-28-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-28_speak_and_spritz_halloween_edition_aperi",
-    "title": "Speak and spritz | Halloween edition | Aperitivo linguistico",
-    "date": "2026-10-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/speak-and-spritz-halloween-edition-aperitivo-linguistico-28-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-10-28_incontro_pubblico_quando_lo_stato_usa_la",
-    "title": "Incontro pubblico “Quando lo Stato usa la forza” all’Università di Verona",
-    "date": "2026-10-28",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/incontro-pubblico-quando-stato-usa-forza-universita-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Quando-lo-Stato-usa-la-forza-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-10-28_serata_d_autore_con_luca_mercalli_al_tea",
-    "title": "Serata d’Autore con Luca Mercalli al Teatro Ristori",
-    "date": "2026-10-28",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/serata-autore-luca-mercalli-teatro-ristori/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Luca-Mercalli-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-10-29_casting_call_per_film_rete_tv_nazionale_",
     "title": "Casting call per film rete tv nazionale presso Studiocinema Verona",
     "date": "2026-10-29",
@@ -683,6 +613,20 @@
     "url": "https://www.veronasera.it/eventi/paint-tequila-workshop-pittura-halloween-29-ottobre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-29_festa_del_bollito_con_la_pear_a_bussolen",
+    "title": "Festa del bollito con la pearà a Bussolengo",
+    "date": "2026-10-29",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-bollito-con-la-peara/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/10/Festa-bollito-peara-Bussolengo-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -952,6 +896,48 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-31_halloween_a_garda",
+    "title": "Halloween a Garda",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/halloween-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/halloween-a-garda-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-31_halloween_kids_party_in_santa_toscana",
+    "title": "Halloween Kids Party in Santa Toscana",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/halloween-party-santa-toscana/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/halloween-kids-santa-toscana-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-31_halloween_night_a_peschiera_del_garda",
+    "title": "Halloween Night a Peschiera del Garda",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/halloween-night-peschiera-del-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Halloween-Peschiera-del-Garda-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-10-31__la_notte_delle_streghe_a_lugagnano",
     "title": "“La Notte delle Streghe” a Lugagnano",
     "date": "2026-10-31",
@@ -1064,6 +1050,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
+    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-01_mercatino_dell_antiquariato_a_povegliano",
+    "title": "Mercatino dell’antiquariato a Povegliano Veronese",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-01__romeo_e_giulietta_la_passeggiata_teatra",
     "title": "“Romeo e Giulietta”: la passeggiata teatralizzata per chi scopre Verona",
     "date": "2026-11-01",
@@ -1103,6 +1117,20 @@
     "url": "https://www.veronasera.it/eventi/dia-de-los-muertos-halloween-messicano-2-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-02_hans_zimmer_tribute_le_grandi_colonne_so",
+    "title": "Hans Zimmer Tribute: le grandi colonne sonore del cinema al Teatro Filarmonico di Verona",
+    "date": "2026-11-02",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/hans-zimmer-tribute-grandi-colonne-sonore-cinema-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/hans-zimmer-teatro-filarmonico-verona-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1160,6 +1188,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-05_dario_fabbri_ospite_a_castelnuovo_del_ga",
+    "title": "Dario Fabbri ospite a Castelnuovo del Garda: “Il destino dei popoli”",
+    "date": "2026-11-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/dario-fabbri-castelnuovo-5-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-05_incontro_con_dario_fabbri_al_teatro_dim_",
@@ -1316,6 +1358,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
+    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-21_pink_floyd_history_al_teatro_nuovo_di_ve",
     "title": "Pink Floyd History al Teatro Nuovo di Verona",
     "date": "2026-11-21",
@@ -1330,17 +1386,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
-    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
+    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
+    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
     "date": "2026-11-21",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
+    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
     "category": "cultura"
   },
   {
