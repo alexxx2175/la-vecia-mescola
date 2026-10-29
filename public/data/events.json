@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-10-28_jeu_de_cartes_|_amelia_al_ball",
-    "title": "Jeu de Cartes | Amelia al ballo",
-    "date": "2026-10-28",
-    "time": "19:00",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/amelia-al-ballo-jeu-de-cartes/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134417&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-10-30_jeu_de_cartes_|_amelia_al_ball",
     "title": "Jeu de Cartes | Amelia al ballo",
     "date": "2026-10-30",
@@ -386,7 +373,7 @@
     "location": "Teatro Filarmonico",
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/2027/brahms-un-requiem-tedesco/",
-    "buy_url": null,
+    "buy_url": "https://shop.arena.it/it/buy-ticket/arenaverona-tutto/?filter_show=BRAHMS%20|%20UN%20REQUIEM%20TEDESCO&amp;year=2027",
     "image": null
   },
   {
@@ -1517,7 +1504,7 @@
     "location": "Teatro Filarmonico",
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/2027/lo-schiaccianoci/",
-    "buy_url": null,
+    "buy_url": "https://shop.arena.it/it/buy-ticket/arenaverona-tutto/?filter_show=LO%20SCHIACCIANOCI&amp;year=2027",
     "image": null
   },
   {
@@ -1543,7 +1530,7 @@
     "location": "Teatro Filarmonico",
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/2027/lo-schiaccianoci/",
-    "buy_url": null,
+    "buy_url": "https://shop.arena.it/it/buy-ticket/arenaverona-tutto/?filter_show=LO%20SCHIACCIANOCI&amp;year=2027",
     "image": null
   },
   {
