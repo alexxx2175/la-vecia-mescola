@@ -546,76 +546,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-29_casting_call_per_film_rete_tv_nazionale_",
-    "title": "Casting call per film rete tv nazionale presso Studiocinema Verona",
-    "date": "2026-10-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/casting-call-film-rete-tv-nazionale-28-29-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-29_ri_vestiti_swap_party_di_capi_di_abbigli",
-    "title": "Ri-vestiti! Swap party di capi di abbigliamento",
-    "date": "2026-10-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ri-vestiti-swap-party-abbigliamento-29-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-29_una_pizza_per_l_india_progetto_teach_me_",
-    "title": "Una pizza per l'India - Progetto Teach Me \"Riportiamoli a scuola\"",
-    "date": "2026-10-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/una-pizza-per-india-progetto-teach-me-29-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-29__deledda_cenere_e_le_canzoni_della_rivol",
-    "title": "\"Deledda. Cenere e le canzoni della rivoluzione silenziosa\" al Teatro Ristori di Verona",
-    "date": "2026-10-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/deledda-cenere-teatro-ristori-29-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-10-29_paint_tequila_workshop_di_pittura_hallow",
-    "title": "Paint & Tequila | Workshop di pittura | Halloween Catrina Edition",
-    "date": "2026-10-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/paint-tequila-workshop-pittura-halloween-29-ottobre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-29_festa_del_bollito_con_la_pear_a_bussolen",
     "title": "Festa del bollito con la pearà a Bussolengo",
     "date": "2026-10-29",
@@ -672,6 +602,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-10-30__vivi_vintage_alla_dogana_veneta_di_lazi",
+    "title": "“Vivi Vintage” alla Dogana Veneta di Lazise",
+    "date": "2026-10-30",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/vivi-vintage-a-lazise/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/04/vivi-vintage-lazise-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-30__rainer_l_indicibile_al_teatro_modus",
+    "title": "“Rainer. L’indicibile” al Teatro Modus",
+    "date": "2026-10-30",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rainer-l-indicibile/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/01/Rainer_Maria_Rilke-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-31_da_artie_5ive_ad_avaro_soler_e_roy_paci_",
     "title": "Da Artie 5ive ad Avaro Soler e Roy Paci: è il \"Gardaland Halloween Party\"",
     "date": "2026-10-31",
@@ -690,14 +648,14 @@
     "title": "Halloween a lume di candela: a Verona le melodie più spaventose del cinema con Candlelight",
     "date": "2026-10-31",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/halloween-concerto-candlelight-31-ottobre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/54504554925252/candlelight-foto-ufficio-stampa-fever-2.jpeg",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-10-31_halloween_party_a_verona_in_santa_toscan",
@@ -723,6 +681,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/halloween-cantina-monteci-cena-con-delitto-31-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-10-31_halloween_allo_stone_rose_con_the_brown_",
+    "title": "Halloween allo Stone Rose con The Brown Dog Trio",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/halloween-stone-rose-concerto-the-brown-dog-trio-31-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -812,6 +784,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-10-31_halloween_karaoke_live_andfriends_band",
+    "title": "Halloween Karaoke live // @andfriends band",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-31-ottobre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-10-31_visita_guidata_il_cimitero_monumentale_d",
     "title": "Visita guidata: \"Il cimitero monumentale di Verona\"",
     "date": "2026-10-31",
@@ -826,15 +812,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-10-31_halloween_karaoke_live_andfriends_band",
-    "title": "Halloween Karaoke live // @andfriends band",
+    "id": "veronasera_2026-10-31_speed_friending_halloween_fai_nuove_amic",
+    "title": "Speed friending Halloween | Fai nuove amicizie",
     "date": "2026-10-31",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-31-ottobre-2026.html",
+    "url": "https://www.veronasera.it/eventi/speed-friending-halloween-31-ottobre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -854,20 +840,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-31_calendario_di_musica_live_a_verona_e_pro",
-    "title": "Calendario di musica live a Verona e provincia",
-    "date": "2026-10-31",
-    "time": "",
-    "type": "Musica dal vivo",
-    "venue_type": "Musica dal vivo",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-31_halloween_sulle_torri_del_castello_di_va",
     "title": "Halloween sulle torri del castello di Valeggio",
     "date": "2026-10-31",
@@ -879,6 +851,20 @@
     "url": "https://www.cittadiverona.it/eventi/halloween-torri-castello-valeggio/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/halloween-sulle-torri-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-31_il_villaggio_delle_zucche_a_soave",
+    "title": "Il Villaggio delle Zucche a Soave",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/villaggio-delle-zucche-soave/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/il-villaggio-delle-zucche-soave-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -924,20 +910,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-10-31_halloween_night_a_peschiera_del_garda",
-    "title": "Halloween Night a Peschiera del Garda",
-    "date": "2026-10-31",
-    "time": "",
-    "type": "Halloween",
-    "venue_type": "Halloween",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/halloween-night-peschiera-del-garda/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Halloween-Peschiera-del-Garda-2026-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-10-31__la_notte_delle_streghe_a_lugagnano",
     "title": "“La Notte delle Streghe” a Lugagnano",
     "date": "2026-10-31",
@@ -949,6 +921,20 @@
     "url": "https://www.cittadiverona.it/eventi/notte-delle-streghe-lugagnano/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/la-notte-delle-streghe-a-lugagnano-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-10-31_halloween_night_a_peschiera_del_garda",
+    "title": "Halloween Night a Peschiera del Garda",
+    "date": "2026-10-31",
+    "time": "",
+    "type": "Halloween",
+    "venue_type": "Halloween",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/halloween-night-peschiera-del-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Halloween-Peschiera-del-Garda-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -984,13 +970,13 @@
     "title": "\"Mercato Creativo d’Autunno\" a Lazise",
     "date": "2026-11-01",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/mercato-creativo-autunno-lazise-31-ottobre-1-novembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/60248496677168/locandina-lazise.jpeg",
     "category": "cultura"
   },
   {
@@ -1003,6 +989,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/sulle-orme-del-tamburino-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-01_visita_guidata_a_palazzo_miniscalchi_da_",
+    "title": "Visita guidata a Palazzo Miniscalchi: da casa a museo",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-1-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-01_yoga_e_pranzo_veg_in_valpolicella",
+    "title": "Yoga e pranzo veg in Valpolicella",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/yoga-pranzo-veg-valpolicella-1-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1050,20 +1064,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-01_il_centro_internazionale_di_fotografia_s",
-    "title": "Il Centro Internazionale di Fotografia Scavi Scaligeri ospita una grande mostra dedicata a Dorothea Lange",
-    "date": "2026-11-01",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-fotografia-dorothea-lange-scavi-scaligeri-30-luglio-1-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-01_mercatino_dell_antiquariato_a_povegliano",
     "title": "Mercatino dell’antiquariato a Povegliano Veronese",
     "date": "2026-11-01",
@@ -1075,6 +1075,20 @@
     "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-povegliano-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-povegliano-veronese-1-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-01_mercatino_dell_antiquariato_a_verona_in_",
+    "title": "Mercatino dell’Antiquariato a Verona in piazza San Zeno",
+    "date": "2026-11-01",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/verona-antiquaria-novembre-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1176,6 +1190,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-04_neri_marcor_porta_giorgio_gaber_al_teatr",
+    "title": "Neri Marcorè porta Giorgio Gaber al Teatro Ristori con “Mi fa male il mondo”",
+    "date": "2026-11-04",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/neri-marcore-porta-giorgio-gaber-teatro-ristori-mi-fa-male-il-mondo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/neri-marcore-mi-fa-male-il-mondo-teatro-ristori-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-05_fieracavalli",
     "title": "Fieracavalli",
     "date": "2026-11-05",
@@ -1188,6 +1216,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-05_l_enoturismo_come_leva_strategica_del_vi",
+    "title": "L'enoturismo come leva strategica del vino: al via il nuovo Salotto di Nadia Zenato",
+    "date": "2026-11-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/enoturismo-salotto-nadia-zenato-5-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-11-05_dario_fabbri_ospite_a_castelnuovo_del_ga",
@@ -1215,6 +1257,34 @@
     "url": "https://www.cittadiverona.it/eventi/incontro-dario-fabbri/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/10/incontro-Dario-Fabbri-Bussolengo-2025-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-06_silent_dating_fai_nuove_conoscenze_senza",
+    "title": "Silent dating | Fai nuove conoscenze senza parlare",
+    "date": "2026-11-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/silent-dating-fai-nuove-conoscenze-6-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-06__astroaperitivo_tarocchi_live_domande_ca",
+    "title": "\"Astroaperitivo | Tarocchi live: domande, carte e intuizioni\"",
+    "date": "2026-11-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/astroaperitivo-tarocchi-live-6-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1372,20 +1442,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-21_pink_floyd_history_al_teatro_nuovo_di_ve",
-    "title": "Pink Floyd History al Teatro Nuovo di Verona",
-    "date": "2026-11-21",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/pink-floyd-history-al-teatro-nuovo-di-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/pink-floyd-history-animal-farm-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
     "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
     "date": "2026-11-21",
@@ -1397,6 +1453,20 @@
     "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-21_pink_floyd_history_al_teatro_nuovo_di_ve",
+    "title": "Pink Floyd History al Teatro Nuovo di Verona",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/pink-floyd-history-al-teatro-nuovo-di-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/pink-floyd-history-animal-farm-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1439,6 +1509,20 @@
     "url": "https://www.cittadiverona.it/eventi/antonio-ornano-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/02/Ornano-IN-Grato-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-30_calendario_di_musica_live_a_verona_e_pro",
+    "title": "Calendario di musica live a Verona e provincia",
+    "date": "2026-11-30",
+    "time": "",
+    "type": "Musica dal vivo",
+    "venue_type": "Musica dal vivo",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
     "category": "cultura"
   },
   {
