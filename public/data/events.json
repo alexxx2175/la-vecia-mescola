@@ -1,31 +1,5 @@
 [
   {
-    "id": "arena_2026-10-31_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-10-31",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540415&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-10-31_sinfonie_n._4,_6_|_aspettando_",
-    "title": "Sinfonie n. 4, 6 | Aspettando Beethoven",
-    "date": "2026-10-31",
-    "time": "18:30",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Sala Filarmonica",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/sinfonie-4-6-aspettando-beethoven/",
-    "buy_url": "https://shop.fondazionearena.it/it/event/aspettando-beethoven-sinfonie-n-4-6/293077",
-    "image": null
-  },
-  {
     "id": "arena_2026-11-01_jeu_de_cartes_|_amelia_al_ball",
     "title": "Jeu de Cartes | Amelia al ballo",
     "date": "2026-11-01",
