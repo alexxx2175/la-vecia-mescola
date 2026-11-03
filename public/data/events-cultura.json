@@ -504,48 +504,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-02_l_ensemble_symphony_orchestra_celebra_ha",
-    "title": "L’Ensemble Symphony Orchestra celebra Hans Zimmer al Teatro Filarmonico di Verona",
-    "date": "2026-11-02",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ensemble-symphony-orchestra-hans-zimmer-teatro-filarmonico-2-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/6034091197362/locandina-zimmer.jpg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-11-02_d_iacute_a_de_los_muertos_halloween_mess",
-    "title": "D&iacute;a de los muertos | Halloween messicano tra storie, musica e fiori di carta",
-    "date": "2026-11-02",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/dia-de-los-muertos-halloween-messicano-2-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-02_hans_zimmer_tribute_le_grandi_colonne_so",
-    "title": "Hans Zimmer Tribute: le grandi colonne sonore del cinema al Teatro Filarmonico di Verona",
-    "date": "2026-11-02",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/hans-zimmer-tribute-grandi-colonne-sonore-cinema-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/hans-zimmer-teatro-filarmonico-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-03__cosa_vale_chi_conta_dialoghi_multidisci",
     "title": "\"Cosa vale, chi conta?\", dialoghi multidisciplinari 4&deg; incontro",
     "date": "2026-11-03",
@@ -634,13 +592,13 @@
     "title": "Dario Fabbri ospite a Castelnuovo del Garda: “Il destino dei popoli”",
     "date": "2026-11-05",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Incontri",
+    "venue_type": "Incontri",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/dario-fabbri-castelnuovo-5-novembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/20365038649881/dario-fabbri.png",
     "category": "cultura"
   },
   {
@@ -798,6 +756,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-07_festa_del_torbolin_a_monteforte_d_alpone",
+    "title": "Festa del Torbolin a Monteforte d’Alpone",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-torbolin-a-monteforte-d-alpone/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2013/11/festa-torbolin-monteforte-alpone-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-07_rassegna_atti_unici_a_sona",
     "title": "Rassegna “Atti Unici” a Sona",
     "date": "2026-11-07",
@@ -938,6 +910,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-08__detective_al_museo_enigmi_indizi_e_teso",
+    "title": "“Detective al Museo”: enigmi, indizi e tesori al Museo Miniscalchi-Erizzo",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/detective-museo-enigmi-indizi-tesori-museo-miniscalchi-erizzo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/detective-al-museo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-08__il_ragazzo_della_via_gluck_omaggio_ad_a",
     "title": "“Il ragazzo della via Gluck – Omaggio ad Adriano Celentano”",
     "date": "2026-11-08",
@@ -966,6 +952,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-10_percorso_borse_macram_",
+    "title": "Percorso borse macramè",
+    "date": "2026-11-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/percorso-borse-macrame-10-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-10_donne_in_crescita_coaching_di_gruppo_per",
+    "title": "Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio",
+    "date": "2026-11-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-10-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-11_la_fiera_di_san_martino_a_tregnago",
     "title": "La Fiera di San Martino a Tregnago",
     "date": "2026-11-11",
@@ -977,6 +991,20 @@
     "url": "https://www.veronasera.it/eventi/fiera-san-martino-tregnago-6-11-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-11_incontro_dedicato_al_campione_di_scacchi",
+    "title": "Incontro dedicato al campione di scacchi Paul Morphy all’Università di Verona",
+    "date": "2026-11-11",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/incontro-dedicato-campione-scacchi-paul-morphy-universita-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/paul-morphy-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1036,17 +1064,17 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
-    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
+    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
+    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
     "date": "2026-11-21",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
+    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1064,17 +1092,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
-    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
+    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
+    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
     "date": "2026-11-21",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
+    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1103,6 +1131,20 @@
     "url": "https://www.cittadiverona.it/eventi/fabio-concato-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2022/12/Fabio-Concato-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-24__rialzarsi_per_rifiorire_per_la_giornata",
+    "title": "“Rialzarsi per Rifiorire” per la Giornata Internazionale contro la violenza sulle donne",
+    "date": "2026-11-24",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rialzarsi-rifiorire-giornata-internazionale-contro-violenza-sulle-donne/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Rialzarsi-per-rifiorire-1-600x338.jpg",
     "category": "cultura"
   },
   {
