@@ -504,45 +504,17 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-03__cosa_vale_chi_conta_dialoghi_multidisci",
-    "title": "\"Cosa vale, chi conta?\", dialoghi multidisciplinari 4&deg; incontro",
-    "date": "2026-11-03",
+    "id": "cittadiverona_2026-11-04_conferenza_conoscere_la_biodiversit_del_",
+    "title": "Conferenza “Conoscere la biodiversità del territorio veronese”",
+    "date": "2026-11-04",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Convegni",
+    "venue_type": "Convegni",
     "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/cosa-vale-chi-conta-dialoghi-multidisciplinari-3-novembre-2026.html",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/conferenza-conoscere-biodiversita-territorio-veronese/",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-03__costellazioni_familiari_",
-    "title": "\"Costellazioni familiari\"",
-    "date": "2026-11-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/costellazioni-familiari-center-without-centre-3-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-03_gioiello_in_resina_e_fiori_veri",
-    "title": "Gioiello in resina e fiori veri",
-    "date": "2026-11-03",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/gioiello-resina-3-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Conferenza-Conoscere-la-biodiversita-del-territorio-veronese-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -910,6 +882,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-08_fieracavalli_2026_tradizione_e_innovazio",
+    "title": "Fieracavalli 2026: tradizione e innovazione nel cuore di Verona",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/veronafiere-fieracavalli-5-8-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-08__detective_al_museo_enigmi_indizi_e_teso",
     "title": "“Detective al Museo”: enigmi, indizi e tesori al Museo Miniscalchi-Erizzo",
     "date": "2026-11-08",
@@ -921,6 +907,34 @@
     "url": "https://www.cittadiverona.it/eventi/detective-museo-enigmi-indizi-tesori-museo-miniscalchi-erizzo/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/detective-al-museo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-08__cuor_di_smeraldo_al_teatro_laboratorio_",
+    "title": "“Cuor di Smeraldo” al Teatro Laboratorio di Verona",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/cuor-di-smeraldo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/03/cuor-di-smeraldo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-08_lo_spettacolo_un_brutto_bruttissimo_anat",
+    "title": "Lo spettacolo “Un brutto bruttissimo anatroccolo” al Teatro Stimate",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/un-brutto-bruttissimo-anattroccolo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/06/UN-BRUTTO-BRUTTISSIMO-ANATROCCOLO-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -980,6 +994,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-11_una_serata_diversa_a_valeggio_sul_mincio",
+    "title": "Una serata diversa a Valeggio sul Mincio: \"Come stanno cambiando i musei che conosciamo\"",
+    "date": "2026-11-11",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/come-stanno-cambiando-musei-che-conosciamo-11-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-11_la_fiera_di_san_martino_a_tregnago",
     "title": "La Fiera di San Martino a Tregnago",
     "date": "2026-11-11",
@@ -991,6 +1019,20 @@
     "url": "https://www.veronasera.it/eventi/fiera-san-martino-tregnago-6-11-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-11_festa_del_santo_patrono_san_martino_vesc",
+    "title": "Festa del Santo Patrono “San Martino Vescovo”",
+    "date": "2026-11-11",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/festa-del-santo-patrono-san-martino-vescovo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/festa-del-patrono-san-martino-vescovo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1036,6 +1078,20 @@
     "category": "fiere"
   },
   {
+    "id": "cittadiverona_2026-11-14__monteleone_active_una_mattinata_tra_yog",
+    "title": "“Monteleone Active”: una mattinata tra yoga, meditazione e benessere",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Eventi Sportivi",
+    "venue_type": "Eventi Sportivi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/monteleone-active-mattinata-yoga-meditazione-benessere/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Monteleone-Active-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-19_dialogo_tra_filosofia_e_scienza_con_ipaz",
     "title": "Dialogo tra Filosofia e Scienza con Ipazia e Leonardo da Vinci",
     "date": "2026-11-19",
@@ -1064,17 +1120,17 @@
     "category": "fiere"
   },
   {
-    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
-    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
+    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
+    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
     "date": "2026-11-21",
     "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
+    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1092,17 +1148,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
-    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
+    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
+    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
     "date": "2026-11-21",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Teatro",
+    "venue_type": "Teatro",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
+    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1341,6 +1397,20 @@
     "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2027-05-26_verona_passione_teatro_gli_spettacoli_de",
+    "title": "Verona Passione Teatro: gli spettacoli della nuova stagione amatoriale al Teatro Camploy",
+    "date": "2027-05-26",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teatro-camploy-spettacolo-compagnie-amatoriali-ottobre-2026-maggio-2027.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
