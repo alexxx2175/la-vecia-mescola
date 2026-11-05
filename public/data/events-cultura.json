@@ -504,20 +504,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-04_conferenza_conoscere_la_biodiversit_del_",
-    "title": "Conferenza “Conoscere la biodiversità del territorio veronese”",
-    "date": "2026-11-04",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/conferenza-conoscere-biodiversita-territorio-veronese/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Conferenza-Conoscere-la-biodiversita-del-territorio-veronese-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-04_neri_marcor_porta_giorgio_gaber_al_teatr",
     "title": "Neri Marcorè porta Giorgio Gaber al Teatro Ristori con “Mi fa male il mondo”",
     "date": "2026-11-04",
@@ -546,17 +532,31 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-11-05_neri_marcor_al_teatro_ristori_gaber_mi_f",
+    "title": "Neri Marcorè al Teatro Ristori: \"Gaber. Mi fa male il mondo\"",
+    "date": "2026-11-05",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/neri-marcore-teatro-ristori-gaber-4-5-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/53441609546977/neri-marcore-foto-credit-t-le-pera-via-ufficio-stampa-teatro-ristori.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-05_l_enoturismo_come_leva_strategica_del_vi",
     "title": "L'enoturismo come leva strategica del vino: al via il nuovo Salotto di Nadia Zenato",
     "date": "2026-11-05",
     "time": "",
-    "type": "Incontri",
-    "venue_type": "Incontri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/enoturismo-salotto-nadia-zenato-5-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/64662007773728/tenuta-la-sansonina-peschiera-del-garda-foto-ufficio-stampa.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -564,13 +564,27 @@
     "title": "Dario Fabbri ospite a Castelnuovo del Garda: “Il destino dei popoli”",
     "date": "2026-11-05",
     "time": "",
-    "type": "Incontri",
-    "venue_type": "Incontri",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/dario-fabbri-castelnuovo-5-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/20365038649881/dario-fabbri.png",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-05__q_qong_un_passo_alla_volta_",
+    "title": "\"Qì-Qong - Un passo alla volta\"",
+    "date": "2026-11-05",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/qi-qong-un-passo-alla-volta-5-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -588,6 +602,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-06_massimo_recalcati_al_teatro_stimate_l_am",
+    "title": "Massimo Recalcati al Teatro Stimate: \"L’Amore malato\"",
+    "date": "2026-11-06",
+    "time": "",
+    "type": "Incontri",
+    "venue_type": "Incontri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teatro-stimate-massimo-recalcati-amore-malato-6-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/11730919449954/massimo-recalcati-locandina-ufficio-stampa-comune-di-verona-2.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-06_silent_dating_fai_nuove_conoscenze_senza",
     "title": "Silent dating | Fai nuove conoscenze senza parlare",
     "date": "2026-11-06",
@@ -597,6 +625,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/silent-dating-fai-nuove-conoscenze-6-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-06_notti_magiche_cena_italiana_tutta_da_can",
+    "title": "Notti magiche: cena italiana tutta da cantare",
+    "date": "2026-11-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/notti-magiche-cena-italiana-6-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-06_conferenza_la_collezione_archeologica_de",
+    "title": "Conferenza: \"La collezione archeologica del conte Moscardo nel Museo Miniscalchi-Erizzo\"",
+    "date": "2026-11-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/conferenza-collezione-archeologica-conte-moscardo-museo-miniscalchi-erizzo-6-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -616,17 +672,45 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-07__mistero_buffo_e_il_re_dei_ciarlatani_al",
+    "title": "\"Mistero Buffo\" e \"Il re dei ciarlatani\" al Teatro Camploy",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mistero-buffo-re-ciarlatani-6-7-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/35278901990512/pirovano-foto-ufficio-stampa-comune-di-verona.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-07_un_sabato_diverso_a_valeggio_visita_alla",
     "title": "Un sabato diverso a Valeggio: visita alla villa storica tra arte contemporanea e vista su Borghetto",
     "date": "2026-11-07",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-villa-meriggio-7-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/2769816685996/un-sabato-diverso-a-valeggio-visita-alla-villa-storica-tra-arte-contemporanea-e-vista-su-borghetto.jpg",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-07_nella_foresta_dei_cimbri_storia_e_tracce",
+    "title": "Nella foresta dei Cimbri: storia e tracce del passato",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/nella-foresta-dei-cimbri-passeggiata-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -658,20 +742,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-07_teatro_e_degustazione_roots_adige_terra_",
-    "title": "Teatro e degustazione - Roots | Adige, terra da gustare",
-    "date": "2026-11-07",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-degustazione-roots-adige-terra-gustare-7-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-07_visita_guidata_verona_esoterica_",
     "title": "Visita guidata: \"Verona esoterica\"",
     "date": "2026-11-07",
@@ -686,6 +756,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-07_allo_stone_rose_di_san_vito_di_negrar_ar",
+    "title": "Allo Stone Rose di San Vito di Negrar arrivano i Maybes!",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/maybes-concerto-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-07_teatro_e_degustazione_roots_adige_terra_",
+    "title": "Teatro e degustazione - Roots | Adige, terra da gustare",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/teatro-degustazione-roots-adige-terra-gustare-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-07_paint_wine_foliage_workshop_di_stampa_bo",
     "title": "Paint & wine: foliage | Workshop di stampa botanica",
     "date": "2026-11-07",
@@ -695,6 +793,34 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/paint-wine-foliage-workshop-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-07_a_sona_lo_spettacolo_quello_che_le_donne",
+    "title": "A Sona lo spettacolo \"Quello che le donne\"",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/quello-che-le-donne-atti-unici-rassegna-teatrale-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-07_argilla_chai_crea_il_tuo_porta_lumino_pe",
+    "title": "Argilla & Chai | Crea il tuo porta lumino per Diwali, la festa delle luci",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/argilla-chai-porta-lumino-7-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -840,6 +966,48 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-08_detective_al_museo_enigmi_indizi_e_tesor",
+    "title": "Detective al museo: enigmi, indizi e tesori",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/detective-museo-enigmi-indizi-tesori-8-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-08__un_brutto_bruttissimo_anatroccolo_al_te",
+    "title": "\"Un brutto bruttissimo anatroccolo\" al Teatro Stimate",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/un-brutto-bruttissimo-anatroccolo-fondazione-aida-8-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-08_mostra_la_forza_dell_arte_",
+    "title": "Mostra \"La forza dell'arte\"",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-forza-arte-7-8-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-08_evento_di_yoga_e_cristalli",
     "title": "Evento di yoga e cristalli",
     "date": "2026-11-08",
@@ -863,34 +1031,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/zuccaland-festival-autunno-villafranca-di-verona-24-ottobre-8-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-08_la_fiera_della_polenta_a_vigasio",
-    "title": "La Fiera della Polenta a Vigasio",
-    "date": "2026-11-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-della-polenta-vigasio-15-ottobre-8-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-08_fieracavalli_2026_tradizione_e_innovazio",
-    "title": "Fieracavalli 2026: tradizione e innovazione nel cuore di Verona",
-    "date": "2026-11-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/veronafiere-fieracavalli-5-8-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1008,20 +1148,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-11_la_fiera_di_san_martino_a_tregnago",
-    "title": "La Fiera di San Martino a Tregnago",
-    "date": "2026-11-11",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-san-martino-tregnago-6-11-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-11_festa_del_santo_patrono_san_martino_vesc",
     "title": "Festa del Santo Patrono “San Martino Vescovo”",
     "date": "2026-11-11",
@@ -1047,6 +1173,20 @@
     "url": "https://www.cittadiverona.it/eventi/incontro-dedicato-campione-scacchi-paul-morphy-universita-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/paul-morphy-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-12_paint_with_wine_workshop_di_acquerello_c",
+    "title": "Paint with wine | Workshop di acquerello con vino rosso",
+    "date": "2026-11-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paint-with-wine-workshop-acquerello-vino-rosso-12-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1118,6 +1258,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "cittadiverona_2026-11-20__donna_shakespeare_al_teatro_satiro_off",
+    "title": "“Donna Shakespeare” al Teatro Satiro OFF",
+    "date": "2026-11-20",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/donna-shakespeare/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/donna-shakespeare-600x338.jpg",
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
@@ -1218,6 +1372,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-11-29_festa_della_verza_moretta_a_veronella",
+    "title": "Festa della Verza Moretta a Veronella",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-verza-moretta-veronella-12-29-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-29__in_grato_con_antonio_ornano_al_teatro_n",
     "title": "“(In)grato” con Antonio Ornano al Teatro Nuovo di Verona",
     "date": "2026-11-29",
@@ -1288,20 +1456,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
-    "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
-    "date": "2026-12-27",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/shakespeare-interactive-museum-visita-1-febbraio-27-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-12-28_abbadream_abba_tribute_show_al_teatro_nu",
     "title": "ABBAdream, Abba Tribute Show al Teatro Nuovo",
     "date": "2026-12-28",
@@ -1344,34 +1498,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2027-01-26_per_il_centenario_del_museo_di_castelvec",
-    "title": "Per il centenario del Museo di Castelvecchio la mostra \"La Venere di Tiziano e il Rinascimento musicale\"",
-    "date": "2027-01-26",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/venere-tiziano-rinascimento-musicale-museo-castelvecchio-31-ottobre-2026-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-31_alla_fondazione_fioroni_di_legnago_la_mo",
-    "title": "Alla Fondazione Fioroni di Legnago la mostra “Comune sentire”",
-    "date": "2027-01-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-arte-comune-sentire-7-novembre-2026-31-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2027-04-14_maurizio_battista_al_teatro_nuovo_di_ver",
     "title": "Maurizio Battista al Teatro Nuovo di Verona",
     "date": "2027-04-14",
@@ -1397,34 +1523,6 @@
     "url": "https://www.cittadiverona.it/eventi/giordana-angi-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/05/Giordana-Angi-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-05-26_verona_passione_teatro_gli_spettacoli_de",
-    "title": "Verona Passione Teatro: gli spettacoli della nuova stagione amatoriale al Teatro Camploy",
-    "date": "2027-05-26",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-camploy-spettacolo-compagnie-amatoriali-ottobre-2026-maggio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-08-30__la_forma_dello_spazio_marinella_senator",
-    "title": "“La forma dello spazio”: Marinella Senatore a Verona",
-    "date": "2027-08-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-forma-dello-spazio-arte-marinella-senatore-11-ottobre-2026-30-agosto-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   }
 ]
