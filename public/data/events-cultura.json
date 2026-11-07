@@ -518,104 +518,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-11-06_massimo_recalcati_al_teatro_stimate_l_am",
-    "title": "Massimo Recalcati al Teatro Stimate: \"L’Amore malato\"",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Incontri",
-    "venue_type": "Incontri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-stimate-massimo-recalcati-amore-malato-6-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/11730919449954/massimo-recalcati-locandina-ufficio-stampa-comune-di-verona-2.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-06__l_oscura_materia_l_universo_e_io_",
-    "title": "“L’oscura materia, l’universo e io”",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/oscura-materia-universo-io-fucina-machiavelli-6-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-06_il_violinista_julian_kainrath_in_concert",
-    "title": "Il violinista Julian Kainrath in concerto a Verona",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/julian-kainrath-concerto-teatro-ristori-6-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-06__eleonora_duse_l_arte_oltre_la_vita_",
-    "title": "“Eleonora Duse. L’arte oltre la vita”",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/eleonora-duse-arte-oltre-la-vita-6-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-06_silent_dating_fai_nuove_conoscenze_senza",
-    "title": "Silent dating | Fai nuove conoscenze senza parlare",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/silent-dating-fai-nuove-conoscenze-6-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-06_notti_magiche_cena_italiana_tutta_da_can",
-    "title": "Notti magiche: cena italiana tutta da cantare",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/notti-magiche-cena-italiana-6-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-06__l_oscura_materia_l_universo_e_io_debutt",
-    "title": "“L’oscura materia, l’universo e io” debutta al Teatro Fucina Machiavelli",
-    "date": "2026-11-06",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/oscura-materia-universo-io-teatro-fucina-machiavelli/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/oscura-materia-fucina-machiavelli-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-07_la_festa_del_torbolin_a_monteforte_d_alp",
     "title": "La Festa del Torbolin a Monteforte d'Alpone",
     "date": "2026-11-07",
@@ -812,6 +714,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-07_argilla_chai_crea_il_tuo_porta_lumino_pe",
+    "title": "Argilla & Chai | Crea il tuo porta lumino per Diwali, la festa delle luci",
+    "date": "2026-11-07",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/argilla-chai-porta-lumino-7-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-07__roots_adige_terra_da_gustare_un_viaggio",
     "title": "“ROOTS – Adige, Terra da gustare”: un viaggio tra teatro e sapori del territorio",
     "date": "2026-11-07",
@@ -914,13 +830,13 @@
     "title": "La Festa dei Marroni a Castel d'Azzano",
     "date": "2026-11-08",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Sagre",
+    "venue_type": "Sagre",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/festa-marroni-castel-d-azzano-7-8-novembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/66049087839216/locandina-festa-dei-marroni-2026.jpg",
     "category": "cultura"
   },
   {
@@ -1078,6 +994,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-08_roots_sulle_tracce_di_caterina_la_donna_",
+    "title": "ROOTS | Sulle tracce di Caterina, la donna che attraversava i confini",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-tracce-caterina-8-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-08_mostra_la_forza_dell_arte_",
+    "title": "Mostra \"La forza dell'arte\"",
+    "date": "2026-11-08",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-forza-arte-7-8-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-08__festa_de_le_fae_a_san_giorgio_ingannapo",
     "title": "“Festa de le Fae” a San Giorgio Ingannapoltron",
     "date": "2026-11-08",
@@ -1171,6 +1115,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/percorso-borse-macrame-10-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-10_donne_in_crescita_coaching_di_gruppo_per",
+    "title": "Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio",
+    "date": "2026-11-10",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-10-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1302,6 +1260,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-13_una_serata_con_il_centro_documentazione_",
+    "title": "Una serata con il Centro documentazione di Peschiera del Garda",
+    "date": "2026-11-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/conferenza-centro-documentazione-peschiera-del-garda-13-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronafiere_2026-11-14_i_gatti_piu_belli_del_mondo",
     "title": "I gatti piu belli del mondo",
     "date": "2026-11-14",
@@ -1314,6 +1286,20 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-14__lessinia_bolf_10_anni_tra_lupo_e_uomo_",
+    "title": "\"Lessinia bolf – 10 anni tra lupo e uomo\"",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/lessinia-bolf-10-anni-tra-lupo-uomo-14-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-14__monteleone_active_una_mattinata_tra_yog",
@@ -1372,6 +1358,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
+    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-21_pink_floyd_history_al_teatro_nuovo_di_ve",
     "title": "Pink Floyd History al Teatro Nuovo di Verona",
     "date": "2026-11-21",
@@ -1397,20 +1397,6 @@
     "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
-    "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
-    "date": "2026-11-21",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/il-ventaglio-carlo-goldoni/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Il-Ventaglio-Carlo-Goldoni-600x338.jpeg",
     "category": "cultura"
   },
   {
