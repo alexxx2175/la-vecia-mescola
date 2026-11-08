@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-11-07_brahms_serenata",
-    "title": "Brahms Serenata",
-    "date": "2026-11-07",
-    "time": "17:00",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/brahms-serenata/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134414&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-11-08_beethoven,_schubert_|_quartett",
     "title": "Beethoven, Schubert | Quartetti per archi",
     "date": "2026-11-08",
