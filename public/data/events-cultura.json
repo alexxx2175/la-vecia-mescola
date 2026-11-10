@@ -658,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-12_alessandro_anderloni_al_caff_dante_con_i",
+    "title": "Alessandro Anderloni al Caffè Dante con il San Francesco della Divina Commedia",
+    "date": "2026-11-12",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/alessandro-anderloni-caffe-dante-12-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-12__incontro_con_i_sensi_alla_biblioteca_ca",
     "title": "“Incontro con i sensi” alla Biblioteca Capitolare",
     "date": "2026-11-12",
@@ -714,6 +728,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-13_conferenza_dalla_wunderkammer_al_museo_l",
+    "title": "Conferenza: \"Dalla Wunderkammer al museo: la raccolta epigrafica del Museo Miniscalchi-Erizzo\"",
+    "date": "2026-11-13",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/conferenza-wunderkammer-museo-13-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-13_una_serata_con_il_centro_documentazione_",
     "title": "Una serata con il Centro documentazione di Peschiera del Garda",
     "date": "2026-11-13",
@@ -756,6 +784,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-11-14_veronica_pivetti_al_teatro_astra_breakin",
+    "title": "Veronica Pivetti al Teatro Astra: \"Breaking Brecht - Sing'n'song cabaret\"",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/breaking-brecht-teatro-astra-pivetti-14-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1718998665840/breaking-brecht-sing-n-song-cabaret-veronica-pivetti-foto-ufficio-stampa-cinema-teatro-astra.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-14__lessinia_bolf_10_anni_tra_lupo_e_uomo_",
     "title": "\"Lessinia bolf – 10 anni tra lupo e uomo\"",
     "date": "2026-11-14",
@@ -765,6 +807,48 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/lessinia-bolf-10-anni-tra-lupo-uomo-14-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-14_allo_stone_rose_si_omaggia_neil_young",
+    "title": "Allo Stone Rose si omaggia Neil Young",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/stone-rose-concerto-omaggio-neil-young-14-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-14_roots_voci_sul_paesaggio_zeviano_dal_cas",
+    "title": "Roots | Voci sul paesaggio zeviano: dal castello a Luigi Lineri",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/roots-voci-paesaggio-zeviano-14-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-14_visita_guidata_a_palazzo_miniscalchi_da_",
+    "title": "Visita guidata a Palazzo Miniscalchi: da casa a museo",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-guidata-palazzo-miniscalchi-14-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -816,13 +900,41 @@
     "title": "Verona Roots Festival | Fiabe a filò",
     "date": "2026-11-15",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/verona-roots-festival-fiabe-a-filo-15-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/32625539745513/verona-roots-festival-fiabe-a-filo.png",
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-15_escursione_un_viaggio_nel_paesaggio_degl",
+    "title": "Escursione - Un viaggio nel paesaggio degli Alti Lessini",
+    "date": "2026-11-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/escursione-paesaggio-alti-lessini-15-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-15__autumn_candle_",
+    "title": "\"Autumn candle\"",
+    "date": "2026-11-15",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/autumn-candle-15-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -866,6 +978,48 @@
     "buy_url": null,
     "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1927493510048/locandina-mario-biondi-2026.jpeg",
     "category": "concerti_pop"
+  },
+  {
+    "id": "veronasera_2026-11-16_serata_video_d_autore",
+    "title": "Serata video d'autore",
+    "date": "2026-11-16",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/serata-video-autore-trame-visive-16-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-17_nicol_govoni_presenta_still_i_rise_",
+    "title": "Nicolò Govoni presenta \"Still I Rise\"",
+    "date": "2026-11-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/nicolo-govoni-still-i-rise-17-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-17_corso_di_ghirlanda_natalizia",
+    "title": "Corso di ghirlanda natalizia",
+    "date": "2026-11-17",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/corso-ghirlanda-natalizia-17-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-19_dialogo_tra_filosofia_e_scienza_con_ipaz",
@@ -1022,6 +1176,20 @@
     "category": "fiere"
   },
   {
+    "id": "veronasera_2026-11-28_sulle_tracce_di_pinocchio_un_percorso_in",
+    "title": "Sulle tracce di Pinocchio. Un percorso in occasione del bicentenario dalla nascita di Carlo Collodi”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-sulle-tracce-pinocchio-2-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-29_festa_della_verza_moretta_a_veronella",
     "title": "Festa della Verza Moretta a Veronella",
     "date": "2026-11-29",
@@ -1120,20 +1288,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-12-12__musica_in_famiglia_con_fondazione_arena",
-    "title": "\"Musica in Famiglia\" con Fondazione Arena al Teatro Filarmonico",
-    "date": "2026-12-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/musica-in-famiglia-teatro-filarmonico-24-ottobre-12-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-12-27_shakespeare_interactive_museum_l_esperie",
     "title": "Shakespeare Interactive Museum: l’esperienza immersiva n.1 a Verona",
     "date": "2026-12-27",
@@ -1162,20 +1316,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2027-01-06_villaggio_di_natale_flover",
-    "title": "Villaggio di Natale Flover",
-    "date": "2027-01-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/villaggio-natale-flover-6-novembre-2026-6-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2027-01-09_de_andr_la_storia_al_teatro_nuovo_di_ver",
     "title": "De André – La Storia al Teatro Nuovo di Verona",
     "date": "2027-01-09",
@@ -1187,20 +1327,6 @@
     "url": "https://www.cittadiverona.it/eventi/de-andre-la-storia-al-teatro-nuovo-di-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/09/de-andre-storia-anime-salve-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-12_alla_biblioteca_capitolare_di_verona_la_",
-    "title": "Alla Biblioteca Capitolare di Verona la mostra dedicata a Scipione Maffei",
-    "date": "2027-01-12",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-scipione-maffei-biblioteca-capitolare-1-ottobre-2026-12-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -1227,20 +1353,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/venere-tiziano-rinascimento-musicale-museo-castelvecchio-31-ottobre-2026-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-31_alla_fondazione_fioroni_di_legnago_la_mo",
-    "title": "Alla Fondazione Fioroni di Legnago la mostra “Comune sentire”",
-    "date": "2027-01-31",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-arte-comune-sentire-7-novembre-2026-31-gennaio-2027.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1274,20 +1386,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2027-05-26_verona_passione_teatro_gli_spettacoli_de",
-    "title": "Verona Passione Teatro: gli spettacoli della nuova stagione amatoriale al Teatro Camploy",
-    "date": "2027-05-26",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/teatro-camploy-spettacolo-compagnie-amatoriali-ottobre-2026-maggio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2027-07-06_concerto_di_sting_all_arena_a_verona",
     "title": "Concerto di Sting all’Arena a Verona",
     "date": "2027-07-06",
@@ -1299,20 +1397,6 @@
     "url": "https://www.cittadiverona.it/eventi/concerto-di-sting-in-arena-a-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2013/07/sting-arena-di-verona-2027-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-08-30__la_forma_dello_spazio_marinella_senator",
-    "title": "“La forma dello spazio”: Marinella Senatore a Verona",
-    "date": "2027-08-30",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/la-forma-dello-spazio-arte-marinella-senatore-11-ottobre-2026-30-agosto-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   }
 ]
