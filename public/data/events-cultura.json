@@ -532,34 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-10_percorso_borse_macram_",
-    "title": "Percorso borse macramè",
-    "date": "2026-11-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/percorso-borse-macrame-10-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-10_donne_in_crescita_coaching_di_gruppo_per",
-    "title": "Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio",
-    "date": "2026-11-10",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-10-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-11_una_serata_diversa_a_valeggio_sul_mincio",
     "title": "Una serata diversa a Valeggio sul Mincio: \"Come stanno cambiando i musei che conosciamo\"",
     "date": "2026-11-11",
@@ -686,6 +658,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-12_alessandro_anderloni_porta_al_caff_dante",
+    "title": "Alessandro Anderloni porta al Caffè Dante il San Francesco della Divina Commedia",
+    "date": "2026-11-12",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/dante-in-piazza-dante/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Alessandro-Anderloni_2026_1200x675-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-12_festa_della_verza_moretta_di_veronella",
     "title": "Festa della verza moretta di Veronella",
     "date": "2026-11-12",
@@ -767,6 +753,20 @@
     "url": "https://www.veronasera.it/eventi/percorso-macrame-13-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-13_antica_fiera_di_cavalcaselle_a_castelnuo",
+    "title": "Antica Fiera di Cavalcaselle a Castelnuovo del Garda",
+    "date": "2026-11-13",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-cavalcaselle-a-castelnuovo-del-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/11/antica-fiera-di-cavalcaselle-1-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -854,6 +854,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-14_mercatino_dell_antiquariato_a_bussolengo",
+    "title": "Mercatino dell’antiquariato a Bussolengo",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-bussolengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/05/bussolengo-antica-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-14__monteleone_active_una_mattinata_tra_yog",
     "title": "“Monteleone Active”: una mattinata tra yoga, meditazione e benessere",
     "date": "2026-11-14",
@@ -865,6 +879,34 @@
     "url": "https://www.cittadiverona.it/eventi/monteleone-active-mattinata-yoga-meditazione-benessere/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Monteleone-Active-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-14_mostra_oltre_la_superficie_la_forma_dell",
+    "title": "Mostra “Oltre la superficie: la forma della materia tra figurativo e astratto”",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Mostre",
+    "venue_type": "Mostre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mostra-oltre-superficie-forma-della-materia-figurativo-astratto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/oltre-la-superficie-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-14_veronica_pivetti_in_breaking_brecht_sing",
+    "title": "Veronica Pivetti in “Breaking Brecht – Sing’n’Song Cabaret” al Teatro Astra",
+    "date": "2026-11-14",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/veronica-pivetti-breaking-brecht-sing-n-song-cabaret/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Veronica-Pivetti-Sing-Song-Cabaret-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1022,6 +1064,48 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-17__ecuba_la_guerra_sulle_madri_torna_a_ver",
+    "title": "“Ecuba. La guerra sulle madri” torna a Verona in occasione della Giornata Internazionale per l’eliminazione della violenza sulle donne",
+    "date": "2026-11-17",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ecuba-la-guerra-sulle-madri-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Ecuba-La-guerra-sulle-madri-a-Verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-18_giusy_ferreri_a_lazise_presenta_le_voci_",
+    "title": "Giusy Ferreri a Lazise presenta \"Le voci interrotte – La prima indagine di Minerva\"",
+    "date": "2026-11-18",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/giusy-ferreri-lazise-18-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-19_andrea_maggi_alla_biblioteca_capitolare_",
+    "title": "Andrea Maggi alla Biblioteca Capitolare per l’incontro “Papà, dove sei finito?”",
+    "date": "2026-11-19",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/andrea-maggi-biblioteca-capitolare-incontro-papa-dove-sei-finito/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Andrea-Maggi-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-19_dialogo_tra_filosofia_e_scienza_con_ipaz",
     "title": "Dialogo tra Filosofia e Scienza con Ipazia e Leonardo da Vinci",
     "date": "2026-11-19",
@@ -1064,6 +1148,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-20_paolo_crepet_al_teatro_nuovo_di_verona_c",
+    "title": "Paolo Crepet al Teatro Nuovo di Verona con “Riprendersi l’Anima”",
+    "date": "2026-11-20",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/paolo-crepet-teatro-nuovo-verona-riprendersi-l-anima/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/paolo-crepet-riprendersi-anima-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
+    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-21__il_ventaglio_di_carlo_goldoni_al_teatro",
     "title": "“Il Ventaglio” di Carlo Goldoni al Teatro Camploy",
     "date": "2026-11-21",
@@ -1092,20 +1204,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
-    "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
-    "date": "2026-11-21",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/wit-matrix-san-bonifacio-spettacolo-echoes-from-the-moon/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Echoes-from-the-Moon-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-22_a_isola_della_scala_la_fiera_del_bollito",
     "title": "A Isola della Scala la Fiera del Bollito con la Pearà",
     "date": "2026-11-22",
@@ -1117,6 +1215,20 @@
     "url": "https://www.veronasera.it/eventi/fiera-bollito-peara-isola-della-scala-6-8-13-15-20-22-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-22_mercatino_antiquariato_a_valeggio_sul_mi",
+    "title": "Mercatino antiquariato a Valeggio sul Mincio",
+    "date": "2026-11-22",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-antiquariato-a-valeggio-sul-mincio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/02/mercatino-antiquariato-valeggio-sul-mincio-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1187,6 +1299,20 @@
     "url": "https://www.veronasera.it/eventi/mostra-sulle-tracce-pinocchio-2-28-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_laboratorio_di_elettronica_dal_circuito_",
+    "title": "Laboratorio di elettronica “Dal circuito al suono”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/laboratorio-elettronica-circuito-suono/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/dal-circuito-al-suono-600x338.jpeg",
     "category": "cultura"
   },
   {
