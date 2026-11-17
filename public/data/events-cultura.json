@@ -532,20 +532,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-13_antica_fiera_di_cavalcaselle_a_castelnuo",
-    "title": "Antica Fiera di Cavalcaselle a Castelnuovo del Garda",
-    "date": "2026-11-13",
-    "time": "",
-    "type": "Sagre",
-    "venue_type": "Sagre",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-cavalcaselle-a-castelnuovo-del-garda/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/11/antica-fiera-di-cavalcaselle-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-11-14_i_gatti_piu_belli_del_mondo",
     "title": "I gatti piu belli del mondo",
     "date": "2026-11-14",
@@ -571,34 +557,6 @@
     "url": "https://www.cittadiverona.it/eventi/mostra-oltre-superficie-forma-della-materia-figurativo-astratto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/oltre-la-superficie-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-16_mario_biondi_celebra_i_20_anni_di_this_i",
-    "title": "Mario Biondi celebra i 20 anni di \"This is what you are\" al Teatro Filarmonico",
-    "date": "2026-11-16",
-    "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mario-biondi-concerto-teatro-filarmonico-16-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/1927493510048/locandina-mario-biondi-2026.jpeg",
-    "category": "concerti_pop"
-  },
-  {
-    "id": "veronasera_2026-11-16_serata_video_d_autore",
-    "title": "Serata video d'autore",
-    "date": "2026-11-16",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/serata-video-autore-trame-visive-16-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
@@ -655,6 +613,20 @@
     "url": "https://www.cittadiverona.it/eventi/ecuba-la-guerra-sulle-madri-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Ecuba-La-guerra-sulle-madri-a-Verona-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-17_rassegna_letteraria_lazise_tra_le_pagine",
+    "title": "Rassegna letteraria “Lazise tra le pagine”",
+    "date": "2026-11-17",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/lazise-tra-le-pagine/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/Giusy-Ferreri-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1050,6 +1022,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-21_antica_fiera_di_santa_caterina_a_castell",
+    "title": "Antica Fiera di Santa Caterina a Castelletto di Brenzone",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/antica-fiera-di-santa-caterina-a-castelletto-di-brenzone/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/antica-fiera-di-santa-caterina-brenzone-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-21_le_orme_al_teatro_alcione_di_verona",
+    "title": "Le Orme al Teatro Alcione di Verona",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/le-orme-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/le-orme-teatro-alcione-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-21_i_wit_matrix_a_san_bonifacio_con_il_nuov",
     "title": "I Wit Matrix a San Bonifacio con il nuovo spettacolo “Echoes from the Moon”",
     "date": "2026-11-21",
@@ -1124,13 +1124,13 @@
     "title": "Visita guidata a Isola della Scala",
     "date": "2026-11-22",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Turismo",
+    "venue_type": "Turismo",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-isola-della-scala-22-novembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/36729994725597/locandina-22-novembre-2026.jpg",
     "category": "cultura"
   },
   {
@@ -1218,20 +1218,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-22_a_isola_della_scala_la_fiera_del_bollito",
-    "title": "A Isola della Scala la Fiera del Bollito con la Pearà",
-    "date": "2026-11-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/fiera-bollito-peara-isola-della-scala-6-8-13-15-20-22-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-22_mercatino_antiquariato_a_valeggio_sul_mi",
     "title": "Mercatino antiquariato a Valeggio sul Mincio",
     "date": "2026-11-22",
@@ -1257,6 +1243,48 @@
     "url": "https://www.cittadiverona.it/eventi/fabio-concato-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2022/12/Fabio-Concato-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-24_decorazioni_natalizie_in_macram_",
+    "title": "Decorazioni natalizie in macramè",
+    "date": "2026-11-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/decorazioni-natalizie-macrame-24-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-24_giornata_internazionale_contro_la_violen",
+    "title": "Giornata internazionale contro la violenza sulle donne: \"Rialzarsi per rifiorire\"",
+    "date": "2026-11-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rialzarsi-per-rifiorire-24-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-24__donne_in_crescita_coaching_di_gruppo_pe",
+    "title": "\"Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio\"",
+    "date": "2026-11-24",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-24-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1327,6 +1355,20 @@
     "url": "https://www.cittadiverona.it/eventi/laboratorio-elettronica-circuito-suono/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/dal-circuito-al-suono-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28__tutto_shakespeare_in_90_minuti_al_teatr",
+    "title": "“Tutto Shakespeare in 90 minuti” al Teatro Peroni",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/tutto-shakespeare-90-minuti/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Tutto-Shakespeare-90-minuti-600x338.jpg",
     "category": "cultura"
   },
   {
