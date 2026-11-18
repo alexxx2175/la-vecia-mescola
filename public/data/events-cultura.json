@@ -560,62 +560,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-17_al_teatro_camploy_il_concerto_amatele_co",
-    "title": "Al Teatro Camploy il concerto “Amatele con il cuore non con la forza”",
-    "date": "2026-11-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/amatele-cuore-non-forza-teatro-camploy-17-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-17_nicol_govoni_presenta_still_i_rise_",
-    "title": "Nicolò Govoni presenta \"Still I Rise\"",
-    "date": "2026-11-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/nicolo-govoni-still-i-rise-17-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-17_corso_di_ghirlanda_natalizia",
-    "title": "Corso di ghirlanda natalizia",
-    "date": "2026-11-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/corso-ghirlanda-natalizia-17-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-17__ecuba_la_guerra_sulle_madri_torna_a_ver",
-    "title": "“Ecuba. La guerra sulle madri” torna a Verona in occasione della Giornata Internazionale per l’eliminazione della violenza sulle donne",
-    "date": "2026-11-17",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/ecuba-la-guerra-sulle-madri-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/06/Ecuba-La-guerra-sulle-madri-a-Verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-17_rassegna_letteraria_lazise_tra_le_pagine",
     "title": "Rassegna letteraria “Lazise tra le pagine”",
     "date": "2026-11-17",
@@ -924,20 +868,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-21_a_sona_lo_spettacolo_tutte_le_donne_che_",
-    "title": "A Sona lo spettacolo \"Tutte le donne che voglio essere\"",
-    "date": "2026-11-21",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tutte-le-donne-che-voglio-essere-atti-unici-21-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-21_tramonto_sulle_cenge_del_camoscio",
     "title": "Tramonto sulle cenge del camoscio",
     "date": "2026-11-21",
@@ -947,6 +877,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/tramonto-trekking-cenge-camoscio-21-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-21_a_sona_lo_spettacolo_tutte_le_donne_che_",
+    "title": "A Sona lo spettacolo \"Tutte le donne che voglio essere\"",
+    "date": "2026-11-21",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tutte-le-donne-che-voglio-essere-atti-unici-21-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1124,13 +1068,13 @@
     "title": "Visita guidata a Isola della Scala",
     "date": "2026-11-22",
     "time": "",
-    "type": "Turismo",
-    "venue_type": "Turismo",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-guidata-isola-della-scala-22-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/36729994725597/locandina-22-novembre-2026.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1176,20 +1120,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-22__l_ombra_di_peter_pan_",
-    "title": "\"L’ombra di Peter Pan\"",
-    "date": "2026-11-22",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ombra-di-peter-pan-fondazione-aida-22-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-22__le_peste_sull_adige_",
     "title": "\"Le peste sull’Adige\"",
     "date": "2026-11-22",
@@ -1199,6 +1129,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/le-peste-sull-adige-gruppo-podistico-22-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-22__l_ombra_di_peter_pan_",
+    "title": "\"L’ombra di Peter Pan\"",
+    "date": "2026-11-22",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ombra-di-peter-pan-fondazione-aida-22-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1328,6 +1272,34 @@
     "buy_url": null,
     "image": null,
     "category": "fiere"
+  },
+  {
+    "id": "veronasera_2026-11-25_ulula_canta_lucio_dalla",
+    "title": "Ulula canta Lucio Dalla",
+    "date": "2026-11-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ulula-canta-lucio-dalla-25-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-25_astroaperitivo_con_workshop_di_pittura",
+    "title": "Astroaperitivo con workshop di pittura",
+    "date": "2026-11-25",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/astroaperitivo-workshop-pittura-25-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "cittadiverona_2026-11-25_corso_di_difesa_personale_per_donne",
