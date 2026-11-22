@@ -1,44 +1,5 @@
 [
   {
-    "id": "arena_2026-11-21_visita_guidata_a_teatro_|_le_s",
-    "title": "Visita guidata a teatro | Le Sale della Musica",
-    "date": "2026-11-21",
-    "time": "10:30",
-    "type": "Visita guidata",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/visita-guidata-a-teatro-le-sale-della-musica/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=prices&amp;pcode=13540416&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
-    "id": "arena_2026-11-21_sinfonie_n._7,_8_|_aspettando_",
-    "title": "Sinfonie n. 7, 8 | Aspettando Beethoven",
-    "date": "2026-11-21",
-    "time": "15:30",
-    "type": "Concerto",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Sala Filarmonica",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/sinfonie-7-8-aspettando-beethoven/",
-    "buy_url": "https://shop.fondazionearena.it/it/event/aspettando-beethoven-sinfonie-n-7-8/293078",
-    "image": null
-  },
-  {
-    "id": "arena_2026-11-21_the_dreamers_|_proiezione",
-    "title": "The Dreamers | Proiezione",
-    "date": "2026-11-21",
-    "time": "18:00",
-    "type": "Proiezione",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/the-dreamers-proiezione/",
-    "buy_url": "https://shop.fondazionearena.it/it/event/the-dreamers-di-b-bertolucci/288971",
-    "image": null
-  },
-  {
     "id": "arena_2026-11-22_la_bohème",
     "title": "La Bohème",
     "date": "2026-11-22",
