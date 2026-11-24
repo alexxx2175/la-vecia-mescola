@@ -644,34 +644,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-23__accabadora_lo_spettacolo_tratto_dal_rom",
-    "title": "“Accabadora”, lo spettacolo tratto dal romanzo di Michela Murgia al Teatro Nuovo",
-    "date": "2026-11-23",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/accabadora-teatro-nuovo-23-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/2416184951060/teatro-nuovo-a-verona-foto-veronasera.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-23__accabadora_tratto_dal_romanzo_di_michel",
-    "title": "“Accabadora” tratto dal romanzo di Michela Murgia al Teatro Nuovo di Verona",
-    "date": "2026-11-23",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/accabadora-tratto-romanzo-michela-murgia-verona/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Veronica-Cruciani-Accapadora-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-24_il_marted_si_torna_al_cinema_a_soli_4_eu",
     "title": "Il martedì si torna al cinema a soli 4 euro a Verona e in provincia: i film in programma il 24 novembre 2026",
     "date": "2026-11-24",
@@ -774,14 +746,14 @@
     "title": "Ulula canta Lucio Dalla",
     "date": "2026-11-25",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Concerti",
+    "venue_type": "Concerti",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/ulula-canta-lucio-dalla-25-novembre-2026.html",
     "buy_url": null,
-    "image": null,
-    "category": "cultura"
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/66001801056032/ulula-canta-lucio-dalla-2.png",
+    "category": "concerti_pop"
   },
   {
     "id": "veronasera_2026-11-25_astroaperitivo_con_workshop_di_pittura",
@@ -865,6 +837,34 @@
     "url": "https://www.veronasera.it/eventi/le-stanze-accanto-27-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-27_natale_tra_gli_olivi_a_garda",
+    "title": "Natale tra gli Olivi a Garda",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Natale",
+    "venue_type": "Natale",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/natale-tra-gli-olivi-a-garda/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/Natale-tra-gli-olivi-garda-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-27_abendmusiken_2026_tre_concerti_a_verona_",
+    "title": "Abendmusiken 2026: tre concerti a Verona dedicati a San Francesco d’Assisi",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/abendmusiken-concerti-verona-dedicati-san-francesco-assisi/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Abendmusiken-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -966,6 +966,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-28_mercatino_vintage_unsane_vintage_kilo_",
+    "title": "Mercatino vintage “Unsane Vintage Kilo”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-vintage-unsane-vintage-kilo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Unsane-Vintage-Kilo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-28_laboratorio_di_elettronica_dal_circuito_",
     "title": "Laboratorio di elettronica “Dal circuito al suono”",
     "date": "2026-11-28",
@@ -977,6 +991,20 @@
     "url": "https://www.cittadiverona.it/eventi/laboratorio-elettronica-circuito-suono/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/dal-circuito-al-suono-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28__natale_al_forte_a_rivoli_veronese",
+    "title": "“Natale al Forte” a Rivoli Veronese",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Natale",
+    "venue_type": "Natale",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/natale-al-forte-a-rivoli-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/natale-al-forte-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1159,6 +1187,34 @@
     "url": "https://www.cittadiverona.it/eventi/calendario-musica-live-verona/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/01/crowd-at-live-concert-music-festival-2022-08-18-06-14-51-utc-scaled-e1673186395743-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-12-01_crea_i_tuoi_sottotazza_natalizi_in_macra",
+    "title": "Crea i tuoi sottotazza natalizi in macramè",
+    "date": "2026-12-01",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sottotazza-natalizi-macrame-1-dicembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-01_conferenza_come_educare_alla_biodiversit",
+    "title": "Conferenza “Come educare alla biodiversità”",
+    "date": "2026-12-01",
+    "time": "",
+    "type": "Convegni",
+    "venue_type": "Convegni",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/conferenza-come-educare-alla-biodiversita/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Come-educare-alla-biodiversita-600x338.jpg",
     "category": "cultura"
   },
   {
