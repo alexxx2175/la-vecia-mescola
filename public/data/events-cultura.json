@@ -644,76 +644,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-24_il_marted_si_torna_al_cinema_a_soli_4_eu",
-    "title": "Il martedì si torna al cinema a soli 4 euro a Verona e in provincia: i film in programma il 24 novembre 2026",
-    "date": "2026-11-24",
-    "time": "",
-    "type": "Cinema",
-    "venue_type": "Cinema",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/film-martedi-cinema-veneto-quattro-euro-24-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/26037155425870/un-weekend-artificiale-leonardo-pieraccioni-foto-ufficio-stampa-studio-pierrepi.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-24_decorazioni_natalizie_in_macram_",
-    "title": "Decorazioni natalizie in macramè",
-    "date": "2026-11-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/decorazioni-natalizie-macrame-24-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-24_giornata_internazionale_contro_la_violen",
-    "title": "Giornata internazionale contro la violenza sulle donne: \"Rialzarsi per rifiorire\"",
-    "date": "2026-11-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/rialzarsi-per-rifiorire-24-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-24__donne_in_crescita_coaching_di_gruppo_pe",
-    "title": "\"Donne in crescita - Coaching di gruppo per una carriera oltre ogni pregiudizio\"",
-    "date": "2026-11-24",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/donne-in-crescita-coaching-24-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-24__rialzarsi_per_rifiorire_per_la_giornata",
-    "title": "“Rialzarsi per Rifiorire” per la Giornata Internazionale contro la violenza sulle donne",
-    "date": "2026-11-24",
-    "time": "",
-    "type": "Convegni",
-    "venue_type": "Convegni",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rialzarsi-rifiorire-giornata-internazionale-contro-violenza-sulle-donne/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/Rialzarsi-per-rifiorire-1-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-11-25_job_orienta",
     "title": "JOB&Orienta",
     "date": "2026-11-25",
@@ -746,14 +676,14 @@
     "title": "Ulula canta Lucio Dalla",
     "date": "2026-11-25",
     "time": "",
-    "type": "Concerti",
-    "venue_type": "Concerti",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/ulula-canta-lucio-dalla-25-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/66001801056032/ulula-canta-lucio-dalla-2.png",
-    "category": "concerti_pop"
+    "image": null,
+    "category": "cultura"
   },
   {
     "id": "veronasera_2026-11-25_astroaperitivo_con_workshop_di_pittura",
@@ -784,6 +714,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-26_rezzamastrella_al_teatro_camploy_di_vero",
+    "title": "RezzaMastrella al Teatro Camploy di Verona con “Metadietro”",
+    "date": "2026-11-26",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/rezza-mastrella-teatro-camploy-26-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31867170390465/antonio-rezza-foto-manifesto-metadietro-flavia-mastrella-via-ufficio-stampa-comune-di-verona.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-26__figli_di_troia_paolo_cevoli_al_teatro_a",
+    "title": "\"Figli di Troia\", Paolo Cevoli al Teatro Astra di San Giovanni Lupatoto",
+    "date": "2026-11-26",
+    "time": "",
+    "type": "Teatri",
+    "venue_type": "Teatri",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/paolo-cevoli-figli-troia-teatro-astra-26-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/47104752600036/paolo-cevoli-foto-ufficio-stampa-teatro-astra.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-26_aperitivo_diffuso_mmm_a_verona_marketing",
     "title": "Aperitivo diffuso MMM a Verona: marketing, ecommerce e AI",
     "date": "2026-11-26",
@@ -807,6 +765,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/aperitivo-creativo-natalizio-26-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-27_ersiliadanza_al_teatro_camploy_ritratto_",
+    "title": "ErsiliaDanza al Teatro Camploy: “Ritratto di famiglia” e “Willy e il vento”",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ersiliadanza-teatro-camploy-27-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -840,6 +812,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-27_conferenza_tra_scienza_arte_e_meraviglia",
+    "title": "Conferenza: \"Tra scienza, arte e meraviglia. Gli antichi strumenti scientifici del Museo Miniscalchi-Erizzo\"",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/conferenza-antichi-strumenti-scientifici-museo-miniscalchi-erizzo-27-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-27_karaoke_live_andfriends_band",
+    "title": "Karaoke live // @andfriends band",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/karaoke-live-andfriends-band-27-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-27_natale_tra_gli_olivi_a_garda",
     "title": "Natale tra gli Olivi a Garda",
     "date": "2026-11-27",
@@ -851,6 +851,20 @@
     "url": "https://www.cittadiverona.it/eventi/natale-tra-gli-olivi-a-garda/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/Natale-tra-gli-olivi-garda-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-27_doppio_spettacolo_per_ersiliadanza_al_te",
+    "title": "Doppio spettacolo per ErsiliaDanza al Teatro Camploy",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/doppio-spettacolo-ersiliadanza-teatro-camploy/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Ritratto-di-famiglia-ErsiliaDanza-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -872,13 +886,13 @@
     "title": "Il vintage che conquista Verona: Remira Market",
     "date": "2026-11-28",
     "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
+    "type": "Evento",
+    "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/vintage-remira-market-28-novembre-2026.html",
     "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/57562068149951/il-vintage-che-conquista-verona.jpg",
+    "image": null,
     "category": "cultura"
   },
   {
@@ -938,6 +952,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-28__sar_perch_ceniamo_cena_cantata_",
+    "title": "\"Sarà perché ceniamo - Cena cantata!\"",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/sara-perche-ceniamo-cena-cantata-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-28_sulle_tracce_di_pinocchio_un_percorso_in",
     "title": "Sulle tracce di Pinocchio. Un percorso in occasione del bicentenario dalla nascita di Carlo Collodi”",
     "date": "2026-11-28",
@@ -949,6 +977,34 @@
     "url": "https://www.veronasera.it/eventi/mostra-sulle-tracce-pinocchio-2-28-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_mercato_forte_dei_marmi_a_bussolengo",
+    "title": "Mercato Forte dei Marmi a Bussolengo",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercato-forte-dei-marmi-a-bussolengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/11/forte-dei-marmi-mercatino-bussolengo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_natale_a_bussolengo",
+    "title": "Natale a Bussolengo",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Natale",
+    "venue_type": "Natale",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/natale-a-bussolengo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2023/11/Natale-a-Bussolengo-2026-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -980,20 +1036,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-28_laboratorio_di_elettronica_dal_circuito_",
-    "title": "Laboratorio di elettronica “Dal circuito al suono”",
-    "date": "2026-11-28",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/laboratorio-elettronica-circuito-suono/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/dal-circuito-al-suono-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-28__natale_al_forte_a_rivoli_veronese",
     "title": "“Natale al Forte” a Rivoli Veronese",
     "date": "2026-11-28",
@@ -1008,6 +1050,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-28_laboratorio_di_elettronica_dal_circuito_",
+    "title": "Laboratorio di elettronica “Dal circuito al suono”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Corsi",
+    "venue_type": "Corsi",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/laboratorio-elettronica-circuito-suono/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/dal-circuito-al-suono-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-28__tutto_shakespeare_in_90_minuti_al_teatr",
     "title": "“Tutto Shakespeare in 90 minuti” al Teatro Peroni",
     "date": "2026-11-28",
@@ -1019,6 +1075,34 @@
     "url": "https://www.cittadiverona.it/eventi/tutto-shakespeare-90-minuti/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Tutto-Shakespeare-90-minuti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-29_unsane_vintage_kilo_arriva_per_la_prima_",
+    "title": "Unsane Vintage Kilo arriva per la prima volta a Verona",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/unsane-vintage-kilo-verona-mercatino-28-29-novembre-2026.html",
+    "buy_url": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/40405726451942/unsanevintagekilo_verona_28_29novembre.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-29_visite_guidate_gratuite_all_ex_campo_di_",
+    "title": "Visite guidate gratuite all'ex campo di concentramento di Montorio",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/visita-ex-campo-concentramento-montorio-28-29-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1120,20 +1204,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-29_al_movieland_park_il_natale_all_improvvi",
-    "title": "Al Movieland Park il \"Natale all'improvviso\"",
-    "date": "2026-11-29",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/natale-improvviso-movieland-park-7-29-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-29_festa_del_mandorlato_di_cologna_veneta",
     "title": "Festa del Mandorlato di Cologna Veneta",
     "date": "2026-11-29",
@@ -1218,6 +1288,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-12-05__abc_del_natale_al_teatro_peroni",
+    "title": "“ABC del Natale” al Teatro Peroni",
+    "date": "2026-12-05",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/abc-del-natale/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/abc-del-natale-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-12-05_cene_spettacolo_e_jazz_club_al_teatro_ri",
     "title": "Cene Spettacolo e Jazz Club al Teatro Ristori",
     "date": "2026-12-05",
@@ -1260,20 +1344,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-12-08_cologna_veneta_ospita_la_42esima_festa_d",
-    "title": "Cologna Veneta ospita la 42esima Festa del Mandorlato",
-    "date": "2026-12-08",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-mandorlato-cologna-veneta-29-novembre-8-dicembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "veronafiere_2026-12-10_numisfero",
     "title": "Numisfero",
     "date": "2026-12-10",
@@ -1299,6 +1369,20 @@
     "url": "https://www.cittadiverona.it/eventi/webinar-alziamo-sguardo-insieme/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/alziamo-lo-sguardo-insieme-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-10__buongiorno_ministro_con_enzo_iacchetti_",
+    "title": "“Buongiorno, Ministro!” con Enzo Iacchetti e Carlotta Proietti al Teatro Astra",
+    "date": "2026-12-10",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/buongiorno-ministro-enzo-iacchetti-carlotta-proietti/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Buongiorno-ministro-600x338.jpg",
     "category": "cultura"
   },
   {
