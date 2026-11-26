@@ -672,48 +672,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-11-25_ulula_canta_lucio_dalla",
-    "title": "Ulula canta Lucio Dalla",
-    "date": "2026-11-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/ulula-canta-lucio-dalla-25-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-25_astroaperitivo_con_workshop_di_pittura",
-    "title": "Astroaperitivo con workshop di pittura",
-    "date": "2026-11-25",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/astroaperitivo-workshop-pittura-25-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-25_corso_di_difesa_personale_per_donne",
-    "title": "Corso di difesa personale per donne",
-    "date": "2026-11-25",
-    "time": "",
-    "type": "Corsi",
-    "venue_type": "Corsi",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/corso-difesa-personale-donne/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/corso-difesa-personale-per-donne-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-26_rezzamastrella_al_teatro_camploy_di_vero",
     "title": "RezzaMastrella al Teatro Camploy di Verona con “Metadietro”",
     "date": "2026-11-26",
@@ -767,6 +725,20 @@
     "url": "https://www.veronasera.it/eventi/aperitivo-creativo-natalizio-26-novembre-2026.html",
     "buy_url": null,
     "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-26_rassegna_di_teatro_di_figura_baracca_bur",
+    "title": "Rassegna di teatro di figura “Baracca & Burattini” al Centro Culturale 6 Maggio 1848",
+    "date": "2026-11-26",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rassegna-teatro-figura-baracca-burattini/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Baracca-e-Burattini-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -868,6 +840,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-27__le_stanze_accanto_al_teatro_ss_trinit_",
+    "title": "“Le Stanze Accanto” al Teatro SS. Trinità",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/le-stanze-accanto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Le-stanze-accanto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-27_abendmusiken_2026_tre_concerti_a_verona_",
     "title": "Abendmusiken 2026: tre concerti a Verona dedicati a San Francesco d’Assisi",
     "date": "2026-11-27",
@@ -879,6 +865,34 @@
     "url": "https://www.cittadiverona.it/eventi/abendmusiken-concerti-verona-dedicati-san-francesco-assisi/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Abendmusiken-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-28__camminiamo_insieme_open_day_del_gruppo_",
+    "title": "“Camminiamo Insieme”: Open Day del Gruppo Escursionismo Lessinia a Montorio con visita esclusiva a Forte John",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/open-day-visita-forte-john-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-28_teatro_fucina_machiavelli_la_ballata_del",
+    "title": "Teatro Fucina Machiavelli: “La ballata del vecchio marinaio”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/ballata-vecchio-marinaio-fucina-machiavelli-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -910,6 +924,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-28_i_mitici_anni_80_allo_stone_rose_coi_lam",
+    "title": "I mitici anni '80 allo Stone Rose coi Lambda",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/concerto-stone-rose-lambda-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-28_workshop_di_macrofotografia_a_sona",
     "title": "Workshop di macrofotografia a Sona",
     "date": "2026-11-28",
@@ -919,20 +947,6 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/workshop-macrofotografia-28-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-28_tutto_shakespeare_in_90_minuti_evoluzion",
-    "title": "Tutto Shakespeare in 90 minuti, Evoluzioni",
-    "date": "2026-11-28",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/tutto-shakespeare-in-90-minuti-28-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -952,6 +966,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-28_tutto_shakespeare_in_90_minuti_evoluzion",
+    "title": "Tutto Shakespeare in 90 minuti, Evoluzioni",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/tutto-shakespeare-in-90-minuti-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-28__sar_perch_ceniamo_cena_cantata_",
     "title": "\"Sarà perché ceniamo - Cena cantata!\"",
     "date": "2026-11-28",
@@ -966,15 +994,29 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-28_sulle_tracce_di_pinocchio_un_percorso_in",
-    "title": "Sulle tracce di Pinocchio. Un percorso in occasione del bicentenario dalla nascita di Carlo Collodi”",
+    "id": "veronasera_2026-11-28_il_sentiero_delle_miniere_verdi",
+    "title": "Il sentiero delle miniere verdi",
     "date": "2026-11-28",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/mostra-sulle-tracce-pinocchio-2-28-novembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/sentiero-delle-miniere-verdi-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-28_briscola_social_club",
+    "title": "Briscola Social Club",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/briscola-social-club-28-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1036,17 +1078,17 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-28__natale_al_forte_a_rivoli_veronese",
-    "title": "“Natale al Forte” a Rivoli Veronese",
+    "id": "cittadiverona_2026-11-28_lazise_on_ice",
+    "title": "Lazise On Ice",
     "date": "2026-11-28",
     "time": "",
     "type": "Natale",
     "venue_type": "Natale",
     "location": "Verona",
     "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/natale-al-forte-a-rivoli-veronese/",
+    "url": "https://www.cittadiverona.it/eventi/lazise-on-ice/",
     "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/natale-al-forte-600x338.jpg",
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Lazise-On-Ice-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1064,6 +1106,34 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-28__natale_al_forte_a_rivoli_veronese",
+    "title": "“Natale al Forte” a Rivoli Veronese",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Natale",
+    "venue_type": "Natale",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/natale-al-forte-a-rivoli-veronese/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/natale-al-forte-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_la_ballata_del_vecchio_marinaio_in_fucin",
+    "title": "La ballata del vecchio marinaio in Fucina Culturale Machiavelli",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/ballata-vecchio-marinaio/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/la-ballata-del-marinaio-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-28__tutto_shakespeare_in_90_minuti_al_teatr",
     "title": "“Tutto Shakespeare in 90 minuti” al Teatro Peroni",
     "date": "2026-11-28",
@@ -1075,6 +1145,20 @@
     "url": "https://www.cittadiverona.it/eventi/tutto-shakespeare-90-minuti/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Tutto-Shakespeare-90-minuti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_commedia_in_due_atti_7_donne_e_un_mister",
+    "title": "Commedia in due atti “7 donne e un mistero” al Teatro Santa Teresa",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/commedia-due-atti-7-donne-mistero/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/7-donne-e-un-mistero-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1101,6 +1185,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-ex-campo-concentramento-montorio-28-29-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-29__la_bianca_la_blu_e_la_rossa_tre_clownes",
+    "title": "“La Bianca, la Blu e la Rossa”: tre clownesse, una storia senza parole",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/bianca-blu-rossa-teatro-fucina-machiavelli-29-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1162,6 +1260,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-29_il_vajo_dell_orsa",
+    "title": "Il Vajo dell'Orsa",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/vajo-dell-orsa-passeggiata-29-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-29_workshop_di_combattimento_scenico",
     "title": "Workshop di combattimento scenico",
     "date": "2026-11-29",
@@ -1190,15 +1302,15 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2026-11-29_festa_della_verza_moretta_a_veronella",
-    "title": "Festa della Verza Moretta a Veronella",
+    "id": "veronasera_2026-11-29_ultime_repliche_al_modus_per_comics_assa",
+    "title": "Ultime repliche al Modus per \"Comics - Assassinio in casa Wilson\"",
     "date": "2026-11-29",
     "time": "",
     "type": "Evento",
     "venue_type": "Evento",
     "location": "Verona",
     "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/festa-verza-moretta-veronella-12-29-novembre-2026.html",
+    "url": "https://www.veronasera.it/eventi/modus-comics-assassinio-casa-wilson-27-29-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1215,6 +1327,20 @@
     "url": "https://www.cittadiverona.it/eventi/festa-del-mandorlato-di-cologna-veneta/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2025/11/festa-del-mandorlato-cologna-veneta-2026-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-29__la_bianca_la_blu_e_la_rossa_in_fucina_m",
+    "title": "“La Bianca, la Blu e la Rossa” in Fucina Machiavelli",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Eventi per bambini",
+    "venue_type": "Eventi per bambini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/bianca-blu-rossa/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/La-Bianca-la-Blu-e-la-Rossa-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1260,6 +1386,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-30__soul_legacy_un_viaggio_tra_le_grandi_le",
+    "title": "“Soul Legacy”: un viaggio tra le grandi leggende del Soul e dell’R&B al Teatro Nuovo",
+    "date": "2026-11-30",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/soul-legacy-viaggio-grandi-leggende-soul-rb/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Soul-Legacy-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-12-01_crea_i_tuoi_sottotazza_natalizi_in_macra",
     "title": "Crea i tuoi sottotazza natalizi in macramè",
     "date": "2026-12-01",
@@ -1288,6 +1428,34 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-12-03_armocromia_e_gioiello_ceramico",
+    "title": "Armocromia e gioiello ceramico",
+    "date": "2026-12-03",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/armocromia-gioiello-ceramico-3-dicembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-04_antica_fiera_dei_bogoni_a_badia_calavena",
+    "title": "Antica Fiera dei Bogoni a Badia Calavena",
+    "date": "2026-12-04",
+    "time": "",
+    "type": "Sagre",
+    "venue_type": "Sagre",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fiera-dei-bogoni-a-badia-calavena/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2024/11/antica-fiera-bogoni-andrea-badia-calavena-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-12-05__abc_del_natale_al_teatro_peroni",
     "title": "“ABC del Natale” al Teatro Peroni",
     "date": "2026-12-05",
@@ -1313,6 +1481,20 @@
     "url": "https://www.cittadiverona.it/eventi/cene-spettacolo-al-teatro-ristori/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2023/11/Cene-spettacolo-Ristori-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-05__buon_compleanno_una_commedia_di_massimo",
+    "title": "“Buon Compleanno”: una commedia di Massimo Meneghini al Teatro Blu",
+    "date": "2026-12-05",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/buon-compleanno-commedia-massimo-meneghini/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Buon-compleanno-commedia-600x338.jpeg",
     "category": "cultura"
   },
   {
@@ -1512,20 +1694,6 @@
     "category": "cultura"
   },
   {
-    "id": "veronasera_2027-01-06_valeggio_s_illumina_il_natale_tra_cultur",
-    "title": "Valeggio s'illumina: il Natale tra cultura, spettacoli ed eventi",
-    "date": "2027-01-06",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/valeggio-illumina-natale-22-novembre-2026-6-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2027-01-09_de_andr_la_storia_al_teatro_nuovo_di_ver",
     "title": "De André – La Storia al Teatro Nuovo di Verona",
     "date": "2027-01-09",
@@ -1551,20 +1719,6 @@
     "url": "https://www.cittadiverona.it/eventi/verona-suona-amy-winehouse/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/10/amy-winehouse-verona-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2027-01-17_la_rassegna_internazionale_presepi_dal_m",
-    "title": "La rassegna internazionale \"Presepi dal Mondo\" torna a Verona",
-    "date": "2027-01-17",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/presepi-dal-mondo-19-novembre-2026-17-gennaio-2027.html",
-    "buy_url": null,
-    "image": null,
     "category": "cultura"
   },
   {
