@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-11-25_la_bohème",
-    "title": "La Bohème",
-    "date": "2026-11-25",
-    "time": "19:00",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/la-boheme/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134440&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-11-27_la_bohème",
     "title": "La Bohème",
     "date": "2026-11-27",
