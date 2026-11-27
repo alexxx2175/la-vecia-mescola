@@ -672,76 +672,6 @@
     "category": "fiere"
   },
   {
-    "id": "veronasera_2026-11-26_rezzamastrella_al_teatro_camploy_di_vero",
-    "title": "RezzaMastrella al Teatro Camploy di Verona con “Metadietro”",
-    "date": "2026-11-26",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/rezza-mastrella-teatro-camploy-26-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/31867170390465/antonio-rezza-foto-manifesto-metadietro-flavia-mastrella-via-ufficio-stampa-comune-di-verona.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-26__figli_di_troia_paolo_cevoli_al_teatro_a",
-    "title": "\"Figli di Troia\", Paolo Cevoli al Teatro Astra di San Giovanni Lupatoto",
-    "date": "2026-11-26",
-    "time": "",
-    "type": "Teatri",
-    "venue_type": "Teatri",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/paolo-cevoli-figli-troia-teatro-astra-26-novembre-2026.html",
-    "buy_url": null,
-    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/47104752600036/paolo-cevoli-foto-ufficio-stampa-teatro-astra.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-26_aperitivo_diffuso_mmm_a_verona_marketing",
-    "title": "Aperitivo diffuso MMM a Verona: marketing, ecommerce e AI",
-    "date": "2026-11-26",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivo-diffuso-mmm-26-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "veronasera_2026-11-26_aperitivo_creativo_natalizio_biglietti_d",
-    "title": "Aperitivo creativo natalizio | Biglietti di auguri e decorazioni di carta",
-    "date": "2026-11-26",
-    "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
-    "location": "Verona",
-    "source": "veronasera.it",
-    "url": "https://www.veronasera.it/eventi/aperitivo-creativo-natalizio-26-novembre-2026.html",
-    "buy_url": null,
-    "image": null,
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-26_rassegna_di_teatro_di_figura_baracca_bur",
-    "title": "Rassegna di teatro di figura “Baracca & Burattini” al Centro Culturale 6 Maggio 1848",
-    "date": "2026-11-26",
-    "time": "",
-    "type": "Eventi per bambini",
-    "venue_type": "Eventi per bambini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/rassegna-teatro-figura-baracca-burattini/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Baracca-e-Burattini-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "veronasera_2026-11-27_ersiliadanza_al_teatro_camploy_ritratto_",
     "title": "ErsiliaDanza al Teatro Camploy: “Ritratto di famiglia” e “Willy e il vento”",
     "date": "2026-11-27",
@@ -840,20 +770,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-27__le_stanze_accanto_al_teatro_ss_trinit_",
-    "title": "“Le Stanze Accanto” al Teatro SS. Trinità",
-    "date": "2026-11-27",
-    "time": "",
-    "type": "Teatro",
-    "venue_type": "Teatro",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/le-stanze-accanto/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Le-stanze-accanto-600x338.jpg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-27_abendmusiken_2026_tre_concerti_a_verona_",
     "title": "Abendmusiken 2026: tre concerti a Verona dedicati a San Francesco d’Assisi",
     "date": "2026-11-27",
@@ -868,17 +784,31 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2026-11-27__le_stanze_accanto_al_teatro_ss_trinit_",
+    "title": "“Le Stanze Accanto” al Teatro SS. Trinità",
+    "date": "2026-11-27",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/le-stanze-accanto/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Le-stanze-accanto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "veronasera_2026-11-28__camminiamo_insieme_open_day_del_gruppo_",
     "title": "“Camminiamo Insieme”: Open Day del Gruppo Escursionismo Lessinia a Montorio con visita esclusiva a Forte John",
     "date": "2026-11-28",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Escursioni",
+    "venue_type": "Escursioni",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/open-day-visita-forte-john-28-novembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/48498399183885/locandina281126.jpg",
     "category": "cultura"
   },
   {
@@ -1022,6 +952,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-11-28_sulle_tracce_di_pinocchio_un_percorso_in",
+    "title": "Sulle tracce di Pinocchio. Un percorso in occasione del bicentenario dalla nascita di Carlo Collodi”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/mostra-sulle-tracce-pinocchio-2-28-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-11-28_mercato_forte_dei_marmi_a_bussolengo",
     "title": "Mercato Forte dei Marmi a Bussolengo",
     "date": "2026-11-28",
@@ -1064,34 +1008,6 @@
     "category": "cultura"
   },
   {
-    "id": "cittadiverona_2026-11-28_mercatino_vintage_unsane_vintage_kilo_",
-    "title": "Mercatino vintage “Unsane Vintage Kilo”",
-    "date": "2026-11-28",
-    "time": "",
-    "type": "Mercatini",
-    "venue_type": "Mercatini",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/mercatino-vintage-unsane-vintage-kilo/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Unsane-Vintage-Kilo-600x338.jpg",
-    "category": "cultura"
-  },
-  {
-    "id": "cittadiverona_2026-11-28_lazise_on_ice",
-    "title": "Lazise On Ice",
-    "date": "2026-11-28",
-    "time": "",
-    "type": "Natale",
-    "venue_type": "Natale",
-    "location": "Verona",
-    "source": "cittadiverona.it",
-    "url": "https://www.cittadiverona.it/eventi/lazise-on-ice/",
-    "buy_url": null,
-    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Lazise-On-Ice-600x338.jpeg",
-    "category": "cultura"
-  },
-  {
     "id": "cittadiverona_2026-11-28_laboratorio_di_elettronica_dal_circuito_",
     "title": "Laboratorio di elettronica “Dal circuito al suono”",
     "date": "2026-11-28",
@@ -1117,6 +1033,34 @@
     "url": "https://www.cittadiverona.it/eventi/natale-al-forte-a-rivoli-veronese/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/natale-al-forte-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_lazise_on_ice",
+    "title": "Lazise On Ice",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Natale",
+    "venue_type": "Natale",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/lazise-on-ice/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Lazise-On-Ice-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-11-28_mercatino_vintage_unsane_vintage_kilo_",
+    "title": "Mercatino vintage “Unsane Vintage Kilo”",
+    "date": "2026-11-28",
+    "time": "",
+    "type": "Mercatini",
+    "venue_type": "Mercatini",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/mercatino-vintage-unsane-vintage-kilo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Unsane-Vintage-Kilo-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1180,13 +1124,13 @@
     "title": "Visite guidate gratuite all'ex campo di concentramento di Montorio",
     "date": "2026-11-29",
     "time": "",
-    "type": "Evento",
-    "venue_type": "Evento",
+    "type": "Turismo",
+    "venue_type": "Turismo",
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/visita-ex-campo-concentramento-montorio-28-29-novembre-2026.html",
     "buy_url": null,
-    "image": null,
+    "image": "https://citynews-veronasera.stgy.ovh/~media/horizontal-mid/34215568066676/ex-campo-di-concentramento-di-montorio-foto-ufficio-stampa-comune-di-verona-3.jpg",
     "category": "cultura"
   },
   {
@@ -1311,6 +1255,20 @@
     "location": "Verona",
     "source": "veronasera.it",
     "url": "https://www.veronasera.it/eventi/modus-comics-assassinio-casa-wilson-27-29-novembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-11-29_festa_della_verza_moretta_a_veronella",
+    "title": "Festa della Verza Moretta a Veronella",
+    "date": "2026-11-29",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/festa-verza-moretta-veronella-12-29-novembre-2026.html",
     "buy_url": null,
     "image": null,
     "category": "cultura"
@@ -1442,6 +1400,20 @@
     "category": "cultura"
   },
   {
+    "id": "veronasera_2026-12-04_banco_del_mutuo_soccorso_in_concerto_a_v",
+    "title": "Banco del Mutuo Soccorso in concerto a Verona",
+    "date": "2026-12-04",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/banco-mutuo-soccorso-concerto-verona-4-dicembre-2026.html",
+    "buy_url": null,
+    "image": null,
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2026-12-04_antica_fiera_dei_bogoni_a_badia_calavena",
     "title": "Antica Fiera dei Bogoni a Badia Calavena",
     "date": "2026-12-04",
@@ -1453,6 +1425,20 @@
     "url": "https://www.cittadiverona.it/eventi/fiera-dei-bogoni-a-badia-calavena/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2024/11/antica-fiera-bogoni-andrea-badia-calavena-2026-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-04__rosencrantz_e_guildenstern_sono_morti_c",
+    "title": "“Rosencrantz e Guildenstern sono morti” con Francesco Pannofino al Teatro Astra",
+    "date": "2026-12-04",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/rosencrantz-guildenstern-sono-morti-francesco-pannofino/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Rosencrantz-e-Guildenstern-sono-morti-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1495,6 +1481,34 @@
     "url": "https://www.cittadiverona.it/eventi/buon-compleanno-commedia-massimo-meneghini/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Buon-compleanno-commedia-600x338.jpeg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-05_spettacolo_interattivo_su_quiz_domande_e",
+    "title": "Spettacolo interattivo su quiz, domande e domandieri “A domanda rispondo” al Dim",
+    "date": "2026-12-05",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/spettacolo-interattivo-quiz-domande-domandieri-domanda-rispondo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/A-domanda-rispondo-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "veronasera_2026-12-06_antica_fiera_dei_bogoni_a_sant_andrea",
+    "title": "Antica Fiera dei Bogoni a Sant'Andrea",
+    "date": "2026-12-06",
+    "time": "",
+    "type": "Evento",
+    "venue_type": "Evento",
+    "location": "Verona",
+    "source": "veronasera.it",
+    "url": "https://www.veronasera.it/eventi/antica-fiera-bogoni-festa-4-6-dicembre-2026.html",
+    "buy_url": null,
+    "image": null,
     "category": "cultura"
   },
   {
@@ -1579,6 +1593,20 @@
     "url": "https://www.cittadiverona.it/eventi/seminario-gratuito-ma-chi-te-l-ha-detto/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/seminario-ma-chi-te-lo-ha-detto-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2026-12-19_oratorio_di_natale_bwv_248_di_johann_seb",
+    "title": "Oratorio di Natale “BWV 248” di Johann Sebastian Bach",
+    "date": "2026-12-19",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/oratorio-natale-bwv-248-johann-sebastian-bach/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/Frau-Musika-600x338.jpg",
     "category": "cultura"
   },
   {
@@ -1708,6 +1736,20 @@
     "category": "cultura"
   },
   {
+    "id": "cittadiverona_2027-01-10_fabio_concato_al_teatro_nuovo_di_verona",
+    "title": "Fabio Concato al Teatro Nuovo di Verona",
+    "date": "2027-01-10",
+    "time": "",
+    "type": "Concerti",
+    "venue_type": "Concerti",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/fabio-concato-verona/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2022/12/Fabio-Concato-600x338.jpg",
+    "category": "cultura"
+  },
+  {
     "id": "cittadiverona_2027-01-16_verona_suona_amy_winehouse",
     "title": "Verona suona Amy Winehouse",
     "date": "2027-01-16",
@@ -1733,6 +1775,20 @@
     "url": "https://www.cittadiverona.it/eventi/marco-travaglio-teatro-filarmonico-cornuti-contenti/",
     "buy_url": null,
     "image": "https://www.cittadiverona.it/wp-content/uploads/2026/11/marco-travaglio-cornuti-e-contenti-600x338.jpg",
+    "category": "cultura"
+  },
+  {
+    "id": "cittadiverona_2027-02-15__belle_ripiene_una_gustosa_commedia_dima",
+    "title": "“Belle Ripiene – Una Gustosa Commedia Dimagrante” al Teatro Nuovo",
+    "date": "2027-02-15",
+    "time": "",
+    "type": "Teatro",
+    "venue_type": "Teatro",
+    "location": "Verona",
+    "source": "cittadiverona.it",
+    "url": "https://www.cittadiverona.it/eventi/belle-ripiene-una-gustosa-commedia-dimagrante-al-teatro-nuovo/",
+    "buy_url": null,
+    "image": "https://www.cittadiverona.it/wp-content/uploads/2020/01/BELLE-RIPIENE-teatro-nuovo-verona-600x338.jpg",
     "category": "cultura"
   },
   {
