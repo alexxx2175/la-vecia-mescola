@@ -1,18 +1,5 @@
 [
   {
-    "id": "arena_2026-11-27_la_bohème",
-    "title": "La Bohème",
-    "date": "2026-11-27",
-    "time": "20:00",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/la-boheme/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134441&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-11-28_visita_guidata_a_teatro_|_le_s",
     "title": "Visita guidata a teatro | Le Sale della Musica",
     "date": "2026-11-28",
@@ -26,19 +13,6 @@
     "image": null
   },
   {
-    "id": "arena_2026-11-29_la_bohème",
-    "title": "La Bohème",
-    "date": "2026-11-29",
-    "time": "15:30",
-    "type": "Opera",
-    "venue_type": "Teatro Filarmonico",
-    "location": "Teatro Filarmonico",
-    "source": "arena.it",
-    "url": "https://www.arena.it/teatro-filarmonico-verona/la-boheme/",
-    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134439&amp;tcode=vt0020008",
-    "image": null
-  },
-  {
     "id": "arena_2026-11-29_mozart,_kreutzer_|_duo_e_setti",
     "title": "Mozart, Kreutzer | Duo e Settimino",
     "date": "2026-11-29",
@@ -49,6 +23,19 @@
     "source": "arena.it",
     "url": "https://www.arena.it/teatro-filarmonico-verona/mozart-kreutzer-duo-e-settimino/",
     "buy_url": "https://shop.fondazionearena.it/it/event/mozart-kreutzer-duo-e-settimino/291083",
+    "image": null
+  },
+  {
+    "id": "arena_2026-11-29_la_bohème",
+    "title": "La Bohème",
+    "date": "2026-11-29",
+    "time": "15:30",
+    "type": "Opera",
+    "venue_type": "Teatro Filarmonico",
+    "location": "Teatro Filarmonico",
+    "source": "arena.it",
+    "url": "https://www.arena.it/teatro-filarmonico-verona/la-boheme/",
+    "buy_url": "https://shop.fondazionearena.it/index.php?nvpg[sell]&amp;cmd=pricesmap&amp;pcode=13134439&amp;tcode=vt0020008",
     "image": null
   },
   {
@@ -900,7 +887,7 @@
     "id": "arena_2027-08-08_jonas_kaufmann_in_opera",
     "title": "Jonas Kaufmann in Opera",
     "date": "2027-08-08",
-    "time": "20:15",
+    "time": "21:15",
     "type": "Concerto",
     "venue_type": "Arena Opera Festival",
     "location": "Arena di Verona",
